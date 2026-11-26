@@ -40,8 +40,8 @@ Chi tiết bản phát hành & mã kiểm tra SHA-256: **[GitHub Release `v3.20.
 
 | Phiên bản ngôn ngữ | Dung lượng | Tóm tắt nội dung | Tải trực tiếp |
 | :--- | :---: | :--- | :---: |
-| **`[VI]` Bản Việt Hóa** | `390.0 MiB` (`409.0 MB`) | Việt hóa hoàn chỉnh (3.309 chuỗi `properties`, 983 chuỗi EXE / 1.342 tham chiếu mã, 121 texture Việt hóa, 6 font Unicode + `PvZ2-VH Bold`, đã test trên máy thật) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Bản Việt Hóa"></a> |
-| **`[EN]` English** | `390.0 MiB` (`408.9 MB`) | Bản Tiếng Anh hoàn chỉnh (3.309 chuỗi `properties`, 983 chuỗi EXE, 121 texture Tiếng Anh, vá UTF-8 `gdi42.dll`, đã test chuyển đổi đè từ bản `[VI]` giữ nguyên save) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-English.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Tiếng Anh"></a> |
+| **`[VI]` Bản Việt Hóa** | `390.0 MiB` (`409.0 MB`) | Việt hóa hoàn chỉnh (3.309 chuỗi `properties`, 985 chuỗi EXE / 1.344 tham chiếu mã, 121 texture Việt hóa, 6 font Unicode + `PvZ2-VH Bold`, đã test trên máy thật) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Bản Việt Hóa"></a> |
+| **`[EN]` English** | `390.0 MiB` (`408.9 MB`) | Bản Tiếng Anh hoàn chỉnh (3.309 chuỗi `properties`, 985 chuỗi EXE, 121 texture Tiếng Anh, vá UTF-8 `gdi42.dll`, đã test chuyển đổi đè từ bản `[VI]` giữ nguyên save) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-English.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Tiếng Anh"></a> |
 | **`[CN]` 中文原版 (Trung Gốc)** | `389.4 MiB` (`408.4 MB`) | Bản gốc tiếng Trung v3.20.1 của tác giả **潜艇伟伟迷**, đóng gói APK độc lập cùng khóa ký để cài đè qua lại không mất tiến trình | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Trung Gốc"></a> |
 
 <details>
@@ -52,9 +52,9 @@ Chi tiết bản phát hành & mã kiểm tra SHA-256: **[GitHub Release `v3.20.
 
 | Tên tệp APK | Kích thước chuẩn (Bytes) | SHA-256 |
 | :--- | :---: | :--- |
-| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `408,967,389` | `57ba7050979f1753e04dc229f78275a377bd07106e91461f801214f19c51fb38` |
-| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `408,930,525` | `cb6c80a8a7b99b97c7dff908f1ceae90a2a47d853c8c6b8322359d89bcda7845` |
-| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,181` | `198d6298405f69e536475b65bb85c9c89e88a55283e4162baaac933e00264ec8` |
+| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `409,012,445` | `e529884d03b514641b14576efdc7c803b4f764868fc07ea11bbcc525c1f60feb` |
+| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `408,930,525` | `32b37bbbb1bb3d46c72c42092f12e04e9da951edb3915462499cc6e71acbab3c` |
+| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,181` | `09344c5b544faaed2eb0738e543093aadd91096fa6b1b651f9f0de7c6c94ef71` |
 
 </details>
 
@@ -86,11 +86,12 @@ Chi tiết bản phát hành & mã kiểm tra SHA-256: **[GitHub Release `v3.20.
 Khác với *PvZ Fusion* (làm trên Unity), *PvZ Hybrid Classic* (*植物大战僵尸杂交版经典版*) được lập trình bằng C++ PopCap cho Windows với mã hóa chữ GBK. Dự án này xử lý triệt để mọi rào cản để biến game thành **1 tệp APK dùng ngay trên Android**:
 
 - **Không Cần Thiết Lập Giả Lập Rườm Rà:** Tích hợp sẵn Wine/Box64 bên trong gói riêng `com.pvzh.cls`, cài là chơi, không xung đột với các bản Winlator hay PvZ khác trên máy.
-- **Hiển Thị Xuôi Chiều 100% Trên GPU Mobile:** Kết xuất bằng **`WineD3D` OpenGL FBO (`renderer=gl`)** kết hợp bản vá **`GLXExtension` (`flipY=false`)**, triệt tiêu triệt để lỗi lộn ngược hình ảnh và lệch cảm ứng.
+- **Khung Hình Widescreen `1080x600` Tràn Viền &amp; Cảm Ứng 1-Chạm:** Tự động cấu hình chuẩn rộng `1080x600` kéo đầy màn hình điện thoại (không viền đen, không mất nút góc phải), sửa ánh xạ X/Y độc lập trong `TouchpadView` và di chuyển con trỏ ngay khi chạm `ACTION_DOWN` (giữ click 60 ms) giúp chạm nút 1 lần ăn ngay.
+- **Tối Ưu Tốc Độ Load &amp; FPS:** Rút gọn dịch vụ nền Wine (`startupSelection=2`), bật `csmt=3`, `strict_shader_math=0`, `mesa_glthread=true`, tắt `WaitForVSync` và giữ `Is3D=0` chuẩn màu (~4,7 giây warm-launch vào tiến trình game).
 - **Vá UTF-8 Tận Lõi Engine + 6 Font Unicode:** Chỉnh sửa `gdi42.dll` tại 4 điểm `MultiByteToWideChar` (`CP936` → `CP_UTF8`) và nhúng trọn vẹn bộ dấu tiếng Việt vào tất cả 6 font `.ttf` của game.
 - **Bản Địa Hóa Toàn Diện:**
   - **3.309/3.309** chuỗi trong 9 tệp `properties/*.txt` (Sổ Tay Cây/Zombie/Phụ kiện, Màn Chơi, Cây Trí Tuệ, Cửa Hàng, Thành Tựu).
-  - **983 chuỗi duy nhất / 1.342 vị trí tham chiếu** dịch chuyển sạch sẽ bên trong `PlantsVsZombies.exe` + sửa dòng phiên bản Menu Chính (`PvZ Hybrid Cls VI v3.20.1`) hết sạch ô vuông `□`.
+  - **985 chuỗi duy nhất / 1.344 vị trí tham chiếu** dịch chuyển sạch sẽ bên trong `PlantsVsZombies.exe`, vá đồng bộ **73 lệnh đẩy độ dài chuỗi (`6a <len>`)** hết sạch lỗi `□` hay cụt chữ nút bấm + sửa dòng phiên bản Menu Chính (`PvZ Hybrid Cls VI v3.20.1`).
   - **121 ảnh giao diện** cho mỗi ngôn ngữ (bảng gỗ Menu Chính, bia đá Chế Độ, 18 bảng tên Chương Phiêu Lưu, Sổ Tay, Cửa Hàng &amp; Anh Hùng).
 
 ---
@@ -100,11 +101,11 @@ Khác với *PvZ Fusion* (làm trên Unity), *PvZ Hybrid Classic* (*植物大战
 
 | Nội Quy &amp; Khởi Động | Menu Chính (`v3.20.1-VI`) |
 | :---: | :---: |
-| <img src="screenshots/vi_01_rules_dialog.png" width="420" alt="Nội Quy Tiếng Việt"> | <img src="screenshots/vi_02_main_menu.png" width="420" alt="Menu Chính Tiếng Việt"> |
-| **Chế Độ Mở Rộng** | **Sổ Tay Thực Vật Lai** |
-| <img src="screenshots/vi_03_modes_challenges.png" width="420" alt="Chế Độ Mở Rộng Tiếng Việt"> | <img src="screenshots/vi_04_almanac.png" width="420" alt="Sổ Tay Thực Vật Tiếng Việt"> |
-| **Chiến Đấu Sân Trước 1-1** | **Menu Tạm Dừng &amp; Cài Đặt** |
-| <img src="screenshots/vi_05_gameplay.png" width="420" alt="Bãi Cỏ Chiến Đấu Tiếng Việt"> | <img src="screenshots/vi_06_pause_menu.png" width="420" alt="Menu Tạm Dừng Tiếng Việt"> |
+| <img src="screenshots/vi_01_title.png" width="420" alt="Nội Quy Tiếng Việt"> | <img src="screenshots/vi_02_main_menu.png" width="420" alt="Menu Chính Tiếng Việt"> |
+| **Chọn Hạt Giống &amp; Thẻ Cây** | **Chiến Đấu Sân Trước 1-1** |
+| <img src="screenshots/vi_03_adventure.png" width="420" alt="Chọn Thẻ Tiếng Việt"> | <img src="screenshots/vi_04_gameplay.png" width="420" alt="Bãi Cỏ Chiến Đấu Tiếng Việt"> |
+| **Sổ Tay Thực Vật Lai** | **Menu Tạm Dừng &amp; Cài Đặt** |
+| <img src="screenshots/vi_05_almanac.png" width="420" alt="Sổ Tay Thực Vật Tiếng Việt"> | <img src="screenshots/vi_06_pause_menu.png" width="420" alt="Menu Tạm Dừng Tiếng Việt"> |
 
 <details>
 <summary><b>🇬🇧 Xem Thêm Ảnh Thực Tế Bản `[EN]` English (Chụp Sau Khi Cài Đè Trực Tiếp Từ Bản `[VI]`)</b></summary>
@@ -112,11 +113,11 @@ Khác với *PvZ Fusion* (làm trên Unity), *PvZ Hybrid Classic* (*植物大战
 
 | Startup &amp; Rules (`[EN]`) | Main Menu (`v3.20.1-EN`) |
 | :---: | :---: |
-| <img src="screenshots/en_01_loading.png" width="410" alt="EN Player Rules"> | <img src="screenshots/en_02_main_menu.png" width="410" alt="EN Main Menu"> |
-| **More Modes Hub (`[EN]`)** | **Plants Almanac (`[EN]`)** |
-| <img src="screenshots/en_03_modes_challenges.png" width="410" alt="EN Modes"> | <img src="screenshots/en_04_almanac.png" width="410" alt="EN Almanac"> |
-| **Front Yard 1-1 (`[EN]`)** | **In-Game Menu (`[EN]`)** |
-| <img src="screenshots/en_05_gameplay.png" width="410" alt="EN Gameplay"> | <img src="screenshots/en_06_pause_menu.png" width="410" alt="EN Pause Menu"> |
+| <img src="screenshots/en_01_title.png" width="410" alt="EN Player Rules"> | <img src="screenshots/en_02_main_menu.png" width="410" alt="EN Main Menu"> |
+| **Seed Chooser (`[EN]`)** | **Front Yard 1-1 (`[EN]`)** |
+| <img src="screenshots/en_03_adventure.png" width="410" alt="EN Seed Chooser"> | <img src="screenshots/en_04_gameplay.png" width="410" alt="EN Gameplay"> |
+| **Plants Almanac (`[EN]`)** | **In-Game Menu (`[EN]`)** |
+| <img src="screenshots/en_05_almanac.png" width="410" alt="EN Almanac"> | <img src="screenshots/en_06_pause_menu.png" width="410" alt="EN Pause Menu"> |
 
 </details>
 
@@ -128,7 +129,7 @@ Khác với *PvZ Fusion* (làm trên Unity), *PvZ Hybrid Classic* (*植物大战
 | Hạng mục / Vai trò | Tác giả &amp; Đóng góp | Nguồn / Ghi nhận |
 | :--- | :--- | :--- |
 | **Tác giả Bản Mod Gốc**<br>*PvZ Hybrid Classic*<br>(植物大战僵尸杂交版经典版) | • **潜艇伟伟迷 (Qianting Weiweimi)** — Tác giả, Thiết kế &amp; Lập trình chính<br>• **Thành viên được tri ân trong game gốc:** 小小咩MS, AXH弦, 一只吴铭仕哒, 沉默寡言白河愁 | *PvZ Hybrid Edition Classic v3.20.1* |
-| **Việt Hóa, Anh Hóa, Vá Engine UTF-8 &amp; Đóng Gói APK** | • **Heagon** — 3.309 chuỗi `properties` + 983 chuỗi EXE, 121 texture/ngôn ngữ, vá UTF-8 `gdi42.dll`, nhúng Unicode cho 6 font `.ttf`, khắc phục lật trục Y (`WineD3D` GL + `GLXExtension`), đóng gói APK độc lập `com.pvzh.cls` | [Kho GitHub Dự Án](https://github.com/Heagon/pvz-hybrid-classic-android) |
+| **Việt Hóa, Anh Hóa, Vá Engine UTF-8 &amp; Đóng Gói APK** | • **Heagon** — 3.309 chuỗi `properties` + 985 chuỗi EXE, 121 texture/ngôn ngữ, vá UTF-8 `gdi42.dll`, nhúng Unicode cho 6 font `.ttf`, khắc phục lật trục Y (`WineD3D` GL + `GLXExtension`), đóng gói APK độc lập `com.pvzh.cls` | [Kho GitHub Dự Án](https://github.com/Heagon/pvz-hybrid-classic-android) |
 | **Công Cụ Mã Nguồn Mở** | [Winlator](https://github.com/brunodev85/winlator) (`Box64` · `Wine`), [fontTools](https://github.com/fonttools/fonttools), [Pillow](https://python-pillow.org/), [Liberation Fonts](https://github.com/liberationfonts/liberation-fonts), [Apktool](https://apktool.org/), [uber-apk-signer](https://github.com/patrickfav/uber-apk-signer), [Zstandard](https://github.com/facebook/zstd) | Xem [CREDITS.md](CREDITS.md#vi-bản-việt-hóa) |
 
 ---

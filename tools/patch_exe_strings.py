@@ -92,7 +92,18 @@ def patch_pvz_exe(
     allocated_va = {}
     patched_strings = 0
     patched_refs = 0
+    patched_len_pushes = 0
     inplace_strings = 0
+
+    # Non-adjacent `push <orig_len>; ...; push <va>` std::string(ptr, len) sites in PlantsVsZombies.exe
+    # Value is byte delta backwards from <va> ref_off (so 0x68 is at roff-1, 0x6a at roff-1-delta, len byte at roff-delta)
+    NONADJ_PUSH_DELTAS = {
+        0x330FD: 9,
+        0x50347: 7,
+        0x52E11: 7,
+        0x1A70E1: 3,
+    }
+    orig_buf = bytes(buf)
 
     for item in verified:
         cn_txt = item["text"]
@@ -103,14 +114,35 @@ def patch_pvz_exe(
 
         orig_off = int(item["off"], 16)
         orig_len = item["len_bytes"]
+        safe_refs = [r for r in item["refs"] if r["kind"] in SAFE_REF_KINDS]
+
+        def patch_std_string_length_pushes():
+            nonlocal patched_len_pushes
+            for r in safe_refs:
+                roff = int(r["ref_off"], 16)
+                if orig_len <= 0 or roff < 3 or orig_buf[roff - 1] != 0x68:
+                    continue
+                len_byte_off = None
+                if orig_buf[roff - 3] == 0x6A and orig_buf[roff - 2] == orig_len:
+                    len_byte_off = roff - 2
+                elif roff in NONADJ_PUSH_DELTAS:
+                    d = NONADJ_PUSH_DELTAS[roff]
+                    if orig_buf[roff - 1 - d] == 0x6A and orig_buf[roff - d] == orig_len:
+                        len_byte_off = roff - d
+                if len_byte_off is not None:
+                    assert len(new_bytes) <= 127, (
+                        f"String {cn_txt!r} -> {new_txt!r} ({len(new_bytes)}B) exceeds signed imm8 push limit (127B) at 0x{roff:x}"
+                    )
+                    buf[len_byte_off] = len(new_bytes)
+                    patched_len_pushes += 1
 
         if len(new_bytes) <= orig_len:
             buf[orig_off : orig_off + orig_len + 1] = new_bytes + b"\x00" * (orig_len + 1 - len(new_bytes))
+            patch_std_string_length_pushes()
             inplace_strings += 1
             patched_strings += 1
             continue
 
-        safe_refs = [r for r in item["refs"] if r["kind"] in SAFE_REF_KINDS]
         if not safe_refs:
             continue
 
@@ -130,6 +162,7 @@ def patch_pvz_exe(
             assert bytes(buf[roff : roff + 4]) == old_va_bytes, f"Mismatch at {r['ref_off']} for {cn_txt!r}"
             buf[roff : roff + 4] = new_va_bytes
             patched_refs += 1
+        patch_std_string_length_pushes()
         patched_strings += 1
 
     # Patch 18-byte GBK prefix at 0x251540 ("植物大战僵尸杂交版v3.20.1" + "st1105125000")
@@ -147,7 +180,7 @@ def patch_pvz_exe(
         f.write(buf)
     print(
         f"Patched PlantsVsZombies.exe [{lang.upper()}]: {patched_strings} items "
-        f"({inplace_strings} in-place, {patched_refs} relocated refs, pool used {pool_off - 0xA60000:,} bytes) -> {out_exe_path}"
+        f"({inplace_strings} in-place, {patched_refs} relocated refs, {patched_len_pushes} len pushes, pool used {pool_off - 0xA60000:,} bytes) -> {out_exe_path}"
     )
 
 

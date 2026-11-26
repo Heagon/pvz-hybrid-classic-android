@@ -8,8 +8,8 @@
     "vi": " Nhấn để tiếp tục "
   },
   "    点击返回游戏    ": {
-    "en": "  Click to Resume  ",
-    "vi": " Nhấn để tiếp tục "
+    "en": "Click to Resume",
+    "vi": "Nhấn để tiếp tục"
   },
   "    请输入你的名字：   ": {
     "en": "   Enter Your Name:   ",
@@ -96,8 +96,8 @@
     "vi": "%d Cờ"
   },
   "3D 加速        ": {
-    "en": "3D Accel.   ",
-    "vi": "Tăng tốc 3D "
+    "en": "3D Accel.",
+    "vi": "Tăng tốc 3D"
   },
   "一半一半": {
     "en": "Half & Half",
@@ -393,7 +393,7 @@
   },
   "保护传送门": {
     "en": "Portal Combat",
-    "vi": "Bảo Vệ Cổng Không Gian"
+    "vi": "Cổng Không Gian"
   },
   "保护僵尸": {
     "en": "Save the Zombie",
@@ -496,8 +496,8 @@
     "vi": "Luân Hồi Zombie"
   },
   "僵王博士的复仇": {
-    "en": "Dr. Zomboss's Revenge",
-    "vi": "Tiến Sĩ Zomboss Phục Thù"
+    "en": "Zomboss Revenge",
+    "vi": "Zomboss Báo Thù"
   },
   "光之信仰\n": {
     "en": "Faith of Light",
@@ -513,7 +513,7 @@
   },
   "全屏       ": {
     "en": "Full Screen",
-    "vi": "Toàn màn   "
+    "vi": "Toàn màn"
   },
   "全息卡牌投影 挑战1": {
     "en": "Holo Card Projector Trial 1",
@@ -997,7 +997,7 @@
   },
   "坑坑洼洼": {
     "en": "Cratered Lawn",
-    "vi": "Hố Sâu Loang Lổ"
+    "vi": "Sân Hố Bom"
   },
   "坚不可摧": {
     "en": "Indestructible",
@@ -1240,8 +1240,8 @@
     "vi": "Vũ Hội Hề Nổ"
   },
   "小僵尸大麻烦": {
-    "en": "Big Trouble Little Zombie",
-    "vi": "Zombie Tí Hon Rắc Rối Lớn"
+    "en": "Little Trouble",
+    "vi": "Zombie Tí Hon"
   },
   "小河流水 6-1": {
     "en": "Flowing Creek 6-1",
@@ -1593,7 +1593,7 @@
   },
   "抽卡游戏": {
     "en": "Card Draft",
-    "vi": "Rút Thẻ Ngẫu Nhiên"
+    "vi": "Rút Thẻ Bài"
   },
   "抽奖盒子": {
     "en": "Mystery Box",
@@ -2040,8 +2040,8 @@
     "vi": "Nấm Phun Diệt Sâu"
   },
   "杂交属于正常普通改版，每个版本都有自己\n的特色，请勿与其他任何改版进行过多或者\n不必要的对比，请勿过度吹捧杂交版去贬低\n其他游戏和改版，希望玩家也可以不在公开\n场合以及其他版本交流板块提出奇怪言论等\n不恰当行为，共同守护游戏环境和风气！": {
-    "en": "PvZ Hybrid is an independent mod; every\nversion has its own unique charm. Please\ndo not compare it excessively or put down\nother mods and games. Keep discussions\nrespectful across communities so we can\nprotect a welcoming space for all players!",
-    "vi": "PvZ Hybrid chỉ là một bản mod bình thường,\nmỗi phiên bản đều mang nét riêng. Xin đừng\nso sánh thái quá hay chê bai các game và\nbản mod khác. Mong người chơi giữ phát ngôn\nvăn minh ở nơi công cộng để cùng nhau bảo\nvệ môi trường game lành mạnh!"
+    "en": "PvZ Hybrid is an independent fan mod, each version with its own charm. Please avoid excessive comparisons or putting down other mods and games, and keep discussions respectful!",
+    "vi": "PvZ Hybrid là bản mod độc lập mang nét riêng. Xin đừng so sánh thái quá hay chê bai game và bản mod khác, hãy giao lưu văn minh để bảo vệ cộng đồng lành mạnh!"
   },
   "村庄历险 7-1": {
     "en": "Village Tale 7-1",
@@ -3293,7 +3293,7 @@
   },
   "谁笑到最后": {
     "en": "Last Stand",
-    "vi": "Phòng Tuyến Cuối Cùng"
+    "vi": "Tuyến Cuối"
   },
   "豌豆戏水": {
     "en": "Waterplay Peas",
@@ -3377,7 +3377,7 @@
   },
   "蹦极闪电战": {
     "en": "Bungee Blitz",
-    "vi": "Bão Đột Kích Bungee"
+    "vi": "Bão Bungee"
   },
   "蹦极阻击战": {
     "en": "Bungee Ambush",
@@ -3749,7 +3749,7 @@
   },
   "音乐 ": {
     "en": "Music",
-    "vi": "Nhạc "
+    "vi": "Nhạc"
   },
   "音效    ": {
     "en": "Sound FX",
@@ -3930,5 +3930,13 @@
   "（建立一位新用户） ": {
     "en": "(Create a New User)",
     "vi": "(Tạo Hồ Sơ Mới)"
+  },
+  "跳跳舞会": {
+    "en": "Dancing Party",
+    "vi": "Vũ Hội Nhảy"
+  },
+  "逃跑": {
+    "en": "Escape!",
+    "vi": "Chạy Trốn!"
   }
 }

@@ -1916,38 +1916,38 @@
   {
     "file": "NewLawnStrings.txt",
     "key": "PREVIOUS_PAGE_CARD",
-    "en": "Prev Cards",
-    "vi": "Trang Thẻ Trước"
+    "en": "Prev Page",
+    "vi": "Trang Trước"
   },
   {
     "file": "NewLawnStrings.txt",
     "key": "CARD_SWITCH1",
-    "en": "White Cards",
-    "vi": "Thẻ Trắng"
+    "en": "White",
+    "vi": "Trắng"
   },
   {
     "file": "NewLawnStrings.txt",
     "key": "CARD_SWITCH2",
-    "en": "Gold Cards",
-    "vi": "Thẻ Vàng"
+    "en": "Gold",
+    "vi": "Vàng"
   },
   {
     "file": "NewLawnStrings.txt",
     "key": "CARD_SWITCH3",
-    "en": "Diamond Cards",
-    "vi": "Thẻ Kim Cương"
+    "en": "Diamond",
+    "vi": "Kim Cương"
   },
   {
     "file": "NewLawnStrings.txt",
     "key": "CARD_SWITCH4",
-    "en": "Rainbow Cards",
-    "vi": "Thẻ Cầu Vồng"
+    "en": "Rainbow",
+    "vi": "Cầu Vồng"
   },
   {
     "file": "NewLawnStrings.txt",
     "key": "CARD_SWITCH5",
-    "en": "Star Cards",
-    "vi": "Thẻ Sao"
+    "en": "Star",
+    "vi": "Sao"
   },
   {
     "file": "NewLawnStrings.txt",
@@ -1965,7 +1965,7 @@
     "file": "NewLawnStrings.txt",
     "key": "CARD_SWITCH8",
     "en": "Skins",
-    "vi": "Trang Phục"
+    "vi": "Skin"
   },
   {
     "file": "NewLawnStrings.txt",
@@ -3704,26 +3704,26 @@
   {
     "file": "NewLawnStrings.txt",
     "key": "UPDATA_TIP",
-    "en": "Hybrid Edition v3.20.1 Patch Notes\n\nI. Balance & Adjustments\n1. VIP Nut Challenge 2 — Increased\nstarting Sun\n2. VIP Nut Challenge 2 — Adjusted zombie\nspawns\n3. Super Gatling Zombie — Removed\nzombie-summon from Ultimate",
-    "vi": "Thông Báo Cập Nhật Bản Lai v3.20.1\n\nI. Điều Chỉnh Trò Chơi\n1. Thử Thách Óc Chó VIP 2 — Tăng Mặt\ntrời khởi đầu\n2. Thử Thách Óc Chó VIP 2 — Điều chỉnh\nđợt quái\n3. Siêu Zombie Súng Máy — Gỡ bỏ hiệu ứng\ngọi zombie ở Tuyệt Chiêu"
+    "en": "Hybrid Edition v3.20.1 Patch Notes\n\nI. Balance & Adjustments\n1. VIP Nut Challenge 2: Increased starting Sun\n2. VIP Nut Challenge 2: Adjusted zombie waves\n3. Super Gatling Zombie: Removed summon from Ult",
+    "vi": "Thông Báo Cập Nhật v3.20.1\n\nI. Điều Chỉnh Cân Bằng\n1. Thử Thách Óc Chó VIP 2: Tăng Mặt Trời đầu\n2. Thử Thách Óc Chó VIP 2: Chỉnh lại đợt quái\n3. Siêu Zombie Súng Máy: Bỏ gọi quái ở Tuyệt Chiêu"
   },
   {
     "file": "NewLawnStrings.txt",
     "key": "UPDATA_TIP2",
-    "en": "Hybrid Edition v3.20.1 Patch Notes\n\nII. Bug Fixes\n1. Fixed crash in Portal Combat stages\n2. Fixed crash in Double-Front pincer\nstages\n3. Fixed abnormal damage on Cactus CIWS\nCannon\n4. Fixed abnormal speed on Gift Box\nZombie\n5. Fixed crash when Giant Pea shots pass\nthrough fire\n6. Fixed crash in Shapeshifter stage",
-    "vi": "Thông Báo Cập Nhật Bản Lai v3.20.1\n\nII. Sửa Lỗi\n1. Sửa lỗi văng game ở màn Cổng Dịch\nChuyển\n2. Sửa lỗi văng game ở màn Kẹp Hai Đầu\n3. Sửa lỗi sát thương bất thường của\nPháo Phòng Không Xương Rồng\n4. Sửa lỗi tốc độ bất thường của Zombie\nHộp Quà\n5. Sửa lỗi văng game khi Đạn Đậu Khổng\nLồ đi qua lửa\n6. Sửa lỗi văng game ở màn Biến Ảo Khôn\nLường"
+    "en": "Hybrid Edition v3.20.1 Patch Notes\n\nII. Bug Fixes\n1. Fixed crash in Portal Combat & Double-Front\n2. Fixed Cactus CIWS Cannon abnormal damage\n3. Fixed Gift Box Zombie abnormal speed\n4. Fixed crash when Giant Pea passes fire\n5. Fixed crash in Shapeshifter stage",
+    "vi": "Thông Báo Cập Nhật v3.20.1\n\nII. Sửa Lỗi\n1. Sửa văng màn Cổng Dịch Chuyển & Kẹp Hai Đầu\n2. Sửa sát thương Pháo Xương Rồng & tốc độ Hộp Quà\n3. Sửa văng game khi Đậu Khổng Lồ bắn qua lửa\n4. Sửa lỗi văng game màn Biến Ảo Khôn Lường"
   },
   {
     "file": "NewLawnStrings.txt",
     "key": "UPDATA_TIP3",
-    "en": "Hybrid Edition v3.20.1 Patch Notes\n\nNo new content added in this build!",
-    "vi": "Thông Báo Cập Nhật Bản Lai v3.20.1\n\nPhiên bản này tạm chưa bổ sung nội dung\nmới!"
+    "en": "Hybrid Edition v3.20.1 Patch Notes\n\nNo new content added in this release!",
+    "vi": "Thông Báo Cập Nhật v3.20.1\n\nPhiên bản này tạm chưa bổ sung nội dung mới!"
   },
   {
     "file": "NewLawnStrings.txt",
     "key": "UPDATA_TIP4",
-    "en": "Hybrid Edition v3.20.1 Patch Notes\n\n\nThanks for downloading and playing!",
-    "vi": "Thông Báo Cập Nhật Bản Lai v3.20.1\n\n\nCảm ơn bạn đã tải và thưởng thức trò\nchơi!"
+    "en": "Hybrid Edition v3.20.1 Patch Notes\n\nThanks for downloading and playing!",
+    "vi": "Thông Báo Cập Nhật v3.20.1\n\nCảm ơn bạn đã tải và thưởng thức trò chơi!"
   },
   {
     "file": "NewLawnStrings.txt",

@@ -40,8 +40,8 @@ Full release notes & checksums: **[GitHub Release `v3.20.1`](https://github.com/
 
 | Edition | Size | Summary | Direct Download |
 | :--- | :---: | :--- | :---: |
-| **`[EN]` English** | `390.0 MiB` (`408.9 MB`) | Complete English build (3,309 property strings, 983 EXE strings / 1,342 binary refs, 121 localized UI textures, UTF-8 engine patch, hardware-verified on Android) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-English.apk"><img src="assets/btn-dl-en-stable.svg" height="30" alt="Download English APK"></a> |
-| **`[VI]` Bản Việt Hóa** | `390.0 MiB` (`409.0 MB`) | Complete accented Vietnamese build (3,309 property strings, 983 EXE strings, 121 localized VI UI textures, 6 merged Unicode `.ttf` fonts + `PvZ2-VH Bold`) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk"><img src="assets/btn-dl-en-stable.svg" height="30" alt="Download Vietnamese APK"></a> |
+| **`[EN]` English** | `390.0 MiB` (`408.9 MB`) | Complete English build (3,309 property strings, 985 EXE strings / 1,344 binary refs, 121 localized UI textures, UTF-8 engine patch, hardware-verified on Android) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-English.apk"><img src="assets/btn-dl-en-stable.svg" height="30" alt="Download English APK"></a> |
+| **`[VI]` Bản Việt Hóa** | `390.0 MiB` (`409.0 MB`) | Complete accented Vietnamese build (3,309 property strings, 985 EXE strings, 121 localized VI UI textures, 6 merged Unicode `.ttf` fonts + `PvZ2-VH Bold`) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk"><img src="assets/btn-dl-en-stable.svg" height="30" alt="Download Vietnamese APK"></a> |
 | **`[CN]` 中文原版 (Raw)** | `389.4 MiB` (`408.4 MB`) | Untouched original Chinese v3.20.1 by **潜艇伟伟迷**, bundled standalone and signed with the same unified keystore for lossless switching | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk"><img src="assets/btn-dl-en-stable.svg" height="30" alt="Download Chinese Raw APK"></a> |
 
 <details>
@@ -52,9 +52,9 @@ Full release notes & checksums: **[GitHub Release `v3.20.1`](https://github.com/
 
 | File | Exact Bytes | SHA-256 |
 | :--- | :---: | :--- |
-| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `408,930,525` | `cb6c80a8a7b99b97c7dff908f1ceae90a2a47d853c8c6b8322359d89bcda7845` |
-| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `408,967,389` | `57ba7050979f1753e04dc229f78275a377bd07106e91461f801214f19c51fb38` |
-| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,181` | `198d6298405f69e536475b65bb85c9c89e88a55283e4162baaac933e00264ec8` |
+| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `408,930,525` | `32b37bbbb1bb3d46c72c42092f12e04e9da951edb3915462499cc6e71acbab3c` |
+| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `409,012,445` | `e529884d03b514641b14576efdc7c803b4f764868fc07ea11bbcc525c1f60feb` |
+| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,181` | `09344c5b544faaed2eb0738e543093aadd91096fa6b1b651f9f0de7c6c94ef71` |
 
 </details>
 
@@ -86,11 +86,12 @@ Full release notes & checksums: **[GitHub Release `v3.20.1`](https://github.com/
 *Plants vs. Zombies: Hybrid Classic* (*植物大战僵尸杂交版经典版*) was built as a Windows PopCap C++ binary mod, so it normally requires manual Winlator setup on mobile and only renders GBK Chinese text. This suite packages everything into one standalone Android app:
 
 - **Zero Emulator Hassle:** Bundled standalone runtime (`com.pvzh.cls`) with no root, no manual container import, and no external Winlator installation required.
-- **Upright OpenGL Rendering Fix:** Configured **`WineD3D` OpenGL FBO (`renderer=gl`)** paired with a targeted **`GLXExtension` (`flipY=false`)** fix so D3D7 hybrid rendering runs upright and smooth with 1:1 touch coordinates.
+- **Native `1080x600` Mobile Widescreen & 1-Tap Touch:** Automatically launches in true `1080x600` widescreen stretched edge-to-edge on phone displays (0 sidebars, 0 clipped right-side menus), fixes axis-independent `TouchpadView` coordinates, and injects `ACTION_DOWN` cursor tracking + 60 ms hold for responsive 1-tap play.
+- **Faster Boot & Gameplay Tuning:** Uses aggressive Wine service pruning (`startupSelection=2`), `WineD3D` `csmt=3`, `strict_shader_math=0`, `mesa_glthread=true`, `WaitForVSync=0`, and locked upright `Is3D=0` rendering (~4.7 s warm launch to game binary).
 - **Engine-Level UTF-8 &amp; Font Upgrade:** Binary-patched `gdi42.dll` (`CP936` → `CP_UTF8`) across all 4 `MultiByteToWideChar` call sites and merged complete Latin + Vietnamese diacritics via `fontTools` into all 6 runtime `.ttf` fonts.
 - **Full Dual-Layer Localization:**
   - **3,309/3,309** property strings across all 9 `properties/*.txt` files (`LawnStrings`, Plants, Zombies, Levels, Wisdom Tree, Shop, Gear, Achievements).
-  - **983 unique / 1,342 referenced** hardcoded binary strings relocated cleanly inside `PlantsVsZombies.exe` + Main Menu version prefix (`PvZ Hybrid Cls EN v3.20.1`).
+  - **985 unique / 1,344 referenced** hardcoded binary strings relocated cleanly inside `PlantsVsZombies.exe` + **73 `std::string(ptr, len)` length-push opcodes updated** (no `□□` or truncated buttons) + Main Menu version prefix (`PvZ Hybrid Cls EN v3.20.1`).
   - **121 localized UI textures** per language (Main Menu signs, wood plaques, gravestones, 18 Adventure chapter headers, Almanac/Shop/Hero buttons).
 
 ---
@@ -102,11 +103,11 @@ Captured on physical `arm64-v8a` Android hardware across **`[EN]` English** and 
 
 | Startup &amp; Player Rules | Main Menu (`v3.20.1-EN`) |
 | :---: | :---: |
-| <img src="screenshots/en_01_loading.png" width="420" alt="English Player Rules"> | <img src="screenshots/en_02_main_menu.png" width="420" alt="English Main Menu"> |
-| **Hybrid Modes Hub** | **Suburban Almanac — Hybrid Plants** |
-| <img src="screenshots/en_03_modes_challenges.png" width="420" alt="English Modes"> | <img src="screenshots/en_04_almanac.png" width="420" alt="English Plants Almanac"> |
-| **Adventure 1-1 Gameplay HUD** | **In-Game Pause &amp; Options Menu** |
-| <img src="screenshots/en_05_gameplay.png" width="420" alt="English Gameplay"> | <img src="screenshots/en_06_pause_menu.png" width="420" alt="English Pause Menu"> |
+| <img src="screenshots/en_01_title.png" width="420" alt="English Player Rules"> | <img src="screenshots/en_02_main_menu.png" width="420" alt="English Main Menu"> |
+| **Seed Chooser &amp; Card Tabs** | **Adventure 1-1 Gameplay HUD** |
+| <img src="screenshots/en_03_adventure.png" width="420" alt="English Seed Chooser"> | <img src="screenshots/en_04_gameplay.png" width="420" alt="English Gameplay"> |
+| **Suburban Almanac — Hybrid Plants** | **In-Game Pause &amp; Options Menu** |
+| <img src="screenshots/en_05_almanac.png" width="420" alt="English Plants Almanac"> | <img src="screenshots/en_06_pause_menu.png" width="420" alt="English Pause Menu"> |
 
 <details>
 <summary><b>🇻🇳 Preview `[VI]` Bản Việt Hóa Screenshots (6 Screens Side-by-Side)</b></summary>
@@ -114,11 +115,11 @@ Captured on physical `arm64-v8a` Android hardware across **`[EN]` English** and 
 
 | Nội Quy &amp; Khởi Động (`[VI]`) | Menu Chính (`v3.20.1-VI`) |
 | :---: | :---: |
-| <img src="screenshots/vi_01_rules_dialog.png" width="410" alt="VI Rules"> | <img src="screenshots/vi_02_main_menu.png" width="410" alt="VI Main Menu"> |
-| **Chế Độ Mở Rộng (`[VI]`)** | **Sổ Tay Thực Vật Lai (`[VI]`)** |
-| <img src="screenshots/vi_03_modes_challenges.png" width="410" alt="VI Modes"> | <img src="screenshots/vi_04_almanac.png" width="410" alt="VI Almanac"> |
-| **Chiến Đấu Sân Trước 1-1 (`[VI]`)** | **Menu Tạm Dừng &amp; Cài Đặt (`[VI]`)** |
-| <img src="screenshots/vi_05_gameplay.png" width="410" alt="VI Gameplay"> | <img src="screenshots/vi_06_pause_menu.png" width="410" alt="VI Pause Menu"> |
+| <img src="screenshots/vi_01_title.png" width="410" alt="VI Rules"> | <img src="screenshots/vi_02_main_menu.png" width="410" alt="VI Main Menu"> |
+| **Chọn Hạt Giống (`[VI]`)** | **Chiến Đấu Sân Trước 1-1 (`[VI]`)** |
+| <img src="screenshots/vi_03_adventure.png" width="410" alt="VI Seed Chooser"> | <img src="screenshots/vi_04_gameplay.png" width="410" alt="VI Gameplay"> |
+| **Sổ Tay Thực Vật Lai (`[VI]`)** | **Menu Tạm Dừng &amp; Cài Đặt (`[VI]`)** |
+| <img src="screenshots/vi_05_almanac.png" width="410" alt="VI Almanac"> | <img src="screenshots/vi_06_pause_menu.png" width="410" alt="VI Pause Menu"> |
 
 > 👉 Switch to **[`[VI]` Bản Việt Hóa (`README.vi.md`)](README.vi.md)** for full Vietnamese documentation.
 
@@ -132,7 +133,7 @@ Captured on physical `arm64-v8a` Android hardware across **`[EN]` English** and 
 | Category / Role | Creators &amp; Contributors | Official Links |
 | :--- | :--- | :--- |
 | **Original Mod**<br>*PvZ Hybrid Classic*<br>(植物大战僵尸杂交版经典版) | • **Qianting Weiweimi (潜艇伟伟迷)** — Creator, Game Design &amp; Lead Developer<br>• **In-Game Credited Contributors:** 小小咩MS, AXH弦, 一只吴铭仕哒, 沉默寡言白河愁 | *PvZ Hybrid Edition Classic v3.20.1* |
-| **Localization (`[EN]` / `[VI]`), UTF-8 Engine Shim &amp; Android Packaging** | • **Heagon** — 3,309 property strings + 983 EXE strings, 121 localized UI textures/lang, `gdi42.dll` UTF-8 shim, 6 merged Unicode fonts, `WineD3D` GL + `GLXExtension` fix, standalone `com.pvzh.cls` APK packaging | [GitHub Repository](https://github.com/Heagon/pvz-hybrid-classic-android) |
+| **Localization (`[EN]` / `[VI]`), UTF-8 Engine Shim &amp; Android Packaging** | • **Heagon** — 3,309 property strings + 985 EXE strings, 121 localized UI textures/lang, `gdi42.dll` UTF-8 shim, 6 merged Unicode fonts, `WineD3D` GL + `GLXExtension` fix, standalone `com.pvzh.cls` APK packaging | [GitHub Repository](https://github.com/Heagon/pvz-hybrid-classic-android) |
 | **Open-Source Tooling** | [Winlator](https://github.com/brunodev85/winlator) (`Box64` · `Wine`), [fontTools](https://github.com/fonttools/fonttools), [Pillow](https://python-pillow.org/), [Liberation Fonts](https://github.com/liberationfonts/liberation-fonts), [Apktool](https://apktool.org/), [uber-apk-signer](https://github.com/patrickfav/uber-apk-signer), [Zstandard](https://github.com/facebook/zstd) | See [CREDITS.md](CREDITS.md) |
 
 ---
