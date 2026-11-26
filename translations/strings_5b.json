@@ -2216,8 +2216,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL0_DESCRIPTION",
-    "en": "Removes a plant with no extra effect.\n{SHORTLINE}\nDave's humble starter shovel! With\nfancier shovels around now, maybe it can\ntake a break.\n{SHORTLINE}\nUnlock: Free.",
-    "vi": "Đào bỏ cây, không có hiệu ứng phụ.\n{SHORTLINE}\nChiếc xẻng nhỏ Dave tặng bạn! Giờ có\nnhiều xẻng xịn hơn rồi, chắc nó được\nnghỉ ngơi thôi.\n{SHORTLINE}\nCách nhận: Miễn phí."
+    "en": "Removes a plant with no extra effect.\n{SHORTLINE}\nDave's humble starter shovel! With fancier shovels around now, maybe it can take a break.\n{SHORTLINE}\nUnlock: Free.",
+    "vi": "Đào bỏ cây, không có hiệu ứng phụ.\n{SHORTLINE}\nChiếc xẻng nhỏ Dave tặng bạn! Giờ có nhiều xẻng xịn hơn rồi, chắc nó được nghỉ ngơi thôi.\n{SHORTLINE}\nCách nhận: Miễn phí."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2234,7 +2234,7 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL1_DESCRIPTION",
-    "en": "Removes a plant and refunds 10% of its\nSun cost.\n{SHORTLINE}\nBought with Silver Coins,\n{SHORTLINE}\ngleaming just like them.\n{SHORTLINE}\nUnlock: Shop.",
+    "en": "Removes a plant and refunds 10% of its Sun cost.\n{SHORTLINE}\nBought with Silver Coins,\n{SHORTLINE}\ngleaming just like them.\n{SHORTLINE}\nUnlock: Shop.",
     "vi": "Đào bỏ cây và hoàn lại 10% Mặt trời.\n{SHORTLINE}\nChiếc xẻng mua bằng Xu Bạc,\n{SHORTLINE}\nsáng bóng y như xu bạc vậy.\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
   },
   {
@@ -2252,8 +2252,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL2_DESCRIPTION",
-    "en": "Removes a plant and refunds 20% of its\nSun cost.\n{SHORTLINE}\nBought with Gold Coins.\n{SHORTLINE}\nLooks solid gold and surprisingly sturdy\n— probably just gold-plated though.\n{SHORTLINE}\nUnlock: Shop.",
-    "vi": "Đào bỏ cây và hoàn lại 20% Mặt trời.\n{SHORTLINE}\nChiếc xẻng mua bằng Xu Vàng\n{SHORTLINE}\nTrông như vàng ròng mà bền bất ngờ, chắc\nlà mạ vàng thôi.\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
+    "en": "Removes a plant and refunds 20% of its Sun cost.\n{SHORTLINE}\nBought with Gold Coins.\n{SHORTLINE}\nLooks solid gold and surprisingly sturdy — probably just gold-plated though.\n{SHORTLINE}\nUnlock: Shop.",
+    "vi": "Đào bỏ cây và hoàn lại 20% Mặt trời.\n{SHORTLINE}\nChiếc xẻng mua bằng Xu Vàng\n{SHORTLINE}\nTrông như vàng ròng mà bền bất ngờ, chắc là mạ vàng thôi.\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2270,8 +2270,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL3_DESCRIPTION",
-    "en": "Removes a plant and refunds 30% of its\nSun cost.\n{SHORTLINE}\nBought with Diamonds.\n{SHORTLINE}\nWith this sleek craftsmanship, it surely\nwasn't crafted from 1 diamond and 2\nsticks?\n{SHORTLINE}\nUnlock: Shop.",
-    "vi": "Đào bỏ cây và hoàn lại 30% Mặt trời.\n{SHORTLINE}\nChiếc xẻng mua bằng Kim Cương\n{SHORTLINE}\nNhìn chất liệu liền khối thế này chắc\nkhông phải ghép từ 1 viên kim cương với\n2 que gỗ đâu nhỉ?\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
+    "en": "Removes a plant and refunds 30% of its Sun cost.\n{SHORTLINE}\nBought with Diamonds.\n{SHORTLINE}\nWith this sleek craftsmanship, it surely wasn't crafted from 1 diamond and 2 sticks?\n{SHORTLINE}\nUnlock: Shop.",
+    "vi": "Đào bỏ cây và hoàn lại 30% Mặt trời.\n{SHORTLINE}\nChiếc xẻng mua bằng Kim Cương\n{SHORTLINE}\nNhìn chất liệu liền khối thế này chắc không phải ghép từ 1 viên kim cương với 2 que gỗ đâu nhỉ?\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2288,8 +2288,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL4_DESCRIPTION",
-    "en": "Shoots Stars in 5 directions when\nremoving a plant.\n{SHORTLINE}\nHey, it's NOT a magic wand, okay?\n{SHORTLINE}\nUnlock: Star Exchange.",
-    "vi": "Khi đào bỏ cây sẽ bắn Ngôi Sao theo 5\nhướng.\n{SHORTLINE}\nĐây không phải đũa phép thuật đâu nha?\n{SHORTLINE}\nCách nhận: Đổi Sao."
+    "en": "Shoots Stars in 5 directions when removing a plant.\n{SHORTLINE}\nHey, it's NOT a magic wand, okay?\n{SHORTLINE}\nUnlock: Star Exchange.",
+    "vi": "Khi đào bỏ cây sẽ bắn Ngôi Sao theo 5 hướng.\n{SHORTLINE}\nĐây không phải đũa phép thuật đâu nha?\n{SHORTLINE}\nCách nhận: Đổi Sao."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2306,8 +2306,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL5_DESCRIPTION",
-    "en": "Fires Snow Peas forward when digging a\nplant; count scales with Sun cost.\n{SHORTLINE}\nSupposedly scavenged from an ice-cream\nstand making frost peas.\n{SHORTLINE}\nUnlock: Shop.",
-    "vi": "Đào bỏ cây sẽ bắn Đậu Băng về trước, số\nlượng đạn tùy theo giá Mặt trời của cây.\n{SHORTLINE}\nNghe bảo săn được từ sạp kem chuyên làm\nđậu băng giá.\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
+    "en": "Fires Snow Peas forward when digging a plant; count scales with Sun cost.\n{SHORTLINE}\nSupposedly scavenged from an ice-cream stand making frost peas.\n{SHORTLINE}\nUnlock: Shop.",
+    "vi": "Đào bỏ cây sẽ bắn Đậu Băng về trước, số lượng đạn tùy theo giá Mặt trời của cây.\n{SHORTLINE}\nNghe bảo săn được từ sạp kem chuyên làm đậu băng giá.\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2324,8 +2324,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL6_DESCRIPTION",
-    "en": "Unleashes a lane of fire when removing a\nplant; damage scales with Sun cost.\n{SHORTLINE}\nA fiery hot shovel — even keeps your\nhands toasty in winter.\n{SHORTLINE}\nUnlock: Star Exchange.",
-    "vi": "Đào bỏ cây sẽ giải phóng ngọn lửa dọc\nhàng, sát thương dựa trên giá cây.\n{SHORTLINE}\nChiếc xẻng nóng bỏng tay, mùa đông cầm\ncũng thấy ấm áp.\n{SHORTLINE}\nCách nhận: Đổi Sao."
+    "en": "Unleashes a lane of fire when removing a plant; damage scales with Sun cost.\n{SHORTLINE}\nA fiery hot shovel — even keeps your hands toasty in winter.\n{SHORTLINE}\nUnlock: Star Exchange.",
+    "vi": "Đào bỏ cây sẽ giải phóng ngọn lửa dọc hàng, sát thương dựa trên giá cây.\n{SHORTLINE}\nChiếc xẻng nóng bỏng tay, mùa đông cầm cũng thấy ấm áp.\n{SHORTLINE}\nCách nhận: Đổi Sao."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2342,8 +2342,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL7_DESCRIPTION",
-    "en": "Triggers a plant's On-Death effect on\nshovel, or spawns a hypnotized Skeleton\nZombie matched to its cost.\n{SHORTLINE}\nSaid to hold forbidden necromancy —\nfine, it's just a movie prop from\nChomper's House of Horrors.\n{SHORTLINE}\nUnlock: Shop.",
-    "vi": "Đào cây sẽ kích hoạt hiệu ứng Khi chết,\nhoặc gọi Zombie Bộ Xương đồng minh tương\nxứng giá cây.\n{SHORTLINE}\nĐồn là bảo vật chứa tà thuật tử linh...\nthôi được rồi, chỉ là đạo cụ phim từ\ntiệm kinh dị của Ăn Thịt thôi.\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
+    "en": "Triggers a plant's On-Death effect on shovel, or spawns a hypnotized Skeleton Zombie matched to its cost.\n{SHORTLINE}\nSaid to hold forbidden necromancy — fine, it's just a movie prop from Chomper's House of Horrors.\n{SHORTLINE}\nUnlock: Shop.",
+    "vi": "Đào cây sẽ kích hoạt hiệu ứng Khi chết, hoặc gọi Zombie Bộ Xương đồng minh tương xứng giá cây.\n{SHORTLINE}\nĐồn là bảo vật chứa tà thuật tử linh... thôi được rồi, chỉ là đạo cụ phim từ tiệm kinh dị của Ăn Thịt thôi.\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2360,8 +2360,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL8_DESCRIPTION",
-    "en": "Triggers On-Death on shovel, and makes\nthe next placement of that plant free\nfor 30s.\n{SHORTLINE}\nI am the storm that is approaching!\n{SHORTLINE}\nUnlock: Star Exchange.",
-    "vi": "Đào cây sẽ kích hoạt hiệu ứng Khi chết\nvà giúp lần trồng tiếp theo của cây đó\ntrong 30 giây được miễn phí.\n{SHORTLINE}\nTa chính là cơn bão đang kéo tới!\n{SHORTLINE}\nCách nhận: Đổi Sao."
+    "en": "Triggers On-Death on shovel, and makes the next placement of that plant free for 30s.\n{SHORTLINE}\nI am the storm that is approaching!\n{SHORTLINE}\nUnlock: Star Exchange.",
+    "vi": "Đào cây sẽ kích hoạt hiệu ứng Khi chết và giúp lần trồng tiếp theo của cây đó trong 30 giây được miễn phí.\n{SHORTLINE}\nTa chính là cơn bão đang kéo tới!\n{SHORTLINE}\nCách nhận: Đổi Sao."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2378,8 +2378,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL9_DESCRIPTION",
-    "en": "Splits 50% of the removed plant's HP\nevenly among remaining plants on that\ntile.\n{SHORTLINE}\nThe blade's hollow inside — pop a candle\nin and call it a jack-o'-lantern?\n{SHORTLINE}\nUnlock: Adventure.",
-    "vi": "Khi đào bỏ cây, chia đều 50% máu của nó\ncho các cây khác trong cùng ô.\n{SHORTLINE}\nLưỡi xẻng có vẻ rỗng ruột, nhét nến vào\nlàm đèn Halloween chắc ổn đấy?\n{SHORTLINE}\nCách nhận: Chế Độ Phiêu Lưu."
+    "en": "Splits 50% of the removed plant's HP evenly among remaining plants on that tile.\n{SHORTLINE}\nThe blade's hollow inside — pop a candle in and call it a jack-o'-lantern?\n{SHORTLINE}\nUnlock: Adventure.",
+    "vi": "Khi đào bỏ cây, chia đều 50% máu của nó cho các cây khác trong cùng ô.\n{SHORTLINE}\nLưỡi xẻng có vẻ rỗng ruột, nhét nến vào làm đèn Halloween chắc ổn đấy?\n{SHORTLINE}\nCách nhận: Chế Độ Phiêu Lưu."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2396,8 +2396,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL10_DESCRIPTION",
-    "en": "Shovel a >=200 Sun plant to spawn a\nMystery Gift Box; shovel a >=100 Sun\nplant to spawn Spare Supplies.\n{SHORTLINE}\nTime to test your luck!\n{SHORTLINE}\nUnlock: Achievement.",
-    "vi": "Đào cây giá >=200 sẽ tạo Hộp Thưởng; đào\ncây giá >=100 sẽ tạo Tiếp Tế Dự Phòng\ntại chỗ.\n{SHORTLINE}\nĐến lúc thử vận may rồi!\n{SHORTLINE}\nCách nhận: Thành Tựu."
+    "en": "Shovel a >=200 Sun plant to spawn a Mystery Gift Box; shovel a >=100 Sun plant to spawn Spare Supplies.\n{SHORTLINE}\nTime to test your luck!\n{SHORTLINE}\nUnlock: Achievement.",
+    "vi": "Đào cây giá >=200 sẽ tạo Hộp Thưởng; đào cây giá >=100 sẽ tạo Tiếp Tế Dự Phòng tại chỗ.\n{SHORTLINE}\nĐến lúc thử vận may rồi!\n{SHORTLINE}\nCách nhận: Thành Tựu."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2414,8 +2414,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL11_DESCRIPTION",
-    "en": "Shovel a >=100 Sun plant to summon a\nrandom hypnotized zombie whose HP equals\nthe plant's cost (excluding Bosses).\n{SHORTLINE}\nThis shovel carries a sweet yet\ndangerous aura...\n{SHORTLINE}\nUnlock: Achievement.",
-    "vi": "Đào cây giá >=100 để gọi ngẫu nhiên 1\nzombie phe ta có máu bằng giá cây đó\n(trừ Trùm).\n{SHORTLINE}\nChiếc xẻng này tỏa ra hương thơm ngọt\nngào mà nguy hiểm...\n{SHORTLINE}\nCách nhận: Thành Tựu."
+    "en": "Shovel a >=100 Sun plant to summon a random hypnotized zombie whose HP equals the plant's cost (excluding Bosses).\n{SHORTLINE}\nThis shovel carries a sweet yet dangerous aura...\n{SHORTLINE}\nUnlock: Achievement.",
+    "vi": "Đào cây giá >=100 để gọi ngẫu nhiên 1 zombie phe ta có máu bằng giá cây đó (trừ Trùm).\n{SHORTLINE}\nChiếc xẻng này tỏa ra hương thơm ngọt ngào mà nguy hiểm...\n{SHORTLINE}\nCách nhận: Thành Tựu."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2432,8 +2432,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL12_DESCRIPTION",
-    "en": "Digging up a plant fires random basic\nprojectiles equal to one-tenth of its\nSun cost.\n{SHORTLINE}\nAre you ready, kids? Aye-aye, Shovel!\n{SHORTLINE}\nUnlock: Achievement.",
-    "vi": "Đào bỏ cây sẽ bắn ra số viên đạn cơ bản\nngẫu nhiên bằng một phần mười giá cây.\n{SHORTLINE}\nSẵn sàng chưa các em nhỏ? Xẻng đã sẵn\nsàng rồi!\n{SHORTLINE}\nCách nhận: Thành Tựu."
+    "en": "Digging up a plant fires random basic projectiles equal to one-tenth of its Sun cost.\n{SHORTLINE}\nAre you ready, kids? Aye-aye, Shovel!\n{SHORTLINE}\nUnlock: Achievement.",
+    "vi": "Đào bỏ cây sẽ bắn ra số viên đạn cơ bản ngẫu nhiên bằng một phần mười giá cây.\n{SHORTLINE}\nSẵn sàng chưa các em nhỏ? Xẻng đã sẵn sàng rồi!\n{SHORTLINE}\nCách nhận: Thành Tựu."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2450,8 +2450,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL13_DESCRIPTION",
-    "en": "Removes a plant and refunds 40% of its\nSun cost.\n{SHORTLINE}\nFull name: \"Supreme VIP Deluxe\nCollector's Shovel\" — though hardly\nanyone actually collects these.\n{SHORTLINE}\nUnlock: Achievement.",
-    "vi": "Đào bỏ cây và hoàn lại 40% Mặt trời.\n{SHORTLINE}\nTên đầy đủ là \"Xẻng Phiên Bản Giới Hạn\nVIP Thượng Hạng\", dù thực ra chẳng mấy\nai sưu tầm thứ này.\n{SHORTLINE}\nCách nhận: Thành Tựu."
+    "en": "Removes a plant and refunds 40% of its Sun cost.\n{SHORTLINE}\nFull name: \"Supreme VIP Deluxe Collector's Shovel\" — though hardly anyone actually collects these.\n{SHORTLINE}\nUnlock: Achievement.",
+    "vi": "Đào bỏ cây và hoàn lại 40% Mặt trời.\n{SHORTLINE}\nTên đầy đủ là \"Xẻng Phiên Bản Giới Hạn VIP Thượng Hạng\", dù thực ra chẳng mấy ai sưu tầm thứ này.\n{SHORTLINE}\nCách nhận: Thành Tựu."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2468,8 +2468,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL14_DESCRIPTION",
-    "en": "Shovel a plant with <=30s cooldown,\nspending 25% of its Sun cost to convert\nit into a seed packet.\n{SHORTLINE}\nRumored to be forged from shards of\nfallen cards... Tree of Wisdom clarifies\nit's just scrap crafts from leftover\ncardboard.\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 100m.",
-    "vi": "Đào cây có hồi chiêu <=30s, tiêu tốn 25%\ngiá cây để biến nó lại thành thẻ.\n{SHORTLINE}\nĐồn làm từ mảnh thẻ vỡ ngoài chiến\ntrường... nhưng Cây Trí Tuệ đính chính\nchỉ là đồ thủ công từ bìa thừa.\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 100 mét."
+    "en": "Shovel a plant with <=30s cooldown, spending 25% of its Sun cost to convert it into a seed packet.\n{SHORTLINE}\nRumored to be forged from shards of fallen cards... Tree of Wisdom clarifies it's just scrap crafts from leftover cardboard.\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 100m.",
+    "vi": "Đào cây có hồi chiêu <=30s, tiêu tốn 25% giá cây để biến nó lại thành thẻ.\n{SHORTLINE}\nĐồn làm từ mảnh thẻ vỡ ngoài chiến trường... nhưng Cây Trí Tuệ đính chính chỉ là đồ thủ công từ bìa thừa.\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 100 mét."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2486,8 +2486,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL15_DESCRIPTION",
-    "en": "Triggers On-Death upon removal, and your\nnext placement of that plant spawns a\nbonus copy!\n{SHORTLINE}\nBorn from the Tree of Wisdom's ancient,\ntime-tested intellect...\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 1,000m.",
-    "vi": "Đào cây kích hoạt hiệu ứng Khi chết và\nlần trồng sau của cây đó được mua 1 tặng\n1!\n{SHORTLINE}\nKết tinh từ trí tuệ uyên thâm ngàn năm\ncủa Cây Trí Tuệ...\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 1000 mét."
+    "en": "Triggers On-Death upon removal, and your next placement of that plant spawns a bonus copy!\n{SHORTLINE}\nBorn from the Tree of Wisdom's ancient, time-tested intellect...\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 1,000m.",
+    "vi": "Đào cây kích hoạt hiệu ứng Khi chết và lần trồng sau của cây đó được mua 1 tặng 1!\n{SHORTLINE}\nKết tinh từ trí tuệ uyên thâm ngàn năm của Cây Trí Tuệ...\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 1000 mét."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2504,8 +2504,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "LAWNMOWER0_DESCRIPTION",
-    "en": "Clears non-Boss zombies in its lane;\nright-click to trigger manually.\n{SHORTLINE}\nYour trusty old backyard mower, slightly\nmodded for anti-zombie duty.\n{SHORTLINE}\nUnlock: Free.",
-    "vi": "Dọn sạch zombie không phải Trùm trên\nhàng; chuột phải để phóng chủ động.\n{SHORTLINE}\nMáy cắt cỏ gắn bó lâu năm trong sân nhà\nbạn, được độ nhẹ để dọn zombie.\n{SHORTLINE}\nCách nhận: Miễn phí."
+    "en": "Clears non-Boss zombies in its lane; right-click to trigger manually.\n{SHORTLINE}\nYour trusty old backyard mower, slightly modded for anti-zombie duty.\n{SHORTLINE}\nUnlock: Free.",
+    "vi": "Dọn sạch zombie không phải Trùm trên hàng; chuột phải để phóng chủ động.\n{SHORTLINE}\nMáy cắt cỏ gắn bó lâu năm trong sân nhà bạn, được độ nhẹ để dọn zombie.\n{SHORTLINE}\nCách nhận: Miễn phí."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2522,8 +2522,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "LAWNMOWER1_DESCRIPTION",
-    "en": "Clears non-Boss zombies in water lanes;\nright-click to trigger manually.\n{SHORTLINE}\nA fine gadget bought from Dave long ago\n— no more fishing regular mowers out of\nthe pool.\n{SHORTLINE}\nUnlock: Free.",
-    "vi": "Dọn sạch zombie không phải Trùm dưới làn\nnước; chuột phải để phóng chủ động.\n{SHORTLINE}\nMón đồ xịn mua từ Dave lâu lắm rồi, giờ\nkhỏi lo xe cắt cỏ rớt xuống hồ.\n{SHORTLINE}\nCách nhận: Miễn phí."
+    "en": "Clears non-Boss zombies in water lanes; right-click to trigger manually.\n{SHORTLINE}\nA fine gadget bought from Dave long ago — no more fishing regular mowers out of the pool.\n{SHORTLINE}\nUnlock: Free.",
+    "vi": "Dọn sạch zombie không phải Trùm dưới làn nước; chuột phải để phóng chủ động.\n{SHORTLINE}\nMón đồ xịn mua từ Dave lâu lắm rồi, giờ khỏi lo xe cắt cỏ rớt xuống hồ.\n{SHORTLINE}\nCách nhận: Miễn phí."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2540,8 +2540,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "LAWNMOWER2_DESCRIPTION",
-    "en": "Clears non-Boss zombies on roof lanes;\nright-click to trigger manually.\n{SHORTLINE}\nAnother fancy contraption from Crazy\nDave's Twiddydinkies~\n{SHORTLINE}\nUnlock: Free.",
-    "vi": "Dọn sạch zombie không phải Trùm trên mái\nnhà; chuột phải để phóng chủ động.\n{SHORTLINE}\nMón đồ chơi cầu kỳ đến từ tiệm của Crazy\nDave~\n{SHORTLINE}\nCách nhận: Miễn phí."
+    "en": "Clears non-Boss zombies on roof lanes; right-click to trigger manually.\n{SHORTLINE}\nAnother fancy contraption from Crazy Dave's Twiddydinkies~\n{SHORTLINE}\nUnlock: Free.",
+    "vi": "Dọn sạch zombie không phải Trùm trên mái nhà; chuột phải để phóng chủ động.\n{SHORTLINE}\nMón đồ chơi cầu kỳ đến từ tiệm của Crazy Dave~\n{SHORTLINE}\nCách nhận: Miễn phí."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2558,8 +2558,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "LAWNMOWER3_DESCRIPTION",
-    "en": "Clears non-Boss zombies in its lane;\nright-click to trigger manually.\n{SHORTLINE}\nBrand-new upgraded chassis! Sleek looks!\nIdentical function!\n{SHORTLINE}\nUnlock: Free.",
-    "vi": "Dọn sạch zombie không phải Trùm trên\nhàng; chuột phải để phóng chủ động.\n{SHORTLINE}\nBản nâng cấp mới toanh! Ngoại hình cực\nngầu! Công năng y hệt!\n{SHORTLINE}\nCách nhận: Miễn phí."
+    "en": "Clears non-Boss zombies in its lane; right-click to trigger manually.\n{SHORTLINE}\nBrand-new upgraded chassis! Sleek looks! Identical function!\n{SHORTLINE}\nUnlock: Free.",
+    "vi": "Dọn sạch zombie không phải Trùm trên hàng; chuột phải để phóng chủ động.\n{SHORTLINE}\nBản nâng cấp mới toanh! Ngoại hình cực ngầu! Công năng y hệt!\n{SHORTLINE}\nCách nhận: Miễn phí."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2576,8 +2576,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "LAWNMOWER4_DESCRIPTION",
-    "en": "Replaces Lawn Mower; clears non-Bosses\nwhile spraying Stars continuously\n(right-click to launch).\n{SHORTLINE}\nOriginally designed as a party prop for\nrolling out a \"Walk of Fame.\"\n{SHORTLINE}\nUnlock: Star Exchange.",
-    "vi": "Thay thế Xe Cắt Cỏ, dọn zombie thường và\nliên tục bắn Ngôi Sao; chuột phải phóng\nthủ công.\n{SHORTLINE}\nVốn là đạo cụ tạo hiệu ứng \"đại lộ danh\nvọng\" khuấy động tiệc tùng.\n{SHORTLINE}\nCách nhận: Đổi Sao."
+    "en": "Replaces Lawn Mower; clears non-Bosses while spraying Stars continuously (right-click to launch).\n{SHORTLINE}\nOriginally designed as a party prop for rolling out a \"Walk of Fame.\"\n{SHORTLINE}\nUnlock: Star Exchange.",
+    "vi": "Thay thế Xe Cắt Cỏ, dọn zombie thường và liên tục bắn Ngôi Sao; chuột phải phóng thủ công.\n{SHORTLINE}\nVốn là đạo cụ tạo hiệu ứng \"đại lộ danh vọng\" khuấy động tiệc tùng.\n{SHORTLINE}\nCách nhận: Đổi Sao."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2594,8 +2594,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "LAWNMOWER5_DESCRIPTION",
-    "en": "Replaces Pool Cleaner; clears non-Boss\nzombies and triggers full-screen freeze\n(right-click to launch).\n{SHORTLINE}\nGreat for chilling a hot pool... even if\npools rarely need chilling?\n{SHORTLINE}\nUnlock: Shop.",
-    "vi": "Thay thế Xe Dọn Hồ, dọn zombie thường và\nkích hoạt đóng băng toàn màn; chuột phải\nphóng thủ công.\n{SHORTLINE}\nDùng để làm mát hồ bơi rất tiện... dù đa\nsố lúc hồ bơi chả cần hạ nhiệt?\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
+    "en": "Replaces Pool Cleaner; clears non-Boss zombies and triggers full-screen freeze (right-click to launch).\n{SHORTLINE}\nGreat for chilling a hot pool... even if pools rarely need chilling?\n{SHORTLINE}\nUnlock: Shop.",
+    "vi": "Thay thế Xe Dọn Hồ, dọn zombie thường và kích hoạt đóng băng toàn màn; chuột phải phóng thủ công.\n{SHORTLINE}\nDùng để làm mát hồ bơi rất tiện... dù đa số lúc hồ bơi chả cần hạ nhiệt?\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2612,8 +2612,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "LAWNMOWER6_DESCRIPTION",
-    "en": "Replaces Lawn Mower; clears non-Boss\nzombies while dropping Diamonds\n(right-click to launch).\n{SHORTLINE}\nThe billionaire of the mower world — #1\non the annual \"Mowerbes\" rich list.\n{SHORTLINE}\nUnlock: Achievement.",
-    "vi": "Thay thế Xe Cắt Cỏ, dọn zombie thường và\nrơi Kim Cương; chuột phải phóng thủ\ncông.\n{SHORTLINE}\nĐại gia khét tiếng giới xe đẩy, đứng đầu\nbảng xếp hạng giàu có thường niên.\n{SHORTLINE}\nCách nhận: Thành Tựu."
+    "en": "Replaces Lawn Mower; clears non-Boss zombies while dropping Diamonds (right-click to launch).\n{SHORTLINE}\nThe billionaire of the mower world — #1 on the annual \"Mowerbes\" rich list.\n{SHORTLINE}\nUnlock: Achievement.",
+    "vi": "Thay thế Xe Cắt Cỏ, dọn zombie thường và rơi Kim Cương; chuột phải phóng thủ công.\n{SHORTLINE}\nĐại gia khét tiếng giới xe đẩy, đứng đầu bảng xếp hạng giàu có thường niên.\n{SHORTLINE}\nCách nhận: Thành Tựu."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2630,8 +2630,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "LAWNMOWER7_DESCRIPTION",
-    "en": "Replaces Lawn Mower; clears non-Boss\nzombies and pauses all zombies briefly\n(right-click to launch).\n{SHORTLINE}\nZA WARUDO!\n{SHORTLINE}\nUnlock: Achievement.",
-    "vi": "Thay thế Xe Cắt Cỏ, dọn zombie thường và\ntạm ngưng đọng toàn bộ zombie; chuột\nphải phóng thủ công.\n{SHORTLINE}\nZA WARUDO!\n{SHORTLINE}\nCách nhận: Thành Tựu."
+    "en": "Replaces Lawn Mower; clears non-Boss zombies and pauses all zombies briefly (right-click to launch).\n{SHORTLINE}\nZA WARUDO!\n{SHORTLINE}\nUnlock: Achievement.",
+    "vi": "Thay thế Xe Cắt Cỏ, dọn zombie thường và tạm ngưng đọng toàn bộ zombie; chuột phải phóng thủ công.\n{SHORTLINE}\nZA WARUDO!\n{SHORTLINE}\nCách nhận: Thành Tựu."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2648,8 +2648,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "LAWNMOWER8_DESCRIPTION",
-    "en": "Replaces Pool Cleaner; clears non-Boss\nzombies and shaves 5s off cooldown for\nplants passed (right-click).\n{SHORTLINE}\nHey, why is this thing leaking\neverywhere?\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 30m.",
-    "vi": "Thay thế Xe Dọn Hồ, dọn zombie thường và\ngiảm 5s hồi chiêu cho cây dọc đường;\nchuột phải phóng thủ công.\n{SHORTLINE}\nƠ kìa, sao cái xe này rỉ nước tùm lum\nvậy?\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 30 mét."
+    "en": "Replaces Pool Cleaner; clears non-Boss zombies and shaves 5s off cooldown for plants passed (right-click).\n{SHORTLINE}\nHey, why is this thing leaking everywhere?\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 30m.",
+    "vi": "Thay thế Xe Dọn Hồ, dọn zombie thường và giảm 5s hồi chiêu cho cây dọc đường; chuột phải phóng thủ công.\n{SHORTLINE}\nƠ kìa, sao cái xe này rỉ nước tùm lum vậy?\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 30 mét."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2666,8 +2666,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "LAWNMOWER9_DESCRIPTION",
-    "en": "Replaces Lawn Mower; clears non-Bosses\nand grants +50% HP to plants along its\npath (right-click).\n{SHORTLINE}\nImported straight from San Diego —\nrumored to have saved struggling\nfarmlands?\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 50m.",
-    "vi": "Thay thế Xe Cắt Cỏ, dọn zombie thường và\ntăng 50% máu cho cây dọc đường; chuột\nphải phóng thủ công.\n{SHORTLINE}\nHàng nhập nguyên chiếc từ San Diego,\ntương truyền từng giải cứu nhiều vùng\nnông nghiệp kém phát triển?\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 50 mét."
+    "en": "Replaces Lawn Mower; clears non-Bosses and grants +50% HP to plants along its path (right-click).\n{SHORTLINE}\nImported straight from San Diego — rumored to have saved struggling farmlands?\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 50m.",
+    "vi": "Thay thế Xe Cắt Cỏ, dọn zombie thường và tăng 50% máu cho cây dọc đường; chuột phải phóng thủ công.\n{SHORTLINE}\nHàng nhập nguyên chiếc từ San Diego, tương truyền từng giải cứu nhiều vùng nông nghiệp kém phát triển?\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 50 mét."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2684,8 +2684,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "LAWNMOWER10_DESCRIPTION",
-    "en": "Replaces Pool Cleaner; clears non-Bosses\nand cuts 15s cooldown across 3 adjacent\nrows (right-click).\n{SHORTLINE}\nBuilt for automated garden watering...\nuntil Stinky the Snail stole its job.\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 150m.",
-    "vi": "Thay thế Xe Dọn Hồ, dọn zombie thường và\ngiảm 15s hồi chiêu cho cây 3 hàng; chuột\nphải phóng thủ công.\n{SHORTLINE}\nVốn chế để tự động tưới vườn... nhưng bị\nỐc Sên cướp mất chén cơm rồi.\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 150 mét."
+    "en": "Replaces Pool Cleaner; clears non-Bosses and cuts 15s cooldown across 3 adjacent rows (right-click).\n{SHORTLINE}\nBuilt for automated garden watering... until Stinky the Snail stole its job.\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 150m.",
+    "vi": "Thay thế Xe Dọn Hồ, dọn zombie thường và giảm 15s hồi chiêu cho cây 3 hàng; chuột phải phóng thủ công.\n{SHORTLINE}\nVốn chế để tự động tưới vườn... nhưng bị Ốc Sên cướp mất chén cơm rồi.\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 150 mét."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2702,8 +2702,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "LAWNMOWER11_DESCRIPTION",
-    "en": "Replaces Roof Cleaner; clears non-Bosses\nand doubles attack speed of passed\nplants for 30s (right-click).\n{SHORTLINE}\nThere's a zombie on your roof~\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 200m.",
-    "vi": "Thay thế Xe Dọn Mái, dọn zombie thường\nvà nhân đôi tốc độ đánh cho cây dọc\nđường suốt 30s; chuột phải phóng.\n{SHORTLINE}\nThere's a zombie on your roof~\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 200 mét."
+    "en": "Replaces Roof Cleaner; clears non-Bosses and doubles attack speed of passed plants for 30s (right-click).\n{SHORTLINE}\nThere's a zombie on your roof~\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 200m.",
+    "vi": "Thay thế Xe Dọn Mái, dọn zombie thường và nhân đôi tốc độ đánh cho cây dọc đường suốt 30s; chuột phải phóng.\n{SHORTLINE}\nThere's a zombie on your roof~\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 200 mét."
   },
   {
     "file": "NewAcheesementsStrings.txt",

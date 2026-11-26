@@ -104,20 +104,20 @@
     "vi": "Chia Đôi Nửa Sân"
   },
   "七星连珠": {
-    "en": "Seven-Star Strike",
-    "vi": "Thất Tinh Liên Châu"
+    "en": "7-Star",
+    "vi": "Thất Tinh"
   },
   "七色花无尽模式": {
-    "en": "Rainbow Flower Endless",
-    "vi": "Hoa Bảy Màu Vô Tận"
+    "en": "Rainbow Inf.",
+    "vi": "Hoa 7 Màu Inf."
   },
   "三分天下 3-1": {
     "en": "Tri-Kingdoms 3-1",
     "vi": "Thế Chân Vạc 3-1"
   },
   "三分天下 3-10": {
-    "en": "Tri-Kingdoms 3-10",
-    "vi": "Thế Chân Vạc 3-10"
+    "en": "3-Way 3-10",
+    "vi": "Chân Vạc 3-10"
   },
   "三分天下 3-11": {
     "en": "Tri-Kingdoms 3-11",
@@ -184,16 +184,16 @@
     "vi": "Đêm Không Ngủ 4-1"
   },
   "不眠之夜 4-10": {
-    "en": "Sleepless Night 4-10",
-    "vi": "Đêm Không Ngủ 4-10"
+    "en": "Sleepless 4-10",
+    "vi": "Đêm Thức 4-10"
   },
   "不眠之夜 4-11": {
-    "en": "Sleepless Night 4-11",
-    "vi": "Đêm Không Ngủ 4-11"
+    "en": "Sleepless 4-11",
+    "vi": "Đêm Thức 4-11"
   },
   "不眠之夜 4-12": {
-    "en": "Sleepless Night 4-12",
-    "vi": "Đêm Không Ngủ 4-12"
+    "en": "Sleepless 4-12",
+    "vi": "Đêm Thức 4-12"
   },
   "不眠之夜 4-2": {
     "en": "Sleepless Night 4-2",
@@ -236,44 +236,44 @@
     "vi": "Đứng Yên!"
   },
   "与时间赛跑": {
-    "en": "Race Against Time",
-    "vi": "Chạy Đua Thời Gian"
+    "en": "Time Race",
+    "vi": "Đua Thời Gian"
   },
   "世界的另一面": {
     "en": "Other Side",
     "vi": "Mặt Kia Thế Giới"
   },
   "丘比特魅惑菇 挑战1": {
-    "en": "Cupid Hypno Trial 1",
-    "vi": "Nấm Miên Cupid Màn 1"
+    "en": "Cupid Hypno 1",
+    "vi": "Nấm Cupid 1"
   },
   "丘比特魅惑菇 挑战2": {
-    "en": "Cupid Hypno Trial 2",
-    "vi": "Nấm Miên Cupid Màn 2"
+    "en": "Cupid Hypno 2",
+    "vi": "Nấm Cupid 2"
   },
   "丘比特魅惑菇 挑战3": {
-    "en": "Cupid Hypno Trial 3",
-    "vi": "Nấm Miên Cupid Màn 3"
+    "en": "Cupid Hypno 3",
+    "vi": "Nấm Cupid 3"
   },
   "丘比特魅惑菇 挑战4": {
-    "en": "Cupid Hypno Trial 4",
-    "vi": "Nấm Miên Cupid Màn 4"
+    "en": "Cupid Hypno 4",
+    "vi": "Nấm Cupid 4"
   },
   "丘比特魅惑菇 挑战5": {
-    "en": "Cupid Hypno Trial 5",
-    "vi": "Nấm Miên Cupid Màn 5"
+    "en": "Cupid Hypno 5",
+    "vi": "Nấm Cupid 5"
   },
   "丘比特魅惑菇 挑战6": {
-    "en": "Cupid Hypno Trial 6",
-    "vi": "Nấm Miên Cupid Màn 6"
+    "en": "Cupid Hypno 6",
+    "vi": "Nấm Cupid 6"
   },
   "两面夹击": {
     "en": "Pincer Attack",
     "vi": "Gọng Kìm Hai Đầu"
   },
   "乘胜追击": {
-    "en": "Press the Attack",
-    "vi": "Thừa Thắng Xông Lên"
+    "en": "Press Attack",
+    "vi": "Thừa Thắng"
   },
   "乘风破浪": {
     "en": "Ride the Waves",
@@ -309,7 +309,7 @@
   },
   "传送带的研发": {
     "en": "Conveyor R&D",
-    "vi": "Nghiên Cứu Băng Chuyền"
+    "vi": "Băng Chuyền R&D"
   },
   "传送门": {
     "en": "Portal Combat",
@@ -344,8 +344,8 @@
     "vi": "Số dư của bạn không đủ!"
   },
   "你看，他们像柱子一样": {
-    "en": "Column Like You See 'Em",
-    "vi": "Hàng Ngũ Chỉnh Tề"
+    "en": "Column Mode",
+    "vi": "Xếp Theo Cột"
   },
   "你真的要买下这个物品吗？               ": {
     "en": "Are you sure you want to buy this item?",
@@ -377,7 +377,7 @@
   },
   "促销之旅": {
     "en": "Promo Tour",
-    "vi": "Hành Trình Khuyến Mãi"
+    "vi": "Tour Khuyến Mãi"
   },
   "促销汉堡": {
     "en": "Promo Burger",
@@ -385,7 +385,7 @@
   },
   "促销风暴": {
     "en": "Promo Storm",
-    "vi": "Cơn Bão Khuyến Mãi"
+    "vi": "Bão Khuyến Mãi"
   },
   "保存": {
     "en": "Save",
@@ -440,48 +440,48 @@
     "vi": "Bóng Bàn Zombie 2"
   },
   "僵尸加农炮 挑战1": {
-    "en": "Gargantuar Cannon Trial 1",
-    "vi": "Pháo Zombie Khổng Lồ Màn 1"
+    "en": "Zom Cannon 1",
+    "vi": "Pháo Zombie 1"
   },
   "僵尸加农炮 挑战2": {
-    "en": "Gargantuar Cannon Trial 2",
-    "vi": "Pháo Zombie Khổng Lồ Màn 2"
+    "en": "Zom Cannon 2",
+    "vi": "Pháo Zombie 2"
   },
   "僵尸加农炮 挑战3": {
-    "en": "Gargantuar Cannon Trial 3",
-    "vi": "Pháo Zombie Khổng Lồ Màn 3"
+    "en": "Zom Cannon 3",
+    "vi": "Pháo Zombie 3"
   },
   "僵尸墓地": {
     "en": "Zombie Graveyard",
     "vi": "Nghĩa Địa Zombie"
   },
   "僵尸大战": {
-    "en": "Zombie Showdown",
-    "vi": "Đại Chiến Zombie"
+    "en": "Zom Showdown",
+    "vi": "Chiến Zombie"
   },
   "僵尸大战 无尽版": {
-    "en": "Zombie Showdown Endless",
-    "vi": "Đại Chiến Zombie Vô Tận"
+    "en": "Showdown Inf.",
+    "vi": "Chiến ZB Inf."
   },
   "僵尸实验": {
     "en": "Zombie Lab",
     "vi": "Thí Nghiệm Zombie"
   },
   "僵尸快跑": {
-    "en": "Zombie Nimble Zombie Quick",
-    "vi": "Zombie Siêu Tốc"
+    "en": "Zom-Speed",
+    "vi": "ZB Siêu Tốc"
   },
   "僵尸机枪射手 挑战1": {
-    "en": "Zombie Gatling Pea Trial 1",
-    "vi": "Súng Máy Zombie Màn 1"
+    "en": "Zom-Gatling 1",
+    "vi": "Đậu Zombie 1"
   },
   "僵尸机枪射手 挑战2": {
-    "en": "Zombie Gatling Pea Trial 2",
-    "vi": "Súng Máy Zombie Màn 2"
+    "en": "Zom-Gatling 2",
+    "vi": "Đậu Zombie 2"
   },
   "僵尸机枪射手 挑战3": {
-    "en": "Zombie Gatling Pea Trial 3",
-    "vi": "Súng Máy Zombie Màn 3"
+    "en": "Zom-Gatling 3",
+    "vi": "Đậu Zombie 3"
   },
   "僵尸水族馆": {
     "en": "Zombiquarium",
@@ -492,12 +492,12 @@
     "vi": "Không Gian Zombie"
   },
   "僵尸轮回": {
-    "en": "Zombie Reincarnation",
-    "vi": "Luân Hồi Zombie"
+    "en": "Zom Rebirth",
+    "vi": "Luân Hồi ZB"
   },
   "僵王博士的复仇": {
-    "en": "Zomboss Revenge",
-    "vi": "Zomboss Báo Thù"
+    "en": "Zomboss Wrath",
+    "vi": "Zomboss Báo"
   },
   "光之信仰\n": {
     "en": "Faith of Light",
@@ -509,35 +509,35 @@
   },
   "光明黑暗": {
     "en": "Light & Dark",
-    "vi": "Ánh Sáng & Bóng Tối"
+    "vi": "Sáng & Tối"
   },
   "全屏       ": {
     "en": "Full Screen",
     "vi": "Toàn màn"
   },
   "全息卡牌投影 挑战1": {
-    "en": "Holo Card Projector Trial 1",
-    "vi": "Máy Chiếu Thẻ 3D Màn 1"
+    "en": "Holo Card 1",
+    "vi": "Thẻ 3D 1"
   },
   "全息卡牌投影 挑战2": {
-    "en": "Holo Card Projector Trial 2",
-    "vi": "Máy Chiếu Thẻ 3D Màn 2"
+    "en": "Holo Card 2",
+    "vi": "Thẻ 3D 2"
   },
   "全息卡牌投影 挑战3": {
-    "en": "Holo Card Projector Trial 3",
-    "vi": "Máy Chiếu Thẻ 3D Màn 3"
+    "en": "Holo Card 3",
+    "vi": "Thẻ 3D 3"
   },
   "全息卡牌投影 挑战4": {
-    "en": "Holo Card Projector Trial 4",
-    "vi": "Máy Chiếu Thẻ 3D Màn 4"
+    "en": "Holo Card 4",
+    "vi": "Thẻ 3D 4"
   },
   "全息卡牌投影 挑战5": {
-    "en": "Holo Card Projector Trial 5",
-    "vi": "Máy Chiếu Thẻ 3D Màn 5"
+    "en": "Holo Card 5",
+    "vi": "Thẻ 3D 5"
   },
   "全息卡牌投影 挑战6": {
-    "en": "Holo Card Projector Trial 6",
-    "vi": "Máy Chiếu Thẻ 3D Màn 6"
+    "en": "Holo Card 6",
+    "vi": "Thẻ 3D 6"
   },
   "全息大脑的秘密": {
     "en": "Holo-Brain Secret",
@@ -545,15 +545,15 @@
   },
   "全面冻结": {
     "en": "Total Freeze",
-    "vi": "Đóng Băng Toàn Bộ"
+    "vi": "Đóng Băng Hết"
   },
   "八仙过海": {
     "en": "Eight Immortals",
     "vi": "Bát Tiên Quá Hải"
   },
   "公主驾到": {
-    "en": "Here Comes the Princess",
-    "vi": "Công Chúa Giá Lâm"
+    "en": "Princess!",
+    "vi": "Công Chúa!"
   },
   "关卡尚未完成，存在一定BUG，可能影响游戏\n体验，确认进入吗？": {
     "en": "This stage is unfinished and may have bugs\nthat affect gameplay. Enter anyway?",
@@ -581,7 +581,7 @@
   },
   "冬眠配方": {
     "en": "Winter Recipe",
-    "vi": "Công Thức Ngủ Đông"
+    "vi": "Ngủ Đông"
   },
   "冰冻之星": {
     "en": "Frozen Star",
@@ -593,23 +593,23 @@
   },
   "冰天雪地": {
     "en": "Frozen Tundra",
-    "vi": "Băng Thiên Tuyết Địa"
+    "vi": "Băng Tuyết"
   },
   "冰火两重天": {
     "en": "Ice & Fire",
-    "vi": "Băng Hỏa Lưỡng Trọng"
+    "vi": "Băng Hỏa Đảo"
   },
   "冰瓜香蒲 挑战1": {
-    "en": "Ice Melon Cattail Trial 1",
-    "vi": "Đuôi Mèo Dưa Băng Màn 1"
+    "en": "Ice Cattail 1",
+    "vi": "Mèo Dưa Băng 1"
   },
   "冰瓜香蒲 挑战2": {
-    "en": "Ice Melon Cattail Trial 2",
-    "vi": "Đuôi Mèo Dưa Băng Màn 2"
+    "en": "Ice Cattail 2",
+    "vi": "Mèo Dưa Băng 2"
   },
   "冰瓜香蒲 挑战3": {
-    "en": "Ice Melon Cattail Trial 3",
-    "vi": "Đuôi Mèo Dưa Băng Màn 3"
+    "en": "Ice Cattail 3",
+    "vi": "Mèo Dưa Băng 3"
   },
   "冰霜巨人": {
     "en": "Frost Gargantuar",
@@ -637,7 +637,7 @@
   },
   "初始时光": {
     "en": "Genesis Era",
-    "vi": "Thời Kỳ Khởi Nguyên"
+    "vi": "Khởi Nguyên"
   },
   "前院告急 1-1": {
     "en": "Front Yard 1-1",
@@ -696,24 +696,24 @@
     "vi": "Công Viên Thú"
   },
   "十日凌空": {
-    "en": "Ten Scorching Suns",
+    "en": "Ten Suns",
     "vi": "Mười Mặt Trời"
   },
   "千里冰封": {
     "en": "Frozen Miles",
-    "vi": "Ngàn Dặm Đóng Băng"
+    "vi": "Ngàn Dặm Băng"
   },
   "升级消耗：%d 钻石": {
     "en": "Upgrade Cost: %d Gems",
     "vi": "Nâng cấp: %d Kim Cương"
   },
   "升职加薪": {
-    "en": "Raise & Promotion",
-    "vi": "Thăng Chức Tăng Lương"
+    "en": "Promotion",
+    "vi": "Thăng Chức"
   },
   "南征北调": {
-    "en": "Grand Campaign",
-    "vi": "Nam Chinh Bắc Chiến"
+    "en": "Campaign",
+    "vi": "Nam Chinh Bắc"
   },
   "南瓜基地": {
     "en": "Pumpkin Base",
@@ -728,44 +728,44 @@
     "vi": "Bộ thẻ"
   },
   "卡牌模仿者 挑战1": {
-    "en": "Card Imitater Trial 1",
-    "vi": "Thẻ Giả Mạo Màn 1"
+    "en": "Card Imitater 1",
+    "vi": "Thẻ Giả Mạo 1"
   },
   "卡牌模仿者 挑战2": {
-    "en": "Card Imitater Trial 2",
-    "vi": "Thẻ Giả Mạo Màn 2"
+    "en": "Card Imitater 2",
+    "vi": "Thẻ Giả Mạo 2"
   },
   "卡牌模仿者 挑战3": {
-    "en": "Card Imitater Trial 3",
-    "vi": "Thẻ Giả Mạo Màn 3"
+    "en": "Card Imitater 3",
+    "vi": "Thẻ Giả Mạo 3"
   },
   "卡牌模仿者 挑战4": {
-    "en": "Card Imitater Trial 4",
-    "vi": "Thẻ Giả Mạo Màn 4"
+    "en": "Card Imitater 4",
+    "vi": "Thẻ Giả Mạo 4"
   },
   "卡牌模仿者 挑战5": {
-    "en": "Card Imitater Trial 5",
-    "vi": "Thẻ Giả Mạo Màn 5"
+    "en": "Card Imitater 5",
+    "vi": "Thẻ Giả Mạo 5"
   },
   "卡牌模仿者 挑战6": {
-    "en": "Card Imitater Trial 6",
-    "vi": "Thẻ Giả Mạo Màn 6"
+    "en": "Card Imitater 6",
+    "vi": "Thẻ Giả Mạo 6"
   },
   "即将清空所有植物与僵尸": {
     "en": "Clearing all plants & zombies!",
     "vi": "Sắp xóa hết cây và zombie!"
   },
   "卷心菜重炮连 挑战1": {
-    "en": "Cabbage Battery Trial 1",
-    "vi": "Pháo Đội Bắp Cải Màn 1"
+    "en": "Cabbage 1",
+    "vi": "Pháo Bắp Cải 1"
   },
   "卷心菜重炮连 挑战2": {
-    "en": "Cabbage Battery Trial 2",
-    "vi": "Pháo Đội Bắp Cải Màn 2"
+    "en": "Cabbage 2",
+    "vi": "Pháo Bắp Cải 2"
   },
   "卷心菜重炮连 挑战3": {
-    "en": "Cabbage Battery Trial 3",
-    "vi": "Pháo Đội Bắp Cải Màn 3"
+    "en": "Cabbage 3",
+    "vi": "Pháo Bắp Cải 3"
   },
   "原地爆炸": {
     "en": "Instant Boom",
@@ -784,8 +784,8 @@
     "vi": "Hủy"
   },
   "变幻莫测": {
-    "en": "Ever-Changing",
-    "vi": "Biến Ảo Khôn Lường"
+    "en": "Ever-Change",
+    "vi": "Biến Ảo"
   },
   "只能种在冰瓜大喷菇上！": {
     "en": "Must plant on Ice Melon Fume-shroom!",
@@ -820,28 +820,28 @@
     "vi": "Đồng ý"
   },
   "向日葵女王 挑战1": {
-    "en": "Sunflower Queen Trial 1",
-    "vi": "Nữ Hoàng Hướng Dương Màn 1"
+    "en": "Sun Queen 1",
+    "vi": "Nữ Hoàng HD 1"
   },
   "向日葵女王 挑战2": {
-    "en": "Sunflower Queen Trial 2",
-    "vi": "Nữ Hoàng Hướng Dương Màn 2"
+    "en": "Sun Queen 2",
+    "vi": "Nữ Hoàng HD 2"
   },
   "向日葵女王 挑战3": {
-    "en": "Sunflower Queen Trial 3",
-    "vi": "Nữ Hoàng Hướng Dương Màn 3"
+    "en": "Sun Queen 3",
+    "vi": "Nữ Hoàng HD 3"
   },
   "否": {
     "en": "No",
     "vi": "Không"
   },
   "吸金磁射手": {
-    "en": "Gold Magnet Shooter",
-    "vi": "Xạ Thủ Hút Vàng"
+    "en": "Gold Shooter",
+    "vi": "Súng Hút Vàng"
   },
   "唱片机胆小菇": {
-    "en": "Gramophone Scaredy-shroom",
-    "vi": "Nấm Nhút Nhát Máy Hát"
+    "en": "Phono Shroom",
+    "vi": "Nấm Máy Hát"
   },
   "商店副本": {
     "en": "Shop Stages",
@@ -953,7 +953,7 @@
   },
   "园艺危机": {
     "en": "Garden Crisis",
-    "vi": "Khủng Hoảng Làm Vườn"
+    "vi": "Nguy Cơ Vườn"
   },
   "困难模式": {
     "en": "Hard",
@@ -984,12 +984,12 @@
     "vi": "Quà Giáng Sinh"
   },
   "圣诞礼盒": {
-    "en": "Christmas Present",
-    "vi": "Hộp Quà Giáng Sinh"
+    "en": "Xmas Gift",
+    "vi": "Quà Giáng Sinh"
   },
   "地刺空间": {
-    "en": "Spikerock Zone",
-    "vi": "Không Gian Gai Nhọn"
+    "en": "Spike Zone",
+    "vi": "Vùng Gai Nhọn"
   },
   "场上还能种植：%d 株植物": {
     "en": "Plant Limit Left: %d",
@@ -1008,16 +1008,16 @@
     "vi": "Bowling Hạt Dẻ"
   },
   "坚果保龄球 无尽版": {
-    "en": "Bowling Endless",
-    "vi": "Bowling Hạt Dẻ Vô Tận"
+    "en": "Bowling Inf.",
+    "vi": "Bowling Vô Tận"
   },
   "坚果保龄球2": {
-    "en": "Wall-nut Bowling 2",
-    "vi": "Bowling Hạt Dẻ 2"
+    "en": "Bowling 2",
+    "vi": "Bowling 2"
   },
   "坚果保龄球3": {
-    "en": "Wall-nut Bowling 3",
-    "vi": "Bowling Hạt Dẻ 3"
+    "en": "Bowling 3",
+    "vi": "Bowling 3"
   },
   "坚果存钱罐": {
     "en": "Nut Piggy Bank",
@@ -1068,72 +1068,72 @@
     "vi": "Căn Cứ Ban Đêm"
   },
   "大嘴机枪射手 挑战1": {
-    "en": "Chomper Gatling Pea Trial 1",
-    "vi": "Súng Máy Răng Hổ Màn 1"
+    "en": "Chomp Pea 1",
+    "vi": "Súng Răng Hổ 1"
   },
   "大嘴机枪射手 挑战2": {
-    "en": "Chomper Gatling Pea Trial 2",
-    "vi": "Súng Máy Răng Hổ Màn 2"
+    "en": "Chomp Pea 2",
+    "vi": "Súng Răng Hổ 2"
   },
   "大嘴机枪射手 挑战3": {
-    "en": "Chomper Gatling Pea Trial 3",
-    "vi": "Súng Máy Răng Hổ Màn 3"
+    "en": "Chomp Pea 3",
+    "vi": "Súng Răng Hổ 3"
   },
   "大嘴派对": {
     "en": "Chomper Party",
     "vi": "Tiệc Răng Hổ"
   },
   "大嘴玉米蟹": {
-    "en": "Chomper Corn Crab",
-    "vi": "Cua Bắp Ăn Thịt"
+    "en": "Chomp Crab",
+    "vi": "Cua Bắp"
   },
   "大嘴领地": {
-    "en": "Chomper Territory",
-    "vi": "Lãnh Địa Răng Hổ"
+    "en": "Chomp Land",
+    "vi": "Vùng Răng Hổ"
   },
   "大波僵尸": {
     "en": "Massive Horde",
-    "vi": "Biển Zombie Khổng Lồ"
+    "vi": "Đại Quân ZB"
   },
   "大海归途": {
     "en": "Homeward Sea",
     "vi": "Đường Về Biển Cả"
   },
   "大王钢齿花 挑战1": {
-    "en": "Iron-Jaw Chomper Trial 1",
-    "vi": "Đại Vương Răng Thép Màn 1"
+    "en": "Iron-Jaw 1",
+    "vi": "Răng Thép 1"
   },
   "大王钢齿花 挑战2": {
-    "en": "Iron-Jaw Chomper Trial 2",
-    "vi": "Đại Vương Răng Thép Màn 2"
+    "en": "Iron-Jaw 2",
+    "vi": "Răng Thép 2"
   },
   "大王钢齿花 挑战3": {
-    "en": "Iron-Jaw Chomper Trial 3",
-    "vi": "Đại Vương Răng Thép Màn 3"
+    "en": "Iron-Jaw 3",
+    "vi": "Răng Thép 3"
   },
   "头脑风暴 挑战1": {
-    "en": "Brainstorm Trial 1",
-    "vi": "Cơn Bão Não Màn 1"
+    "en": "Brainstorm 1",
+    "vi": "Bão Não 1"
   },
   "头脑风暴 挑战2": {
-    "en": "Brainstorm Trial 2",
-    "vi": "Cơn Bão Não Màn 2"
+    "en": "Brainstorm 2",
+    "vi": "Bão Não 2"
   },
   "头脑风暴 挑战3": {
-    "en": "Brainstorm Trial 3",
-    "vi": "Cơn Bão Não Màn 3"
+    "en": "Brainstorm 3",
+    "vi": "Bão Não 3"
   },
   "头脑风暴 挑战4": {
-    "en": "Brainstorm Trial 4",
-    "vi": "Cơn Bão Não Màn 4"
+    "en": "Brainstorm 4",
+    "vi": "Bão Não 4"
   },
   "头脑风暴 挑战5": {
-    "en": "Brainstorm Trial 5",
-    "vi": "Cơn Bão Não Màn 5"
+    "en": "Brainstorm 5",
+    "vi": "Bão Não 5"
   },
   "头脑风暴 挑战6": {
-    "en": "Brainstorm Trial 6",
-    "vi": "Cơn Bão Não Màn 6"
+    "en": "Brainstorm 6",
+    "vi": "Bão Não 6"
   },
   "好": {
     "en": "OK",
@@ -1145,99 +1145,99 @@
   },
   "宝石迷阵": {
     "en": "Beghouled",
-    "vi": "Ghép Ngọc Thực Vật"
+    "vi": "Ghép Ngọc"
   },
   "宝石迷阵 无尽版": {
-    "en": "Beghouled Endless",
-    "vi": "Xếp Ngọc Vô Tận"
+    "en": "Beghouled Inf.",
+    "vi": "Xếp Ngọc Inf."
   },
   "宝石迷阵 转转看": {
     "en": "Beghouled Twist",
-    "vi": "Xếp Ngọc Xoay Vòng"
+    "vi": "Ngọc Xoay"
   },
   "宝石迷阵 闪电战": {
     "en": "Beghouled Blitz",
-    "vi": "Xếp Ngọc Tốc Chiến"
+    "vi": "Ngọc Tốc Chiến"
   },
   "宝藏吞噬者 挑战1": {
-    "en": "Treasure Eater Trial 1",
-    "vi": "Kẻ Nuốt Kho Báu Màn 1"
+    "en": "Loot Eater 1",
+    "vi": "Nuốt Kho Báu 1"
   },
   "宝藏吞噬者 挑战2": {
-    "en": "Treasure Eater Trial 2",
-    "vi": "Kẻ Nuốt Kho Báu Màn 2"
+    "en": "Loot Eater 2",
+    "vi": "Nuốt Kho Báu 2"
   },
   "宝藏吞噬者 挑战3": {
-    "en": "Treasure Eater Trial 3",
-    "vi": "Kẻ Nuốt Kho Báu Màn 3"
+    "en": "Loot Eater 3",
+    "vi": "Nuốt Kho Báu 3"
   },
   "宝藏吞噬者 挑战4": {
-    "en": "Treasure Eater Trial 4",
-    "vi": "Kẻ Nuốt Kho Báu Màn 4"
+    "en": "Loot Eater 4",
+    "vi": "Nuốt Kho Báu 4"
   },
   "宝藏吞噬者 挑战5": {
-    "en": "Treasure Eater Trial 5",
-    "vi": "Kẻ Nuốt Kho Báu Màn 5"
+    "en": "Loot Eater 5",
+    "vi": "Nuốt Kho Báu 5"
   },
   "宝藏吞噬者 挑战6": {
-    "en": "Treasure Eater Trial 6",
-    "vi": "Kẻ Nuốt Kho Báu Màn 6"
+    "en": "Loot Eater 6",
+    "vi": "Nuốt Kho Báu 6"
   },
   "实验末路": {
     "en": "Lab Finale",
-    "vi": "Hồi Kết Phòng Thí Nghiệm"
+    "vi": "Kết Thúc Lab"
   },
   "寒兵菇射手": {
     "en": "Ice Sea Shooter",
     "vi": "Đậu Nấm Băng"
   },
   "寒冰加农炮 挑战1": {
-    "en": "Frost Cob Cannon Trial 1",
-    "vi": "Pháo Bắp Băng Giá Màn 1"
+    "en": "Frost Cob 1",
+    "vi": "Pháo Bắp Băng 1"
   },
   "寒冰加农炮 挑战2": {
-    "en": "Frost Cob Cannon Trial 2",
-    "vi": "Pháo Bắp Băng Giá Màn 2"
+    "en": "Frost Cob 2",
+    "vi": "Pháo Bắp Băng 2"
   },
   "寒冰加农炮 挑战3": {
-    "en": "Frost Cob Cannon Trial 3",
-    "vi": "Pháo Bắp Băng Giá Màn 3"
+    "en": "Frost Cob 3",
+    "vi": "Pháo Bắp Băng 3"
   },
   "寒冰大嘴花": {
     "en": "Ice Chomper",
     "vi": "Ăn Thịt Băng"
   },
   "寒冰菇王 挑战1": {
-    "en": "Ice-shroom King Trial 1",
-    "vi": "Vua Nấm Băng Màn 1"
+    "en": "Ice King 1",
+    "vi": "Vua Nấm Băng 1"
   },
   "寒冰菇王 挑战2": {
-    "en": "Ice-shroom King Trial 2",
-    "vi": "Vua Nấm Băng Màn 2"
+    "en": "Ice King 2",
+    "vi": "Vua Nấm Băng 2"
   },
   "寒冰菇王 挑战3": {
-    "en": "Ice-shroom King Trial 3",
-    "vi": "Vua Nấm Băng Màn 3"
+    "en": "Ice King 3",
+    "vi": "Vua Nấm Băng 3"
   },
   "寒冰菇王 挑战4": {
-    "en": "Ice-shroom King Trial 4",
-    "vi": "Vua Nấm Băng Màn 4"
+    "en": "Ice King 4",
+    "vi": "Vua Nấm Băng 4"
   },
   "寒冰菇王 挑战5": {
-    "en": "Ice-shroom King Trial 5",
-    "vi": "Vua Nấm Băng Màn 5"
+    "en": "Ice King 5",
+    "vi": "Vua Nấm Băng 5"
   },
   "寒冰菇王 挑战6": {
-    "en": "Ice-shroom King Trial 6",
-    "vi": "Vua Nấm Băng Màn 6"
+    "en": "Ice King 6",
+    "vi": "Vua Nấm Băng 6"
   },
   "将从玩家簿中永久删除'%s'！                               ": {
     "en": "This will permanently delete '%s' from the roster!",
     "vi": "Hồ sơ '%s' sẽ bị xóa vĩnh viễn khỏi danh sách!"
   },
   "小丑舞会": {
-    "en": "Jack-in-the-Box Ball",
-    "vi": "Vũ Hội Hề Nổ"
+    "en": "Jester Ball",
+    "vi": "Hội Hề Nổ"
   },
   "小僵尸大麻烦": {
     "en": "Little Trouble",
@@ -1248,7 +1248,7 @@
     "vi": "Suối Chảy 6-1"
   },
   "小河流水 6-10": {
-    "en": "Flowing Creek 6-10",
+    "en": "Creek 6-10",
     "vi": "Suối Chảy 6-10"
   },
   "小河流水 6-11": {
@@ -1349,23 +1349,23 @@
   },
   "巡回列车": {
     "en": "Touring Train",
-    "vi": "Đoàn Tàu Tuần Hành"
+    "vi": "Tàu Tuần Hành"
   },
   "巧克力坚果": {
     "en": "Chocolate Nut",
     "vi": "Hạt Dẻ Sô-cô-la"
   },
   "巨人之城": {
-    "en": "City of Giants",
-    "vi": "Thành Phố Khổng Lồ"
+    "en": "Giant City",
+    "vi": "Thành Khổng Lồ"
   },
   "巨人危机": {
     "en": "Gargantuar Crisis",
     "vi": "Hiểm Họa Khổng Lồ"
   },
   "巨人飞艇": {
-    "en": "Gargantuar Airship",
-    "vi": "Khinh Khí Cầu Khổng Lồ"
+    "en": "Zom Airship",
+    "vi": "Khinh Khí Cầu"
   },
   "已关闭僵尸选卡！": {
     "en": "Zombie Seed Selection OFF!",
@@ -1388,12 +1388,12 @@
     "vi": "Đã trang bị!"
   },
   "幸运四叶草 礼盒僵尸版": {
-    "en": "Lucky Clover: Giftbox",
-    "vi": "Cỏ 4 Lá: Zombie Quà"
+    "en": "Clover Gift",
+    "vi": "Cỏ 4 Lá ZB"
   },
   "幸运的一天": {
     "en": "Lucky Day",
-    "vi": "Một Ngày May Mắn"
+    "vi": "Ngày May Mắn"
   },
   "幽灵之城": {
     "en": "Phantom City",
@@ -1401,19 +1401,19 @@
   },
   "幽灵之战": {
     "en": "Phantom War",
-    "vi": "Cuộc Chiến Bóng Ma"
+    "vi": "Chiến Bóng Ma"
   },
   "幽灵之路": {
     "en": "Phantom Road",
-    "vi": "Con Đường Ma Quái"
+    "vi": "Đường Ma Quái"
   },
   "库存：%d": {
     "en": "Stock: %d",
     "vi": "Kho: %d"
   },
   "废弃花园": {
-    "en": "Abandoned Garden",
-    "vi": "Khu Vườn Bỏ Hoang"
+    "en": "Old Garden",
+    "vi": "Vườn Bỏ Hoang"
   },
   "开始挑战！": {
     "en": "Start Trial!",
@@ -1444,28 +1444,28 @@
     "vi": "Bóng Tối"
   },
   "忧郁南瓜头 挑战1": {
-    "en": "Gloom Pumpkin Trial 1",
-    "vi": "Bí Ngô Ảm Đạm Màn 1"
+    "en": "Gloom Nut 1",
+    "vi": "Bí Ảm Đạm 1"
   },
   "忧郁南瓜头 挑战2": {
-    "en": "Gloom Pumpkin Trial 2",
-    "vi": "Bí Ngô Ảm Đạm Màn 2"
+    "en": "Gloom Nut 2",
+    "vi": "Bí Ảm Đạm 2"
   },
   "忧郁南瓜头 挑战3": {
-    "en": "Gloom Pumpkin Trial 3",
-    "vi": "Bí Ngô Ảm Đạm Màn 3"
+    "en": "Gloom Nut 3",
+    "vi": "Bí Ảm Đạm 3"
   },
   "忧郁咖啡豆 挑战1": {
-    "en": "Gloom Coffee Bean Trial 1",
-    "vi": "Đậu Cà Phê Ảm Đạm Màn 1"
+    "en": "Gloom Bean 1",
+    "vi": "Cà Phê Ảm 1"
   },
   "忧郁咖啡豆 挑战2": {
-    "en": "Gloom Coffee Bean Trial 2",
-    "vi": "Đậu Cà Phê Ảm Đạm Màn 2"
+    "en": "Gloom Bean 2",
+    "vi": "Cà Phê Ảm 2"
   },
   "忧郁咖啡豆 挑战3": {
-    "en": "Gloom Coffee Bean Trial 3",
-    "vi": "Đậu Cà Phê Ảm Đạm Màn 3"
+    "en": "Gloom Bean 3",
+    "vi": "Cà Phê Ảm 3"
   },
   "恐惧僵尸": {
     "en": "Terrified Zombies",
@@ -1484,28 +1484,28 @@
     "vi": "Nhận Thưởng Cập Nhật!"
   },
   "惩戒牢笼 挑战1": {
-    "en": "Prison Cage Trial 1",
-    "vi": "Lồng Giam Trừng Phạt Màn 1"
+    "en": "Prison Cage 1",
+    "vi": "Ngục Giam 1"
   },
   "惩戒牢笼 挑战2": {
-    "en": "Prison Cage Trial 2",
-    "vi": "Lồng Giam Trừng Phạt Màn 2"
+    "en": "Prison Cage 2",
+    "vi": "Ngục Giam 2"
   },
   "惩戒牢笼 挑战3": {
-    "en": "Prison Cage Trial 3",
-    "vi": "Lồng Giam Trừng Phạt Màn 3"
+    "en": "Prison Cage 3",
+    "vi": "Ngục Giam 3"
   },
   "惩戒牢笼 挑战4": {
-    "en": "Prison Cage Trial 4",
-    "vi": "Lồng Giam Trừng Phạt Màn 4"
+    "en": "Prison Cage 4",
+    "vi": "Ngục Giam 4"
   },
   "惩戒牢笼 挑战5": {
-    "en": "Prison Cage Trial 5",
-    "vi": "Lồng Giam Trừng Phạt Màn 5"
+    "en": "Prison Cage 5",
+    "vi": "Ngục Giam 5"
   },
   "惩戒牢笼 挑战6": {
-    "en": "Prison Cage Trial 6",
-    "vi": "Lồng Giam Trừng Phạt Màn 6"
+    "en": "Prison Cage 6",
+    "vi": "Ngục Giam 6"
   },
   "成功出战此英雄！": {
     "en": "Hero Deployed!",
@@ -1524,20 +1524,20 @@
     "vi": "Tôi Là Zombie"
   },
   "我是僵尸无尽版": {
-    "en": "I, Zombie Endless",
-    "vi": "Tôi Là Zombie Vô Tận"
+    "en": "I, Zombie Inf.",
+    "vi": "Là ZB Vô Tận"
   },
   "戴夫博士的无尽复仇": {
-    "en": "Dr. Dave's Endless Revenge",
-    "vi": "Báo Thù Của Tiến Sĩ Dave"
+    "en": "Dr. Dave Wrath",
+    "vi": "Dave Báo Thù"
   },
   "戴夫博士的阴谋": {
-    "en": "Dr. Dave's Plot",
-    "vi": "Âm Mưu Tiến Sĩ Dave"
+    "en": "Dave's Plot",
+    "vi": "Âm Mưu Dave"
   },
   "戴夫的威胁": {
     "en": "Dave's Threat",
-    "vi": "Lời Đe Dọa Của Dave"
+    "vi": "Dave Đe Dọa"
   },
   "所有僵尸血量改为1000": {
     "en": "All zombies set to 1000 HP",
@@ -1600,28 +1600,28 @@
     "vi": "Hộp Quà Bí Ẩn"
   },
   "抽奖盒子 无尽版": {
-    "en": "Mystery Box Endless",
-    "vi": "Hộp Bí Ẩn Vô Tận"
+    "en": "Spin Inf.",
+    "vi": "Hộp Vô Tận"
   },
   "抽奖盒子 礼盒僵尸版": {
-    "en": "Mystery Box: Giftbox",
-    "vi": "Hộp Bí Ẩn: Zombie Quà"
+    "en": "Giftbox Spin",
+    "vi": "Hộp Bí Ẩn ZB"
   },
   "抽奖盒子 自费版": {
-    "en": "Mystery Box: Pay-Per-Spin",
-    "vi": "Hộp Bí Ẩn: Tự Trả Phí"
+    "en": "Paid Spin",
+    "vi": "Hộp Tự Trả"
   },
   "抽奖盒子BOSS版": {
     "en": "Mystery Box Boss",
     "vi": "Hộp Bí Ẩn (Trùm)"
   },
   "抽奖盒子泳池版": {
-    "en": "Mystery Box: Pool",
-    "vi": "Hộp Bí Ẩn (Hồ Bơi)"
+    "en": "Pool Spin",
+    "vi": "Hộp Hồ Bơi"
   },
   "抽奖礼盒 豪华版": {
-    "en": "Deluxe Mystery Box",
-    "vi": "Hộp Quà Hạng Sang"
+    "en": "Deluxe Box",
+    "vi": "Hộp Quà VIP"
   },
   "拒绝": {
     "en": "Decline",
@@ -1632,8 +1632,8 @@
     "vi": "Mèo Chiêu Tài"
   },
   "拿铁的惊喜盒子": {
-    "en": "Latte's Surprise Box",
-    "vi": "Hộp Bất Ngờ Của Latte"
+    "en": "Latte's Box",
+    "vi": "Hộp Quà Latte"
   },
   "挖坑": {
     "en": "Pitfall",
@@ -1648,8 +1648,8 @@
     "vi": "Đảo Ngược Vị Trí"
   },
   "接着奏乐接着舞": {
-    "en": "Keep Playing, Keep Dancing",
-    "vi": "Nhạc Lên Quẩy Tiếp"
+    "en": "Keep Dancing",
+    "vi": "Nhạc Lên Quẩy"
   },
   "控制台": {
     "en": "Console",
@@ -1680,16 +1680,16 @@
     "vi": "Sẵn Sàng Xuất Kích"
   },
   "斗地主 1分": {
-    "en": "Landlord: 1-Pt",
-    "vi": "Đấu Địa Chủ: 1 Điểm"
+    "en": "Cards 1-Pt",
+    "vi": "Bài 1 Điểm"
   },
   "斗地主 2分": {
-    "en": "Landlord: 2-Pt",
-    "vi": "Đấu Địa Chủ: 2 Điểm"
+    "en": "Cards 2-Pt",
+    "vi": "Bài 2 Điểm"
   },
   "斗地主 3分": {
-    "en": "Landlord: 3-Pt",
-    "vi": "Đấu Địa Chủ: 3 Điểm"
+    "en": "Cards 3-Pt",
+    "vi": "Bài 3 Điểm"
   },
   "新手保护期": {
     "en": "Rookie Grace",
@@ -1704,7 +1704,7 @@
     "vi": "Khởi Hành 4-1"
   },
   "旅途启程 4-10": {
-    "en": "Journey's Start 4-10",
+    "en": "Start 4-10",
     "vi": "Khởi Hành 4-10"
   },
   "旅途启程 4-11": {
@@ -1752,7 +1752,7 @@
     "vi": "Hồi Kết 8-1"
   },
   "旅途终局 8-10": {
-    "en": "Journey's End 8-10",
+    "en": "End 8-10",
     "vi": "Hồi Kết 8-10"
   },
   "旅途终局 8-11": {
@@ -1804,76 +1804,76 @@
     "vi": "Triển Lãm Vô Tận 2"
   },
   "无尽模式：三分天下": {
-    "en": "Endless: Tri-Kingdoms",
-    "vi": "Vô Tận: Thế Chân Vạc"
+    "en": "Inf: Tri-Land",
+    "vi": "Inf: Chân Vạc"
   },
   "无尽模式：丛林": {
-    "en": "Endless: Jungle",
-    "vi": "Vô Tận: Rừng Rậm"
+    "en": "Inf: Jungle",
+    "vi": "Inf: Rừng Rậm"
   },
   "无尽模式：传送带": {
-    "en": "Endless: Conveyor",
-    "vi": "Vô Tận: Băng Chuyền"
+    "en": "Inf: Conveyor",
+    "vi": "Inf: Chuyền"
   },
   "无尽模式：全泳池\n": {
     "en": "Endless: Full Pool",
     "vi": "Vô Tận: Toàn Hồ Bơi"
   },
   "无尽模式：反转泳池": {
-    "en": "Endless: Reverse Pool",
-    "vi": "Vô Tận: Hồ Đảo Ngược"
+    "en": "Inf: Rev Pool",
+    "vi": "Inf: Đảo Hồ"
   },
   "无尽模式：四海": {
-    "en": "Endless: Four Seas",
-    "vi": "Vô Tận: Tứ Hải"
+    "en": "Inf: 4 Seas",
+    "vi": "Inf: Tứ Hải"
   },
   "无尽模式：夜晚": {
     "en": "Endless: Night",
     "vi": "Vô Tận: Ban Đêm"
   },
   "无尽模式：夜晚裸地": {
-    "en": "Endless: Bare Night",
-    "vi": "Vô Tận: Đêm Đất Trơ"
+    "en": "Inf: Bare Night",
+    "vi": "Inf: Đêm Trơ"
   },
   "无尽模式：山谷泳池": {
-    "en": "Endless: Valley Pool",
-    "vi": "Vô Tận: Hồ Thung Lũng"
+    "en": "Inf: Valley",
+    "vi": "Inf: Thung Lũng"
   },
   "无尽模式：平面屋顶": {
-    "en": "Endless: Flat Roof",
-    "vi": "Vô Tận: Mái Phẳng"
+    "en": "Inf: Flat Roof",
+    "vi": "Inf: Mái Phẳng"
   },
   "无尽模式：月夜池塘": {
-    "en": "Endless: Moon Pond",
-    "vi": "Vô Tận: Ao Đêm Trăng"
+    "en": "Inf: Moon Pond",
+    "vi": "Inf: Ao Trăng"
   },
   "无尽模式：泳池": {
     "en": "Endless: Pool",
     "vi": "Vô Tận: Hồ Bơi"
   },
   "无尽模式：浓雾": {
-    "en": "Endless: Fog",
-    "vi": "Vô Tận: Sương Mù"
+    "en": "Inf: Fog",
+    "vi": "Inf: Sương Mù"
   },
   "无尽模式：深夜池塘": {
-    "en": "Endless: Midnight Pond",
-    "vi": "Vô Tận: Ao Đêm Khuya"
+    "en": "Inf: Midnight",
+    "vi": "Inf: Ao Khuya"
   },
   "无尽模式：白天": {
-    "en": "Endless: Day",
-    "vi": "Vô Tận: Ban Ngày"
+    "en": "Inf: Day",
+    "vi": "Inf: Ban Ngày"
   },
   "无尽模式：白天裸地": {
-    "en": "Endless: Bare Day",
-    "vi": "Vô Tận: Ngày Đất Trơ"
+    "en": "Inf: Bare Day",
+    "vi": "Inf: Ngày Trơ"
   },
   "无尽模式：种子雨": {
-    "en": "Endless: Seed Rain",
-    "vi": "Vô Tận: Mưa Hạt Giống"
+    "en": "Inf: Seed Rain",
+    "vi": "Inf: Mưa Hạt"
   },
   "无尽模式：金银岛": {
-    "en": "Endless: Treasure Isle",
-    "vi": "Vô Tận: Đảo Kho Báu"
+    "en": "Inf: Isle",
+    "vi": "Inf: Đảo Vàng"
   },
   "无尽模式：金银港\n": {
     "en": "Endless: Gold Harbor",
@@ -1892,20 +1892,20 @@
     "vi": "Gọng Kìm Vô Tận"
   },
   "无尽的夹击(泳池)": {
-    "en": "Pool Pincer Endless",
-    "vi": "Gọng Kìm Vô Tận (Hồ)"
+    "en": "Pool Pincer",
+    "vi": "Kẹp Đôi (Hồ)"
   },
   "无尽的宝藏": {
     "en": "Endless Treasure",
     "vi": "Kho Báu Vô Tận"
   },
   "无尽的宝藏 2": {
-    "en": "Endless Treasure 2",
+    "en": "Treasure 2",
     "vi": "Kho Báu Vô Tận 2"
   },
   "无尽的宝藏BOSS版": {
     "en": "Treasure Boss",
-    "vi": "Kho Báu Vô Tận (Trùm)"
+    "vi": "Kho Báu BOSS"
   },
   "无尽的幸运": {
     "en": "Endless Fortune",
@@ -1913,19 +1913,19 @@
   },
   "无尽的幸运BOSS版": {
     "en": "Fortune Boss",
-    "vi": "May Mắn Vô Tận (Trùm)"
+    "vi": "May Mắn BOSS"
   },
   "无尽的物资": {
     "en": "Endless Supplies",
     "vi": "Tiếp Tế Vô Tận"
   },
   "无尽的穿越": {
-    "en": "Endless Timewarp",
-    "vi": "Xuyên Không Vô Tận"
+    "en": "Warp Inf.",
+    "vi": "Xuyên Không"
   },
   "无尽能源": {
-    "en": "Infinite Energy",
-    "vi": "Năng Lượng Vô Tận"
+    "en": "Inf. Energy",
+    "vi": "Năng Lượng Inf"
   },
   "无草皮之地": {
     "en": "Unsodded",
@@ -1956,8 +1956,8 @@
     "vi": "Vào thử thách này?"
   },
   "昼夜交替": {
-    "en": "Day-Night Shift",
-    "vi": "Ngày Đêm Luân Phiên"
+    "en": "Day-Night",
+    "vi": "Đảo Ngày Đêm"
   },
   "晨昏线": {
     "en": "Twilight Line",
@@ -1972,8 +1972,8 @@
     "vi": "Sức Mạnh Bóng Tối"
   },
   "暗影空间": {
-    "en": "Shadow Space",
-    "vi": "Không Gian Bóng Tối"
+    "en": "Shadow Zone",
+    "vi": "Vùng Bóng Tối"
   },
   "更多卡槽！ ": {
     "en": "More Seed Slots!",
@@ -2021,7 +2021,7 @@
   },
   "未来科技": {
     "en": "Future Tech",
-    "vi": "Công Nghệ Tương Lai"
+    "vi": "Công Nghệ Mới"
   },
   "未获得！": {
     "en": "Locked!",
@@ -2032,12 +2032,12 @@
     "vi": "Đặc tính màn"
   },
   "机制堡垒": {
-    "en": "Mechanical Bastion",
-    "vi": "Pháo Đài Cơ Khí"
+    "en": "Mech Bastion",
+    "vi": "Pháo Đài Máy"
   },
   "杀虫剂大喷菇": {
-    "en": "Bug Spray Fume-shroom",
-    "vi": "Nấm Phun Diệt Sâu"
+    "en": "Spray Shroom",
+    "vi": "Nấm Diệt Sâu"
   },
   "杂交属于正常普通改版，每个版本都有自己\n的特色，请勿与其他任何改版进行过多或者\n不必要的对比，请勿过度吹捧杂交版去贬低\n其他游戏和改版，希望玩家也可以不在公开\n场合以及其他版本交流板块提出奇怪言论等\n不恰当行为，共同守护游戏环境和风气！": {
     "en": "PvZ Hybrid is an independent fan mod, each version with its own charm. Please avoid excessive comparisons or putting down other mods and games, and keep discussions respectful!",
@@ -2048,8 +2048,8 @@
     "vi": "Thăm Làng Cổ 7-1"
   },
   "村庄历险 7-10": {
-    "en": "Village Tale 7-10",
-    "vi": "Thăm Làng Cổ 7-10"
+    "en": "Village 7-10",
+    "vi": "Làng Cổ 7-10"
   },
   "村庄历险 7-11": {
     "en": "Village Tale 7-11",
@@ -2092,28 +2092,28 @@
     "vi": "Thăm Làng Cổ 7-9"
   },
   "极寒冰菇 挑战1": {
-    "en": "Supreme Ice-shroom Trial 1",
-    "vi": "Nấm Băng Cực Hạn Màn 1"
+    "en": "Cryo Shroom 1",
+    "vi": "Băng Cực Hạn 1"
   },
   "极寒冰菇 挑战2": {
-    "en": "Supreme Ice-shroom Trial 2",
-    "vi": "Nấm Băng Cực Hạn Màn 2"
+    "en": "Cryo Shroom 2",
+    "vi": "Băng Cực Hạn 2"
   },
   "极寒冰菇 挑战3": {
-    "en": "Supreme Ice-shroom Trial 3",
-    "vi": "Nấm Băng Cực Hạn Màn 3"
+    "en": "Cryo Shroom 3",
+    "vi": "Băng Cực Hạn 3"
   },
   "极寒冰菇 挑战4": {
-    "en": "Supreme Ice-shroom Trial 4",
-    "vi": "Nấm Băng Cực Hạn Màn 4"
+    "en": "Cryo Shroom 4",
+    "vi": "Băng Cực Hạn 4"
   },
   "极寒冰菇 挑战5": {
-    "en": "Supreme Ice-shroom Trial 5",
-    "vi": "Nấm Băng Cực Hạn Màn 5"
+    "en": "Cryo Shroom 5",
+    "vi": "Băng Cực Hạn 5"
   },
   "极寒冰菇 挑战6": {
-    "en": "Supreme Ice-shroom Trial 6",
-    "vi": "Nấm Băng Cực Hạn Màn 6"
+    "en": "Cryo Shroom 6",
+    "vi": "Băng Cực Hạn 6"
   },
   "极限生存": {
     "en": "Extreme Survival",
@@ -2132,56 +2132,56 @@
     "vi": "Phát hiện phiên bản mới!\nĐang mở liên kết tải xuống..."
   },
   "棱镜向日葵 挑战1": {
-    "en": "Prism Sunflower Trial 1",
-    "vi": "Hướng Dương Lăng Kính Màn 1"
+    "en": "Prism Sun 1",
+    "vi": "HD Lăng Kính 1"
   },
   "棱镜向日葵 挑战2": {
-    "en": "Prism Sunflower Trial 2",
-    "vi": "Hướng Dương Lăng Kính Màn 2"
+    "en": "Prism Sun 2",
+    "vi": "HD Lăng Kính 2"
   },
   "棱镜向日葵 挑战3": {
-    "en": "Prism Sunflower Trial 3",
-    "vi": "Hướng Dương Lăng Kính Màn 3"
+    "en": "Prism Sun 3",
+    "vi": "HD Lăng Kính 3"
   },
   "棱镜向日葵 挑战4": {
-    "en": "Prism Sunflower Trial 4",
-    "vi": "Hướng Dương Lăng Kính Màn 4"
+    "en": "Prism Sun 4",
+    "vi": "HD Lăng Kính 4"
   },
   "棱镜向日葵 挑战5": {
-    "en": "Prism Sunflower Trial 5",
-    "vi": "Hướng Dương Lăng Kính Màn 5"
+    "en": "Prism Sun 5",
+    "vi": "HD Lăng Kính 5"
   },
   "棱镜向日葵 挑战6": {
-    "en": "Prism Sunflower Trial 6",
-    "vi": "Hướng Dương Lăng Kính Màn 6"
+    "en": "Prism Sun 6",
+    "vi": "HD Lăng Kính 6"
   },
   "植物僵尸": {
     "en": "Zombotany",
     "vi": "Zombie Thực Vật"
   },
   "植物僵尸 无尽版": {
-    "en": "ZomBotany Endless",
-    "vi": "Zombie Thực Vật Vô Tận"
+    "en": "ZomBotany Inf.",
+    "vi": "Cây ZB Vô Tận"
   },
   "植物僵尸2": {
     "en": "ZomBotany 2",
-    "vi": "Zombie Thực Vật 2"
+    "vi": "Cây Zombie 2"
   },
   "植物僵尸3": {
     "en": "ZomBotany 3",
-    "vi": "Zombie Thực Vật 3"
+    "vi": "Cây Zombie 3"
   },
   "植物僵尸4": {
     "en": "ZomBotany 4",
-    "vi": "Zombie Thực Vật 4"
+    "vi": "Cây Zombie 4"
   },
   "植物危机": {
     "en": "Plant Crisis",
-    "vi": "Khủng Hoảng Thực Vật"
+    "vi": "Nguy Cơ Cây"
   },
   "植物实验": {
     "en": "Plant Lab",
-    "vi": "Thí Nghiệm Thực Vật"
+    "vi": "Thử Nghiệm Cây"
   },
   "植物展览会": {
     "en": "Plant Expo",
@@ -2201,27 +2201,27 @@
   },
   "毁灭之路": {
     "en": "Path of Doom",
-    "vi": "Con Đường Hủy Diệt"
+    "vi": "Đường Hủy Diệt"
   },
   "毁灭加农炮 挑战1": {
-    "en": "Doom Cannon Trial 1",
-    "vi": "Đại Bác Hủy Diệt Màn 1"
+    "en": "Doom Cob 1",
+    "vi": "Pháo Hủy Diệt 1"
   },
   "毁灭加农炮 挑战2": {
-    "en": "Doom Cannon Trial 2",
-    "vi": "Đại Bác Hủy Diệt Màn 2"
+    "en": "Doom Cob 2",
+    "vi": "Pháo Hủy Diệt 2"
   },
   "毁灭加农炮 挑战3": {
-    "en": "Doom Cannon Trial 3",
-    "vi": "Đại Bác Hủy Diệt Màn 3"
+    "en": "Doom Cob 3",
+    "vi": "Pháo Hủy Diệt 3"
   },
   "毁灭阳光": {
     "en": "Doom Sun",
     "vi": "Ánh Dương Hủy Diệt"
   },
   "每天都是月末": {
-    "en": "Month-End Crunch",
-    "vi": "Ngày Nào Cũng Cuối Tháng"
+    "en": "Month-End",
+    "vi": "Tháng Cạn Túi"
   },
   "水上乐园": {
     "en": "Water Park",
@@ -2240,16 +2240,16 @@
     "vi": "Thủy Sinh Thực Vật"
   },
   "汉堡王 挑战1": {
-    "en": "Burger King Trial 1",
-    "vi": "Vua Bánh Burger Màn 1"
+    "en": "Burger King 1",
+    "vi": "Vua Burger 1"
   },
   "汉堡王 挑战2": {
-    "en": "Burger King Trial 2",
-    "vi": "Vua Bánh Burger Màn 2"
+    "en": "Burger King 2",
+    "vi": "Vua Burger 2"
   },
   "汉堡王 挑战3": {
-    "en": "Burger King Trial 3",
-    "vi": "Vua Bánh Burger Màn 3"
+    "en": "Burger King 3",
+    "vi": "Vua Burger 3"
   },
   "泳池狂欢\n": {
     "en": "Pool Carnival",
@@ -2260,7 +2260,7 @@
     "vi": "Hồ Bơi 2-1"
   },
   "泳池防守 2-10": {
-    "en": "Pool Defense 2-10",
+    "en": "Pool 2-10",
     "vi": "Hồ Bơi 2-10"
   },
   "泳池防守 2-11": {
@@ -2308,28 +2308,28 @@
     "vi": "Sương Mù Dị Biến"
   },
   "浪漫夜空": {
-    "en": "Romantic Night Sky",
-    "vi": "Đêm Đầy Sao Lãng Mạn"
+    "en": "Night Sky",
+    "vi": "Đêm Lãng Mạn"
   },
   "浪漫山谷": {
-    "en": "Romantic Valley",
-    "vi": "Thung Lũng Lãng Mạn"
+    "en": "Sweet Valley",
+    "vi": "Thung Lũng"
   },
   "浪漫结局": {
     "en": "Romantic Finale",
     "vi": "Kết Thúc Lãng Mạn"
   },
   "浴火三线射手 挑战1": {
-    "en": "Phoenix Threepeater Trial 1",
-    "vi": "Hỏa Bộc Phượng Lan Màn 1"
+    "en": "Phoenix Pea 1",
+    "vi": "Phượng Lan 1"
   },
   "浴火三线射手 挑战2": {
-    "en": "Phoenix Threepeater Trial 2",
-    "vi": "Hỏa Bộc Phượng Lan Màn 2"
+    "en": "Phoenix Pea 2",
+    "vi": "Phượng Lan 2"
   },
   "浴火三线射手 挑战3": {
-    "en": "Phoenix Threepeater Trial 3",
-    "vi": "Hỏa Bộc Phượng Lan Màn 3"
+    "en": "Phoenix Pea 3",
+    "vi": "Phượng Lan 3"
   },
   "海洋时光": {
     "en": "Ocean Era",
@@ -2340,28 +2340,28 @@
     "vi": "Hải Tặc Đổ Bộ"
   },
   "消消乐糖果 挑战1": {
-    "en": "Match-3 Candy Trial 1",
-    "vi": "Kẹo Xóa Đồ Màn 1"
+    "en": "Match Candy 1",
+    "vi": "Kẹo Xóa Đồ 1"
   },
   "消消乐糖果 挑战2": {
-    "en": "Match-3 Candy Trial 2",
-    "vi": "Kẹo Xóa Đồ Màn 2"
+    "en": "Match Candy 2",
+    "vi": "Kẹo Xóa Đồ 2"
   },
   "消消乐糖果 挑战3": {
-    "en": "Match-3 Candy Trial 3",
-    "vi": "Kẹo Xóa Đồ Màn 3"
+    "en": "Match Candy 3",
+    "vi": "Kẹo Xóa Đồ 3"
   },
   "消消乐糖果 挑战4": {
-    "en": "Match-3 Candy Trial 4",
-    "vi": "Kẹo Xóa Đồ Màn 4"
+    "en": "Match Candy 4",
+    "vi": "Kẹo Xóa Đồ 4"
   },
   "消消乐糖果 挑战5": {
-    "en": "Match-3 Candy Trial 5",
-    "vi": "Kẹo Xóa Đồ Màn 5"
+    "en": "Match Candy 5",
+    "vi": "Kẹo Xóa Đồ 5"
   },
   "消消乐糖果 挑战6": {
-    "en": "Match-3 Candy Trial 6",
-    "vi": "Kẹo Xóa Đồ Màn 6"
+    "en": "Match Candy 6",
+    "vi": "Kẹo Xóa Đồ 6"
   },
   "消灭星星": {
     "en": "PopStar!",
@@ -2380,8 +2380,8 @@
     "vi": "Hè Mát Lành 2-1"
   },
   "清凉一夏 2-10": {
-    "en": "Cool Summer 2-10",
-    "vi": "Hè Mát Lành 2-10"
+    "en": "Summer 2-10",
+    "vi": "Mát Lành 2-10"
   },
   "清凉一夏 2-11": {
     "en": "Cool Summer 2-11",
@@ -2432,16 +2432,16 @@
     "vi": "Xóa hết cây"
   },
   "渐入佳境": {
-    "en": "Gaining Momentum",
-    "vi": "Càng Đánh Càng Hay"
+    "en": "Momentum",
+    "vi": "Càng Đánh Hay"
   },
   "港口调查 8-1": {
     "en": "Harbor Watch 8-1",
     "vi": "Cảnh Bến Cảng 8-1"
   },
   "港口调查 8-10": {
-    "en": "Harbor Watch 8-10",
-    "vi": "Cảnh Bến Cảng 8-10"
+    "en": "Harbor 8-10",
+    "vi": "Bến Cảng 8-10"
   },
   "港口调查 8-11": {
     "en": "Harbor Watch 8-11",
@@ -2500,8 +2500,8 @@
     "vi": "Sân Trượt Băng"
   },
   "滕滕的四叶草": {
-    "en": "Tengteng's Blover",
-    "vi": "Cỏ Ba Lá Của Đằng Đằng"
+    "en": "Teng's Blover",
+    "vi": "Cỏ 4 Lá Đằng"
   },
   "滚瓜烂熟": {
     "en": "Melon Roll",
@@ -2525,7 +2525,7 @@
   },
   "火焰女王": {
     "en": "Flame Queen",
-    "vi": "Nữ Hoàng Ngọn Lửa"
+    "vi": "Hoàng Hậu Lửa"
   },
   "炙手可热": {
     "en": "Red-Hot!",
@@ -2533,27 +2533,27 @@
   },
   "炼狱之门": {
     "en": "Hellfire Gate",
-    "vi": "Cánh Cổng Luyện Ngục"
+    "vi": "Cổng Luyện Ngục"
   },
   "烈焰行者": {
     "en": "Flame Strider",
     "vi": "Kẻ Bước Trong Lửa"
   },
   "热狗射手 挑战1": {
-    "en": "Hotdog Shooter Trial 1",
-    "vi": "Xạ Thủ Xúc Xích Kẹp Màn 1"
+    "en": "Hotdog Pea 1",
+    "vi": "Đậu Xúc Xích 1"
   },
   "热狗射手 挑战2": {
-    "en": "Hotdog Shooter Trial 2",
-    "vi": "Xạ Thủ Xúc Xích Kẹp Màn 2"
+    "en": "Hotdog Pea 2",
+    "vi": "Đậu Xúc Xích 2"
   },
   "热狗射手 挑战3": {
-    "en": "Hotdog Shooter Trial 3",
-    "vi": "Xạ Thủ Xúc Xích Kẹp Màn 3"
+    "en": "Hotdog Pea 3",
+    "vi": "Đậu Xúc Xích 3"
   },
   "熔岩炼狱": {
     "en": "Lava Inferno",
-    "vi": "Luyện Ngục Dung Nham"
+    "vi": "Ngục Dung Nham"
   },
   "爆炸装置": {
     "en": "Explosive Device",
@@ -2572,12 +2572,12 @@
     "vi": "Bảo Vệ Trái Tim 3"
   },
   "狂热狙击": {
-    "en": "Frenzied Sniping",
-    "vi": "Bắn Tỉa Cuồng Nhiệt"
+    "en": "Frenzy Snipe",
+    "vi": "Bắn Tỉa Cuồng"
   },
   "狂野之城": {
     "en": "Wild City",
-    "vi": "Thành Phố Hoang Dã"
+    "vi": "Thành Hoang Dã"
   },
   "狂野之境": {
     "en": "Wild Frontier",
@@ -2585,23 +2585,23 @@
   },
   "狂野之路": {
     "en": "Wild Road",
-    "vi": "Con Đường Hoang Dã"
+    "vi": "Đường Hoang Dã"
   },
   "狂野之门": {
     "en": "Wild Gate",
-    "vi": "Cánh Cổng Hoang Dã"
+    "vi": "Cổng Hoang Dã"
   },
   "狂野机枪射手 挑战1": {
-    "en": "Wild Gatling Pea Trial 1",
-    "vi": "Súng Máy Cuồng Dã Màn 1"
+    "en": "Wild Gatling 1",
+    "vi": "Đậu Cuồng Dã 1"
   },
   "狂野机枪射手 挑战2": {
-    "en": "Wild Gatling Pea Trial 2",
-    "vi": "Súng Máy Cuồng Dã Màn 2"
+    "en": "Wild Gatling 2",
+    "vi": "Đậu Cuồng Dã 2"
   },
   "狂野机枪射手 挑战3": {
-    "en": "Wild Gatling Pea Trial 3",
-    "vi": "Súng Máy Cuồng Dã Màn 3"
+    "en": "Wild Gatling 3",
+    "vi": "Đậu Cuồng Dã 3"
   },
   "狂野狙击": {
     "en": "Wild Sniping",
@@ -2624,16 +2624,16 @@
     "vi": "Câu Kết Làm Bậy"
   },
   "猫猫星机枪 挑战1": {
-    "en": "Star-Cat Gatling Pea Trial 1",
-    "vi": "Súng Máy Mèo Ngôi Sao Màn 1"
+    "en": "Star-Cat 1",
+    "vi": "Mèo Ngôi Sao 1"
   },
   "猫猫星机枪 挑战2": {
-    "en": "Star-Cat Gatling Pea Trial 2",
-    "vi": "Súng Máy Mèo Ngôi Sao Màn 2"
+    "en": "Star-Cat 2",
+    "vi": "Mèo Ngôi Sao 2"
   },
   "猫猫星机枪 挑战3": {
-    "en": "Star-Cat Gatling Pea Trial 3",
-    "vi": "Súng Máy Mèo Ngôi Sao Màn 3"
+    "en": "Star-Cat 3",
+    "vi": "Mèo Ngôi Sao 3"
   },
   "玉米大嘴": {
     "en": "Kernel Chompers",
@@ -2648,32 +2648,32 @@
     "vi": "Cội Nguồn Sự Sống"
   },
   "生命重塑者 挑战1": {
-    "en": "Life Rebuilder Trial 1",
-    "vi": "Kẻ Tái Tạo Sinh Mệnh Màn 1"
+    "en": "Relifer 1",
+    "vi": "Tái Sinh 1"
   },
   "生命重塑者 挑战2": {
-    "en": "Life Rebuilder Trial 2",
-    "vi": "Kẻ Tái Tạo Sinh Mệnh Màn 2"
+    "en": "Relifer 2",
+    "vi": "Tái Sinh 2"
   },
   "生命重塑者 挑战3": {
-    "en": "Life Rebuilder Trial 3",
-    "vi": "Kẻ Tái Tạo Sinh Mệnh Màn 3"
+    "en": "Relifer 3",
+    "vi": "Tái Sinh 3"
   },
   "生命重塑者 挑战4": {
-    "en": "Life Rebuilder Trial 4",
-    "vi": "Kẻ Tái Tạo Sinh Mệnh Màn 4"
+    "en": "Relifer 4",
+    "vi": "Tái Sinh 4"
   },
   "生命重塑者 挑战5": {
-    "en": "Life Rebuilder Trial 5",
-    "vi": "Kẻ Tái Tạo Sinh Mệnh Màn 5"
+    "en": "Relifer 5",
+    "vi": "Tái Sinh 5"
   },
   "生命重塑者 挑战6": {
-    "en": "Life Rebuilder Trial 6",
-    "vi": "Kẻ Tái Tạo Sinh Mệnh Màn 6"
+    "en": "Relifer 6",
+    "vi": "Tái Sinh 6"
   },
   "疯狂星期四": {
-    "en": "Crazy Thursday",
-    "vi": "Thứ Năm Điên Cuồng"
+    "en": "Crazy Thu.",
+    "vi": "Thứ Năm Điên"
   },
   "疾步如风": {
     "en": "Swift as the Wind",
@@ -2684,52 +2684,52 @@
     "vi": "Lễ Vật Shirakawa"
   },
   "百僵夜行 7-1": {
-    "en": "Night Parade 7-1",
-    "vi": "Bách Quỷ Dạ Hành 7-1"
+    "en": "Parade 7-1",
+    "vi": "Đêm Quỷ 7-1"
   },
   "百僵夜行 7-10": {
-    "en": "Night Parade 7-10",
-    "vi": "Bách Quỷ Dạ Hành 7-10"
+    "en": "Parade 7-10",
+    "vi": "Đêm Quỷ 7-10"
   },
   "百僵夜行 7-11": {
-    "en": "Night Parade 7-11",
-    "vi": "Bách Quỷ Dạ Hành 7-11"
+    "en": "Parade 7-11",
+    "vi": "Đêm Quỷ 7-11"
   },
   "百僵夜行 7-12": {
-    "en": "Night Parade 7-12",
-    "vi": "Bách Quỷ Dạ Hành 7-12"
+    "en": "Parade 7-12",
+    "vi": "Đêm Quỷ 7-12"
   },
   "百僵夜行 7-2": {
-    "en": "Night Parade 7-2",
-    "vi": "Bách Quỷ Dạ Hành 7-2"
+    "en": "Parade 7-2",
+    "vi": "Đêm Quỷ 7-2"
   },
   "百僵夜行 7-3": {
-    "en": "Night Parade 7-3",
-    "vi": "Bách Quỷ Dạ Hành 7-3"
+    "en": "Parade 7-3",
+    "vi": "Đêm Quỷ 7-3"
   },
   "百僵夜行 7-4": {
-    "en": "Night Parade 7-4",
-    "vi": "Bách Quỷ Dạ Hành 7-4"
+    "en": "Parade 7-4",
+    "vi": "Đêm Quỷ 7-4"
   },
   "百僵夜行 7-5": {
-    "en": "Night Parade 7-5",
-    "vi": "Bách Quỷ Dạ Hành 7-5"
+    "en": "Parade 7-5",
+    "vi": "Đêm Quỷ 7-5"
   },
   "百僵夜行 7-6": {
-    "en": "Night Parade 7-6",
-    "vi": "Bách Quỷ Dạ Hành 7-6"
+    "en": "Parade 7-6",
+    "vi": "Đêm Quỷ 7-6"
   },
   "百僵夜行 7-7": {
-    "en": "Night Parade 7-7",
-    "vi": "Bách Quỷ Dạ Hành 7-7"
+    "en": "Parade 7-7",
+    "vi": "Đêm Quỷ 7-7"
   },
   "百僵夜行 7-8": {
-    "en": "Night Parade 7-8",
-    "vi": "Bách Quỷ Dạ Hành 7-8"
+    "en": "Parade 7-8",
+    "vi": "Đêm Quỷ 7-8"
   },
   "百僵夜行 7-9": {
-    "en": "Night Parade 7-9",
-    "vi": "Bách Quỷ Dạ Hành 7-9"
+    "en": "Parade 7-9",
+    "vi": "Đêm Quỷ 7-9"
   },
   "百轮抽卡": {
     "en": "100-Round Draft",
@@ -2788,16 +2788,16 @@
     "vi": "Mua"
   },
   "磁力地刺王 挑战1": {
-    "en": "Magnet Spikerock Trial 1",
-    "vi": "Vua Gai Nam Châm Màn 1"
+    "en": "Magnet Rock 1",
+    "vi": "Gai Nam Châm 1"
   },
   "磁力地刺王 挑战2": {
-    "en": "Magnet Spikerock Trial 2",
-    "vi": "Vua Gai Nam Châm Màn 2"
+    "en": "Magnet Rock 2",
+    "vi": "Gai Nam Châm 2"
   },
   "磁力地刺王 挑战3": {
-    "en": "Magnet Spikerock Trial 3",
-    "vi": "Vua Gai Nam Châm Màn 3"
+    "en": "Magnet Rock 3",
+    "vi": "Gai Nam Châm 3"
   },
   "礼盒机": {
     "en": "Gift Claw Machine",
@@ -2805,7 +2805,7 @@
   },
   "神奇魔方": {
     "en": "Magic Cube",
-    "vi": "Lập Phương Kỳ Diệu"
+    "vi": "Ma Phương"
   },
   "禁忌任务": {
     "en": "Forbidden Quest",
@@ -2825,7 +2825,7 @@
   },
   "空中漫步": {
     "en": "Skywalk",
-    "vi": "Dạo Bước Trên Không"
+    "vi": "Dạo Trên Mây"
   },
   "空中舞会": {
     "en": "Sky Ball",
@@ -2844,16 +2844,16 @@
     "vi": "Vượt Thung Lũng 5-1"
   },
   "穿越山谷 5-10": {
-    "en": "Across the Valley 5-10",
-    "vi": "Vượt Thung Lũng 5-10"
+    "en": "Valley 5-10",
+    "vi": "Thung Lũng 5-10"
   },
   "穿越山谷 5-11": {
-    "en": "Across the Valley 5-11",
-    "vi": "Vượt Thung Lũng 5-11"
+    "en": "Valley 5-11",
+    "vi": "Thung Lũng 5-11"
   },
   "穿越山谷 5-12": {
-    "en": "Across the Valley 5-12",
-    "vi": "Vượt Thung Lũng 5-12"
+    "en": "Valley 5-12",
+    "vi": "Thung Lũng 5-12"
   },
   "穿越山谷 5-2": {
     "en": "Across the Valley 5-2",
@@ -2888,8 +2888,8 @@
     "vi": "Vượt Thung Lũng 5-9"
   },
   "窝瓜时空": {
-    "en": "Squash Timewarp",
-    "vi": "Không Thời Gian Bí Đè"
+    "en": "Squash Warp",
+    "vi": "Bí Thời Không"
   },
   "窝瓜艺术\n": {
     "en": "Squash Art",
@@ -2908,68 +2908,68 @@
     "vi": "Dễ"
   },
   "精灵菇 挑战1": {
-    "en": "Spirit Shroom Trial 1",
-    "vi": "Nấm Tinh Linh Màn 1"
+    "en": "Spirit Shroom 1",
+    "vi": "Nấm Tinh Linh 1"
   },
   "精灵菇 挑战2": {
-    "en": "Spirit Shroom Trial 2",
-    "vi": "Nấm Tinh Linh Màn 2"
+    "en": "Spirit Shroom 2",
+    "vi": "Nấm Tinh Linh 2"
   },
   "精灵菇 挑战3": {
-    "en": "Spirit Shroom Trial 3",
-    "vi": "Nấm Tinh Linh Màn 3"
+    "en": "Spirit Shroom 3",
+    "vi": "Nấm Tinh Linh 3"
   },
   "精灵菇 挑战4": {
-    "en": "Spirit Shroom Trial 4",
-    "vi": "Nấm Tinh Linh Màn 4"
+    "en": "Spirit Shroom 4",
+    "vi": "Nấm Tinh Linh 4"
   },
   "精灵菇 挑战5": {
-    "en": "Spirit Shroom Trial 5",
-    "vi": "Nấm Tinh Linh Màn 5"
+    "en": "Spirit Shroom 5",
+    "vi": "Nấm Tinh Linh 5"
   },
   "精灵菇 挑战6": {
-    "en": "Spirit Shroom Trial 6",
-    "vi": "Nấm Tinh Linh Màn 6"
+    "en": "Spirit Shroom 6",
+    "vi": "Nấm Tinh Linh 6"
   },
   "精英对决": {
     "en": "Elite Clash",
-    "vi": "Đấu Tay Đôi Tinh Anh"
+    "vi": "Đấu Tinh Anh"
   },
   "细水长流": {
-    "en": "Gentle Stream",
-    "vi": "Dòng Chảy Êm Đềm"
+    "en": "Slow Stream",
+    "vi": "Dòng Êm Đềm"
   },
   "终极决战": {
     "en": "Final Showdown",
     "vi": "Quyết Chiến Cuối"
   },
   "终极复仇": {
-    "en": "Ultimate Revenge",
-    "vi": "Báo Thù Tối Thượng"
+    "en": "Ult. Revenge",
+    "vi": "Báo Thù Cuối"
   },
   "终极实验": {
-    "en": "Final Experiment",
-    "vi": "Thí Nghiệm Cuối Cùng"
+    "en": "Final Lab",
+    "vi": "Thí Nghiệm Cuối"
   },
   "终极战术": {
-    "en": "Ultimate Tactic",
-    "vi": "Chiến Thuật Tối Thượng"
+    "en": "Ult. Tactic",
+    "vi": "Chiến Thuật"
   },
   "终极武器": {
     "en": "Ultimate Weapon",
     "vi": "Vũ Khí Tối Thượng"
   },
   "终极猎手": {
-    "en": "Ultimate Hunter",
-    "vi": "Thợ Săn Tối Thượng"
+    "en": "Ult. Hunter",
+    "vi": "Thợ Săn Cuối"
   },
   "终极计划": {
-    "en": "Final Blueprint",
-    "vi": "Kế Hoạch Tối Thượng"
+    "en": "Final Plan",
+    "vi": "Kế Hoạch Cuối"
   },
   "终极轮盘": {
-    "en": "Final Roulette",
-    "vi": "Vòng Quay Cuối Cùng"
+    "en": "Final Wheel",
+    "vi": "Vòng Quay Cuối"
   },
   "继续夹击": {
     "en": "Double Pincer",
@@ -2977,19 +2977,19 @@
   },
   "继续游戏？        ": {
     "en": "Continue Game?",
-    "vi": "Tiếp Tục Chơi?"
+    "vi": "Tiếp Tục? "
   },
   "绷带坚果炮 挑战1": {
-    "en": "Bandage Nut Cannon Trial 1",
-    "vi": "Pháo Hạt Dẻ Băng Bó Màn 1"
+    "en": "Bandage Cob 1",
+    "vi": "Pháo Băng Bó 1"
   },
   "绷带坚果炮 挑战2": {
-    "en": "Bandage Nut Cannon Trial 2",
-    "vi": "Pháo Hạt Dẻ Băng Bó Màn 2"
+    "en": "Bandage Cob 2",
+    "vi": "Pháo Băng Bó 2"
   },
   "绷带坚果炮 挑战3": {
-    "en": "Bandage Nut Cannon Trial 3",
-    "vi": "Pháo Hạt Dẻ Băng Bó Màn 3"
+    "en": "Bandage Cob 3",
+    "vi": "Pháo Băng Bó 3"
   },
   "罐子王牌": {
     "en": "Ace of Vase",
@@ -3024,68 +3024,68 @@
     "vi": "Ký Ức Nhút Nhát"
   },
   "能力觉醒": {
-    "en": "Power Awakening",
-    "vi": "Thức Tỉnh Năng Lực"
+    "en": "Awakening",
+    "vi": "Thức Tỉnh"
   },
   "膨胀": {
     "en": "Overinflate",
     "vi": "Phình To Quá Cỡ"
   },
   "自选挑战1": {
-    "en": "Custom Challenge 1",
-    "vi": "Thử Thách Tự Chọn 1"
+    "en": "Custom 1",
+    "vi": "Tự Chọn 1"
   },
   "自选挑战2": {
-    "en": "Custom Challenge 2",
-    "vi": "Thử Thách Tự Chọn 2"
+    "en": "Custom 2",
+    "vi": "Tự Chọn 2"
   },
   "自选挑战3": {
-    "en": "Custom Challenge 3",
-    "vi": "Thử Thách Tự Chọn 3"
+    "en": "Custom 3",
+    "vi": "Tự Chọn 3"
   },
   "自选挑战4": {
-    "en": "Custom Challenge 4",
-    "vi": "Thử Thách Tự Chọn 4"
+    "en": "Custom 4",
+    "vi": "Tự Chọn 4"
   },
   "自选挑战5": {
-    "en": "Custom Challenge 5",
-    "vi": "Thử Thách Tự Chọn 5"
+    "en": "Custom 5",
+    "vi": "Tự Chọn 5"
   },
   "自选挑战6": {
-    "en": "Custom Challenge 6",
-    "vi": "Thử Thách Tự Chọn 6"
+    "en": "Custom 6",
+    "vi": "Tự Chọn 6"
   },
   "自选挑战7": {
-    "en": "Custom Challenge 7",
-    "vi": "Thử Thách Tự Chọn 7"
+    "en": "Custom 7",
+    "vi": "Tự Chọn 7"
   },
   "自选挑战8": {
-    "en": "Custom Challenge 8",
-    "vi": "Thử Thách Tự Chọn 8"
+    "en": "Custom 8",
+    "vi": "Tự Chọn 8"
   },
   "至尊VIP坚果 挑战1": {
-    "en": "Supreme VIP Wall-nut Trial 1",
-    "vi": "Óc Chó Siêu VIP Màn 1"
+    "en": "VIP Nut 1",
+    "vi": "Óc Chó VIP 1"
   },
   "至尊VIP坚果 挑战2": {
-    "en": "Supreme VIP Wall-nut Trial 2",
-    "vi": "Óc Chó Siêu VIP Màn 2"
+    "en": "VIP Nut 2",
+    "vi": "Óc Chó VIP 2"
   },
   "至尊VIP坚果 挑战3": {
-    "en": "Supreme VIP Wall-nut Trial 3",
-    "vi": "Óc Chó Siêu VIP Màn 3"
+    "en": "VIP Nut 3",
+    "vi": "Óc Chó VIP 3"
   },
   "至尊VIP树桩 挑战1": {
-    "en": "Supreme VIP Stump Trial 1",
-    "vi": "Gốc Cây Siêu VIP Màn 1"
+    "en": "VIP Stump 1",
+    "vi": "Gốc Cây VIP 1"
   },
   "至尊VIP树桩 挑战2": {
-    "en": "Supreme VIP Stump Trial 2",
-    "vi": "Gốc Cây Siêu VIP Màn 2"
+    "en": "VIP Stump 2",
+    "vi": "Gốc Cây VIP 2"
   },
   "至尊VIP树桩 挑战3": {
-    "en": "Supreme VIP Stump Trial 3",
-    "vi": "Gốc Cây Siêu VIP Màn 3"
+    "en": "VIP Stump 3",
+    "vi": "Gốc Cây VIP 3"
   },
   "至尊坚果": {
     "en": "Supreme Wall-nut",
@@ -3125,11 +3125,11 @@
   },
   "英雄模式": {
     "en": "Hero Mode",
-    "vi": "Anh Hùng"
+    "vi": "Chế độ Anh Hùng"
   },
   "英雄登场": {
-    "en": "Hero Enters!",
-    "vi": "Anh Hùng Xuất Trận"
+    "en": "Hero Enters",
+    "vi": "Anh Hùng Ra"
   },
   "英雄调整": {
     "en": "Hero Setup",
@@ -3140,7 +3140,7 @@
     "vi": "Đất Hoang 1-1"
   },
   "荒芜之地 1-10": {
-    "en": "Barren Lands 1-10",
+    "en": "Barren 1-10",
     "vi": "Đất Hoang 1-10"
   },
   "荒芜之地 1-11": {
@@ -3236,16 +3236,16 @@
     "vi": "Trang bị đồ"
   },
   "西瓜猫蒲 挑战1": {
-    "en": "Melon Cattail Trial 1",
-    "vi": "Đuôi Mèo Dưa Hấu Màn 1"
+    "en": "Melon Cat 1",
+    "vi": "Mèo Dưa Hấu 1"
   },
   "西瓜猫蒲 挑战2": {
-    "en": "Melon Cattail Trial 2",
-    "vi": "Đuôi Mèo Dưa Hấu Màn 2"
+    "en": "Melon Cat 2",
+    "vi": "Mèo Dưa Hấu 2"
   },
   "西瓜猫蒲 挑战3": {
-    "en": "Melon Cattail Trial 3",
-    "vi": "Đuôi Mèo Dưa Hấu Màn 3"
+    "en": "Melon Cat 3",
+    "vi": "Mèo Dưa Hấu 3"
   },
   "西部警长": {
     "en": "Western Sheriff",
@@ -3276,8 +3276,8 @@
     "vi": "Đừng ăn gà liên tục quá nhé!"
   },
   "请摆成柱子": {
-    "en": "Line Up in Columns",
-    "vi": "Xếp Thành Hàng Cột"
+    "en": "Set Columns",
+    "vi": "Xếp Hàng Cột"
   },
   "请输入你的名字,以创建新的用户档案.档案用于保存游戏积分和进度.                                     ": {
     "en": "Please enter your name to create a new player profile for saving scores and progress.",
@@ -3300,48 +3300,48 @@
     "vi": "Đậu Nghịch Nước"
   },
   "豌豆炮 挑战1": {
-    "en": "Pea Cannon Trial 1",
-    "vi": "Đại Bác Đậu Màn 1"
+    "en": "Pea Cannon 1",
+    "vi": "Đại Bác Đậu 1"
   },
   "豌豆炮 挑战2": {
-    "en": "Pea Cannon Trial 2",
-    "vi": "Đại Bác Đậu Màn 2"
+    "en": "Pea Cannon 2",
+    "vi": "Đại Bác Đậu 2"
   },
   "豌豆炮 挑战3": {
-    "en": "Pea Cannon Trial 3",
-    "vi": "Đại Bác Đậu Màn 3"
+    "en": "Pea Cannon 3",
+    "vi": "Đại Bác Đậu 3"
   },
   "豌豆的盲盒": {
-    "en": "Pea Blind Box",
-    "vi": "Hộp Mù Đậu Hà Lan"
+    "en": "Pea Box",
+    "vi": "Hộp Mù Đậu"
   },
   "财神金盏花 挑战1": {
-    "en": "Fortune Marigold Trial 1",
-    "vi": "Thần Tài Vạn Thọ Màn 1"
+    "en": "Fortune 1",
+    "vi": "Thần Tài 1"
   },
   "财神金盏花 挑战2": {
-    "en": "Fortune Marigold Trial 2",
-    "vi": "Thần Tài Vạn Thọ Màn 2"
+    "en": "Fortune 2",
+    "vi": "Thần Tài 2"
   },
   "财神金盏花 挑战3": {
-    "en": "Fortune Marigold Trial 3",
-    "vi": "Thần Tài Vạn Thọ Màn 3"
+    "en": "Fortune 3",
+    "vi": "Thần Tài 3"
   },
   "财神金盏花 挑战4": {
-    "en": "Fortune Marigold Trial 4",
-    "vi": "Thần Tài Vạn Thọ Màn 4"
+    "en": "Fortune 4",
+    "vi": "Thần Tài 4"
   },
   "财神金盏花 挑战5": {
-    "en": "Fortune Marigold Trial 5",
-    "vi": "Thần Tài Vạn Thọ Màn 5"
+    "en": "Fortune 5",
+    "vi": "Thần Tài 5"
   },
   "财神金盏花 挑战6": {
-    "en": "Fortune Marigold Trial 6",
-    "vi": "Thần Tài Vạn Thọ Màn 6"
+    "en": "Fortune 6",
+    "vi": "Thần Tài 6"
   },
   "财运树桩": {
-    "en": "Fortune Torchwood",
-    "vi": "Gốc Cây Tài Lộc"
+    "en": "Lucky Stump",
+    "vi": "Gốc Tài Lộc"
   },
   "赛博狂潮": {
     "en": "Cyber Surge",
@@ -3364,8 +3364,8 @@
     "vi": "Siêu Băng Giá"
   },
   "超级杂交地图": {
-    "en": "Super Hybrid Map",
-    "vi": "Bản Đồ Siêu Lai Tạo"
+    "en": "Hybrid Map",
+    "vi": "Bản Đồ Lai"
   },
   "超级汉堡": {
     "en": "Super Burger",
@@ -3384,64 +3384,64 @@
     "vi": "Chặn Kích Bungee"
   },
   "车轮重塑者 挑战1": {
-    "en": "Mower Relifer Trial 1",
-    "vi": "Xe Tái Tạo Màn 1"
+    "en": "Mower Relifer 1",
+    "vi": "Xe Tái Tạo 1"
   },
   "车轮重塑者 挑战2": {
-    "en": "Mower Relifer Trial 2",
-    "vi": "Xe Tái Tạo Màn 2"
+    "en": "Mower Relifer 2",
+    "vi": "Xe Tái Tạo 2"
   },
   "车轮重塑者 挑战3": {
-    "en": "Mower Relifer Trial 3",
-    "vi": "Xe Tái Tạo Màn 3"
+    "en": "Mower Relifer 3",
+    "vi": "Xe Tái Tạo 3"
   },
   "车轮重塑者 挑战4": {
-    "en": "Mower Relifer Trial 4",
-    "vi": "Xe Tái Tạo Màn 4"
+    "en": "Mower Relifer 4",
+    "vi": "Xe Tái Tạo 4"
   },
   "车轮重塑者 挑战5": {
-    "en": "Mower Relifer Trial 5",
-    "vi": "Xe Tái Tạo Màn 5"
+    "en": "Mower Relifer 5",
+    "vi": "Xe Tái Tạo 5"
   },
   "车轮重塑者 挑战6": {
-    "en": "Mower Relifer Trial 6",
-    "vi": "Xe Tái Tạo Màn 6"
+    "en": "Mower Relifer 6",
+    "vi": "Xe Tái Tạo 6"
   },
   "辣椒杀虫剂": {
     "en": "Chili Bug Spray",
     "vi": "Thuốc Xịt Ớt Cay"
   },
   "辣椒重塑者 挑战1": {
-    "en": "Pepper Relifer Trial 1",
-    "vi": "Ớt Tái Tạo Màn 1"
+    "en": "Pepper Relifer 1",
+    "vi": "Ớt Tái Tạo 1"
   },
   "辣椒重塑者 挑战2": {
-    "en": "Pepper Relifer Trial 2",
-    "vi": "Ớt Tái Tạo Màn 2"
+    "en": "Pepper Relifer 2",
+    "vi": "Ớt Tái Tạo 2"
   },
   "辣椒重塑者 挑战3": {
-    "en": "Pepper Relifer Trial 3",
-    "vi": "Ớt Tái Tạo Màn 3"
+    "en": "Pepper Relifer 3",
+    "vi": "Ớt Tái Tạo 3"
   },
   "辣椒重塑者 挑战4": {
-    "en": "Pepper Relifer Trial 4",
-    "vi": "Ớt Tái Tạo Màn 4"
+    "en": "Pepper Relifer 4",
+    "vi": "Ớt Tái Tạo 4"
   },
   "辣椒重塑者 挑战5": {
-    "en": "Pepper Relifer Trial 5",
-    "vi": "Ớt Tái Tạo Màn 5"
+    "en": "Pepper Relifer 5",
+    "vi": "Ớt Tái Tạo 5"
   },
   "辣椒重塑者 挑战6": {
-    "en": "Pepper Relifer Trial 6",
-    "vi": "Ớt Tái Tạo Màn 6"
+    "en": "Pepper Relifer 6",
+    "vi": "Ớt Tái Tạo 6"
   },
   "过关斩僵": {
     "en": "Slay the Horde",
     "vi": "Vượt Ải Chém Xác"
   },
   "运动健将": {
-    "en": "All-Star Athletes",
-    "vi": "Vận Động Viên Đỉnh Cao"
+    "en": "Athletes",
+    "vi": "VĐV Đỉnh Cao"
   },
   "返回模式选择": {
     "en": "Back to Modes",
@@ -3500,8 +3500,8 @@
     "vi": "Nơi này cực kỳ nguy hiểm!\nHãy thật cẩn trọng khi đối phó!"
   },
   "连锁反应": {
-    "en": "Chain Reaction",
-    "vi": "Phản Ứng Dây Chuyền"
+    "en": "Chain React",
+    "vi": "Dây Chuyền"
   },
   "迷你游戏": {
     "en": "Mini-Games",
@@ -3560,8 +3560,8 @@
     "vi": "Thử Thách Xu Vàng"
   },
   "金色向日葵": {
-    "en": "Golden Sunflower",
-    "vi": "Hướng Dương Vàng Ròng"
+    "en": "Gold Sun",
+    "vi": "H.Dương Vàng"
   },
   "金银财宝": {
     "en": "Gold & Silver",
@@ -3572,28 +3572,28 @@
     "vi": "Vòng Quay Bồ Cào"
   },
   "钢刺坚果王 挑战1": {
-    "en": "Spikerock King Trial 1",
-    "vi": "Vua Hạt Dẻ Gai Màn 1"
+    "en": "Spike King 1",
+    "vi": "Hạt Dẻ Gai 1"
   },
   "钢刺坚果王 挑战2": {
-    "en": "Spikerock King Trial 2",
-    "vi": "Vua Hạt Dẻ Gai Màn 2"
+    "en": "Spike King 2",
+    "vi": "Hạt Dẻ Gai 2"
   },
   "钢刺坚果王 挑战3": {
-    "en": "Spikerock King Trial 3",
-    "vi": "Vua Hạt Dẻ Gai Màn 3"
+    "en": "Spike King 3",
+    "vi": "Hạt Dẻ Gai 3"
   },
   "钢果南瓜头 挑战1": {
-    "en": "Spikerock Pumpkin Trial 1",
-    "vi": "Bí Ngô Gai Thép Màn 1"
+    "en": "Spike Nut 1",
+    "vi": "Bí Gai Thép 1"
   },
   "钢果南瓜头 挑战2": {
-    "en": "Spikerock Pumpkin Trial 2",
-    "vi": "Bí Ngô Gai Thép Màn 2"
+    "en": "Spike Nut 2",
+    "vi": "Bí Gai Thép 2"
   },
   "钢果南瓜头 挑战3": {
-    "en": "Spikerock Pumpkin Trial 3",
-    "vi": "Bí Ngô Gai Thép Màn 3"
+    "en": "Spike Nut 3",
+    "vi": "Bí Gai Thép 3"
   },
   "钥匙咖啡豆": {
     "en": "Key Coffee Bean",
@@ -3617,7 +3617,7 @@
   },
   "钻石挑战": {
     "en": "Diamond Trial",
-    "vi": "Thử Thách Kim Cương"
+    "vi": "Thử Thách KC"
   },
   "钻石种子": {
     "en": "Diamond Seed",
@@ -3632,24 +3632,24 @@
     "vi": "Thử Thách Xu Bạc"
   },
   "错乱记忆": {
-    "en": "Scrambled Memory",
-    "vi": "Ký Ức Hỗn Loạn"
+    "en": "Jumbled Mind",
+    "vi": "Ký Ức Loạn"
   },
   "锤僵尸": {
     "en": "Whack a Zombie",
     "vi": "Đập Zombie"
   },
   "锤僵尸 无尽版": {
-    "en": "Whack a Zombie Endless",
-    "vi": "Đập Zombie Vô Tận"
+    "en": "Whack Zom Inf.",
+    "vi": "Đập ZB Vô Tận"
   },
   "阳光危机": {
     "en": "Sun Crisis",
-    "vi": "Khủng Hoảng Mặt Trời"
+    "vi": "Nguy Cơ Nắng"
   },
   "阳光征途": {
     "en": "Sunny March",
-    "vi": "Hành Trình Nắng Vàng"
+    "vi": "Đường Nắng"
   },
   "阳光梦想": {
     "en": "Sunny Dream",
@@ -3669,7 +3669,7 @@
   },
   "阳光道路": {
     "en": "Sunlit Road",
-    "vi": "Con Đường Nắng Vàng"
+    "vi": "Lối Nắng Vàng"
   },
   "阳光魅力": {
     "en": "Solar Charm",
@@ -3684,8 +3684,8 @@
     "vi": "Hồ Âm Dương"
   },
   "阴阳轮回": {
-    "en": "Yin-Yang Cycle",
-    "vi": "Luân Hồi Âm Dương"
+    "en": "Yin-Yang",
+    "vi": "Âm Dương"
   },
   "除草": {
     "en": "Weeding Time",
@@ -3696,16 +3696,16 @@
     "vi": "Cạm Bẫy"
   },
   "随机僵尸礼盒": {
-    "en": "Random Zombie Box",
-    "vi": "Hộp Zombie Ngẫu Nhiên"
+    "en": "RNG Zom-Box",
+    "vi": "Hộp Quà ZB"
   },
   "随机植物变化": {
-    "en": "Random Plant Shift",
-    "vi": "Biến Đổi Cây Ngẫu Nhiên"
+    "en": "Plant Shuffle",
+    "vi": "Đổi Cây Random"
   },
   "随机模仿者": {
-    "en": "Random Imitater",
-    "vi": "Kẻ Giả Mạo Ngẫu Nhiên"
+    "en": "RNG Imitater",
+    "vi": "Giả Mạo RNG"
   },
   "隐匿之夜": {
     "en": "Stealth Night",
@@ -3713,31 +3713,31 @@
   },
   "隐形食脑者": {
     "en": "Invisi-ghoul",
-    "vi": "Kẻ Ăn Não Tàng Hình"
+    "vi": "Não Tàng Hình"
   },
   "雪地战役": {
-    "en": "Snow Campaign",
-    "vi": "Chiến Dịch Tuyết Trắng"
+    "en": "Snow War",
+    "vi": "Chiến Tuyết"
   },
   "雪地探险": {
-    "en": "Snow Expedition",
-    "vi": "Thám Hiểm Vùng Tuyết"
+    "en": "Snow Trek",
+    "vi": "Thám Hiểm Tuyết"
   },
   "零元购": {
-    "en": "Zero-Dollar Spree",
-    "vi": "Mua Sắm Không Đồng"
+    "en": "Zero-Dollar",
+    "vi": "Mua 0 Đồng"
   },
   "雷果子 挑战1": {
-    "en": "Thunder-nut Trial 1",
-    "vi": "Quả Sấm Sét Màn 1"
+    "en": "Thunder-nut 1",
+    "vi": "Quả Sấm Sét 1"
   },
   "雷果子 挑战2": {
-    "en": "Thunder-nut Trial 2",
-    "vi": "Quả Sấm Sét Màn 2"
+    "en": "Thunder-nut 2",
+    "vi": "Quả Sấm Sét 2"
   },
   "雷果子 挑战3": {
-    "en": "Thunder-nut Trial 3",
-    "vi": "Quả Sấm Sét Màn 3"
+    "en": "Thunder-nut 3",
+    "vi": "Quả Sấm Sét 3"
   },
   "雷阵雨之夜": {
     "en": "Thunderstorm Night",
@@ -3745,7 +3745,7 @@
   },
   "非公平竞争": {
     "en": "Unfair Match",
-    "vi": "Đấu Không Công Bằng"
+    "vi": "Đấu Bất Công"
   },
   "音乐 ": {
     "en": "Music",
@@ -3768,156 +3768,156 @@
     "vi": "Tiệc Đuôi Mèo"
   },
   "骄阳仙人掌 挑战1": {
-    "en": "Blazing Sun Cactus Trial 1",
-    "vi": "Xương Rồng Nắng Gắt Màn 1"
+    "en": "Sun Cactus 1",
+    "vi": "X.Rồng Nắng 1"
   },
   "骄阳仙人掌 挑战2": {
-    "en": "Blazing Sun Cactus Trial 2",
-    "vi": "Xương Rồng Nắng Gắt Màn 2"
+    "en": "Sun Cactus 2",
+    "vi": "X.Rồng Nắng 2"
   },
   "骄阳仙人掌 挑战3": {
-    "en": "Blazing Sun Cactus Trial 3",
-    "vi": "Xương Rồng Nắng Gắt Màn 3"
+    "en": "Sun Cactus 3",
+    "vi": "X.Rồng Nắng 3"
   },
   "骷髅巨人": {
-    "en": "Skeleton Gargantuar",
-    "vi": "Khổng Lồ Xương Khô"
+    "en": "Skel Giant",
+    "vi": "Khổng Lồ Xương"
   },
   "高冰果 挑战1": {
-    "en": "Tall Ice-nut Trial 1",
-    "vi": "Óc Chó Cao Băng Màn 1"
+    "en": "Tall Ice 1",
+    "vi": "Cao Băng 1"
   },
   "高冰果 挑战2": {
-    "en": "Tall Ice-nut Trial 2",
-    "vi": "Óc Chó Cao Băng Màn 2"
+    "en": "Tall Ice 2",
+    "vi": "Cao Băng 2"
   },
   "高冰果 挑战3": {
-    "en": "Tall Ice-nut Trial 3",
-    "vi": "Óc Chó Cao Băng Màn 3"
+    "en": "Tall Ice 3",
+    "vi": "Cao Băng 3"
   },
   "高坚果肥料袋": {
-    "en": "Tall-nut Fertilizer",
-    "vi": "Túi Phân Óc Chó Cao"
+    "en": "Nut Boost",
+    "vi": "Túi Phân Nut"
   },
   "高山流水": {
     "en": "Alpine Stream",
     "vi": "Núi Cao Suối Chảy"
   },
   "鬼影魅惑菇 挑战1": {
-    "en": "Phantom Hypno Trial 1",
-    "vi": "Nấm Miên Bóng Ma Màn 1"
+    "en": "Phantom Hyp 1",
+    "vi": "Miên Bóng Ma 1"
   },
   "鬼影魅惑菇 挑战2": {
-    "en": "Phantom Hypno Trial 2",
-    "vi": "Nấm Miên Bóng Ma Màn 2"
+    "en": "Phantom Hyp 2",
+    "vi": "Miên Bóng Ma 2"
   },
   "鬼影魅惑菇 挑战3": {
-    "en": "Phantom Hypno Trial 3",
-    "vi": "Nấm Miên Bóng Ma Màn 3"
+    "en": "Phantom Hyp 3",
+    "vi": "Miên Bóng Ma 3"
   },
   "鬼影魅惑菇 挑战4": {
-    "en": "Phantom Hypno Trial 4",
-    "vi": "Nấm Miên Bóng Ma Màn 4"
+    "en": "Phantom Hyp 4",
+    "vi": "Miên Bóng Ma 4"
   },
   "鬼影魅惑菇 挑战5": {
-    "en": "Phantom Hypno Trial 5",
-    "vi": "Nấm Miên Bóng Ma Màn 5"
+    "en": "Phantom Hyp 5",
+    "vi": "Miên Bóng Ma 5"
   },
   "鬼影魅惑菇 挑战6": {
-    "en": "Phantom Hypno Trial 6",
-    "vi": "Nấm Miên Bóng Ma Màn 6"
+    "en": "Phantom Hyp 6",
+    "vi": "Miên Bóng Ma 6"
   },
   "魅惑毁灭菇 挑战1": {
-    "en": "Hypno Doom-shroom Trial 1",
-    "vi": "Nấm Hủy Diệt Thôi Miên Màn 1"
+    "en": "Hypno Doom 1",
+    "vi": "Hủy Miên 1"
   },
   "魅惑毁灭菇 挑战2": {
-    "en": "Hypno Doom-shroom Trial 2",
-    "vi": "Nấm Hủy Diệt Thôi Miên Màn 2"
+    "en": "Hypno Doom 2",
+    "vi": "Hủy Miên 2"
   },
   "魅惑毁灭菇 挑战3": {
-    "en": "Hypno Doom-shroom Trial 3",
-    "vi": "Nấm Hủy Diệt Thôi Miên Màn 3"
+    "en": "Hypno Doom 3",
+    "vi": "Hủy Miên 3"
   },
   "魅惑毁灭菇 挑战4": {
-    "en": "Hypno Doom-shroom Trial 4",
-    "vi": "Nấm Hủy Diệt Thôi Miên Màn 4"
+    "en": "Hypno Doom 4",
+    "vi": "Hủy Miên 4"
   },
   "魅惑毁灭菇 挑战5": {
-    "en": "Hypno Doom-shroom Trial 5",
-    "vi": "Nấm Hủy Diệt Thôi Miên Màn 5"
+    "en": "Hypno Doom 5",
+    "vi": "Hủy Miên 5"
   },
   "魅惑毁灭菇 挑战6": {
-    "en": "Hypno Doom-shroom Trial 6",
-    "vi": "Nấm Hủy Diệt Thôi Miên Màn 6"
+    "en": "Hypno Doom 6",
+    "vi": "Hủy Miên 6"
   },
   "魅惑秀场": {
     "en": "Hypno Showtime",
     "vi": "Sân Khấu Thôi Miên"
   },
   "魔术盒子 挑战1": {
-    "en": "Magic Hat Box Trial 1",
-    "vi": "Hộp Ảo Thuật Màn 1"
+    "en": "Magic Hat 1",
+    "vi": "Hộp Ảo Thuật 1"
   },
   "魔术盒子 挑战2": {
-    "en": "Magic Hat Box Trial 2",
-    "vi": "Hộp Ảo Thuật Màn 2"
+    "en": "Magic Hat 2",
+    "vi": "Hộp Ảo Thuật 2"
   },
   "魔术盒子 挑战3": {
-    "en": "Magic Hat Box Trial 3",
-    "vi": "Hộp Ảo Thuật Màn 3"
+    "en": "Magic Hat 3",
+    "vi": "Hộp Ảo Thuật 3"
   },
   "魔术盒子 挑战4": {
-    "en": "Magic Hat Box Trial 4",
-    "vi": "Hộp Ảo Thuật Màn 4"
+    "en": "Magic Hat 4",
+    "vi": "Hộp Ảo Thuật 4"
   },
   "魔术盒子 挑战5": {
-    "en": "Magic Hat Box Trial 5",
-    "vi": "Hộp Ảo Thuật Màn 5"
+    "en": "Magic Hat 5",
+    "vi": "Hộp Ảo Thuật 5"
   },
   "魔术盒子 挑战6": {
-    "en": "Magic Hat Box Trial 6",
-    "vi": "Hộp Ảo Thuật Màn 6"
+    "en": "Magic Hat 6",
+    "vi": "Hộp Ảo Thuật 6"
   },
   "黄油忧郁菇 挑战1": {
-    "en": "Butter Gloom-shroom Trial 1",
-    "vi": "Nấm Ảm Đạm Bơ Màn 1"
+    "en": "Butter Gloom 1",
+    "vi": "Nấm Bơ Ảm 1"
   },
   "黄油忧郁菇 挑战2": {
-    "en": "Butter Gloom-shroom Trial 2",
-    "vi": "Nấm Ảm Đạm Bơ Màn 2"
+    "en": "Butter Gloom 2",
+    "vi": "Nấm Bơ Ảm 2"
   },
   "黄油忧郁菇 挑战3": {
-    "en": "Butter Gloom-shroom Trial 3",
-    "vi": "Nấm Ảm Đạm Bơ Màn 3"
+    "en": "Butter Gloom 3",
+    "vi": "Nấm Bơ Ảm 3"
   },
   "黄金瓜子": {
     "en": "Golden Seeds",
     "vi": "Hạt Dưa Vàng"
   },
   "黄金西瓜投手 挑战1": {
-    "en": "Golden Melon-pult Trial 1",
-    "vi": "Dưa Hấu Hoàng Kim Màn 1"
+    "en": "Gold Melon 1",
+    "vi": "Dưa Hoàng Kim 1"
   },
   "黄金西瓜投手 挑战2": {
-    "en": "Golden Melon-pult Trial 2",
-    "vi": "Dưa Hấu Hoàng Kim Màn 2"
+    "en": "Gold Melon 2",
+    "vi": "Dưa Hoàng Kim 2"
   },
   "黄金西瓜投手 挑战3": {
-    "en": "Golden Melon-pult Trial 3",
-    "vi": "Dưa Hấu Hoàng Kim Màn 3"
+    "en": "Gold Melon 3",
+    "vi": "Dưa Hoàng Kim 3"
   },
   "黄金锤子 挑战1": {
-    "en": "Golden Hammer Trial 1",
-    "vi": "Búa Vàng Màn 1"
+    "en": "Gold Hammer 1",
+    "vi": "Búa Vàng 1"
   },
   "黄金锤子 挑战2": {
-    "en": "Golden Hammer Trial 2",
-    "vi": "Búa Vàng Màn 2"
+    "en": "Gold Hammer 2",
+    "vi": "Búa Vàng 2"
   },
   "黄金锤子 挑战3": {
-    "en": "Golden Hammer Trial 3",
-    "vi": "Búa Vàng Màn 3"
+    "en": "Gold Hammer 3",
+    "vi": "Búa Vàng 3"
   },
   "黑暗尽头": {
     "en": "End of Darkness",
@@ -3938,5 +3938,217 @@
   "逃跑": {
     "en": "Escape!",
     "vi": "Chạy Trốn!"
+  },
+  "允许后台运行": {
+    "en": "Run in BG",
+    "vi": "Chạy nền"
+  },
+  "冒险模式不送小推车": {
+    "en": "No Adv. Mowers",
+    "vi": "Tắt xe P.Lưu"
+  },
+  "自动收集": {
+    "en": "Auto Collect",
+    "vi": "Tự nhặt"
+  },
+  "游戏加速(游戏内按5)": {
+    "en": "Speed x2 (Key 5)",
+    "vi": "Tăng tốc (Phím 5)"
+  },
+  "僵尸血量显示(游戏内按2)": {
+    "en": "Zombie HP (Key 2)",
+    "vi": "Máu ZB (Phím 2)"
+  },
+  "植物血量显示(游戏内按4)": {
+    "en": "Plant HP (Key 4)",
+    "vi": "Máu Cây (Phím 4)"
+  },
+  "第2面旗帜切换BGM": {
+    "en": "Flag 2 BGM",
+    "vi": "Đổi nhạc cờ 2"
+  },
+  "关闭舞王灯效": {
+    "en": "No Disco FX",
+    "vi": "Tắt đèn Disco"
+  },
+  "辣椒阳光即将消失自动收集": {
+    "en": "Grab Fading Sun",
+    "vi": "Nhặt nắng sắp tan"
+  },
+  "BOSS血条半透明": {
+    "en": "Fade Boss HP",
+    "vi": "Thanh BOSS mờ"
+  },
+  "模仿者植物不变白": {
+    "en": "Color Imitater",
+    "vi": "Giữ màu Giả Mạo"
+  },
+  "自动备份存档(鼠标中键读取)": {
+    "en": "Auto Backup (M-Btn)",
+    "vi": "Tự lưu (Nút giữa)"
+  },
+  "僵尸向日葵直接召唤": {
+    "en": "Instant ZomSun",
+    "vi": "Gọi ZomSun ngay"
+  },
+  "南瓜头鼠标悬停时半透明": {
+    "en": "Fade Pumpkin",
+    "vi": "Mờ Bí Ngô"
+  },
+  "随机模仿者模式": {
+    "en": "Random Imitater",
+    "vi": "Ng.Nhiên G.Mạo"
+  },
+  "无尽自由出怪": {
+    "en": "Free Endless",
+    "vi": "Vô Tận tự do"
+  },
+  "使用雪景主菜单": {
+    "en": "Snowy Menu",
+    "vi": "Menu nền tuyết"
+  },
+  "敬请期待！": {
+    "en": "Coming Soon!",
+    "vi": "Sắp ra mắt!"
+  },
+  "使用固定选卡": {
+    "en": "Fixed Deck",
+    "vi": "Bộ Thẻ Cố Định"
+  },
+  "是否有小推车": {
+    "en": "Enable Mowers",
+    "vi": "Có xe đẩy cắt cỏ"
+  },
+  "无限旗帜数": {
+    "en": "Infinite Flags",
+    "vi": "Cờ vô hạn"
+  },
+  "柱子模式": {
+    "en": "Column Mode",
+    "vi": "Chế độ Trồng Cột"
+  },
+  "隐形模式": {
+    "en": "Invisi-Mode",
+    "vi": "Tàng Hình"
+  },
+  "小僵尸模式": {
+    "en": "Tiny Zombies",
+    "vi": "Zombie Tí Hon"
+  },
+  "银币副本：\n门票：50银币\n奖励：300银币": {
+    "en": "Silver Stage:\nEntry: 50 Silver\nReward: 300 Silver",
+    "vi": "Phụ bản Xu Bạc:\nVé: 50 Xu Bạc\nThưởng: 300 Xu Bạc"
+  },
+  "金币副本：\n门票：50金币\n奖励：300金币": {
+    "en": "Gold Stage:\nEntry: 50 Gold\nReward: 300 Gold",
+    "vi": "Phụ bản Xu Vàng:\nVé: 50 Xu Vàng\nThưởng: 300 Xu Vàng"
+  },
+  "钻石副本：\n门票：15钻石\n奖励：80钻石": {
+    "en": "Diamond Stage:\nEntry: 15 Gems\nReward: 80 Gems",
+    "vi": "Phụ bản Kim Cương:\nVé: 15 Kim Cương\nThưởng: 80 Kim Cương"
+  },
+  "斗地主1分副本：\n门票：100银币\n奖励：500银币": {
+    "en": "1-Pt Cards:\nEntry: 100 Silver\nReward: 500 Silver",
+    "vi": "Bài 1 Điểm:\nVé: 100 Xu Bạc\nThưởng: 500 Xu Bạc"
+  },
+  "斗地主2分副本：\n门票：100金币\n奖励：500金币": {
+    "en": "2-Pt Cards:\nEntry: 100 Gold\nReward: 500 Gold",
+    "vi": "Bài 2 Điểm:\nVé: 100 Xu Vàng\nThưởng: 500 Xu Vàng"
+  },
+  "斗地主3分副本：\n门票：100钻石\n奖励：500钻石": {
+    "en": "3-Pt Cards:\nEntry: 100 Gems\nReward: 500 Gems",
+    "vi": "Bài 3 Điểm:\nVé: 100 Kim Cương\nThưởng: 500 Kim Cương"
+  },
+  "变幻莫测副本：\n门票：25钻石\n奖励：随机花园植物一株\n(请确保花园首页有空位)": {
+    "en": "Mystery Stage:\nEntry: 25 Gems\nReward: 1 Random Garden Plant\n(Ensure Page 1 has an empty slot)",
+    "vi": "Phụ bản Biến Hóa:\nVé: 25 Kim Cương\nThưởng: 1 cây Vườn ngẫu nhiên\n(Cần chỗ trống ở trang đầu Vườn)"
+  },
+  "天亮了": {
+    "en": "Daybreak",
+    "vi": "Trời Sáng"
+  },
+  "天使向日葵 挑战1": {
+    "en": "Angel Sun 1",
+    "vi": "Thiên Thần 1"
+  },
+  "天使向日葵 挑战2": {
+    "en": "Angel Sun 2",
+    "vi": "Thiên Thần 2"
+  },
+  "天使向日葵 挑战3": {
+    "en": "Angel Sun 3",
+    "vi": "Thiên Thần 3"
+  },
+  "天使向日葵 挑战4": {
+    "en": "Angel Sun 4",
+    "vi": "Thiên Thần 4"
+  },
+  "天使向日葵 挑战5": {
+    "en": "Angel Sun 5",
+    "vi": "Thiên Thần 5"
+  },
+  "天使向日葵 挑战6": {
+    "en": "Angel Sun 6",
+    "vi": "Thiên Thần 6"
+  },
+  "天秤咖啡豆 挑战1": {
+    "en": "Libra Bean 1",
+    "vi": "Thiên Bình 1"
+  },
+  "天秤咖啡豆 挑战2": {
+    "en": "Libra Bean 2",
+    "vi": "Thiên Bình 2"
+  },
+  "天秤咖啡豆 挑战3": {
+    "en": "Libra Bean 3",
+    "vi": "Thiên Bình 3"
+  },
+  "天秤咖啡豆 挑战4": {
+    "en": "Libra Bean 4",
+    "vi": "Thiên Bình 4"
+  },
+  "天秤咖啡豆 挑战5": {
+    "en": "Libra Bean 5",
+    "vi": "Thiên Bình 5"
+  },
+  "天秤咖啡豆 挑战6": {
+    "en": "Libra Bean 6",
+    "vi": "Thiên Bình 6"
+  },
+  "糖果派对1": {
+    "en": "Candy Party 1",
+    "vi": "Tiệc Kẹo 1"
+  },
+  "糖果派对2": {
+    "en": "Candy Party 2",
+    "vi": "Tiệc Kẹo 2"
+  },
+  "天坑": {
+    "en": "Sinkhole",
+    "vi": "Hố Tử Thần"
+  },
+  "太阳能量": {
+    "en": "Solar Energy",
+    "vi": "Nắng Năng Lượng"
+  },
+  "天鹅之乱": {
+    "en": "Swan Mayhem",
+    "vi": "Loạn Thiên Nga"
+  },
+  "天空之城": {
+    "en": "Sky Citadel",
+    "vi": "Thành Trên Mây"
+  },
+  "天下无双": {
+    "en": "Peerless",
+    "vi": "Vô Song"
+  },
+  "天使之战": {
+    "en": "Angel Battle",
+    "vi": "Chiến Thiên Sứ"
+  },
+  "天空之战": {
+    "en": "Sky Battle",
+    "vi": "Không Chiến"
   }
 }

@@ -40,9 +40,9 @@ Chi tiết bản phát hành & mã kiểm tra SHA-256: **[GitHub Release `v3.20.
 
 | Phiên bản ngôn ngữ | Dung lượng | Tóm tắt nội dung | Tải trực tiếp |
 | :--- | :---: | :--- | :---: |
-| **`[VI]` Bản Việt Hóa** | `390.0 MiB` (`409.0 MB`) | Việt hóa hoàn chỉnh (3.309 chuỗi `properties`, 985 chuỗi EXE / 1.344 tham chiếu mã, 121 texture Việt hóa, 6 font Unicode + `PvZ2-VH Bold`, đã test trên máy thật) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Bản Việt Hóa"></a> |
-| **`[EN]` English** | `390.0 MiB` (`408.9 MB`) | Bản Tiếng Anh hoàn chỉnh (3.309 chuỗi `properties`, 985 chuỗi EXE, 121 texture Tiếng Anh, vá UTF-8 `gdi42.dll`, đã test chuyển đổi đè từ bản `[VI]` giữ nguyên save) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-English.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Tiếng Anh"></a> |
-| **`[CN]` 中文原版 (Trung Gốc)** | `389.4 MiB` (`408.4 MB`) | Bản gốc tiếng Trung v3.20.1 của tác giả **潜艇伟伟迷**, đóng gói APK độc lập cùng khóa ký để cài đè qua lại không mất tiến trình | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Trung Gốc"></a> |
+| **`[VI]` Bản Việt Hóa** | `389.3 MiB` (`408.2 MB`) | Việt hóa hoàn chỉnh (3.309 chuỗi `properties` kèm 437 mô tả Sổ Tay tinh gọn vừa khung, 1.038 chuỗi EXE / 1.421 tham chiếu, 133 texture Việt hóa, tối ưu `VirGL` + `csmt=0`, 6 font Unicode + `PvZ2-VH Bold`) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Bản Việt Hóa"></a> |
+| **`[EN]` English** | `389.4 MiB` (`408.3 MB`) | Bản Tiếng Anh hoàn chỉnh (3.309 chuỗi `properties` kèm 437 mô tả Sổ Tay tinh gọn, 1.038 chuỗi EXE / 1.421 tham chiếu, 133 texture Tiếng Anh, tối ưu `VirGL` + `csmt=0`, cài đè từ `[VI]` giữ nguyên 100% save) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-English.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Tiếng Anh"></a> |
+| **`[CN]` 中文原版 (Trung Gốc)** | `389.4 MiB` (`408.4 MB`) | Bản gốc tiếng Trung v3.20.1 của tác giả **潜艇伟伟迷**, tích hợp sẵn cấu hình tối ưu hiệu năng `VirGL` + `csmt=0` và ký chung keystore để cài đè qua lại không mất tiến trình | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Trung Gốc"></a> |
 
 <details>
 <summary><b>🔐 Kiểm Tra Tính Toàn Vẹn &amp; Mã SHA-256 Chính Thức</b></summary>
@@ -52,9 +52,9 @@ Chi tiết bản phát hành & mã kiểm tra SHA-256: **[GitHub Release `v3.20.
 
 | Tên tệp APK | Kích thước chuẩn (Bytes) | SHA-256 |
 | :--- | :---: | :--- |
-| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `409,012,445` | `e529884d03b514641b14576efdc7c803b4f764868fc07ea11bbcc525c1f60feb` |
-| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `408,930,525` | `32b37bbbb1bb3d46c72c42092f12e04e9da951edb3915462499cc6e71acbab3c` |
-| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,181` | `09344c5b544faaed2eb0738e543093aadd91096fa6b1b651f9f0de7c6c94ef71` |
+| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `408,242,393` | `0b12a3593fdf8f701b8a7a1a9cb411c154c8bc5c2448087e6a7bfedeaa144078` |
+| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `408,303,833` | `5b282c40a6d24281f25dd178b3c80c377ddfa76f43e4aeff26df5e2825bcafbf` |
+| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,177` | `1087a781c7742c63c505e4e24bf9a5bceba2c046201a10b98f2b954fd338ec81` |
 
 </details>
 
@@ -86,13 +86,13 @@ Chi tiết bản phát hành & mã kiểm tra SHA-256: **[GitHub Release `v3.20.
 Khác với *PvZ Fusion* (làm trên Unity), *PvZ Hybrid Classic* (*植物大战僵尸杂交版经典版*) được lập trình bằng C++ PopCap cho Windows với mã hóa chữ GBK. Dự án này xử lý triệt để mọi rào cản để biến game thành **1 tệp APK dùng ngay trên Android**:
 
 - **Không Cần Thiết Lập Giả Lập Rườm Rà:** Tích hợp sẵn Wine/Box64 bên trong gói riêng `com.pvzh.cls`, cài là chơi, không xung đột với các bản Winlator hay PvZ khác trên máy.
-- **Khung Hình Widescreen `1080x600` Tràn Viền &amp; Cảm Ứng 1-Chạm:** Tự động cấu hình chuẩn rộng `1080x600` kéo đầy màn hình điện thoại (không viền đen, không mất nút góc phải), sửa ánh xạ X/Y độc lập trong `TouchpadView` và di chuyển con trỏ ngay khi chạm `ACTION_DOWN` (giữ click 60 ms) giúp chạm nút 1 lần ăn ngay.
-- **Tối Ưu Tốc Độ Load &amp; FPS:** Rút gọn dịch vụ nền Wine (`startupSelection=2`), bật `csmt=3`, `strict_shader_math=0`, `mesa_glthread=true`, tắt `WaitForVSync` và giữ `Is3D=0` chuẩn màu (~4,7 giây warm-launch vào tiến trình game).
+- **Khung Hình Widescreen `1080x600` Tràn Viền &amp; Cảm Ứng 1-Chạm:** Tự động cấu hình chuẩn rộng `1080x600` kéo đầy màn hình điện thoại (không viền đen, không mất nút góc phải), ẩn HUD mặc định (`HUDMode=0`), sửa ánh xạ X/Y độc lập trong `TouchpadView` và di chuyển con trỏ ngay khi chạm `ACTION_DOWN` (giữ click 60 ms) giúp chạm nút 1 lần ăn ngay.
+- **Tối Ưu Gấp Đôi FPS &amp; Giảm RAM (`VirGL` + `WineD3D csmt=0`):** Đặt mặc định trình điều khiển **`VirGL`** kết hợp **`WineD3D` GL (`csmt=0`, `OffscreenRenderingMode=fbo`, `strict_shader_math=0`, `VideoMemorySize=512`)**, `WINEESYNC=1`, tắt `mesa_glthread`, bật `Is3D=1` hiển thị xuôi chiều sắc nét cùng Box64 fast dynarec (`STRONGMEM=0`, `BIGBLOCK=3`, `CALLRET=1`, `FASTNAN=1`, `FASTROUND=1`, `NATIVEFLAGS=1`, `FORWARD=1024`) — nâng Menu Chính từ `8,5–12,2 FPS` lên **`20,4–20,8 FPS`**, giảm tải CPU xuống 63–67% và tiết kiệm ~200 MB RAM.
 - **Vá UTF-8 Tận Lõi Engine + 6 Font Unicode:** Chỉnh sửa `gdi42.dll` tại 4 điểm `MultiByteToWideChar` (`CP936` → `CP_UTF8`) và nhúng trọn vẹn bộ dấu tiếng Việt vào tất cả 6 font `.ttf` của game.
-- **Bản Địa Hóa Toàn Diện:**
-  - **3.309/3.309** chuỗi trong 9 tệp `properties/*.txt` (Sổ Tay Cây/Zombie/Phụ kiện, Màn Chơi, Cây Trí Tuệ, Cửa Hàng, Thành Tựu).
-  - **985 chuỗi duy nhất / 1.344 vị trí tham chiếu** dịch chuyển sạch sẽ bên trong `PlantsVsZombies.exe`, vá đồng bộ **73 lệnh đẩy độ dài chuỗi (`6a <len>`)** hết sạch lỗi `□` hay cụt chữ nút bấm + sửa dòng phiên bản Menu Chính (`PvZ Hybrid Cls VI v3.20.1`).
-  - **121 ảnh giao diện** cho mỗi ngôn ngữ (bảng gỗ Menu Chính, bia đá Chế Độ, 18 bảng tên Chương Phiêu Lưu, Sổ Tay, Cửa Hàng &amp; Anh Hùng).
+- **Bản Địa Hóa Toàn Diện &amp; Tinh Gọn Vừa Khung:**
+  - **3.309/3.309** chuỗi trong 9 tệp `properties/*.txt` — đã tinh gọn toàn bộ **437 mô tả Cây Trồng, Zombie &amp; Tướng** để hiển thị vừa khít khung Sổ Tay không cần cuộn, không tràn mép.
+  - **1.038 chuỗi duy nhất / 1.421 vị trí tham chiếu** trong `PlantsVsZombies.exe` (đủ 24 tùy chọn Điều Khiển, Sandbox, Cửa Hàng, tên ải, hộp thoại), vá đồng bộ **73 lệnh đẩy độ dài chuỗi (`6a <len>`)** + sửa dòng phiên bản Menu Chính (`PvZ Hybrid Cls VI v3.20.1`).
+  - **133 ảnh giao diện** cho mỗi ngôn ngữ (bảng gỗ Menu Chính, bia đá Chế Độ, 22 bảng tên Chương/Chế độ, Sổ Tay, thanh tiến độ `TIẾN ĐỘ`, Cửa Hàng &amp; Anh Hùng).
 
 ---
 
@@ -129,7 +129,7 @@ Khác với *PvZ Fusion* (làm trên Unity), *PvZ Hybrid Classic* (*植物大战
 | Hạng mục / Vai trò | Tác giả &amp; Đóng góp | Nguồn / Ghi nhận |
 | :--- | :--- | :--- |
 | **Tác giả Bản Mod Gốc**<br>*PvZ Hybrid Classic*<br>(植物大战僵尸杂交版经典版) | • **潜艇伟伟迷 (Qianting Weiweimi)** — Tác giả, Thiết kế &amp; Lập trình chính<br>• **Thành viên được tri ân trong game gốc:** 小小咩MS, AXH弦, 一只吴铭仕哒, 沉默寡言白河愁 | *PvZ Hybrid Edition Classic v3.20.1* |
-| **Việt Hóa, Anh Hóa, Vá Engine UTF-8 &amp; Đóng Gói APK** | • **Heagon** — 3.309 chuỗi `properties` + 985 chuỗi EXE, 121 texture/ngôn ngữ, vá UTF-8 `gdi42.dll`, nhúng Unicode cho 6 font `.ttf`, khắc phục lật trục Y (`WineD3D` GL + `GLXExtension`), đóng gói APK độc lập `com.pvzh.cls` | [Kho GitHub Dự Án](https://github.com/Heagon/pvz-hybrid-classic-android) |
+| **Việt Hóa, Anh Hóa, Vá Engine UTF-8 &amp; Đóng Gói APK** | • **Heagon** — 3.309 chuỗi `properties` (437 mô tả Sổ Tay tinh gọn vừa khung) + 1.038 chuỗi EXE (1.421 vị trí), 133 texture/ngôn ngữ, vá UTF-8 `gdi42.dll`, nhúng Unicode cho 6 font `.ttf`, tối ưu `VirGL` + `WineD3D` `csmt=0` &amp; `GLXExtension`, đóng gói APK độc lập `com.pvzh.cls` | [Kho GitHub Dự Án](https://github.com/Heagon/pvz-hybrid-classic-android) |
 | **Công Cụ Mã Nguồn Mở** | [Winlator](https://github.com/brunodev85/winlator) (`Box64` · `Wine`), [fontTools](https://github.com/fonttools/fonttools), [Pillow](https://python-pillow.org/), [Liberation Fonts](https://github.com/liberationfonts/liberation-fonts), [Apktool](https://apktool.org/), [uber-apk-signer](https://github.com/patrickfav/uber-apk-signer), [Zstandard](https://github.com/facebook/zstd) | Xem [CREDITS.md](CREDITS.md#vi-bản-việt-hóa) |
 
 ---

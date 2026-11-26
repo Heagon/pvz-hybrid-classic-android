@@ -40,14 +40,14 @@
 5. **Điều khiển trong game trên cảm ứng:**
    - **Chạm màn hình:** Di chuyển chuột tới điểm chạm và nhấp chuột trái.
    - **Bấm nút Quay lại (Back) của điện thoại:** Mở menu điều khiển (bật/tắt bàn phím ảo cho các cây dùng phím `WASD`, phím `Space` tạm dừng, chuột phải thu Thẻ/Mặt trời, chuyển chế độ chạm).
-   - **Nút `Engine Settings` (góc trên phải lúc màn hình chờ):** Tùy chỉnh đồ họa (`Vortek` / `VirGL`), độ phân giải hoặc nút điều khiển nếu cần trên một số máy đặc thù.
+   - **Nút `Engine Settings` (góc trên phải lúc màn hình chờ):** Tùy chỉnh đồ họa (`VirGL` mặc định tối ưu FPS / `Vortek`), độ phân giải hoặc nút điều khiển nếu cần trên một số máy đặc thù.
 
 ### 3. Xử lý sự cố thường gặp
 > [!NOTE]
 > **Cảnh báo Google Play Protect:** Vì APK cộng đồng được ký bằng chứng chỉ phát hành riêng ngoài Google Play, Play Protect có thể nhắc cảnh báo. Bấm **Chi tiết khác (More details) → Vẫn cài đặt (Install anyway)**. Toàn bộ script đóng gói được công khai minh bạch trong [`tools/`](../tools/README.md).
 
 > [!TIP]
-> **Màn hình đen hoặc giật lag nhẹ ở màn hình đầu tiên:** Lần đầu khởi tạo Wine prefix cần 20–45 giây để dựng registry. Nếu bị đứng quá lâu trên máy yếu/GPU Mali đặc thù, hãy chạm **`Engine Settings`** ở góc trên phải lúc vừa mở app để đổi trình kết xuất đồ họa sang `VirGL` hoặc giảm `Box64 Preset`.
+> **Màn hình đen hoặc khác biệt theo dòng GPU:** Lần đầu khởi tạo Wine prefix cần 20–45 giây để dựng registry. Bản dựng mặc định đã dùng `VirGL` + `WineD3D csmt=0` để đạt tốc độ cao và tiết kiệm RAM trên Mali/Adreno; nếu gặp lỗi hiển thị hiếm gặp trên một số máy, hãy chạm **`Engine Settings`** ở góc trên phải lúc vừa mở app để thử đổi sang `Vortek`.
 
 ---
 
@@ -71,14 +71,14 @@
 5. **Touch Controls & Shortcuts:**
    - **Touchscreen:** Direct cursor-to-touchpoint click.
    - **Device Back Button:** Opens overlay controls (virtual keyboard for `WASD`-controlled plants, `Space` pause, right-click for Shovel/Chili Suns, touch mode toggle).
-   - **`Engine Settings` (top-right during boot splash):** Adjust GPU driver (`Vortek` / `VirGL`), Box64 preset, or resolution if needed.
+   - **`Engine Settings` (top-right during boot splash):** Adjust GPU driver (`VirGL` default / `Vortek`), Box64 preset, or resolution if needed.
 
 ### 3. Troubleshooting
 > [!NOTE]
 > **Google Play Protect prompt:** Standard warning for community-signed APKs outside the Play Store. Tap **More details → Install anyway**. Build scripts are fully open in [`tools/`](../tools/README.md).
 
 > [!TIP]
-> **Black screen on certain GPUs / slow cold boot:** First-time Wine initialization takes 20–45 seconds. If your GPU driver stalls during startup, tap **`Engine Settings`** on the launch splash to switch graphics driver to `VirGL` or lower resolution.
+> **GPU driver fallback / slow cold boot:** First-time Wine initialization takes 20–45 seconds. The build defaults to **`VirGL` + `WineD3D csmt=0`** for ~2x higher FPS and lower RAM on Mali/Adreno GPUs; if your GPU has display artifacts, tap **`Engine Settings`** on the launch splash to try `Vortek`.
 
 ---
 
@@ -102,11 +102,11 @@
 5. **触屏操作说明：**
    - **屏幕点击：** 自动将指针移至触控点并触发左键点击。
    - **手机返回键 (Back)：** 呼出悬浮菜单（调出 `WASD` 虚拟键盘、`Space` 暂停、右键交互切换等）。
-   - **启动界面右上角 `Engine Settings`：** 可根据机型调整图形驱动（`Vortek` / `VirGL`）或 Box64 预设。
+   - **启动界面右上角 `Engine Settings`：** 可根据机型调整图形驱动（默认 **`VirGL` + `csmt=0`** 性能优化 / `Vortek`）或 Box64 预设。
 
 ### 3. 常见问题排查
 > [!NOTE]
 > **Play Protect / 手机管家安全提醒：** 社区重签名包会触发常规未上架提示，点击 **“了解详情 → 仍要安装”** 即可，构建工具完全开源于 [`tools/`](../tools/README.md)。
 
 > [!TIP]
-> **部分机型首次黑屏或加载偏慢：** 首次启动需要创建 Wine 运行环境（约 20–45 秒）。若少数 GPU 驱动不兼容导致画面异常，可在启动等待页右上角点击 **`Engine Settings`** 切换 `VirGL` 渲染驱动。
+> **部分机型首次黑屏或 GPU 兼容微调：** 首次启动需要创建 Wine 运行环境（约 20–45 秒）。本版默认已启用 **`VirGL` + `WineD3D csmt=0`** 以大幅提升帧率并降低内存占用；若极少数机型出现画面兼容异常，可在启动等待页右上角点击 **`Engine Settings`** 切换至 `Vortek` 渲染驱动。

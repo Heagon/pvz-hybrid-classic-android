@@ -786,6 +786,164 @@ def build_textures_for_lang(lang: str) -> list[str]:
     save_png(st_sign, out_dir, "images/Store_Sign.png")
     generated.append("images/Store_Sign.png")
 
+    # 12. FlagMeterLevelProgress.png (86x11)
+    fm = load_src("images/FlagMeterLevelProgress.png")
+    fm_rgb = fm.convert("RGB")
+    bar_crop = fm_rgb.crop((5, 2, 81, 9)).filter(ImageFilter.MaxFilter(5)).filter(ImageFilter.GaussianBlur(1))
+    fm_rgb.paste(bar_crop, (5, 2))
+    fm = fm_rgb.convert("RGBA")
+    fm.putalpha(load_src("images/FlagMeterLevelProgress.png").getchannel("A"))
+    fm_lbl = "PROGRESS" if is_en else "TIẾN ĐỘ"
+    f_fm = ImageFont.truetype(FONT_BOLD, 7)
+    d_fm = ImageDraw.Draw(fm)
+    d_fm.text((43, 5), fm_lbl, font=f_fm, fill=(18, 22, 65, 255), anchor="mm")
+    save_png(fm, out_dir, "images/FlagMeterLevelProgress.png")
+    generated.append("images/FlagMeterLevelProgress.png")
+
+    # 13. new/Icon_Bilibili*.png & Icon_Douyin*.png (171x54)
+    for rel, lbl, is_hi in [
+        ("new/Icon_Bilibili.png", "BILIBILI", False),
+        ("new/Icon_Bilibili_bright.png", "BILIBILI", True),
+        ("new/Icon_Douyin.png", "DOUYIN", False),
+        ("new/Icon_Douyin_bright.png", "DOUYIN", True),
+    ]:
+        im = load_src(rel)
+        healed = heal_dark_or_bright_in_poly(im, [(32, 9), (139, 9), (139, 45), (32, 45)], blur_r=8, feather=3)
+        f_soc = fit_font(FONT_BLACK, lbl, 118, 30, 22, min_size=12)
+        draw_outlined_text(
+            healed, (85, 27), lbl, f_soc,
+            fill=(255, 255, 255, 255),
+            outline=(38, 52, 132, 255),
+            stroke_w=2,
+            glow=(95, 135, 255, 210) if is_hi else (45, 65, 165, 140),
+            glow_radius=4 if is_hi else 2,
+            shadow_offset=None,
+        )
+        save_png(healed, out_dir, rel)
+        generated.append(rel)
+
+    # 14. images/ZombieNote.jpg (964x427: Help hotkeys left + Credits header top-right)
+    zn = load_src("images/ZombieNote.jpg")
+    zn_rgb = zn.convert("RGB")
+    zn_src_rgb = zn_rgb.copy()
+    # Build clean warm-parchment fill via Row-wise 90th-percentile brightness so ALL dark/colored ink disappears completely without black edge bleed
+    for box in [(35, 32, 496, 396), (512, 24, 918, 146)]:
+        c = zn_src_rgb.crop(box)
+        healed_c = c.filter(ImageFilter.MaxFilter(17)).filter(ImageFilter.GaussianBlur(6))
+        zn_rgb.paste(healed_c, box[:2])
+    # Also clean small lingering "!" bottom-center around (460..500, 360..405) inside parchment
+    zn_rgb.paste(zn_src_rgb.crop((440, 358, 502, 404)).filter(ImageFilter.MaxFilter(11)).filter(ImageFilter.GaussianBlur(4)), (440, 358))
+    zn = zn_rgb.convert("RGBA")
+    dz = ImageDraw.Draw(zn)
+    f_h_title = get_font(FONT_BLACK, 24)
+    f_h_key = get_font(FONT_BLACK, 18)
+    f_h_txt = get_font(FONT_BOLD, 17)
+    dz.text((135, 64), "GAME HOTKEYS" if is_en else "PHÍM TẮT", font=f_h_title, fill=(24, 22, 18), anchor="mm")
+    hotkeys = [
+        ("1", "→ Shovel" if is_en else "→ Dùng Xẻng", 82, 128),
+        ("2", "→ Zombie HP" if is_en else "→ Máu Zombie", 272, 128),
+        ("3", "→ Pin Slots" if is_en else "→ Ghim khay thẻ", 82, 182),
+        ("4", "→ Plant HP" if is_en else "→ Máu Cây", 272, 182),
+        ("5", "→ Speed Boost" if is_en else "→ Tăng tốc", 82, 236),
+        ("6", "→ Use Item" if is_en else "→ Đạo cụ", 272, 236),
+        ("7", "→ Time Slow" if is_en else "→ Làm chậm", 82, 290),
+    ]
+    for kch, desc, hx, hy in hotkeys:
+        dz.text((hx, hy), kch, font=f_h_key, fill=(215, 24, 20), anchor="lm")
+        dz.text((hx + 15, hy), desc, font=f_h_txt, fill=(25, 22, 18), anchor="lm")
+    dz.text((82, 342), "ESC", font=f_h_key, fill=(24, 52, 225), anchor="lm")
+    dz.text((124, 342), "→ Main Menu" if is_en else "→ Menu Chính", font=f_h_txt, fill=(25, 22, 18), anchor="lm")
+    dz.text((262, 342), "SPACE", font=f_h_key, fill=(24, 52, 225), anchor="lm")
+    dz.text((330, 342), "→ Pause" if is_en else "→ Tạm dừng", font=f_h_txt, fill=(25, 22, 18), anchor="lm")
+    cap_p1 = "No response? Turn on " if is_en else "Không bấm được? Bật "
+    cap_p2 = "CAPS LOCK!" if is_en else "CAPS LOCK!"
+    w1 = dz.textlength(cap_p1, font=f_h_txt)
+    w2 = dz.textlength(cap_p2, font=f_h_txt)
+    cx0 = 260 - (w1 + w2) / 2
+    dz.text((cx0, 386), cap_p1, font=f_h_txt, fill=(25, 22, 18), anchor="lm")
+    dz.text((cx0 + w1, 386), cap_p2, font=f_h_txt, fill=(210, 24, 20), anchor="lm")
+    f_cred = ImageFont.truetype(FONT_BOLD, 12)
+    cred_lines = (
+        [
+            "Credits (PvZ Hybrid Mod)",
+            "Lead Design: Qianting Weiweimi | Art: Weiweimi, Wumingshi",
+            "Code: XiaoxiaomieMS | Community/Tech: AXH Xuan, Lingshazhu",
+            "Trailer: Shitu | Manager: COOL | QA Lead: Tongyan",
+            "Special Thanks:",
+        ]
+        if is_en else
+        [
+            "Nhóm Tác Giả (PvZ Hybrid Mod)",
+            "Thiết kế chính: Qianting Weiweimi | Mỹ thuật: Weiweimi, Wumingshi",
+            "Lập trình: XiaoxiaomieMS | Hỗ trợ kỹ thuật: AXH Xuan, Lingshazhu",
+            "Trailer: Shitu | Quản lý: COOL | Trưởng test: Tongyan",
+            "Đặc biệt cảm ơn:",
+        ]
+    )
+    for idx_c, cline in enumerate(cred_lines):
+        dz.text((516, 36 + idx_c * 22), cline, font=f_cred, fill=(28, 25, 20), anchor="lm")
+    save_jpg(zn, out_dir, "images/ZombieNote.jpg", quality=94)
+    generated.append("images/ZombieNote.jpg")
+
+    # 15. White-on-black alpha masks: Credits_ZombieNote, ZombieNote1..4, Zombiefinalnote
+    segoe = r"C:\Windows\Fonts\segoeprb.ttf"
+    note_font = segoe if os.path.exists(segoe) else FONT_COMIC
+    white_notes = [
+        ("images/Credits_ZombieNote.png", (
+            "All right, you win. We won't\neat your brains. Right now we\njust wanna make a music video\nwith you.\n\nSincerely,\nThe Zombies"
+            if is_en else
+            "Được rồi, bạn thắng. Tụi tôi\nsẽ không ăn não nữa. Giờ tụi\ntôi chỉ muốn quay MV nhạc với\nbạn thôi.\n\nThân ái,\nLũ Zombie"
+        )),
+        ("images/ZombieNote1.png", (
+            "Hello,\n\nWe are about to launch an\nall-out attack on your house.\n\nSincerely,\nThe Zombies"
+            if is_en else
+            "Xin chào,\n\nChúng tôi sắp mở cuộc tổng\ntấn công vào nhà bạn đấy.\n\nThân ái,\nLũ Zombie"
+        )),
+        ("images/ZombieNote2.png", (
+            "Hello,\n\nWe'd love to drop by for a\nmidnight snack. How does\nice cream & brains sound?\n\nSincerely,\nThe Zombies"
+            if is_en else
+            "Xin chào,\n\nTụi tôi muốn ghé nhà bạn ăn\nkhuya chút. Món kem trộn não\nnghe cũng ổn phết nhỉ?\n\nThân ái,\nLũ Zombie"
+        )),
+        ("images/ZombieNote3.png", (
+            "Hello,\n\nWe heard you're throwing a\npool party. Sounds super fun!\nWe'll be right over.\n\nSincerely,\nThe Zombies"
+            if is_en else
+            "Xin chào,\n\nNghe đồn bạn đang mở tiệc hồ\nbơi. Nghe vui đấy!\nChúng tôi tới ngay đây.\n\nThân ái,\nLũ Zombie"
+        )),
+        ("images/ZombieNote4.png", (
+            "Hello,\n\nThis is your Mom. Please unlock\nthe front door, clear the lawn,\nand come try some meatloaf.\n\nSincerely,\nMom (not the Zombies)"
+            if is_en else
+            "Xin chào,\n\nMẹ đây. Con mở cửa trước, dọn\nhết cây trên sân rồi ra thử\nmón thịt cuộn nướng nhé.\n\nThương con,\nMẹ (không phải Zombie đâu)"
+        )),
+    ]
+    for rel, txt in white_notes:
+        src = load_src(rel)
+        mask = Image.new("RGB", src.size, (0, 0, 0))
+        dm = ImageDraw.Draw(mask)
+        f_nt = fit_font(note_font, txt, src.width - 36, src.height - 28, 25, min_size=14)
+        dm.multiline_text((src.width // 2, src.height // 2), txt, font=f_nt, fill=(255, 255, 255), anchor="mm", align="left", spacing=5)
+        dest = os.path.join(out_dir, rel.replace("/", os.sep))
+        os.makedirs(os.path.dirname(dest), exist_ok=True)
+        mask.save(dest, "PNG")
+        generated.append(rel)
+
+    zfn_src = Image.open(os.path.join(PAK_DIR, "images/Zombiefinalnote.png")).convert("RGB")
+    zfn_mask = Image.new("RGB", zfn_src.size, (0, 0, 0))
+    zfn_sig = zfn_src.crop((335, 222, zfn_src.width, 282))
+    zfn_mask.paste(zfn_sig, (335, 222))
+    dzfn = ImageDraw.Draw(zfn_mask)
+    zfn_body = (
+        "Homeowner,\nYou rejected our reasonable terms.\nReconsider, or we'll take extreme measures.\nHand over your house & brains now.\n                                    Sincerely,"
+        if is_en else
+        "Chủ nhà thân mến,\nBạn đã từ chối đề nghị hợp lý của ta.\nHãy nghĩ lại trước khi quá muộn!\nMau giao nộp ngôi nhà và bộ não ngay.\n                                    Kính bút,"
+    )
+    f_zfn = fit_font(note_font, zfn_body, zfn_src.width - 28, 208, 20, min_size=12)
+    dzfn.multiline_text((18, 12), zfn_body, font=f_zfn, fill=(255, 255, 255), spacing=4)
+    f_ed = get_font(note_font, 17)
+    dzfn.text((438, 298), "Dr. Edgar" if is_en else "Tiến Sĩ Edgar", font=f_ed, fill=(255, 255, 255), anchor="mm")
+    dest_zfn = os.path.join(out_dir, "images", "Zombiefinalnote.png")
+    zfn_mask.save(dest_zfn, "PNG")
+    generated.append("images/Zombiefinalnote.png")
+
     return generated
 
 

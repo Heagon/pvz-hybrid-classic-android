@@ -25,12 +25,12 @@ Reference build & localization scripts used to assemble the standalone multi-lan
 | Script | Purpose |
 | :--- | :--- |
 | `patch_engine_utf8.py` | Binary-patches `gdi42.dll` (`MultiByteToWideChar` codepage `936` GBK → `65001` `CP_UTF8` at 4 call sites) and merges Latin Extended + full Vietnamese diacritic glyphs from `LiberationSans` into all 6 runtime `.ttf` fonts. |
-| `patch_exe_strings.py` | Loads [`translations/strings_exe.json`](../translations/strings_exe.json) and relocates all **983 unique verified Chinese strings** (1,342 code & pointer-table items across `.rdata`/`.newHE`: dialogs, rules, HUD counters, stage titles, modifiers, and Hero Mode labels, plus the Main Menu ASCII version prefix) inside `PlantsVsZombies.exe` (`GB18030` → UTF-8 in `.newHE` zero slack) for clean English & Vietnamese UI. |
-| `patch_textures.py` | Renders **121 localized UI textures** (main menu signs, gravestones, chapter headers, hero/shop/almanac buttons) into `work/overrides_{en,vi}/` using sharp full-diacritic bold typography. |
-| `compile_properties.py` | Compiles and validates 3,309 translated strings across all 9 `properties/*.txt` files (UTF-8 without BOM, zero CJK leaks, 1:1 `{TAG}` preservation). |
-| `repack_pak.py` | Rebuilds PopCap `main.pak` (XOR `0xF7`) substituting 130 localized properties and UI textures case-insensitively. |
+| `patch_exe_strings.py` | Loads [`translations/strings_exe.json`](../translations/strings_exe.json) and relocates all **1,038 unique verified Chinese strings** (1,421 code & pointer-table items across `.rdata`/`.newHE`: dialogs, rules, HUD counters, stage titles, 24 Console checkboxes, Sandbox, Shop, and Hero Mode labels, plus the Main Menu ASCII version prefix) inside `PlantsVsZombies.exe` (`GB18030` → UTF-8 in `.newHE` zero slack) for clean English & Vietnamese UI. |
+| `patch_textures.py` | Renders **133 localized UI textures** (main menu signs, gravestones, 22 chapter/stage headers, hero/shop/almanac buttons, `FlagMeter` progress, title badges) into `work/overrides_{en,vi}/` using sharp full-diacritic bold typography. |
+| `compile_properties.py` | Compiles and validates 3,309 translated strings across all 9 `properties/*.txt` files (including 437 refitted Plant/Zombie/Hero Almanac descriptions, UTF-8 without BOM, zero CJK leaks, 1:1 `{TAG}` preservation). |
+| `repack_pak.py` | Rebuilds PopCap `main.pak` (XOR `0xF7`) substituting 142 localized properties and UI textures case-insensitively. |
 | `patch_tzst_runtime.py` | Rewrites hardcoded `/data/data/com.winlator/...` paths, shell wrappers, and ELF symlink targets inside runtime `.tzst` archives (`rootfs.tzst`, `box64`, `container_pattern`) to `com.pvzh.cls` so Wine/Box64 boots standalone without requiring Winlator installed. |
-| `pack_apk.py` | Stages `game_stage_{cn,en,vi}`, compresses into `pvz_game_*.tzst`, embeds 4-byte-aligned `ZIP_STORED` payloads inside `base_shell.apk` (configured with `WineD3D` OpenGL FBO `renderer=gl` and `GLXExtension` top-down `flipY=false` patch so Mali/Adreno GPUs render 100% upright), stamps `pvz_edition.txt`, and signs with your keystore (`KEYSTORE_PATH`, `KS_PASS`, `KS_ALIAS`). |
+| `pack_apk.py` | Stages `game_stage_{cn,en,vi}`, compresses into `pvz_game_*.tzst`, embeds 4-byte-aligned `ZIP_STORED` payloads inside `base_shell.apk` (configured with **`VirGL`** + **`WineD3D` GL `csmt=0` FBO `VideoMemorySize=512`** + Box64 fast dynarec + **`HUDMode=0`** + `GLXExtension` top-down `flipY=false` patch so Mali/Adreno GPUs render 100% upright at ~2x FPS), stamps `pvz_edition.txt`, and signs with your keystore (`KEYSTORE_PATH`, `KS_PASS`, `KS_ALIAS`). |
 
 ## Usage Overview
 ```bash
@@ -45,7 +45,7 @@ python tools/patch_engine_utf8.py
 # 2. Relocate hardcoded .exe UI strings for EN / VI
 python tools/patch_exe_strings.py
 
-# 3. Render 121 localized UI textures + compile 3,309 property strings
+# 3. Render 133 localized UI textures + compile 3,309 property strings
 python tools/patch_textures.py
 python tools/compile_properties.py
 

@@ -14,158 +14,158 @@
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_DESCRIPTION",
-    "en": "The Ultimate Frostfire Gatling Shooter!\nFierce firepower! Terrifying damage!\n\nOther plants always wondered how\nUltimate Shooter darts around the lawn\nso fast — maybe riding an invisible\nmower? His personal motto tells all:\nFight fiercely like a howling gale for\nthe dream in your heart!",
-    "vi": "Xạ Thủ Súng Máy Băng Hỏa Tối Thượng!\nHỏa lực hủy diệt! Sát thương kinh hồn\nbạt vía!\n\nCác cây khác cứ thắc mắc sao cậu ta có\nthể lướt khắp bãi cỏ nhanh đến thế — hay\nngồi xe cắt cỏ tàng hình? Châm ngôn của\ncậu ta đã giải đáp tất cả:\nVì giấc mơ trong tim, chiến đấu rực lửa\nnhư cơn cuồng phong!"
+    "en": "Ultimate Frostfire Gatling Shooter! Fierce firepower and terrifying damage!\n\nOther plants wonder how he speeds around the lawn — an invisible mower? His motto says it all: Fight like a storm for your dream!",
+    "vi": "Xạ Thủ Băng Hỏa Tối Thượng! Hỏa lực hủy diệt, sát thương kinh hồn!\n\nMọi cây đều thắc mắc sao cậu lướt nhanh thế — ngồi xe cắt cỏ tàng hình chăng? Châm ngôn của cậu nói lên tất cả: Vì ước mơ, chiến đấu như cuồng phong!"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL0_0",
-    "en": "Rapid Gatling (Passive):\nFires 8 frostfire orbs every 1.9s",
-    "vi": "Súng Máy Tốc Độ (Nội tại):\nMỗi 1.9 giây bắn 8 cầu Băng Hỏa"
+    "en": "Rapid Gatling (Passive): Fires 8 frostfire orbs every 1.9s",
+    "vi": "Súng Máy Tốc Độ (Nội tại): Mỗi 1.9 giây bắn 8 cầu Băng Hỏa"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL0_1",
-    "en": "Rapid Gatling (Passive):\nFires 12 frostfire orbs every 1.9s",
-    "vi": "Súng Máy Tốc Độ (Nội tại):\nMỗi 1.9 giây bắn 12 cầu Băng Hỏa"
+    "en": "Rapid Gatling (Passive): Fires 12 frostfire orbs every 1.9s",
+    "vi": "Súng Máy Tốc Độ (Nội tại): Mỗi 1.9 giây bắn 12 cầu Băng Hỏa"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL0_2",
-    "en": "Rapid Gatling (Passive):\nFires 16 frostfire orbs every 1.9s",
-    "vi": "Súng Máy Tốc Độ (Nội tại):\nMỗi 1.9 giây bắn 16 cầu Băng Hỏa"
+    "en": "Rapid Gatling (Passive): Fires 16 frostfire orbs every 1.9s",
+    "vi": "Súng Máy Tốc Độ (Nội tại): Mỗi 1.9 giây bắn 16 cầu Băng Hỏa"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL0_3",
-    "en": "Rapid Gatling (Passive):\nFires 20 frostfire orbs every 1.9s",
-    "vi": "Súng Máy Tốc Độ (Nội tại):\nMỗi 1.9 giây bắn 20 cầu Băng Hỏa"
+    "en": "Rapid Gatling (Passive): Fires 20 frostfire orbs every 1.9s",
+    "vi": "Súng Máy Tốc Độ (Nội tại): Mỗi 1.9 giây bắn 20 cầu Băng Hỏa"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL0_4",
-    "en": "Rapid Gatling (Passive):\nFires 24 frostfire orbs every 1.9s",
-    "vi": "Súng Máy Tốc Độ (Nội tại):\nMỗi 1.9 giây bắn 24 cầu Băng Hỏa"
+    "en": "Rapid Gatling (Passive): Fires 24 frostfire orbs every 1.9s",
+    "vi": "Súng Máy Tốc Độ (Nội tại): Mỗi 1.9 giây bắn 24 cầu Băng Hỏa"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL1_0",
-    "en": "Frostfire Aura (Passive):\nBuilt-in Ice-Torch Stump effect; chills & deals 40 DPS in 3x3",
-    "vi": "Hào Quang Băng Hỏa (Nội tại):\nTích hợp hiệu ứng Gốc Đuốc Băng, mỗi giây làm chậm & gây 40 sát thương vùng 3x3"
+    "en": "Frostfire Aura (Passive): Built-in Ice-Torch Stump effect; chills & deals 40 DPS in 3x3",
+    "vi": "Hào Quang Băng Hỏa (Nội tại): Tích hợp hiệu ứng Gốc Đuốc Băng, mỗi giây làm chậm & gây 40 sát thương vùng 3x3"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL1_1",
-    "en": "Frostfire Aura (Passive):\nBuilt-in Ice-Torch Stump effect; chills & deals 50 DPS in 3x3",
-    "vi": "Hào Quang Băng Hỏa (Nội tại):\nTích hợp hiệu ứng Gốc Đuốc Băng, mỗi giây làm chậm & gây 50 sát thương vùng 3x3"
+    "en": "Frostfire Aura (Passive): Built-in Ice-Torch Stump effect; chills & deals 50 DPS in 3x3",
+    "vi": "Hào Quang Băng Hỏa (Nội tại): Tích hợp hiệu ứng Gốc Đuốc Băng, mỗi giây làm chậm & gây 50 sát thương vùng 3x3"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL1_2",
-    "en": "Frostfire Aura (Passive):\nBuilt-in Ice-Torch Stump effect; chills & deals 60 DPS in 3x3",
-    "vi": "Hào Quang Băng Hỏa (Nội tại):\nTích hợp hiệu ứng Gốc Đuốc Băng, mỗi giây làm chậm & gây 60 sát thương vùng 3x3"
+    "en": "Frostfire Aura (Passive): Built-in Ice-Torch Stump effect; chills & deals 60 DPS in 3x3",
+    "vi": "Hào Quang Băng Hỏa (Nội tại): Tích hợp hiệu ứng Gốc Đuốc Băng, mỗi giây làm chậm & gây 60 sát thương vùng 3x3"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL1_3",
-    "en": "Frostfire Aura (Passive):\nBuilt-in Ice-Torch Stump effect; chills & deals 70 DPS in 3x3",
-    "vi": "Hào Quang Băng Hỏa (Nội tại):\nTích hợp hiệu ứng Gốc Đuốc Băng, mỗi giây làm chậm & gây 70 sát thương vùng 3x3"
+    "en": "Frostfire Aura (Passive): Built-in Ice-Torch Stump effect; chills & deals 70 DPS in 3x3",
+    "vi": "Hào Quang Băng Hỏa (Nội tại): Tích hợp hiệu ứng Gốc Đuốc Băng, mỗi giây làm chậm & gây 70 sát thương vùng 3x3"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL1_4",
-    "en": "Frostfire Aura (Passive):\nBuilt-in Ice-Torch Stump effect; chills & deals 80 DPS in 3x3",
-    "vi": "Hào Quang Băng Hỏa (Nội tại):\nTích hợp hiệu ứng Gốc Đuốc Băng, mỗi giây làm chậm & gây 80 sát thương vùng 3x3"
+    "en": "Frostfire Aura (Passive): Built-in Ice-Torch Stump effect; chills & deals 80 DPS in 3x3",
+    "vi": "Hào Quang Băng Hỏa (Nội tại): Tích hợp hiệu ứng Gốc Đuốc Băng, mỗi giây làm chậm & gây 80 sát thương vùng 3x3"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL2_0",
-    "en": "Hail of Bullets (Active):\nInstantly fires a high-speed barrage of 60 frostfire orbs down the lane",
-    "vi": "Mưa Đạn Bão Táp (Chủ động):\nLập tức xả 60 cầu Băng Hỏa tốc độ cao dọc hàng phía trước"
+    "en": "Hail of Bullets (Active): Instantly fires a high-speed barrage of 60 frostfire orbs down the lane",
+    "vi": "Mưa Đạn Bão Táp (Chủ động): Lập tức xả 60 cầu Băng Hỏa tốc độ cao dọc hàng phía trước"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL2_1",
-    "en": "Hail of Bullets (Active):\nInstantly fires a high-speed barrage of 90 frostfire orbs down the lane",
-    "vi": "Mưa Đạn Bão Táp (Chủ động):\nLập tức xả 90 cầu Băng Hỏa tốc độ cao dọc hàng phía trước"
+    "en": "Hail of Bullets (Active): Instantly fires a high-speed barrage of 90 frostfire orbs down the lane",
+    "vi": "Mưa Đạn Bão Táp (Chủ động): Lập tức xả 90 cầu Băng Hỏa tốc độ cao dọc hàng phía trước"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL2_2",
-    "en": "Hail of Bullets (Active):\nInstantly fires a high-speed barrage of 120 frostfire orbs down the lane",
-    "vi": "Mưa Đạn Bão Táp (Chủ động):\nLập tức xả 120 cầu Băng Hỏa tốc độ cao dọc hàng phía trước"
+    "en": "Hail of Bullets (Active): Instantly fires a high-speed barrage of 120 frostfire orbs down the lane",
+    "vi": "Mưa Đạn Bão Táp (Chủ động): Lập tức xả 120 cầu Băng Hỏa tốc độ cao dọc hàng phía trước"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL2_3",
-    "en": "Hail of Bullets (Active):\nInstantly fires a high-speed barrage of 150 frostfire orbs down the lane",
-    "vi": "Mưa Đạn Bão Táp (Chủ động):\nLập tức xả 150 cầu Băng Hỏa tốc độ cao dọc hàng phía trước"
+    "en": "Hail of Bullets (Active): Instantly fires a high-speed barrage of 150 frostfire orbs down the lane",
+    "vi": "Mưa Đạn Bão Táp (Chủ động): Lập tức xả 150 cầu Băng Hỏa tốc độ cao dọc hàng phía trước"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL2_4",
-    "en": "Hail of Bullets (Active):\nInstantly fires a high-speed barrage of 180 frostfire orbs down the lane",
-    "vi": "Mưa Đạn Bão Táp (Chủ động):\nLập tức xả 180 cầu Băng Hỏa tốc độ cao dọc hàng phía trước"
+    "en": "Hail of Bullets (Active): Instantly fires a high-speed barrage of 180 frostfire orbs down the lane",
+    "vi": "Mưa Đạn Bão Táp (Chủ động): Lập tức xả 180 cầu Băng Hỏa tốc độ cao dọc hàng phía trước"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL3_0",
-    "en": "Scatter Mode (Active):\nSwitches basic shots to Wild Gatling spread for 15s (4 frostfire orbs per shot)",
-    "vi": "Chế Độ Tản Đạn (Chủ động):\nTạm đổi đạn thường sang kiểu Súng Máy Cuồng Dã trong 15s (bắn 4 cầu Băng Hỏa mỗi phát)"
+    "en": "Scatter Mode (Active): Fires Wild Gatling spread for 15s (4 frostfire orbs/shot)",
+    "vi": "Chế Độ Tản Đạn (Chủ động): Đổi đạn sang kiểu Cuồng Dã 15s (4 cầu Băng Hỏa/phát)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL3_1",
-    "en": "Scatter Mode (Active):\nSwitches basic shots to Wild Gatling spread for 20s (5 frostfire orbs per shot)",
-    "vi": "Chế Độ Tản Đạn (Chủ động):\nTạm đổi đạn thường sang kiểu Súng Máy Cuồng Dã trong 20s (bắn 5 cầu Băng Hỏa mỗi phát)"
+    "en": "Scatter Mode (Active): Fires Wild Gatling spread for 20s (5 frostfire orbs/shot)",
+    "vi": "Chế Độ Tản Đạn (Chủ động): Đổi đạn sang kiểu Cuồng Dã 20s (5 cầu Băng Hỏa/phát)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL3_2",
-    "en": "Scatter Mode (Active):\nSwitches basic shots to Wild Gatling spread for 25s (6 frostfire orbs per shot)",
-    "vi": "Chế Độ Tản Đạn (Chủ động):\nTạm đổi đạn thường sang kiểu Súng Máy Cuồng Dã trong 25s (bắn 6 cầu Băng Hỏa mỗi phát)"
+    "en": "Scatter Mode (Active): Fires Wild Gatling spread for 25s (6 frostfire orbs/shot)",
+    "vi": "Chế Độ Tản Đạn (Chủ động): Đổi đạn sang kiểu Cuồng Dã 25s (6 cầu Băng Hỏa/phát)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL3_3",
-    "en": "Scatter Mode (Active):\nSwitches basic shots to Wild Gatling spread for 30s (7 frostfire orbs per shot)",
-    "vi": "Chế Độ Tản Đạn (Chủ động):\nTạm đổi đạn thường sang kiểu Súng Máy Cuồng Dã trong 30s (bắn 7 cầu Băng Hỏa mỗi phát)"
+    "en": "Scatter Mode (Active): Fires Wild Gatling spread for 30s (7 frostfire orbs/shot)",
+    "vi": "Chế Độ Tản Đạn (Chủ động): Đổi đạn sang kiểu Cuồng Dã 30s (7 cầu Băng Hỏa/phát)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL3_4",
-    "en": "Scatter Mode (Active):\nSwitches basic shots to Wild Gatling spread for 35s (8 frostfire orbs per shot)",
-    "vi": "Chế Độ Tản Đạn (Chủ động):\nTạm đổi đạn thường sang kiểu Súng Máy Cuồng Dã trong 35s (bắn 8 cầu Băng Hỏa mỗi phát)"
+    "en": "Scatter Mode (Active): Fires Wild Gatling spread for 35s (8 frostfire orbs/shot)",
+    "vi": "Chế Độ Tản Đạn (Chủ động): Đổi đạn sang kiểu Cuồng Dã 35s (8 cầu Băng Hỏa/phát)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL4_0",
-    "en": "Piercing Strike (Active):\nTurns basic attack shots into piercing frostfire orbs for 15s",
-    "vi": "Đòn Xuyên Thấu (Chủ động):\nTạm biến đạn thường thành cầu Băng Hỏa xuyên thấu trong 15 giây"
+    "en": "Piercing Strike (Active): Turns basic attack shots into piercing frostfire orbs for 15s",
+    "vi": "Đòn Xuyên Thấu (Chủ động): Tạm biến đạn thường thành cầu Băng Hỏa xuyên thấu trong 15 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL4_1",
-    "en": "Piercing Strike (Active):\nTurns basic attack shots into piercing frostfire orbs for 20s",
-    "vi": "Đòn Xuyên Thấu (Chủ động):\nTạm biến đạn thường thành cầu Băng Hỏa xuyên thấu trong 20 giây"
+    "en": "Piercing Strike (Active): Turns basic attack shots into piercing frostfire orbs for 20s",
+    "vi": "Đòn Xuyên Thấu (Chủ động): Tạm biến đạn thường thành cầu Băng Hỏa xuyên thấu trong 20 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL4_2",
-    "en": "Piercing Strike (Active):\nTurns basic attack shots into piercing frostfire orbs for 25s",
-    "vi": "Đòn Xuyên Thấu (Chủ động):\nTạm biến đạn thường thành cầu Băng Hỏa xuyên thấu trong 25 giây"
+    "en": "Piercing Strike (Active): Turns basic attack shots into piercing frostfire orbs for 25s",
+    "vi": "Đòn Xuyên Thấu (Chủ động): Tạm biến đạn thường thành cầu Băng Hỏa xuyên thấu trong 25 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL4_3",
-    "en": "Piercing Strike (Active):\nTurns basic attack shots into piercing frostfire orbs for 30s",
-    "vi": "Đòn Xuyên Thấu (Chủ động):\nTạm biến đạn thường thành cầu Băng Hỏa xuyên thấu trong 30 giây"
+    "en": "Piercing Strike (Active): Turns basic attack shots into piercing frostfire orbs for 30s",
+    "vi": "Đòn Xuyên Thấu (Chủ động): Tạm biến đạn thường thành cầu Băng Hỏa xuyên thấu trong 30 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ULTIMATEPEA_SKILL4_4",
-    "en": "Piercing Strike (Active):\nTurns basic attack shots into piercing frostfire orbs for 35s",
-    "vi": "Đòn Xuyên Thấu (Chủ động):\nTạm biến đạn thường thành cầu Băng Hỏa xuyên thấu trong 35 giây"
+    "en": "Piercing Strike (Active): Turns basic attack shots into piercing frostfire orbs for 35s",
+    "vi": "Đòn Xuyên Thấu (Chủ động): Tạm biến đạn thường thành cầu Băng Hỏa xuyên thấu trong 35 giây"
   },
   {
     "file": "LawnStrings.txt",
@@ -182,158 +182,158 @@
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_DESCRIPTION",
-    "en": "Excels at supporting fellow plants in\ncombat!\nGrants healing and surging power to all\nallies!\n\nSunflower Princess's latest album is\nselling out fast! \"Her singing is\nliterally the best medicine,\" raved\nconcertgoers. \"All our fatigue melted\nright away!\"",
-    "vi": "Cực kỳ giỏi hỗ trợ đồng đội chiến đấu!\nBan tặng khả năng hồi phục và sức mạnh\ncho cây trồng!\n\nAlbum mới của Hướng Dương Công Chúa đang\nbán cực chạy. \"Giọng hát cô ấy đúng là\nliều thuốc tiên,\" fan hâm mộ trầm trồ,\n\"bao nhiêu mệt mỏi tan biến sạch sẽ!\""
+    "en": "Master combat support! Heals allies and boosts their surging power!\n\nSunflower Princess's new album is selling fast! \"Her singing is magic,\" fans rave. \"All our fatigue melted right away!\"",
+    "vi": "Bậc thầy hỗ trợ chiến đấu! Hồi phục và tăng sức mạnh cho cây trồng!\n\nAlbum mới của Hướng Dương Công Chúa bán cực chạy. \"Giọng cô ấy đúng là thuốc tiên,\" fan khen, \"bao mệt mỏi tan biến sạch!\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL0_0",
-    "en": "Radiant Glow (Passive):\nProduces 50 Sun every 25s",
-    "vi": "Hào Quang Rực Rỡ (Nội tại):\nMỗi 25 giây tạo 50 Mặt trời"
+    "en": "Radiant Glow (Passive): Produces 50 Sun every 25s",
+    "vi": "Hào Quang Rực Rỡ (Nội tại): Mỗi 25 giây tạo 50 Mặt trời"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL0_1",
-    "en": "Radiant Glow (Passive):\nProduces 100 Sun every 25s",
-    "vi": "Hào Quang Rực Rỡ (Nội tại):\nMỗi 25 giây tạo 100 Mặt trời"
+    "en": "Radiant Glow (Passive): Produces 100 Sun every 25s",
+    "vi": "Hào Quang Rực Rỡ (Nội tại): Mỗi 25 giây tạo 100 Mặt trời"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL0_2",
-    "en": "Radiant Glow (Passive):\nProduces 150 Sun every 25s",
-    "vi": "Hào Quang Rực Rỡ (Nội tại):\nMỗi 25 giây tạo 150 Mặt trời"
+    "en": "Radiant Glow (Passive): Produces 150 Sun every 25s",
+    "vi": "Hào Quang Rực Rỡ (Nội tại): Mỗi 25 giây tạo 150 Mặt trời"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL0_3",
-    "en": "Radiant Glow (Passive):\nProduces 200 Sun every 25s",
-    "vi": "Hào Quang Rực Rỡ (Nội tại):\nMỗi 25 giây tạo 200 Mặt trời"
+    "en": "Radiant Glow (Passive): Produces 200 Sun every 25s",
+    "vi": "Hào Quang Rực Rỡ (Nội tại): Mỗi 25 giây tạo 200 Mặt trời"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL0_4",
-    "en": "Radiant Glow (Passive):\nProduces 250 Sun every 25s",
-    "vi": "Hào Quang Rực Rỡ (Nội tại):\nMỗi 25 giây tạo 250 Mặt trời"
+    "en": "Radiant Glow (Passive): Produces 250 Sun every 25s",
+    "vi": "Hào Quang Rực Rỡ (Nội tại): Mỗi 25 giây tạo 250 Mặt trời"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL1_0",
-    "en": "Blossom of Friendship (Passive):\nHeals plants in 3x3 by 50 HP every 5s",
-    "vi": "Đóa Hoa Tình Bạn (Nội tại):\nCây trong vùng 3x3 mỗi 5 giây hồi 50 máu"
+    "en": "Blossom of Friendship (Passive): Heals plants in 3x3 by 50 HP every 5s",
+    "vi": "Đóa Hoa Tình Bạn (Nội tại): Cây trong vùng 3x3 mỗi 5 giây hồi 50 máu"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL1_1",
-    "en": "Blossom of Friendship (Passive):\nHeals plants in 3x3 by 100 HP every 5s",
-    "vi": "Đóa Hoa Tình Bạn (Nội tại):\nCây trong vùng 3x3 mỗi 5 giây hồi 100 máu"
+    "en": "Blossom of Friendship (Passive): Heals plants in 3x3 by 100 HP every 5s",
+    "vi": "Đóa Hoa Tình Bạn (Nội tại): Cây trong vùng 3x3 mỗi 5 giây hồi 100 máu"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL1_2",
-    "en": "Blossom of Friendship (Passive):\nHeals plants in 3x3 by 150 HP every 5s",
-    "vi": "Đóa Hoa Tình Bạn (Nội tại):\nCây trong vùng 3x3 mỗi 5 giây hồi 150 máu"
+    "en": "Blossom of Friendship (Passive): Heals plants in 3x3 by 150 HP every 5s",
+    "vi": "Đóa Hoa Tình Bạn (Nội tại): Cây trong vùng 3x3 mỗi 5 giây hồi 150 máu"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL1_3",
-    "en": "Blossom of Friendship (Passive):\nHeals plants in 3x3 by 200 HP every 5s",
-    "vi": "Đóa Hoa Tình Bạn (Nội tại):\nCây trong vùng 3x3 mỗi 5 giây hồi 200 máu"
+    "en": "Blossom of Friendship (Passive): Heals plants in 3x3 by 200 HP every 5s",
+    "vi": "Đóa Hoa Tình Bạn (Nội tại): Cây trong vùng 3x3 mỗi 5 giây hồi 200 máu"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL1_4",
-    "en": "Blossom of Friendship (Passive):\nHeals plants in 3x3 by 250 HP every 5s",
-    "vi": "Đóa Hoa Tình Bạn (Nội tại):\nCây trong vùng 3x3 mỗi 5 giây hồi 250 máu"
+    "en": "Blossom of Friendship (Passive): Heals plants in 3x3 by 250 HP every 5s",
+    "vi": "Đóa Hoa Tình Bạn (Nội tại): Cây trong vùng 3x3 mỗi 5 giây hồi 250 máu"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL2_0",
-    "en": "Encore Melody (Active):\nDoubles attack speed of all plants for 15s",
-    "vi": "Cất Cao Tiếng Hát (Chủ động):\nNhân đôi tốc độ đánh toàn bộ cây trên sân trong 15 giây"
+    "en": "Encore Melody (Active): Doubles attack speed of all plants for 15s",
+    "vi": "Cất Cao Tiếng Hát (Chủ động): Nhân đôi tốc độ đánh toàn bộ cây trên sân trong 15 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL2_1",
-    "en": "Encore Melody (Active):\nIncreases attack speed of all plants by 2x for 15s",
-    "vi": "Cất Cao Tiếng Hát (Chủ động):\nTăng gấp 2 lần tốc độ đánh toàn bộ cây trong 15 giây"
+    "en": "Encore Melody (Active): Increases attack speed of all plants by 2x for 15s",
+    "vi": "Cất Cao Tiếng Hát (Chủ động): Tăng gấp 2 lần tốc độ đánh toàn bộ cây trong 15 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL2_2",
-    "en": "Encore Melody (Active):\nIncreases attack speed of all plants by 3x for 15s",
-    "vi": "Cất Cao Tiếng Hát (Chủ động):\nTăng gấp 3 lần tốc độ đánh toàn bộ cây trong 15 giây"
+    "en": "Encore Melody (Active): Increases attack speed of all plants by 3x for 15s",
+    "vi": "Cất Cao Tiếng Hát (Chủ động): Tăng gấp 3 lần tốc độ đánh toàn bộ cây trong 15 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL2_3",
-    "en": "Encore Melody (Active):\nIncreases attack speed of all plants by 4x for 15s",
-    "vi": "Cất Cao Tiếng Hát (Chủ động):\nTăng gấp 4 lần tốc độ đánh toàn bộ cây trong 15 giây"
+    "en": "Encore Melody (Active): Increases attack speed of all plants by 4x for 15s",
+    "vi": "Cất Cao Tiếng Hát (Chủ động): Tăng gấp 4 lần tốc độ đánh toàn bộ cây trong 15 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL2_4",
-    "en": "Encore Melody (Active):\nIncreases attack speed of all plants by 5x for 15s",
-    "vi": "Cất Cao Tiếng Hát (Chủ động):\nTăng gấp 5 lần tốc độ đánh toàn bộ cây trong 15 giây"
+    "en": "Encore Melody (Active): Increases attack speed of all plants by 5x for 15s",
+    "vi": "Cất Cao Tiếng Hát (Chủ động): Tăng gấp 5 lần tốc độ đánh toàn bộ cây trong 15 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL3_0",
-    "en": "Royal Privilege (Active):\nGains 2 random premium-tier cards (CD: 160s)",
-    "vi": "Đặc Quyền Công Chúa (Chủ động):\nNhận ngẫu nhiên 2 thẻ cao cấp khác nhau, hồi chiêu 160 giây"
+    "en": "Royal Privilege (Active): Gains 2 random premium-tier cards (CD: 160s)",
+    "vi": "Đặc Quyền Công Chúa (Chủ động): Nhận ngẫu nhiên 2 thẻ cao cấp khác nhau, hồi chiêu 160 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL3_1",
-    "en": "Royal Privilege (Active):\nGains 2 random premium-tier cards (CD: 140s)",
-    "vi": "Đặc Quyền Công Chúa (Chủ động):\nNhận ngẫu nhiên 2 thẻ cao cấp khác nhau, hồi chiêu 140 giây"
+    "en": "Royal Privilege (Active): Gains 2 random premium-tier cards (CD: 140s)",
+    "vi": "Đặc Quyền Công Chúa (Chủ động): Nhận ngẫu nhiên 2 thẻ cao cấp khác nhau, hồi chiêu 140 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL3_2",
-    "en": "Royal Privilege (Active):\nGains 2 random premium-tier cards (CD: 120s)",
-    "vi": "Đặc Quyền Công Chúa (Chủ động):\nNhận ngẫu nhiên 2 thẻ cao cấp khác nhau, hồi chiêu 120 giây"
+    "en": "Royal Privilege (Active): Gains 2 random premium-tier cards (CD: 120s)",
+    "vi": "Đặc Quyền Công Chúa (Chủ động): Nhận ngẫu nhiên 2 thẻ cao cấp khác nhau, hồi chiêu 120 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL3_3",
-    "en": "Royal Privilege (Active):\nGains 2 random premium-tier cards (CD: 100s)",
-    "vi": "Đặc Quyền Công Chúa (Chủ động):\nNhận ngẫu nhiên 2 thẻ cao cấp khác nhau, hồi chiêu 100 giây"
+    "en": "Royal Privilege (Active): Gains 2 random premium-tier cards (CD: 100s)",
+    "vi": "Đặc Quyền Công Chúa (Chủ động): Nhận ngẫu nhiên 2 thẻ cao cấp khác nhau, hồi chiêu 100 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL3_4",
-    "en": "Royal Privilege (Active):\nGains 2 random premium-tier cards (CD: 80s)",
-    "vi": "Đặc Quyền Công Chúa (Chủ động):\nNhận ngẫu nhiên 2 thẻ cao cấp khác nhau, hồi chiêu 80 giây"
+    "en": "Royal Privilege (Active): Gains 2 random premium-tier cards (CD: 80s)",
+    "vi": "Đặc Quyền Công Chúa (Chủ động): Nhận ngẫu nhiên 2 thẻ cao cấp khác nhau, hồi chiêu 80 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL4_0",
-    "en": "Fireball Waltz (Active):\nRains 50 fireballs per second from the sky for 8s",
-    "vi": "Vũ Điệu Hỏa Lực (Chủ động):\nMưa cầu lửa từ trên trời, mỗi giây 50 quả trong 8 giây"
+    "en": "Fireball Waltz (Active): Rains 50 fireballs per second from the sky for 8s",
+    "vi": "Vũ Điệu Hỏa Lực (Chủ động): Mưa cầu lửa từ trên trời, mỗi giây 50 quả trong 8 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL4_1",
-    "en": "Fireball Waltz (Active):\nRains 100 fireballs per second from the sky for 8s",
-    "vi": "Vũ Điệu Hỏa Lực (Chủ động):\nMưa cầu lửa từ trên trời, mỗi giây 100 quả trong 8 giây"
+    "en": "Fireball Waltz (Active): Rains 100 fireballs per second from the sky for 8s",
+    "vi": "Vũ Điệu Hỏa Lực (Chủ động): Mưa cầu lửa từ trên trời, mỗi giây 100 quả trong 8 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL4_2",
-    "en": "Fireball Waltz (Active):\nRains 150 fireballs per second from the sky for 8s",
-    "vi": "Vũ Điệu Hỏa Lực (Chủ động):\nMưa cầu lửa từ trên trời, mỗi giây 150 quả trong 8 giây"
+    "en": "Fireball Waltz (Active): Rains 150 fireballs per second from the sky for 8s",
+    "vi": "Vũ Điệu Hỏa Lực (Chủ động): Mưa cầu lửa từ trên trời, mỗi giây 150 quả trong 8 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL4_3",
-    "en": "Fireball Waltz (Active):\nRains 200 fireballs per second from the sky for 8s",
-    "vi": "Vũ Điệu Hỏa Lực (Chủ động):\nMưa cầu lửa từ trên trời, mỗi giây 200 quả trong 8 giây"
+    "en": "Fireball Waltz (Active): Rains 200 fireballs per second from the sky for 8s",
+    "vi": "Vũ Điệu Hỏa Lực (Chủ động): Mưa cầu lửa từ trên trời, mỗi giây 200 quả trong 8 giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWERPRINCESS_SKILL4_4",
-    "en": "Fireball Waltz (Active):\nRains 250 fireballs per second from the sky for 8s",
-    "vi": "Vũ Điệu Hỏa Lực (Chủ động):\nMưa cầu lửa từ trên trời, mỗi giây 250 quả trong 8 giây"
+    "en": "Fireball Waltz (Active): Rains 250 fireballs per second from the sky for 8s",
+    "vi": "Vũ Điệu Hỏa Lực (Chủ động): Mưa cầu lửa từ trên trời, mỗi giây 250 quả trong 8 giây"
   },
   {
     "file": "LawnStrings.txt",
@@ -350,158 +350,158 @@
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_DESCRIPTION",
-    "en": "Super-sized Burger King! Best served\nalongside fries and cola!\n\nUnfairly kicked out of the value\nbreakfast combo lineup, Burger King\nholds a grudge and vows to reclaim the\nthrone! Type this in-game code to hear\nhis comeback plan:\nFKXQSVIVO50!",
-    "vi": "Vua Bánh Burger phần siêu khổng lồ! Ăn\nkèm coca và khoai tây chiên càng ngon\ntuyệt!\n\nBị gạt ra khỏi thực đơn bữa sáng giá hời\nkhiến nó ôm hận trong lòng, thề sẽ trở\nlại đỉnh cao!\nNhập mã lệnh sau trong game để nghe kế\nhoạch phục thù:\nFKXQSVIVO50!"
+    "en": "Jumbo Burger King! Best served with crispy fries and cola!\n\nCut from the breakfast value menu, he vows to reclaim his throne! Enter this in-game code for his plan: FKXQSVIVO50!",
+    "vi": "Vua Bánh Burger cỡ đại! Ăn kèm khoai chiên và coca cực đã!\n\nBị loại khỏi thực đơn sáng giá hời, nó thề sẽ đoạt lại ngôi vương! Nhập mã sau trong game để xem kế hoạch: FKXQSVIVO50!"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL0_0",
-    "en": "Secret Recipe (Passive):\nProduces 50 Sun every 25s; fires 8 random shots every 2s",
-    "vi": "Công Thức Bí Truyền (Nội tại):\nMỗi 25 giây tạo 50 Mặt trời, mỗi 2 giây bắn 8 đạn ngẫu nhiên"
+    "en": "Secret Recipe (Passive): Produces 50 Sun every 25s; fires 8 random shots every 2s",
+    "vi": "Công Thức Bí Truyền (Nội tại): Mỗi 25 giây tạo 50 Mặt trời, mỗi 2 giây bắn 8 đạn ngẫu nhiên"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL0_1",
-    "en": "Secret Recipe (Passive):\nProduces 75 Sun every 25s; fires 10 random shots every 2s",
-    "vi": "Công Thức Bí Truyền (Nội tại):\nMỗi 25 giây tạo 75 Mặt trời, mỗi 2 giây bắn 10 đạn ngẫu nhiên"
+    "en": "Secret Recipe (Passive): Produces 75 Sun every 25s; fires 10 random shots every 2s",
+    "vi": "Công Thức Bí Truyền (Nội tại): Mỗi 25 giây tạo 75 Mặt trời, mỗi 2 giây bắn 10 đạn ngẫu nhiên"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL0_2",
-    "en": "Secret Recipe (Passive):\nProduces 100 Sun every 25s; fires 12 random shots every 2s",
-    "vi": "Công Thức Bí Truyền (Nội tại):\nMỗi 25 giây tạo 100 Mặt trời, mỗi 2 giây bắn 12 đạn ngẫu nhiên"
+    "en": "Secret Recipe (Passive): Produces 100 Sun every 25s; fires 12 random shots every 2s",
+    "vi": "Công Thức Bí Truyền (Nội tại): Mỗi 25 giây tạo 100 Mặt trời, mỗi 2 giây bắn 12 đạn ngẫu nhiên"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL0_3",
-    "en": "Secret Recipe (Passive):\nProduces 125 Sun every 25s; fires 14 random shots every 2s",
-    "vi": "Công Thức Bí Truyền (Nội tại):\nMỗi 25 giây tạo 125 Mặt trời, mỗi 2 giây bắn 14 đạn ngẫu nhiên"
+    "en": "Secret Recipe (Passive): Produces 125 Sun every 25s; fires 14 random shots every 2s",
+    "vi": "Công Thức Bí Truyền (Nội tại): Mỗi 25 giây tạo 125 Mặt trời, mỗi 2 giây bắn 14 đạn ngẫu nhiên"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL0_4",
-    "en": "Secret Recipe (Passive):\nProduces 150 Sun every 25s; fires 16 random shots every 2s",
-    "vi": "Công Thức Bí Truyền (Nội tại):\nMỗi 25 giây tạo 150 Mặt trời, mỗi 2 giây bắn 16 đạn ngẫu nhiên"
+    "en": "Secret Recipe (Passive): Produces 150 Sun every 25s; fires 16 random shots every 2s",
+    "vi": "Công Thức Bí Truyền (Nội tại): Mỗi 25 giây tạo 150 Mặt trời, mỗi 2 giây bắn 16 đạn ngẫu nhiên"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL1_0",
-    "en": "Flame-Broiled Grill (Passive):\nAll zombies in 3x3 take 40 Fire damage/s",
-    "vi": "Nướng Lửa Thượng Hạng (Nội tại):\nMọi zombie vùng 3x3 chịu 40 sát thương Lửa mỗi giây"
+    "en": "Flame-Broiled Grill (Passive): All zombies in 3x3 take 40 Fire damage/s",
+    "vi": "Nướng Lửa Thượng Hạng (Nội tại): Mọi zombie vùng 3x3 chịu 40 sát thương Lửa mỗi giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL1_1",
-    "en": "Flame-Broiled Grill (Passive):\nAll zombies in 3x3 take 80 Fire damage/s",
-    "vi": "Nướng Lửa Thượng Hạng (Nội tại):\nMọi zombie vùng 3x3 chịu 80 sát thương Lửa mỗi giây"
+    "en": "Flame-Broiled Grill (Passive): All zombies in 3x3 take 80 Fire damage/s",
+    "vi": "Nướng Lửa Thượng Hạng (Nội tại): Mọi zombie vùng 3x3 chịu 80 sát thương Lửa mỗi giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL1_2",
-    "en": "Flame-Broiled Grill (Passive):\nAll zombies in 3x3 take 120 Fire damage/s",
-    "vi": "Nướng Lửa Thượng Hạng (Nội tại):\nMọi zombie vùng 3x3 chịu 120 sát thương Lửa mỗi giây"
+    "en": "Flame-Broiled Grill (Passive): All zombies in 3x3 take 120 Fire damage/s",
+    "vi": "Nướng Lửa Thượng Hạng (Nội tại): Mọi zombie vùng 3x3 chịu 120 sát thương Lửa mỗi giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL1_3",
-    "en": "Flame-Broiled Grill (Passive):\nAll zombies in 3x3 take 160 Fire damage/s",
-    "vi": "Nướng Lửa Thượng Hạng (Nội tại):\nMọi zombie vùng 3x3 chịu 160 sát thương Lửa mỗi giây"
+    "en": "Flame-Broiled Grill (Passive): All zombies in 3x3 take 160 Fire damage/s",
+    "vi": "Nướng Lửa Thượng Hạng (Nội tại): Mọi zombie vùng 3x3 chịu 160 sát thương Lửa mỗi giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL1_4",
-    "en": "Flame-Broiled Grill (Passive):\nAll zombies in 3x3 take 200 Fire damage/s",
-    "vi": "Nướng Lửa Thượng Hạng (Nội tại):\nMọi zombie vùng 3x3 chịu 200 sát thương Lửa mỗi giây"
+    "en": "Flame-Broiled Grill (Passive): All zombies in 3x3 take 200 Fire damage/s",
+    "vi": "Nướng Lửa Thượng Hạng (Nội tại): Mọi zombie vùng 3x3 chịu 200 sát thương Lửa mỗi giây"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL2_0",
-    "en": "Whopper Slam (Active):\nGains +1,000 HP and crushes zombies up to 2 tiles ahead for 1,800 damage",
-    "vi": "Bánh Cỡ Đại Đè Bẹp (Chủ động):\nTăng 1000 máu, đè bẹp mọi zombie 2 ô phía trước gây 1800 sát thương"
+    "en": "Whopper Slam (Active): Gains +1,000 HP and crushes zombies up to 2 tiles ahead for 1,800 damage",
+    "vi": "Bánh Cỡ Đại Đè Bẹp (Chủ động): Tăng 1000 máu, đè bẹp mọi zombie 2 ô phía trước gây 1800 sát thương"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL2_1",
-    "en": "Whopper Slam (Active):\nGains +2,000 HP and crushes zombies up to 2 tiles ahead for 3,600 damage",
-    "vi": "Bánh Cỡ Đại Đè Bẹp (Chủ động):\nTăng 2000 máu, đè bẹp mọi zombie 2 ô phía trước gây 3600 sát thương"
+    "en": "Whopper Slam (Active): Gains +2,000 HP and crushes zombies up to 2 tiles ahead for 3,600 damage",
+    "vi": "Bánh Cỡ Đại Đè Bẹp (Chủ động): Tăng 2000 máu, đè bẹp mọi zombie 2 ô phía trước gây 3600 sát thương"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL2_2",
-    "en": "Whopper Slam (Active):\nGains +3,000 HP and crushes zombies up to 2 tiles ahead for 5,400 damage",
-    "vi": "Bánh Cỡ Đại Đè Bẹp (Chủ động):\nTăng 3000 máu, đè bẹp mọi zombie 2 ô phía trước gây 5400 sát thương"
+    "en": "Whopper Slam (Active): Gains +3,000 HP and crushes zombies up to 2 tiles ahead for 5,400 damage",
+    "vi": "Bánh Cỡ Đại Đè Bẹp (Chủ động): Tăng 3000 máu, đè bẹp mọi zombie 2 ô phía trước gây 5400 sát thương"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL2_3",
-    "en": "Whopper Slam (Active):\nGains +4,000 HP and crushes zombies up to 2 tiles ahead for 7,200 damage",
-    "vi": "Bánh Cỡ Đại Đè Bẹp (Chủ động):\nTăng 4000 máu, đè bẹp mọi zombie 2 ô phía trước gây 7200 sát thương"
+    "en": "Whopper Slam (Active): Gains +4,000 HP and crushes zombies up to 2 tiles ahead for 7,200 damage",
+    "vi": "Bánh Cỡ Đại Đè Bẹp (Chủ động): Tăng 4000 máu, đè bẹp mọi zombie 2 ô phía trước gây 7200 sát thương"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL2_4",
-    "en": "Whopper Slam (Active):\nGains +5,000 HP and crushes zombies up to 2 tiles ahead for 9,000 damage",
-    "vi": "Bánh Cỡ Đại Đè Bẹp (Chủ động):\nTăng 5000 máu, đè bẹp mọi zombie 2 ô phía trước gây 9000 sát thương"
+    "en": "Whopper Slam (Active): Gains +5,000 HP and crushes zombies up to 2 tiles ahead for 9,000 damage",
+    "vi": "Bánh Cỡ Đại Đè Bẹp (Chủ động): Tăng 5000 máu, đè bẹp mọi zombie 2 ô phía trước gây 9000 sát thương"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL3_0",
-    "en": "Butter Cheese Melt (Active):\nFires 30 butter shots forward; glues all zombies on screen for 8s and deals 100 dmg",
-    "vi": "Phô Mai Bơ Tan Chảy (Chủ động):\nBắn 30 đạn bơ; trét dính toàn bộ zombie 8s và gây 100 sát thương"
+    "en": "Butter Cheese Melt (Active): Fires 30 butter shots forward; glues all zombies on screen for 8s and deals 100 dmg",
+    "vi": "Phô Mai Bơ Tan Chảy (Chủ động): Bắn 30 đạn bơ; trét dính toàn bộ zombie 8s và gây 100 sát thương"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL3_1",
-    "en": "Butter Cheese Melt (Active):\nFires 45 butter shots forward; glues all zombies on screen for 10s and deals 200 dmg",
-    "vi": "Phô Mai Bơ Tan Chảy (Chủ động):\nBắn 45 đạn bơ; trét dính toàn bộ zombie 10s và gây 200 sát thương"
+    "en": "Butter Cheese Melt (Active): Fires 45 butter shots forward; glues all zombies on screen for 10s and deals 200 dmg",
+    "vi": "Phô Mai Bơ Tan Chảy (Chủ động): Bắn 45 đạn bơ; trét dính toàn bộ zombie 10s và gây 200 sát thương"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL3_2",
-    "en": "Butter Cheese Melt (Active):\nFires 60 butter shots forward; glues all zombies on screen for 12s and deals 300 dmg",
-    "vi": "Phô Mai Bơ Tan Chảy (Chủ động):\nBắn 60 đạn bơ; trét dính toàn bộ zombie 12s và gây 300 sát thương"
+    "en": "Butter Cheese Melt (Active): Fires 60 butter shots forward; glues all zombies on screen for 12s and deals 300 dmg",
+    "vi": "Phô Mai Bơ Tan Chảy (Chủ động): Bắn 60 đạn bơ; trét dính toàn bộ zombie 12s và gây 300 sát thương"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL3_3",
-    "en": "Butter Cheese Melt (Active):\nFires 75 butter shots forward; glues all zombies on screen for 14s and deals 400 dmg",
-    "vi": "Phô Mai Bơ Tan Chảy (Chủ động):\nBắn 75 đạn bơ; trét dính toàn bộ zombie 14s và gây 400 sát thương"
+    "en": "Butter Cheese Melt (Active): Fires 75 butter shots forward; glues all zombies on screen for 14s and deals 400 dmg",
+    "vi": "Phô Mai Bơ Tan Chảy (Chủ động): Bắn 75 đạn bơ; trét dính toàn bộ zombie 14s và gây 400 sát thương"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL3_4",
-    "en": "Butter Cheese Melt (Active):\nFires 90 butter shots forward; glues all zombies on screen for 16s and deals 500 dmg",
-    "vi": "Phô Mai Bơ Tan Chảy (Chủ động):\nBắn 90 đạn bơ; trét dính toàn bộ zombie 16s và gây 500 sát thương"
+    "en": "Butter Cheese Melt (Active): Fires 90 butter shots forward; glues all zombies on screen for 16s and deals 500 dmg",
+    "vi": "Phô Mai Bơ Tan Chảy (Chủ động): Bắn 90 đạn bơ; trét dính toàn bộ zombie 16s và gây 500 sát thương"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL4_0",
-    "en": "Combo Meal (Active): (Standard plants only)\nSpawns Fries & Cola (CD: 80s, once per plant)\nFries: 2x Plant HP   Cola: 2x Attack Speed",
-    "vi": "Phần Ăn Tuyệt Hảo (Chủ động): (Chỉ dùng cho cây thường)\nTạo Coca và Khoai Chiên, hồi 80s (1 lần/cây)\nKhoai Chiên: x2 Máu   Coca: x2 Tốc Đánh"
+    "en": "Combo Meal (Active): Spawns Fries (2x HP) & Cola (2x Spd) for standard plants, CD 80s (1/plant)",
+    "vi": "Phần Ăn Tuyệt Hảo (Chủ động): Tạo Khoai (x2 Máu) & Coca (x2 Tốc) cho cây thường, hồi 80s (1/cây)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL4_1",
-    "en": "Combo Meal (Active): (Standard plants only)\nSpawns Fries & Cola (CD: 70s, once per plant)\nFries: 2x Plant HP   Cola: 2x Attack Speed",
-    "vi": "Phần Ăn Tuyệt Hảo (Chủ động): (Chỉ dùng cho cây thường)\nTạo Coca và Khoai Chiên, hồi 70s (1 lần/cây)\nKhoai Chiên: x2 Máu   Coca: x2 Tốc Đánh"
+    "en": "Combo Meal (Active): Spawns Fries (2x HP) & Cola (2x Spd) for standard plants, CD 70s (1/plant)",
+    "vi": "Phần Ăn Tuyệt Hảo (Chủ động): Tạo Khoai (x2 Máu) & Coca (x2 Tốc) cho cây thường, hồi 70s (1/cây)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL4_2",
-    "en": "Combo Meal (Active): (Standard plants only)\nSpawns Fries & Cola (CD: 60s, once per plant)\nFries: 2x Plant HP   Cola: 2x Attack Speed",
-    "vi": "Phần Ăn Tuyệt Hảo (Chủ động): (Chỉ dùng cho cây thường)\nTạo Coca và Khoai Chiên, hồi 60s (1 lần/cây)\nKhoai Chiên: x2 Máu   Coca: x2 Tốc Đánh"
+    "en": "Combo Meal (Active): Spawns Fries (2x HP) & Cola (2x Spd) for standard plants, CD 60s (1/plant)",
+    "vi": "Phần Ăn Tuyệt Hảo (Chủ động): Tạo Khoai (x2 Máu) & Coca (x2 Tốc) cho cây thường, hồi 60s (1/cây)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL4_3",
-    "en": "Combo Meal (Active): (Standard plants only)\nSpawns Fries & Cola (CD: 50s, once per plant)\nFries: 2x Plant HP   Cola: 2x Attack Speed",
-    "vi": "Phần Ăn Tuyệt Hảo (Chủ động): (Chỉ dùng cho cây thường)\nTạo Coca và Khoai Chiên, hồi 50s (1 lần/cây)\nKhoai Chiên: x2 Máu   Coca: x2 Tốc Đánh"
+    "en": "Combo Meal (Active): Spawns Fries (2x HP) & Cola (2x Spd) for standard plants, CD 50s (1/plant)",
+    "vi": "Phần Ăn Tuyệt Hảo (Chủ động): Tạo Khoai (x2 Máu) & Coca (x2 Tốc) cho cây thường, hồi 50s (1/cây)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BURGERKING_SKILL4_4",
-    "en": "Combo Meal (Active): (Standard plants only)\nSpawns Fries & Cola (CD: 40s, once per plant)\nFries: 2x Plant HP   Cola: 2x Attack Speed",
-    "vi": "Phần Ăn Tuyệt Hảo (Chủ động): (Chỉ dùng cho cây thường)\nTạo Coca và Khoai Chiên, hồi 40s (1 lần/cây)\nKhoai Chiên: x2 Máu   Coca: x2 Tốc Đánh"
+    "en": "Combo Meal (Active): Spawns Fries (2x HP) & Cola (2x Spd) for standard plants, CD 40s (1/plant)",
+    "vi": "Phần Ăn Tuyệt Hảo (Chủ động): Tạo Khoai (x2 Máu) & Coca (x2 Tốc) cho cây thường, hồi 40s (1/cây)"
   },
   {
     "file": "LawnStrings.txt",
@@ -1712,8 +1712,8 @@
   {
     "file": "LawnStrings.txt",
     "key": "REDEYED_GARGANTUAR_DESCRIPTION",
-    "en": "The upgraded mega-giant among\nGargantuars.\n{KEYWORD}Toughness: {STAT}3000+(1100 or 3000)+100\n{KEYWORD}Gear: {STAT}Screen Door (Type-2) + Bucket\n(Type-1) / Black Helmet (Type-1) /\nScrapped Helmet (CC-immune)\n{KEYWORD}Damage: {STAT}Smash (OHKOs standard plants)\n{KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}Throws an Imp when base HP\nfalls below half\n{FLAVOR}Red-Eye Gargantuar is the heavyweight\nchamp of undead turf, though lacking\nmuch upstairs means he stumbles into\ntraps without squad backup.",
-    "vi": "Phiên bản nâng cấp siêu khổng lồ của\nGargantuar.\n{KEYWORD}Độ bền: {STAT}3000+(1100 hoặc 3000)+100\n{KEYWORD}Trang bị: {STAT}Cửa Lưới (Loại 2) + Xô Sắt\n(Loại 1) / Mũ Bầu Dục Đen / Mũ Phế Liệu\n(Miễn khống chế)\n{KEYWORD}Sát thương: {STAT}Đập búa (hạ tức thì cây\nthường)\n{KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}Máu gốc dưới một nửa ném ra\nTiểu Quỷ\n{FLAVOR}Hắn là gã khổng lồ khét tiếng nhất giới\nzombie, nhưng đầu óc hơi đơn giản nên\nrất dễ sập bẫy nếu đi lẻ không có đồng\nđội yểm trợ."
+    "en": "Upgraded mega-giant Gargantuar.\n{KEYWORD}Toughness: {STAT}3000+(1100 or 3000)+100\n{KEYWORD}Gear: {STAT}Screen Door (T2) + Bucket (T1) / Black Helm (T1) / Scrapped Helm (CC-immune)\n{KEYWORD}Damage: {STAT}Smash (OHKOs standard plants) | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}Throws Imp < half base HP\n{FLAVOR}Turf champ, gullible and trapped solo.",
+    "vi": "Siêu khổng lồ nâng cấp từ Gargantuar.\n{KEYWORD}Độ bền: {STAT}3000+(1100 hoặc 3000)+100\n{KEYWORD}Trang bị: {STAT}Cửa Lưới (L2) + Xô Sắt (L1) / Mũ Đen / Mũ Phế Liệu (Miễn CC)\n{KEYWORD}Sát thương: {STAT}Đập búa (hạ tức thì cây thường) | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}Máu gốc <nửa ném Tiểu Quỷ\n{FLAVOR}Khổng lồ khét tiếng, đi lẻ là dễ sập bẫy."
   },
   {
     "file": "LawnStrings.txt",
@@ -1760,452 +1760,452 @@
   {
     "file": "LawnStrings.txt",
     "key": "PEASHOOTER_DESCRIPTION",
-    "en": "Your foundational offense-and-economy\nstarter — where the dream begins!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20/s\n{KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Special: {STAT}Produces 25 Sun every 25s\n{NOCTURNAL}Evolution Bean: Evolves into Wild\nGatling Pea\n{SHORTLINE}\n{FLAVOR}Hybrids originated in the exact same lab\nas Twin Sunflower. \"Doesn't make us\nbrothers, though,\" Twin Sunflower\ninsists. \"Their birth was pure horror!\"",
-    "vi": "Cây cơ bản công thủ kiêm tạo năng lượng\n— nơi giấc mơ bắt đầu!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20/s\n{KEYWORD}Phạm vi: {STAT}1 hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Mỗi 25 giây tạo 25 Mặt trời\n{NOCTURNAL}Dùng Đậu Tiến Hóa: Tiến hóa thành Súng\nMáy Cuồng Dã\n{SHORTLINE}\n{FLAVOR}Đám Cây Lai ra đời từ cùng phòng thí\nnghiệm với Hướng Dương Đôi. \"Nhưng đừng\nnhận họ hàng với tụi nó,\" Hướng Dương\nĐôi nói, \"sự ra đời đó đúng là thảm họa\nkinh dị!\""
+    "en": "Core offense-and-economy starter!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20/s\n{KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Special: {STAT}25 Sun every 25s\n{NOCTURNAL}Evolution Bean: Evolves into Wild Gatling Pea\n{SHORTLINE}\n{FLAVOR}Shared a lab with Twin Sunflower. \"Not brothers!\" Twin insists. \"Pure horror!\"",
+    "vi": "Cây công thủ kiêm tạo năng lượng!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300 | {KEYWORD}Sức mạnh: {STAT}20/s\n{KEYWORD}Phạm vi: {STAT}1 hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Mỗi 25s tạo 25 Mặt trời\n{NOCTURNAL}Đậu Tiến Hóa: Lên Súng Máy Cuồng Dã\n{SHORTLINE}\n{FLAVOR}Cùng phòng thí nghiệm Hướng Dương Đôi, nhưng cô bảo: \"Đừng nhận họ hàng, thảm họa!\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUNFLOWER_DESCRIPTION",
-    "en": "Sun Bean — a zero-footprint Sun crop\nthat grows bigger!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Special: {STAT}Produces 15 Sun 3-12.5s after\nplanting, then every 12.5s; matures\nafter 120s to produce 25 Sun per 12.5s\n{SHORTLINE}\n{FLAVOR}Sun Bean is a die-hard clean energy\nadvocate. \"You might say solar power is\nalready clean,\" Sun Bean chimes. \"True,\nbut efficiency matters — we aim to coat\nevery usable inch of lawn!\"",
-    "vi": "Đậu Mặt Trời — cây tạo năng lượng không\nchiếm chỗ lại biết lớn dần!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Đặc điểm: {STAT}Sau 3~12.5 giây khi trồng tạo\n15 Mặt trời, rồi mỗi 12.5 giây tạo 15\nMặt trời; sau 120 giây trưởng thành tạo\n25 Mặt trời mỗi 12.5 giây\n{SHORTLINE}\n{FLAVOR}Đậu Mặt Trời là tín đồ cuồng nhiệt của\nnăng lượng sạch. \"Tối ưu diện tích phủ\nxanh bãi cỏ mới là chân ái!\""
+    "en": "Sun Bean — zero-footprint Sun crop that grows!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Special: {STAT}15 Sun 3-12.5s after planting, then every 12.5s; matures at 120s to 25 Sun/12.5s\n{SHORTLINE}\n{FLAVOR}Clean-energy fanatic: \"Solar is great, but efficiency means coating every usable inch of lawn!\"",
+    "vi": "Đậu Mặt Trời — không chiếm chỗ lại lớn dần!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Đặc điểm: {STAT}Sau 3~12.5s tạo 15 Mặt trời, rồi mỗi 12.5s tạo 15; sau 120s trưởng thành tạo 25 Mặt trời mỗi 12.5s\n{SHORTLINE}\n{FLAVOR}Tín đồ cuồng nhiệt năng lượng sạch: \"Tối ưu diện tích phủ xanh bãi cỏ mới là chân ái!\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "WALL_NUT_DESCRIPTION",
-    "en": "Solid defense AND flashy fireworks!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000\n{KEYWORD}Power: {STAT}1/frame (Reflect)\n{KEYWORD}Range: {STAT}Own tile\n{KEYWORD}Special: {STAT}Ignites passing peas\n{SHORTLINE}\n{FLAVOR}Wall-nut adores fireworks and never gets\ntired of them. \"Just mentioning\nsparklers gets my head fired up — my\nwhole body burns!\" Looks like nobody\ntold him nutshells are flammable.",
-    "vi": "Vừa phòng thủ vững vàng vừa tạo lửa cực\ncháy!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Sức mạnh: {STAT}1/khung hình (Phản sát thương)\n{KEYWORD}Phạm vi: {STAT}Ô đang đứng\n{KEYWORD}Đặc điểm: {STAT}Đốt cháy hạt đậu bay qua\n{SHORTLINE}\n{FLAVOR}Hạt Dẻ mê pháo hoa không chán bao giờ.\n\"Cứ nhắc tới pháo hoa là đầu óc nóng\nbừng, cả người rực cháy luôn!\" Có vẻ cậu\nta quên vỏ hạt dẻ rất dễ bắt lửa."
+    "en": "Solid defense AND flashy fireworks!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000\n{KEYWORD}Power: {STAT}1/frame (Reflect)\n{KEYWORD}Range: {STAT}Own tile\n{KEYWORD}Special: {STAT}Ignites passing peas\n{SHORTLINE}\n{FLAVOR}Wall-nut adores fireworks: \"Just naming sparklers sets me ablaze!\" Nobody told him nutshells burn.",
+    "vi": "Phòng thủ vững vàng kiêm tạo lửa cực cháy!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Sức mạnh: {STAT}1/khung (Phản sát thương)\n{KEYWORD}Phạm vi: {STAT}Ô đang đứng\n{KEYWORD}Đặc điểm: {STAT}Đốt cháy hạt đậu bay qua\n{SHORTLINE}\n{FLAVOR}Hạt Dẻ mê pháo hoa tới mức bốc cháy cả người — quên mất vỏ hạt dẻ rất dễ bắt lửa."
   },
   {
     "file": "LawnStrings.txt",
     "key": "CHERRY_BOMB_DESCRIPTION",
-    "en": "Converts blasted zombies straight into\nSun!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}1800\n{KEYWORD}Range: {STAT}1.5-tile radius\n{KEYWORD}Special: {STAT}Turns killed zombies into Sun\n{SHORTLINE}\n{FLAVOR}Sun Bomb and Sunflower argued endlessly\nover harvesting Sun from zombies —\nthough that never stops her from hitting\nSun Lovers Club sharp every Thursday\nafternoon.",
-    "vi": "Biến toàn bộ zombie bị thổi bay thành\nMặt trời.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}1800\n{KEYWORD}Phạm vi: {STAT}Bán kính 1.5 ô quanh bản thân\n{KEYWORD}Đặc điểm: {STAT}Chuyển hóa zombie bị tiêu diệt\nthành Mặt trời\n{SHORTLINE}\n{FLAVOR}Về chuyện có nên lấy Mặt trời từ xác\nzombie không, Bom Mặt Trời và Hướng\nDương cãi nhau nảy lửa, nhưng chiều thứ\nNăm nào hai chị em vẫn đúng giờ đi họp\nCâu Lạc Bộ Yêu Nắng."
+    "en": "Blasts zombies straight into Sun!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}1800\n{KEYWORD}Range: {STAT}1.5-tile radius\n{KEYWORD}Special: {STAT}Turns killed zombies into Sun\n{SHORTLINE}\n{FLAVOR}She and Sunflower argue over zombie Sun, yet hit Sun Lovers Club together every Thursday.",
+    "vi": "Biến zombie bị thổi bay thành Mặt trời.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}1800\n{KEYWORD}Phạm vi: {STAT}Bán kính 1.5 ô quanh mình\n{KEYWORD}Đặc điểm: {STAT}Hóa zombie bị diệt thành Mặt trời\n{SHORTLINE}\n{FLAVOR}Cãi nhau với Hướng Dương chuyện lấy nắng từ zombie, nhưng thứ Năm nào hai chị em vẫn họp Hội Yêu Nắng."
   },
   {
     "file": "LawnStrings.txt",
     "key": "POTATO_MINE_DESCRIPTION",
-    "en": "Packs an explosive punch, though it\nneeds time to arm itself. Plant ahead of\nincoming zombies so it erupts on\ncontact.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}1800\n{KEYWORD}Range: {STAT}Own tile\n{KEYWORD}Special: {STAT}Single-use; 15s arming time;\ngrants 50 Sun on detonation\n{SHORTLINE}\n{FLAVOR}\"Turning zombies into Sun isn't Sun\nBomb's original idea — actually I\nfounded the Sun Club, and he joined\nlater,\" Sun Potato Mine claims.",
-    "vi": "Mìn Khoai Tây có uy lực cực lớn nhưng\ncần thời gian chui lên mặt đất. Hãy\ntrồng đón đầu zombie để kích nổ khi va\nchạm.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}1800\n{KEYWORD}Phạm vi: {STAT}Ô đang đứng\n{KEYWORD}Đặc điểm: {STAT}Dùng một lần, mất 15 giây\nchuẩn bị, nổ xong nhận 50 Mặt trời\n{SHORTLINE}\n{FLAVOR}\"Lấy Mặt trời từ zombie đâu phải ý tưởng\nđộc quyền của Bom Mặt Trời — thật ra tôi\nmới là người sáng lập Câu Lạc Bộ Mặt\nTrời đấy!\""
+    "en": "Explosive punch, needs arming time. Plant ahead to blow on contact.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}1800\n{KEYWORD}Range: {STAT}Own tile\n{KEYWORD}Special: {STAT}Single-use; 15s arm time; 50 Sun on blast\n{SHORTLINE}\n{FLAVOR}\"Zombie Sun isn't Sun Bomb's idea — I founded Sun Club!\" Potato Mine says.",
+    "vi": "Nổ cực mạnh nhưng cần thời gian ngoi lên. Trồng đón đầu zombie để kích nổ.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}1800\n{KEYWORD}Phạm vi: {STAT}Ô đang đứng\n{KEYWORD}Đặc điểm: {STAT}Dùng một lần, 15s chuẩn bị, nổ nhận 50 Mặt trời\n{SHORTLINE}\n{FLAVOR}\"Nắng từ zombie đâu phải độc quyền Bom Mặt Trời — tôi lập Hội Mặt Trời!\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "REPEATER_DESCRIPTION",
-    "en": "Twin Cactus fires two piercing spikes\nevery volley.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20x2/2s\n{KEYWORD}Range: {STAT}Full lane ahead\n{KEYWORD}Special: {STAT}Piercing shots\n{SHORTLINE}\n{FLAVOR}Cactus loves hugs, though even armored\nrats flee her needles. \"Let folks talk\nall they want — I still love her,\" says\nRepeater. \"Twin Cactus is our bundle of\njoy.\"",
-    "vi": "Xương Rồng Đôi bắn hai chiếc gai xuyên\nthấu cùng lúc.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20x2/2s\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Đạn xuyên thấu\n{SHORTLINE}\n{FLAVOR}Xương Rồng thích ôm ấp nhưng gai nhọn\nlàm ai cũng chạy mất dép. \"Mặc kệ thiên\nhạ bàn tán, tôi vẫn yêu cô ấy,\" Đậu Đôi\nnói, \"đây chính là kết tinh tình yêu của\nchúng tôi.\""
+    "en": "Twin Cactus shoots two piercing spikes.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20x2/2s\n{KEYWORD}Range: {STAT}Full lane ahead\n{KEYWORD}Special: {STAT}Piercing shots\n{SHORTLINE}\n{FLAVOR}Even armored rats flee her needles. \"Let them talk — I still love her,\" says Repeater. \"Twin Cactus is our joy.\"",
+    "vi": "Xương Rồng Đôi bắn hai gai xuyên thấu.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20x2/2s\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Đạn xuyên thấu\n{SHORTLINE}\n{FLAVOR}Gai nhọn khiến ai cũng né Xương Rồng. \"Kệ thiên hạ, tôi vẫn yêu cô ấy,\" Đậu Đôi nói, \"đây là kết tinh tình yêu!\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "SNOW_PEA_DESCRIPTION",
-    "en": "A Cattail packed with chilling power!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20x2/s\n{KEYWORD}Range: {STAT}Full-screen homing\n{KEYWORD}Special: {STAT}Single-target 50% slow for 15s\n{NOCTURNAL}Evolution Bean: Evolves into Ice Melon\nCattail\n{SHORTLINE}\n{FLAVOR}When this kitty outfit suddenly swept\nthe plant kingdom, the Pea family bought\nhalf the stock — by the time Snow Pea\ngrabbed his, the hats were already sold\nout.",
-    "vi": "Đuôi Mèo mang sức mạnh làm chậm băng\ngiá!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20x2/s\n{KEYWORD}Phạm vi: {STAT}Truy đuổi toàn màn hình\n{KEYWORD}Đặc điểm: {STAT}Làm chậm đơn mục tiêu 50%\ntrong 15s\n{NOCTURNAL}Dùng Đậu Tiến Hóa: Tiến hóa thành Đuôi\nMèo Dưa Băng\n{SHORTLINE}\n{FLAVOR}Bộ đồ mèo này bất ngờ gây sốt toàn giới\nthực vật, họ nhà Đậu mua nhiều nhất —\nlúc Đậu Băng săn được bộ này thì mũ mèo\nđã cháy hàng mất rồi."
+    "en": "A Cattail packed with chilling power!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20x2/s\n{KEYWORD}Range: {STAT}Full-screen homing\n{KEYWORD}Special: {STAT}Single-target 50% slow for 15s\n{NOCTURNAL}Evolution Bean: Evolves into Ice Melon Cattail\n{SHORTLINE}\n{FLAVOR}Kitty craze swept the Pea family, yet Snow Pea arrived after hats sold out.",
+    "vi": "Đuôi Mèo mang sức mạnh băng giá!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300 | {KEYWORD}Sức mạnh: {STAT}20x2/s\n{KEYWORD}Phạm vi: {STAT}Truy đuổi toàn màn hình\n{KEYWORD}Đặc điểm: {STAT}Làm chậm đơn mục tiêu 50% (15s)\n{NOCTURNAL}Đậu Tiến Hóa: Lên Đuôi Mèo Dưa Băng\n{SHORTLINE}\n{FLAVOR}Bộ đồ mèo gây sốt — lúc Đậu Băng săn được thì mũ mèo đã cháy hàng."
   },
   {
     "file": "LawnStrings.txt",
     "key": "CHOMPER_DESCRIPTION",
-    "en": "Garlic Flower loves chomping on garlic!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}Devours mini Zombonis; 40 to\nother zombies\n{KEYWORD}Range: {STAT}1.5 tiles ahead\n{KEYWORD}Special: {STAT}Forces zombies to change lanes\n{SHORTLINE}\n{FLAVOR}Garlic Flower always smells like he just\nstrolled out of an Italian bistro. His\nmotto is \"Aroma is Power,\" though\nneighboring plants keep their distance.",
-    "vi": "Hoa Tỏi Ăn Thịt khoái nhất là ăn tỏi!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}Nuốt Xe Băng nhỏ, gây 40 cho\nzombie khác\n{KEYWORD}Phạm vi: {STAT}1.5 ô phía trước\n{KEYWORD}Đặc điểm: {STAT}Khiến zombie chuyển hàng\n{SHORTLINE}\n{FLAVOR}Hoa Tỏi lúc nào cũng nồng nặc mùi như\nvừa bước ra từ nhà hàng Ý. Khẩu hiệu của\ncậu là \"Mùi hương là sức mạnh\" dù hàng\nxóm hay tránh xa."
+    "en": "Garlic Flower loves chomping on garlic!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}Devours mini Zombonis; 40 to others\n{KEYWORD}Range: {STAT}1.5 tiles ahead\n{KEYWORD}Special: {STAT}Makes zombies switch lanes\n{SHORTLINE}\n{FLAVOR}Smells straight out of an Italian bistro. Motto: \"Aroma is Power,\" though neighbors steer clear.",
+    "vi": "Hoa Tỏi Ăn Thịt khoái nhất là ăn tỏi!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}Nuốt Xe Băng nhỏ, gây 40 cho zombie khác\n{KEYWORD}Phạm vi: {STAT}1.5 ô phía trước\n{KEYWORD}Đặc điểm: {STAT}Khiến zombie chuyển hàng\n{SHORTLINE}\n{FLAVOR}Nồng nặc mùi quán Ý. Khẩu hiệu là \"Mùi hương là sức mạnh\" dù hàng xóm hay né."
   },
   {
     "file": "LawnStrings.txt",
     "key": "PUFF_SHROOM_DESCRIPTION",
-    "en": "Free mushroom, free Flower Pot.\n{AQUATIC}Sleeps during the day\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20/1.5s\n{KEYWORD}Range: {STAT}3 tiles ahead\n{KEYWORD}Special: {STAT}Can be planted on bare earth\n{SHORTLINE}\n{FLAVOR}Refusing to be the shortest fungus in\nthe Shroom family, he popped a pot on\nhis head: \"Put a tall plant on me and\neveryone will look up to me!\"\nFume-shroom sighs at the flex.",
-    "vi": "Nấm miễn phí, Chậu Hoa miễn phí.\n{AQUATIC}Ngủ vào ban ngày\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20/1.5s\n{KEYWORD}Phạm vi: {STAT}3 ô phía trước\n{KEYWORD}Đặc điểm: {STAT}Cho phép trồng trên đất trơ\n{SHORTLINE}\n{FLAVOR}Không cam chịu phận thấp bé nhất nhà\nNấm, cậu đội hẳn chậu hoa lên đầu:\n\"Trồng cây cao lên mình, khối kẻ phải\nngước nhìn!\" Nấm Phun chỉ biết lắc đầu\ncười trừ."
+    "en": "Free mushroom, free Flower Pot.\n{AQUATIC}Sleeps during the day\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20/1.5s\n{KEYWORD}Range: {STAT}3 tiles ahead\n{KEYWORD}Special: {STAT}Can be planted on bare earth\n{SHORTLINE}\n{FLAVOR}Refusing to stay the shortest shroom, he wore a pot: \"Put a tall plant on me!\" Fume-shroom sighs.",
+    "vi": "Nấm miễn phí, Chậu Hoa miễn phí.\n{AQUATIC}Ngủ vào ban ngày\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20/1.5s\n{KEYWORD}Phạm vi: {STAT}3 ô phía trước\n{KEYWORD}Đặc điểm: {STAT}Cho phép trồng trên đất trơ\n{SHORTLINE}\n{FLAVOR}Chẳng cam phận nấm thấp nhất, cậu đội chậu lên đầu: \"Trồng cây cao lên mình, khối kẻ ngước nhìn!\" Nấm Phun cười trừ."
   },
   {
     "file": "LawnStrings.txt",
     "key": "SUN_SHROOM_DESCRIPTION",
-    "en": "A growing Sunflower — #2 in raw Sun\noutput.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Special: {STAT}Produces 40 Sun 3-12.5s after\nplanting, then 40 every 25s; matures\nafter 120s to produce 75 Sun per 25s\n{SHORTLINE}\n{FLAVOR}A dazzling hat made him a runaway runway\nstar. He still remembers his Sun duties,\nthough plants behind him grumble: \"Hey,\nyou're blocking our view!\"",
-    "vi": "Hướng Dương biết lớn, sản lượng Mặt trời\nhạng 2.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Đặc điểm: {STAT}Sau 3~12.5 giây tạo 40 Mặt\ntrời, rồi mỗi 25 giây tạo 40; sau 120\ngiây trưởng thành tạo 75 Mặt trời mỗi 25\ngiây\n{SHORTLINE}\n{FLAVOR}Chiếc mũ lộng lẫy giúp cậu vụt sáng\nthành ngôi sao sàn diễn. Cậu vẫn chăm\nchỉ tạo Mặt trời, mỗi tội mấy cây đứng\nsau cứ la ó: \"Che hết tầm nhìn rồi!\""
+    "en": "Growing Sunflower — #2 in raw Sun output.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Special: {STAT}40 Sun 3-12.5s after planting, then 40 per 25s; matures at 120s to 75 Sun/25s\n{SHORTLINE}\n{FLAVOR}A dazzling hat made him a runway star, though plants behind grumble: \"Hey, you're blocking our view!\"",
+    "vi": "Hướng Dương biết lớn, sản lượng nắng hạng 2.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Đặc điểm: {STAT}Sau 3~12.5s tạo 40 Mặt trời, rồi mỗi 25s tạo 40; sau 120s trưởng thành tạo 75 Mặt trời mỗi 25s\n{SHORTLINE}\n{FLAVOR}Mũ lộng lẫy đưa cậu lên sàn diễn, dù mấy cây đứng sau la ó: \"Che hết tầm nhìn rồi!\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "FUME_SHROOM_DESCRIPTION",
-    "en": "Sprays screen-door-piercing fumes\nalongside a Winter Melon!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}(20+80)/1.5s\n{KEYWORD}Range: {STAT}Full lane ahead\n{KEYWORD}Special: {STAT}Piercing attack\n{SHORTLINE}\n{FLAVOR}His striped Winter Melon cap instantly\nmade him the coolest shroom on the\nblock. Everybody admires his wintry vibe\n— oh no, he's about to sneeze, DUCK!",
-    "vi": "Hơi phun xuyên cửa sắt đồng thời phóng\nra một quả Dưa Băng!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}(20+80)/1.5s\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Đòn đánh xuyên thấu\n{SHORTLINE}\n{FLAVOR}Chiếc mũ sọc dưa băng biến cậu thành cây\nnấm ngầu nhất xóm. Ai cũng mê cái khí\nchất mát lạnh đó... ôi thôi cậu sắp hắt\nhơi rồi, NÉ MAU!"
+    "en": "Sprays piercing fumes plus a Winter Melon!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}(20+80)/1.5s\n{KEYWORD}Range: {STAT}Full lane ahead\n{KEYWORD}Special: {STAT}Piercing attack\n{SHORTLINE}\n{FLAVOR}His striped Winter Melon cap made him the coolest shroom around — oh no, he's about to sneeze, DUCK!",
+    "vi": "Phun xuyên cửa sắt kèm một quả Dưa Băng!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}(20+80)/1.5s\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Đòn đánh xuyên thấu\n{SHORTLINE}\n{FLAVOR}Mũ sọc dưa băng giúp cậu ngầu nhất xóm. Ai cũng mê khí chất lạnh đó... khoan, cậu sắp hắt hơi, NÉ MAU!"
   },
   {
     "file": "LawnStrings.txt",
     "key": "GRAVE_BUSTER_DESCRIPTION",
-    "en": "Devours a grave and plants a primed Sun\nPotato Mine.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}1800\n{KEYWORD}Range: {STAT}Own tile\n{KEYWORD}Special: {STAT}Must be planted on a tombstone\n{SHORTLINE}\n{FLAVOR}\"Why am I always stuck weeding the\ngraveyard?\" \"Better bring me along every\ntime so you never have to sweep twice,\"\nPotato Mine suggests.",
-    "vi": "Nuốt bia mộ và để lại một Mìn Khoai Mặt\nTrời đã lên nòng.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}1800\n{KEYWORD}Phạm vi: {STAT}Ô đang đứng\n{KEYWORD}Đặc điểm: {STAT}Cần trồng trên bia mộ\n{SHORTLINE}\n{FLAVOR}\"Sao lúc nào cũng bắt tôi dọn cỏ nghĩa\ntrang thế?\" \"Lần nào cũng dắt tôi theo\nđi, đỡ phải dọn lại lần hai,\" Mìn Khoai\nTây hiến kế."
+    "en": "Devours graves, leaving a primed Sun Potato Mine.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}1800\n{KEYWORD}Range: {STAT}Own tile\n{KEYWORD}Special: {STAT}Must plant on a tombstone\n{SHORTLINE}\n{FLAVOR}\"Why am I always weeding graves?\" \"Bring me along so you never sweep twice,\" Potato Mine suggests.",
+    "vi": "Nuốt bia mộ, để lại Mìn Khoai Mặt Trời đã gài.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}1800\n{KEYWORD}Phạm vi: {STAT}Ô đang đứng\n{KEYWORD}Đặc điểm: {STAT}Cần trồng trên bia mộ\n{SHORTLINE}\n{FLAVOR}\"Sao toàn bắt tôi dọn nghĩa trang?\" \"Dắt tôi theo đi, đỡ phải dọn lần hai,\" Mìn Khoai Tây đáp."
   },
   {
     "file": "LawnStrings.txt",
     "key": "HYPNO_SHROOM_DESCRIPTION",
-    "en": "Zombies that eat Red-Eye Shroom morph\ninto charmed Red-Eye Gargantuars.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Range: {STAT}Single zombie\n{KEYWORD}Special: {STAT}Transforms zombie into charmed\nRed-Eye Gargantuar\n{SHORTLINE}\n{FLAVOR}Dave bred it after capturing a live\nRed-Eye — the wrathful spirit possesses\nwhichever zombie takes a bite! \"What are\nyou guys whispering?\" asks Peashooter\nturning on the lamp. \"Relax, it's just\nmoldy Hypno-shroom!\"",
-    "vi": "Khi zombie ăn phải sẽ biến thành\nGargantuar Mắt Đỏ đồng minh.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Phạm vi: {STAT}1 zombie\n{KEYWORD}Đặc điểm: {STAT}Biến zombie thành Gargantuar\nMắt Đỏ phe ta\n{SHORTLINE}\n{FLAVOR}Dave tạo ra sau khi bắt sống một\nGargantuar Mắt Đỏ — oán linh khổng lồ sẽ\nnhập vào zombie nào ăn phải nó! Súng Đậu\nbật đèn lên: \"Tụi bay nói nhảm gì thế,\nchỉ là Nấm Thôi Miên bị mốc thôi mà!\""
+    "en": "Zombies eating it turn into allied Red-Eye Gargantuars.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Range: {STAT}Single zombie\n{KEYWORD}Special: {STAT}Turns zombie into allied Red-Eye Gargantuar\n{SHORTLINE}\n{FLAVOR}Dave used a live Red-Eye's spirit! Peashooter flips the lamp: \"Relax, it's just moldy Hypno-shroom!\"",
+    "vi": "Zombie ăn phải hóa Gargantuar Mắt Đỏ phe ta.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Phạm vi: {STAT}1 zombie\n{KEYWORD}Đặc điểm: {STAT}Biến zombie thành Gargantuar Mắt Đỏ phe ta\n{SHORTLINE}\n{FLAVOR}Dave tạo từ oán linh Gargantuar Mắt Đỏ! Súng Đậu bật đèn: \"Nói nhảm gì thế, Nấm Thôi Miên bị mốc thôi!\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "SCAREDY_SHROOM_DESCRIPTION",
-    "en": "Grows stronger under sunshine — still a\nscaredy-cat though.\n{AQUATIC}Sleeps during the day\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20/1s (20x4/1s mature)\n{KEYWORD}Range: {STAT}Full lane ahead\n{KEYWORD}Special: {STAT}Hides when zombies enter ~1.5\ntiles; produces 15 Sun small / 50 Sun\nmature\n{NOCTURNAL}Evolution Bean: Evolves into Burger\nShooter\n{SHORTLINE}\n{FLAVOR}Lit up his own cap out of fear of the\ndark — accidentally acting as a zombie\nbeacon.",
-    "vi": "Lớn lên nhờ ánh nắng — nhưng vẫn nhút\nnhát như xưa.\n{AQUATIC}Ngủ vào ban ngày\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20/1s (trưởng thành 20x4/1s)\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Trốn khi có zombie trong 1.5\nô; tạo 15 Mặt trời khi nhỏ, 50 khi lớn\n{NOCTURNAL}Dùng Đậu Tiến Hóa: Tiến hóa thành Súng\nBánh Burger\n{SHORTLINE}\n{FLAVOR}Vì sợ bóng tối nên tự thắp sáng cái đầu,\nai ngờ lại thu hút zombie kéo tới."
+    "en": "Sun-grown, yet still a scaredy-cat.\n{AQUATIC}Sleeps during the day\n{KEYWORD}Toughness: {STAT}300 | {KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Power: {STAT}20/1s (20x4/1s mature)\n{KEYWORD}Special: {STAT}Hides within ~1.5 tiles; 15 Sun small / 50 mature\n{NOCTURNAL}Evolution Bean: Evolves into Burger Shooter\n{SHORTLINE}\n{FLAVOR}Lit his cap fearing the dark — becoming a zombie beacon.",
+    "vi": "Lớn nhờ ánh nắng — nhưng vẫn nhát.\n{AQUATIC}Ngủ vào ban ngày\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20/1s (lớn: 20x4/1s)\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Trốn khi zombie vào 1.5 ô; tạo 15 Mặt trời nhỏ, 50 lớn\n{NOCTURNAL}Đậu Tiến Hóa: Hóa Súng Bánh Burger\n{SHORTLINE}\n{FLAVOR}Sợ tối nên tự thắp sáng đầu, vô tình hút zombie tới."
   },
   {
     "file": "LawnStrings.txt",
     "key": "ICE_SHROOM_DESCRIPTION",
-    "en": "Snowflakes drifting, north winds\nhowling!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000\n{KEYWORD}Power: {STAT}20x100/s\n{KEYWORD}Range: {STAT}All zombies on screen\n{KEYWORD}Special: {STAT}Rains ice balls for 8s, then\nfreezes all zombies for 3s & chills for\n15s\n{SHORTLINE}\n{FLAVOR}\"If winter comes, can spring be far\nbehind?\" He spends most of the year in\nsnowdrifts and was Snow Pea's very first\nmentor.",
-    "vi": "Hoa tuyết bay, gió bấc gào thét!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Sức mạnh: {STAT}20x100/s\n{KEYWORD}Phạm vi: {STAT}Toàn màn hình\n{KEYWORD}Đặc điểm: {STAT}Mưa đạn băng 8 giây, sau đó\nđóng băng toàn sân 3 giây và làm chậm 15\ngiây\n{SHORTLINE}\n{FLAVOR}\"Đông tàn rồi xuân chẳng còn xa nữa.\"\nQuanh năm sống trong băng tuyết, cậu\nchính là sư phụ vỡ lòng của Đậu Băng."
+    "en": "Snowflakes drift, north winds howl!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000\n{KEYWORD}Power: {STAT}20x100/s\n{KEYWORD}Range: {STAT}All zombies on screen\n{KEYWORD}Special: {STAT}Ice ball rain 8s, freezes all 3s & chills 15s\n{SHORTLINE}\n{FLAVOR}\"If winter comes, can spring be far behind?\" Snow Pea's very first winter mentor.",
+    "vi": "Hoa tuyết bay, gió bấc gào thét!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Sức mạnh: {STAT}20x100/s\n{KEYWORD}Phạm vi: {STAT}Toàn màn hình\n{KEYWORD}Đặc điểm: {STAT}Mưa đạn băng 8s, đóng băng toàn sân 3s & làm chậm 15s\n{SHORTLINE}\n{FLAVOR}\"Đông tàn rồi xuân chẳng còn xa nữa.\" Quanh năm sống trong tuyết, cậu là sư phụ vỡ lòng của Đậu Băng."
   },
   {
     "file": "LawnStrings.txt",
     "key": "DOOM_SHROOM_DESCRIPTION",
-    "en": "Hypno Doom-shroom hypnotizes every\nzombie in range.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}---\n{KEYWORD}Range: {STAT}3.5-tile radius\n{KEYWORD}Special: {STAT}Leaves an unplantable crater\nfor 180s\n{SHORTLINE}\n{FLAVOR}Rumors swirled around his origins, yet\nthere was no mad lab involved — clumsy\nDoom-shroom merely spilled pink paint\nand splashed it over zombies mid-blast.",
-    "vi": "Thôi miên toàn bộ zombie trong bán kính\nnổ.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}---\n{KEYWORD}Phạm vi: {STAT}Bán kính 3.5 ô\n{KEYWORD}Đặc điểm: {STAT}Để lại hố bom không thể trồng\ncây suốt 180 giây\n{SHORTLINE}\n{FLAVOR}Thiên hạ đồn đoán đủ kiểu, thực ra chẳng\ncó thí nghiệm hắc ám nào hết — chỉ là\nNấm Hủy Diệt hậu đậu làm đổ thùng sơn\nmàu hồng lúc phát nổ thôi."
+    "en": "Hypnotizes all zombies in blast range.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}---\n{KEYWORD}Range: {STAT}3.5-tile radius\n{KEYWORD}Special: {STAT}Leaves unplantable crater for 180s\n{SHORTLINE}\n{FLAVOR}No mad lab involved — clumsy Doom-shroom merely spilled pink paint over zombies mid-blast.",
+    "vi": "Thôi miên mọi zombie trong vùng nổ.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}---\n{KEYWORD}Phạm vi: {STAT}Bán kính 3.5 ô\n{KEYWORD}Đặc điểm: {STAT}Để lại hố bom không trồng được 180s\n{SHORTLINE}\n{FLAVOR}Chẳng có thí nghiệm hắc ám nào — chỉ là Nấm Hủy Diệt hậu đậu làm đổ sơn hồng lúc nổ thôi."
   },
   {
     "file": "LawnStrings.txt",
     "key": "LILY_PAD_DESCRIPTION",
-    "en": "Lets land plants sit on water AND shoots\npeas!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20/3s\n{KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Special: {STAT}Planted on water, carries\nnon-aquatics, shoots peas hitting\nsubmerged Snorkels\n{SHORTLINE}\n{FLAVOR}Lily Pad never complains or asks\nquestions. Carrying heavier plants,\nkeeping secrets buried deep — calm and\nsteady forever.",
-    "vi": "Cho phép trồng cây cạn lên trên đồng\nthời bắn đạn đậu.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20/3s\n{KEYWORD}Phạm vi: {STAT}1 hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Trồng trên nước, gánh cây cạn,\nbắn đậu trúng cả Zombie Lặn\n{SHORTLINE}\n{FLAVOR}Lá Sen chẳng bao giờ than vãn hay thắc\nmắc. Cõng bao nhiêu cây cũng chịu, giấu\nkín mọi bí mật tận đáy lòng."
+    "en": "Holds plants on water & shoots peas!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20/3s\n{KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Special: {STAT}Water tile, carries land plants, hits submerged Snorkels\n{SHORTLINE}\n{FLAVOR}Lily Pad never complains — carrying heavy plants and keeping secrets buried deep forever.",
+    "vi": "Trồng cây cạn trên nước và bắn đậu.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20/3s\n{KEYWORD}Phạm vi: {STAT}1 hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Trồng trên nước, gánh cây cạn, bắn trúng Zombie Lặn\n{SHORTLINE}\n{FLAVOR}Lá Sen chẳng bao giờ than vãn — cõng bao nhiêu cây cũng chịu, giấu kín mọi bí mật tận đáy lòng."
   },
   {
     "file": "LawnStrings.txt",
     "key": "SQUASH_DESCRIPTION",
-    "en": "Flattens the first approaching zombie\nand freezes the whole lawn.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}1800\n{KEYWORD}Range: {STAT}Tiny rear & ~1.5 tiles ahead\n{KEYWORD}Special: {STAT}Freezes screen 3s, chills 15s\n{SHORTLINE}\n{FLAVOR}What happens after trapping Squash\ninside a freezer for 2,000 years — found\nnext to a broken time machine shard.",
-    "vi": "Đè bẹp zombie đầu tiên tới gần và đóng\nbăng toàn sân.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}1800\n{KEYWORD}Phạm vi: {STAT}Sát lưng và 1.5 ô phía trước\n{KEYWORD}Đặc điểm: {STAT}Đóng băng toàn sân 3 giây, làm\nchậm 15 giây\n{SHORTLINE}\n{FLAVOR}Kết quả của việc nhốt Bí Đao trong tủ\nlạnh 2000 năm; khi tìm thấy còn vương\nlại mảnh vỡ cỗ máy thời gian."
+    "en": "Crushes the first zombie and freezes the lawn.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}1800\n{KEYWORD}Range: {STAT}Tiny rear & ~1.5 tiles ahead\n{KEYWORD}Special: {STAT}Freezes screen 3s, chills 15s\n{SHORTLINE}\n{FLAVOR}What happens after locking Squash in a freezer for 2,000 years beside a broken time machine.",
+    "vi": "Đè bẹp zombie đầu, đóng băng sân.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}1800\n{KEYWORD}Phạm vi: {STAT}Sát lưng và 1.5 ô phía trước\n{KEYWORD}Đặc điểm: {STAT}Đóng băng toàn sân 3s, làm chậm 15s\n{SHORTLINE}\n{FLAVOR}Kết quả nhốt Bí Đao trong tủ lạnh 2000 năm; khi tìm thấy còn vương mảnh vỡ máy thời gian."
   },
   {
     "file": "LawnStrings.txt",
     "key": "THREEPEATER_DESCRIPTION",
-    "en": "Pea Fountain fires a 360-degree ring of\npeas.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1500\n{KEYWORD}Power: {STAT}20x36/3s\n{KEYWORD}Range: {STAT}Full screen\n{KEYWORD}Special: {STAT}360-degree omnidirectional\nattack\n{SHORTLINE}\n{FLAVOR}\"Toss a pea, make a wish! Hey, don't\ndrop Jalapeno juice in there!\" Dave\nyells while tackling a rogue Pepper.",
-    "vi": "Phóng một vòng tròn hạt đậu 360 độ.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1500\n{KEYWORD}Sức mạnh: {STAT}20x36/3s\n{KEYWORD}Phạm vi: {STAT}Toàn màn hình\n{KEYWORD}Đặc điểm: {STAT}Tấn công mọi hướng không góc\nchết\n{SHORTLINE}\n{FLAVOR}\"Thả hạt đậu xuống, ước một điều ước!\nNày, đừng có đổ tương ớt vào giếng nhé!\"\nDave hét lên khi giữ chặt một quả Ớt."
+    "en": "Pea Fountain fires a 360° ring of peas.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1500\n{KEYWORD}Power: {STAT}20x36/3s\n{KEYWORD}Range: {STAT}Full screen\n{KEYWORD}Special: {STAT}360-degree full-circle attack\n{SHORTLINE}\n{FLAVOR}\"Toss a pea, make a wish! Don't drop Jalapeno juice in!\" Dave yells while tackling a Pepper.",
+    "vi": "Phóng một vòng tròn hạt đậu 360 độ.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1500\n{KEYWORD}Sức mạnh: {STAT}20x36/3s\n{KEYWORD}Phạm vi: {STAT}Toàn màn hình\n{KEYWORD}Đặc điểm: {STAT}Tấn công mọi hướng không góc chết\n{SHORTLINE}\n{FLAVOR}\"Thả đậu xuống, ước đi! Đừng đổ tương ớt vào giếng!\" Dave hét khi giữ chặt một quả Ớt."
   },
   {
     "file": "LawnStrings.txt",
     "key": "TANGLE_KELP_DESCRIPTION",
-    "en": "Drags a zombie underwater and detonates\na Doom-shroom!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}(OHKO)\n{KEYWORD}Range: {STAT}Close drag, then wide blast\n{KEYWORD}Special: {STAT}Drags 1 zombie down, then\ntriggers Doom-shroom explosion\n{SHORTLINE}\n{FLAVOR}He actually IS a Doom-shroom who slipped\ninto the pool once and got tangled in\nseaweed.",
-    "vi": "Kéo zombie xuống nước rồi kích nổ Nấm\nHủy Diệt.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}(Hạ tức thì)\n{KEYWORD}Phạm vi: {STAT}Kéo sát rồi nổ diện rộng\n{KEYWORD}Đặc điểm: {STAT}Kéo 1 zombie xuống nước rồi\nphát nổ Nấm Hủy Diệt\n{SHORTLINE}\n{FLAVOR}Thực ra cậu ta vốn là Nấm Hủy Diệt,\nchẳng qua lỡ trượt chân rớt xuống hồ rồi\nbị rong quấn kín người."
+    "en": "Drags a zombie down and triggers Doom-shroom!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}(OHKO)\n{KEYWORD}Range: {STAT}Close drag, then wide blast\n{KEYWORD}Special: {STAT}Drags 1 zombie down, triggers Doom-shroom\n{SHORTLINE}\n{FLAVOR}Actually a Doom-shroom who slipped into the pool and tangled in seaweed.",
+    "vi": "Kéo zombie xuống nước rồi nổ Nấm Hủy Diệt.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}(Hạ tức thì)\n{KEYWORD}Phạm vi: {STAT}Kéo sát rồi nổ diện rộng\n{KEYWORD}Đặc điểm: {STAT}Kéo 1 zombie rồi nổ Nấm Hủy Diệt\n{SHORTLINE}\n{FLAVOR}Vốn là Nấm Hủy Diệt lỡ trượt chân rớt xuống hồ rồi bị rong quấn kín người."
   },
   {
     "file": "LawnStrings.txt",
     "key": "JALAPENO_DESCRIPTION",
-    "en": "Cherry Pepper obliterates enemies across\nthree entire lanes.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}1800\n{KEYWORD}Range: {STAT}Own lane + adjacent 2 lanes\n{KEYWORD}Special: {STAT}Melts ice trails, cures chill\n{SHORTLINE}\n{FLAVOR}The Cherry twins fought endlessly over\n\"pop\" vs. \"explode\" until Jalapeno\nsettled the debate in fiery fashion.",
-    "vi": "Ớt Anh Đào quét sạch kẻ thù trên ba hàng\nngang.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}1800\n{KEYWORD}Phạm vi: {STAT}Hàng hiện tại và 2 hàng kề\n{KEYWORD}Đặc điểm: {STAT}Phá đường băng, giải làm chậm\n{SHORTLINE}\n{FLAVOR}Hai anh em Anh Đào cãi nhau hoài xem là\n\"bùm\" hay \"nổ\", tới khi Ớt Cay xuất hiện\ndập tắt tranh cãi."
+    "en": "Cherry Pepper obliterates enemies across three entire lanes.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}1800\n{KEYWORD}Range: {STAT}Own lane + adjacent 2 lanes\n{KEYWORD}Special: {STAT}Melts ice trails, cures chill\n{SHORTLINE}\n{FLAVOR}The Cherry twins fought endlessly over \"pop\" vs. \"explode\" until Jalapeno settled the debate in fiery fashion.",
+    "vi": "Ớt Anh Đào quét sạch ba hàng ngang.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}1800\n{KEYWORD}Phạm vi: {STAT}Hàng hiện tại và 2 hàng kề\n{KEYWORD}Đặc điểm: {STAT}Phá đường băng, giải làm chậm\n{SHORTLINE}\n{FLAVOR}Hai anh em Anh Đào cãi nhau \"bùm\" hay \"nổ\", tới khi Ớt Cay xuất hiện dập tắt tranh cãi."
   },
   {
     "file": "LawnStrings.txt",
     "key": "SPIKEWEED_DESCRIPTION",
-    "en": "The fine art of popping tires and\nbutter.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20/1s\n{KEYWORD}Range: {STAT}Own tile\n{KEYWORD}Special: {STAT}Pops tires; chance to proc\nButter\n{SHORTLINE}\n{FLAVOR}Dave spilled a butter tub over\nSpikeweed, repainting both hue and\nthorns — zombies never slip safely\nacross now!",
-    "vi": "Nghệ thuật phá lốp kết hợp cùng Bơ.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20/1s\n{KEYWORD}Phạm vi: {STAT}Ô đang đứng\n{KEYWORD}Đặc điểm: {STAT}Chọc lốp xe, có tỷ lệ kích\nhoạt Bơ\n{SHORTLINE}\n{FLAVOR}Dave lỡ làm đổ hũ bơ lên Cỏ Gai, nhuộm\nvàng cả gai lẫn thân — giờ zombie hết\nđường trơn trượt chạy qua!"
+    "en": "The fine art of popping tires and butter.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20/1s\n{KEYWORD}Range: {STAT}Own tile\n{KEYWORD}Special: {STAT}Pops tires; chance to butter\n{SHORTLINE}\n{FLAVOR}Dave spilled butter over Spikeweed, gilding both hue and thorns — zombies never slip safely across now!",
+    "vi": "Nghệ thuật phá lốp kết hợp cùng Bơ.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20/1s\n{KEYWORD}Phạm vi: {STAT}Ô đang đứng\n{KEYWORD}Đặc điểm: {STAT}Chọc lốp xe, có tỷ lệ kích hoạt Bơ\n{SHORTLINE}\n{FLAVOR}Dave lỡ làm đổ hũ bơ lên Cỏ Gai, nhuộm vàng cả gai lẫn thân — giờ zombie hết đường trơn trượt chạy qua!"
   },
   {
     "file": "LawnStrings.txt",
     "key": "TORCHWOOD_DESCRIPTION",
-    "en": "Turns Peas & Snow Peas into chilling\nFrostfire Orbs!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}40 Frostfire, 2000 Giant\nFrostfire\n{KEYWORD}Range: {STAT}Single-tile Frostfire splash\n{KEYWORD}Special: {STAT}Ignites Peas and Snow Peas\n{SHORTLINE}\n{FLAVOR}\"Everyone called my old flame crown\ntacky,\" Ice-Torch says, \"so I rocked an\nice crown and climbed the Torchwood\nranks!\" \"Wait, isn't that Snow Pea's\nhair...\" whispers Peashooter.",
-    "vi": "Đốt Đậu thường và Đậu Băng thành cầu\nBăng Hỏa làm chậm.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}Cầu Băng Hỏa 40, Cầu lớn 2000\n{KEYWORD}Phạm vi: {STAT}Lan 1 ô\n{KEYWORD}Đặc điểm: {STAT}Đốt cháy đạn đậu\n{SHORTLINE}\n{FLAVOR}\"Hồi xưa họ chê mũ lửa của tôi quê mùa,\ngiờ đội vương miện băng lên sang hẳn!\"\nSúng Đậu thì thầm: \"Đó là mũ của Đậu\nBăng mà...\""
+    "en": "Ignites Peas & Snow Peas into Frostfire Orbs!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}40 Frostfire, 2000 Giant\n{KEYWORD}Range: {STAT}Single-tile Frostfire splash\n{KEYWORD}Special: {STAT}Ignites Peas and Snow Peas\n{SHORTLINE}\n{FLAVOR}\"Folks mocked my flame crown, so I rocked an ice crown!\" \"Isn't that Snow Pea's hair...\" whispers Peashooter.",
+    "vi": "Đốt Đậu & Đậu Băng thành cầu Băng Hỏa.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300 | {KEYWORD}Phạm vi: {STAT}Lan 1 ô\n{KEYWORD}Sức mạnh: {STAT}Cầu Băng Hỏa 40, Cầu lớn 2000\n{KEYWORD}Đặc điểm: {STAT}Đốt cháy đạn đậu\n{SHORTLINE}\n{FLAVOR}\"Xưa chê mũ lửa quê, giờ đội vương miện băng sang hẳn!\" \"Mũ Đậu Băng mà...\" Súng Đậu thì thầm."
   },
   {
     "file": "LawnStrings.txt",
     "key": "TALL_NUT_DESCRIPTION",
-    "en": "Fortress-grade defense AND lethal\nbarrage!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}8000\n{KEYWORD}Power: {STAT}20x8/1.5s (Shot), 1/frame\n(Reflect)\n{KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Special: {STAT}Shots/thorns slow (chance to\nfreeze); blocks 8 smashes/crushes (-1001\nHP ea); heals +1000 HP from external\nIce-shrooms\n{KEYWORD}Damaged/Death: {STAT}Triggers Ice-shroom\n{KEYWORD}Supreme Gold: {STAT}+100 cost per unit on\nfield\n{FLAVOR}\"Mocked for being short, I vowed to grow\nunstoppable — though the loneliness\nfroze my heart and shell alike.\"",
-    "vi": "Phòng thủ siêu vững chắc kiêm xả đạn\nliên hoàn!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}8000\n{KEYWORD}Sức mạnh: {STAT}20x8/1.5s (Bắn), 1/khung\n(Phản)\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Đòn đánh & phản gây chậm/đóng\nbăng; chịu 8 lần đập/cán (-1001\nmáu/lần); nhận Nấm Băng hồi 1000 máu\n{KEYWORD}Hư hại/Chết: {STAT}Kích hoạt Nấm Băng\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}Mỗi cây trên sân\ntăng giá thêm 100\n{FLAVOR}\"Từ nhỏ bị chê thấp bé nên ta quyết tâm\nmạnh mẽ — nhưng sự cô độc đóng băng cả\ntrái tim lẫn lớp vỏ.\""
+    "en": "Fortress defense AND lethal barrage!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}8000 | {KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Power: {STAT}20x8/1.5s, Reflect 1/frame\n{KEYWORD}Special: {STAT}Chills (may freeze); tanks 8 smashes/crushes (-1001 HP ea); +1000 HP from external Ice-shrooms\n{KEYWORD}Damaged/Death: {STAT}Triggers Ice-shroom\n{KEYWORD}Supreme Gold: {STAT}+100 cost/unit on field\n{FLAVOR}\"Mocked as short, I grew unstoppable — loneliness froze heart and shell.\"",
+    "vi": "Thủ siêu chắc kiêm xả đạn liên hoàn!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}8000 | {KEYWORD}Phạm vi: {STAT}Hàng trước\n{KEYWORD}Sức mạnh: {STAT}20x8/1.5s, Phản 1/khung\n{KEYWORD}Đặc điểm: {STAT}Chịu 8 đập/cán (-1001/lần); chậm/đóng băng; Nấm Băng +1000\n{KEYWORD}Hư hại/Chết: {STAT}Kích hoạt Nấm Băng\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}+100 giá/cây trên sân\n{FLAVOR}\"Bị chê thấp nên quyết mạnh mẽ — dù cô độc đóng băng cả tim lẫn vỏ.\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "SEA_SHROOM_DESCRIPTION",
-    "en": "Must-bring defender for Pool levels!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}6000\n{KEYWORD}Power: {STAT}20/1s\n{KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Special: {STAT}Aquatic plant that blocks\nzombies\n{SHORTLINE}\n{FLAVOR}Tall-nut slipped into a Sea-shroom suit\nfor beach day, grinning ear to ear while\nconfusing the entire Wall-nut family.",
-    "vi": "Hạt Dẻ Biển — lá chắn không thể thiếu ở\nmàn hồ bơi!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}6000\n{KEYWORD}Sức mạnh: {STAT}20/1s\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Cây thủy sinh, chặn bước\nzombie\n{SHORTLINE}\n{FLAVOR}Hạt Dẻ Cao thử mặc đồ Nấm Biển xuống tắm\nbiển, cười toe toét khiến cả họ Hạt Dẻ\nngơ ngác."
+    "en": "Must-bring defender for Pool levels!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}6000\n{KEYWORD}Power: {STAT}20/1s\n{KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Special: {STAT}Aquatic plant that blocks zombies\n{SHORTLINE}\n{FLAVOR}Tall-nut slipped into a Sea-shroom suit for beach day, grinning ear to ear while confusing the entire Wall-nut family.",
+    "vi": "Lá chắn không thể thiếu ở màn hồ bơi!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}6000\n{KEYWORD}Sức mạnh: {STAT}20/1s\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Cây thủy sinh, chặn bước zombie\n{SHORTLINE}\n{FLAVOR}Hạt Dẻ Cao thử mặc đồ Nấm Biển xuống tắm, cười toe toét khiến cả họ Hạt Dẻ ngơ ngác."
   },
   {
     "file": "LawnStrings.txt",
     "key": "PLANTERN_DESCRIPTION",
-    "en": "Clears fog, slows nearby zombies, and\ndeals continuous damage.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20/s\n{KEYWORD}Special: {STAT}Lights fog; 3x3 chill & damage\n{KEYWORD}On Death: {STAT}Freezes zombies in 3x3 for 3s\nand fires 10 bullets in 6 directions\n{SHORTLINE}\n{FLAVOR}\"26\" holds deep warmth after Christmas —\n\"Born in 1893,\" Tree of Wisdom told her,\n\"lighting the path forward for all.\"",
-    "vi": "Xua tan sương mù, làm chậm và gây sát\nthương vùng.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20/s\n{KEYWORD}Đặc điểm: {STAT}Chiếu sáng, làm chậm & gây sát\nthương vùng 3x3\n{KEYWORD}Khi chết: {STAT}Đóng băng vùng 3x3 trong 3\ngiây và bắn 10 viên đạn theo 6 hướng\n{SHORTLINE}\n{FLAVOR}Cây Trí Tuệ đáp: \"Như ngọn đèn soi sáng\ncon đường tiến bước của các loài cây.\""
+    "en": "Clears fog, chills & hurts nearby foes.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20/s\n{KEYWORD}Special: {STAT}Lights fog; 3x3 chill & damage\n{KEYWORD}On Death: {STAT}Freezes 3x3 for 3s & fires 10 shots in 6 ways\n{SHORTLINE}\n{FLAVOR}\"26\" warms Christmas — \"Born in 1893,\" Tree of Wisdom said, \"lighting the path for all.\"",
+    "vi": "Xua sương mù, làm chậm, sát thương vùng.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300 | {KEYWORD}Sức mạnh: {STAT}20/s\n{KEYWORD}Đặc điểm: {STAT}Chiếu sáng, làm chậm & đánh vùng 3x3\n{KEYWORD}Khi chết: {STAT}Đóng băng 3x3 trong 3s & bắn 10 đạn 6 hướng\n{SHORTLINE}\n{FLAVOR}Cây Trí Tuệ đáp: \"Như ngọn đèn soi sáng bước tiến của loài cây.\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "CACTUS_DESCRIPTION",
-    "en": "Fires a mammoth Pea that knocks zombies\nsprawling backward.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1000\n{KEYWORD}Power: {STAT}1000/3s\n{KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Special: {STAT}Massive damage & knockback\n{KEYWORD}Supreme Gold: {STAT}+100 cost per unit on\nfield\n{SHORTLINE}\n{FLAVOR}Dave nearly threw out his back hoisting\nthe giant Peashooter bust onto the cart,\nthen tossed a peapod inside...",
-    "vi": "Bắn viên Đậu khổng lồ kèm hiệu ứng đẩy\nlùi zombie.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1000\n{KEYWORD}Sức mạnh: {STAT}1000/3s\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Sát thương cực khủng, đẩy lùi\nzombie\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}Mỗi cây trên sân\ntăng giá thêm 100\n{SHORTLINE}\n{FLAVOR}Dave suýt trẹo lưng khi khiêng tượng đầu\nSúng Đậu cỡ bự lên xe, rồi tiện tay nhét\ncả quả đậu vào..."
+    "en": "Fires a giant Pea with knockback.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1000\n{KEYWORD}Power: {STAT}1000/3s\n{KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Special: {STAT}Massive damage & knockback\n{KEYWORD}Supreme Gold: {STAT}+100 cost/unit on field\n{SHORTLINE}\n{FLAVOR}Dave nearly threw his back hoisting the giant Peashooter bust, then tossed a peapod inside...",
+    "vi": "Bắn Đậu khổng lồ đẩy lùi zombie.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1000\n{KEYWORD}Sức mạnh: {STAT}1000/3s\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Sát thương khủng, đẩy lùi\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}+100 giá/cây trên sân\n{SHORTLINE}\n{FLAVOR}Dave suýt trẹo lưng khiêng tượng Súng Đậu, rồi tiện nhét cả quả đậu vào..."
   },
   {
     "file": "LawnStrings.txt",
     "key": "BLOVER_DESCRIPTION",
-    "en": "A storm of ten thousand arrows!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20x33/lane\n{KEYWORD}Range: {STAT}Full screen\n{KEYWORD}Special: {STAT}Pushes back all zombies &\nunleashes spikes\n{SHORTLINE}\n{FLAVOR}He prefers swift victories despite sore\nmuscles — while dodging constant nagging\nfrom Cactus Marigold.",
-    "vi": "Vạn tiễn tề phát!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20x33/hàng\n{KEYWORD}Phạm vi: {STAT}Toàn màn hình\n{KEYWORD}Đặc điểm: {STAT}Thổi lùi toàn bộ zombie và\nphóng mưa gai\n{SHORTLINE}\n{FLAVOR}Tuy dễ mỏi cơ nhưng cậu thích đánh nhanh\nthắng nhanh, lại còn phải tránh mấy lời\ncàm ràm của Vạn Thọ Ba Lá."
+    "en": "A storm of ten thousand arrows!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20x33/lane\n{KEYWORD}Range: {STAT}Full screen\n{KEYWORD}Special: {STAT}Pushes back all zombies & unleashes spikes\n{SHORTLINE}\n{FLAVOR}He prefers swift victories despite sore muscles — while dodging constant nagging from Cactus Marigold.",
+    "vi": "Vạn tiễn tề phát!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20x33/hàng\n{KEYWORD}Phạm vi: {STAT}Toàn màn hình\n{KEYWORD}Đặc điểm: {STAT}Thổi lùi toàn bộ zombie và phóng mưa gai\n{SHORTLINE}\n{FLAVOR}Tuy dễ mỏi cơ nhưng cậu thích đánh nhanh thắng nhanh, lại còn phải tránh mấy lời càm ràm của Vạn Thọ Ba Lá."
   },
   {
     "file": "LawnStrings.txt",
     "key": "SPLIT_PEA_DESCRIPTION",
-    "en": "Fires 4 homing projectiles: kernels,\ncabbages, and butter.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}(20+40)x2 or (40+40)x2 / 1.5s\n{KEYWORD}Range: {STAT}Full-screen homing\n{KEYWORD}Special: {STAT}Chance to fling Butter\n{SHORTLINE}\n{FLAVOR}An accidental spin-off from Dave's taco\ndinner: \"Finally we're closer together\nthan ever!\"",
-    "vi": "Bắn 4 viên đạn truy đuổi gồm hạt bắp,\nbắp cải và bơ.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}(20+40)x2 hoặc (40+40)x2 /\n1.5s\n{KEYWORD}Phạm vi: {STAT}Truy đuổi toàn màn hình\n{KEYWORD}Đặc điểm: {STAT}Có tỷ lệ bắn ra Bơ\n{SHORTLINE}\n{FLAVOR}Sản phẩm ngoài ý muốn lúc Dave định làm\nbánh Taco: \"Cuối cùng chúng ta cũng gần\nnhau hơn rồi!\""
+    "en": "Fires 4 homing projectiles: kernels, cabbages, and butter.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}(20+40)x2 or (40+40)x2 / 1.5s\n{KEYWORD}Range: {STAT}Full-screen homing\n{KEYWORD}Special: {STAT}Chance to fling Butter\n{SHORTLINE}\n{FLAVOR}An accidental spin-off from Dave's taco dinner: \"Finally we're closer together than ever!\"",
+    "vi": "Bắn 4 đạn truy đuổi: bắp, bắp cải và bơ.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}(20+40)x2 hoặc (40+40)x2 / 1.5s\n{KEYWORD}Phạm vi: {STAT}Truy đuổi toàn màn hình\n{KEYWORD}Đặc điểm: {STAT}Có tỷ lệ bắn ra Bơ\n{SHORTLINE}\n{FLAVOR}Sản phẩm ngoài ý lúc làm Taco: \"Cuối cùng chúng ta cũng gần nhau hơn!\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "STARFRUIT_DESCRIPTION",
-    "en": "Shoots stars in 5 directions and pops\npassing vehicle tires!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}40x5/1s\n{KEYWORD}Range: {STAT}5 directions\n{KEYWORD}Special: {STAT}Cannot be eaten by zombies\n{SHORTLINE}\n{FLAVOR}Shy about his bucktooth, he asked\nSpikeweed how to lay low: \"Lie flat on\nthe turf and lose the bright neon!\"",
-    "vi": "Bắn sao 5 hướng đồng thời phá lốp xe\nzombie!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}40x5/1s\n{KEYWORD}Phạm vi: {STAT}Năm hướng\n{KEYWORD}Đặc điểm: {STAT}Không bị zombie gặm\n{SHORTLINE}\n{FLAVOR}Tự ti vì răng cửa to nên đi hỏi Cỏ Gai\nbí kíp tàng hình: \"Cứ nằm bẹp xuống đất\nđổi màu xỉn đi là xong!\""
+    "en": "Shoots stars in 5 directions and pops passing vehicle tires!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}40x5/1s\n{KEYWORD}Range: {STAT}5 directions\n{KEYWORD}Special: {STAT}Cannot be eaten by zombies\n{SHORTLINE}\n{FLAVOR}Shy about his bucktooth, he asked Spikeweed how to lay low: \"Lie flat on the turf and lose the bright neon!\"",
+    "vi": "Bắn sao 5 hướng đồng thời phá lốp xe zombie!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}40x5/1s\n{KEYWORD}Phạm vi: {STAT}Năm hướng\n{KEYWORD}Đặc điểm: {STAT}Không bị zombie gặm\n{SHORTLINE}\n{FLAVOR}Tự ti vì răng cửa to nên đi hỏi Cỏ Gai bí kíp tàng hình: \"Cứ nằm bẹp xuống đất đổi màu xỉn đi là xong!\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "PUMPKIN_DESCRIPTION",
-    "en": "Protects inner plants while spraying\nfumes all around.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000\n{KEYWORD}Power: {STAT}20x4/2s\n{KEYWORD}Range: {STAT}3x3\n{KEYWORD}Supreme Gold: {STAT}+100 cost per unit on\nfield\n{SHORTLINE}\n{FLAVOR}Just like Chomper and Wall-nut, many\nplants were college roommates — Pumpkin\npractically treats Gloom-shroom like his\nown limb!",
-    "vi": "Bảo vệ cây bên trong và phun bào tử xung\nquanh.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Sức mạnh: {STAT}20x4/2s\n{KEYWORD}Phạm vi: {STAT}3x3\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}Mỗi cây trên sân\ntăng giá thêm 100\n{SHORTLINE}\n{FLAVOR}Bí Ngô coi Nấm Ảm Đạm như tay chân ruột\nthịt, dù Hướng Dương và Súng Đậu thì\ntoàn quay lưng vào nhau."
+    "en": "Shields inner plants and sprays fumes around.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000\n{KEYWORD}Power: {STAT}20x4/2s\n{KEYWORD}Range: {STAT}3x3\n{KEYWORD}Supreme Gold: {STAT}+100 cost/unit on field\n{SHORTLINE}\n{FLAVOR}Like old college roommates, Pumpkin treats Gloom-shroom like his own limb!",
+    "vi": "Bảo vệ cây trong, phun bào tử quanh.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Sức mạnh: {STAT}20x4/2s\n{KEYWORD}Phạm vi: {STAT}3x3\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}+100 giá/cây trên sân\n{SHORTLINE}\n{FLAVOR}Bí Ngô coi Nấm Ảm Đạm như tay chân ruột thịt, dù Hướng Dương và Súng Đậu toàn quay lưng vào nhau."
   },
   {
     "file": "LawnStrings.txt",
     "key": "MAGNET_SHROOM_DESCRIPTION",
-    "en": "Rips metal helmets off zombies while\nholding the line.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000\n{KEYWORD}Range: {STAT}3-tile radius\n{KEYWORD}Special: {STAT}Removes metal gear\n{SHORTLINE}\n{FLAVOR}\"Physicists debate why a nut pulls steel\n— I prefer Descartes: I think, therefore\nI attract!\"",
-    "vi": "Hút đồ kim loại trên người zombie đồng\nthời chắn đường.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Phạm vi: {STAT}Bán kính 3 ô\n{KEYWORD}Đặc điểm: {STAT}Hút bỏ vật phẩm kim loại\n{SHORTLINE}\n{FLAVOR}\"Các nhà vật lý cứ tranh cãi sao hạt dẻ\nlại hút sắt, còn tôi thấy triết học giải\nthích quá gọn: Tôi tư duy nên tôi hút!\""
+    "en": "Rips metal helmets off zombies while holding the line.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000\n{KEYWORD}Range: {STAT}3-tile radius\n{KEYWORD}Special: {STAT}Removes metal gear\n{SHORTLINE}\n{FLAVOR}\"Physicists debate why a nut pulls steel — I prefer Descartes: I think, therefore I attract!\"",
+    "vi": "Hút đồ kim loại trên người zombie đồng thời chắn đường.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Phạm vi: {STAT}Bán kính 3 ô\n{KEYWORD}Đặc điểm: {STAT}Hút bỏ vật phẩm kim loại\n{SHORTLINE}\n{FLAVOR}\"Các nhà vật lý cứ tranh cãi sao hạt dẻ lại hút sắt, còn tôi thấy triết học giải thích quá gọn: Tôi tư duy nên tôi hút!\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "CABBAGE_PULT_DESCRIPTION",
-    "en": "Hurls cabbages AND blasts peas\nsimultaneously.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}(40+20)x4/1.5s\n{KEYWORD}Range: {STAT}Full lane ahead\n{KEYWORD}Special: {STAT}Lobs bypass roof slopes\n{SHORTLINE}\n{FLAVOR}Envying Cabbage's roof arcs, Gatling\ntraded gear — though his trigger-happy\nhabit stayed intact.",
-    "vi": "Vừa ném bắp cải vừa bắn súng máy đậu\ncùng lúc.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}(40+20)x4/1.5s\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Đạn ném bỏ qua độ dốc mái nhà\n{SHORTLINE}\n{FLAVOR}Ghen tị với góc ném trên mái nhà nên\nSúng Máy đổi đồ với Bắp Cải, mỗi tội nết\nxả đạn vẫn không bỏ."
+    "en": "Hurls cabbages AND blasts peas simultaneously.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}(40+20)x4/1.5s\n{KEYWORD}Range: {STAT}Full lane ahead\n{KEYWORD}Special: {STAT}Lobs bypass roof slopes\n{SHORTLINE}\n{FLAVOR}Envying Cabbage's roof arcs, Gatling traded gear — though his trigger-happy habit stayed intact.",
+    "vi": "Ném bắp cải kiêm bắn súng máy đậu.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}(40+20)x4/1.5s\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Đạn ném bỏ qua dốc mái nhà\n{SHORTLINE}\n{FLAVOR}Ghen tị góc ném trên mái nên Súng Máy đổi đồ với Bắp Cải, mỗi tội nết xả đạn vẫn y nguyên."
   },
   {
     "file": "LawnStrings.txt",
     "key": "FLOWER_POT_DESCRIPTION",
-    "en": "Lets you plant on bare earth while\ngenerating Sun.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Special: {STAT}Allows planting on bare ground;\nproduces 25 Sun every 25s\n{SHORTLINE}\n{FLAVOR}\"Wait, it's just high noon!\" insists the\nface-up Sun Pot, trying hard to hide her\nstiff neck.",
-    "vi": "Cho phép trồng cây trên đất trơ và tạo\nMặt trời.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Đặc điểm: {STAT}Trồng trên đất cứng/mái, mỗi\n25 giây tạo 25 Mặt trời\n{SHORTLINE}\n{FLAVOR}\"Đừng hiểu nhầm, tại đang đúng ngọ\nthôi!\" — Chậu Hoa Mặt Trời chống chế cho\ncái cổ bị vẹo."
+    "en": "Lets you plant on bare earth while generating Sun.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Special: {STAT}Allows planting on bare ground; produces 25 Sun every 25s\n{SHORTLINE}\n{FLAVOR}\"Wait, it's just high noon!\" insists the face-up Sun Pot, trying hard to hide her stiff neck.",
+    "vi": "Cho phép trồng cây trên đất trơ và tạo Mặt trời.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Đặc điểm: {STAT}Trồng trên đất cứng/mái, mỗi 25 giây tạo 25 Mặt trời\n{SHORTLINE}\n{FLAVOR}\"Đừng hiểu nhầm, tại đang đúng ngọ thôi!\" — Chậu Hoa Mặt Trời chống chế cho cái cổ bị vẹo."
   },
   {
     "file": "LawnStrings.txt",
     "key": "KERNEL_PULT_DESCRIPTION",
-    "en": "Lobs kernels and butter across three\nlanes simultaneously.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}Butter 40x1/2s (3s stun), Kernel\n20x1/2s\n{KEYWORD}Range: {STAT}Three lanes ahead\n{KEYWORD}Special: {STAT}Lobs bypass roof slopes\n{NOCTURNAL}Evolution Bean: Evolves into Corn\nSpinner\n{SHORTLINE}\n{FLAVOR}As eldest brother of the three, he uses\nthree separate baskets just to remember\neveryone's birthdays!",
-    "vi": "Phóng hạt bắp và bơ ra ba hàng phía\ntrước cùng lúc.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}Bơ: 40x1/2s (trói 3s), Hạt\nbắp: 20x1/2s\n{KEYWORD}Phạm vi: {STAT}3 hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Bỏ qua độ dốc mái nhà\n{NOCTURNAL}Dùng Đậu Tiến Hóa: Tiến hóa thành Máy\nXoay Bắp\n{SHORTLINE}\n{FLAVOR}Là anh cả nên cậu dùng hẳn ba cái rổ\nriêng để ghi nhớ ngày sinh nhật của từng\nđứa em cho khỏi nhầm."
+    "en": "Lobs kernels and butter in three lanes.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300 | {KEYWORD}Range: {STAT}Three lanes\n{KEYWORD}Power: {STAT}Butter 40x1/2s (3s stun), Kernel 20x1/2s\n{KEYWORD}Special: {STAT}Lobs bypass roof slopes\n{NOCTURNAL}Evolution Bean: Evolves into Corn Spinner\n{SHORTLINE}\n{FLAVOR}Eldest brother keeps three baskets to remember everyone's birthdays!",
+    "vi": "Phóng hạt bắp và bơ ra ba hàng trước.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}Bơ 40x1/2s (trói 3s), Bắp 20x1/2s\n{KEYWORD}Phạm vi: {STAT}3 hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Bỏ qua độ dốc mái nhà\n{NOCTURNAL}Đậu Tiến Hóa: Hóa Máy Xoay Bắp\n{SHORTLINE}\n{FLAVOR}Là anh cả nên cậu dùng ba rổ riêng để nhớ sinh nhật từng em cho khỏi nhầm."
   },
   {
     "file": "LawnStrings.txt",
     "key": "COFFEE_BEAN_DESCRIPTION",
-    "en": "What's the next surprise?\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Special: {STAT}Unboxes a random plant;\nnocturnal plants stay awake\n{SHORTLINE}\n{FLAVOR}\"I'm a box with boxing seeds inside!\" As\nfor fitting a Cob Cannon inside? \"...He\ngot squeezed in.\"",
-    "vi": "Bất ngờ tiếp theo là gì đây?\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Đặc điểm: {STAT}Mở ngẫu nhiên một cây, cây đêm\nsẽ không ngủ\n{SHORTLINE}\n{FLAVOR}\"Tôi là chiếc hộp chứa hạt giống thích\nđấm bốc!\" Còn sao nhét vừa cả Pháo Hủy\nDiệt á? \"...Cứ ép chặt là vừa.\""
+    "en": "What's the next surprise?\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Special: {STAT}Unboxes a random plant; nocturnal plants stay awake\n{SHORTLINE}\n{FLAVOR}\"I'm a box with boxing seeds inside!\" As for fitting a Cob Cannon inside? \"...He got squeezed in.\"",
+    "vi": "Bất ngờ tiếp theo là gì đây?\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Đặc điểm: {STAT}Mở ngẫu nhiên một cây, cây đêm sẽ không ngủ\n{SHORTLINE}\n{FLAVOR}\"Tôi là chiếc hộp chứa hạt giống thích đấm bốc!\" Còn sao nhét vừa cả Pháo Hủy Diệt á? \"...Cứ ép chặt là vừa.\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "GARLIC_DESCRIPTION",
-    "en": "Hypno Garlic diverts biting zombies and\ncharms them!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}100\n{KEYWORD}Special: {STAT}Hypnotizes and diverts biting\nzombies to an adjacent lane\n{SHORTLINE}\n{FLAVOR}Used to work at a paint factory to mask\nhis odor until someone spilled rainbow\npaint all over him!",
-    "vi": "Khiến zombie cắn phải chuyển hàng đồng\nthời bị thôi miên.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}100\n{KEYWORD}Đặc điểm: {STAT}Thôi miên và đẩy zombie chuyển\nsang hàng kề bên\n{SHORTLINE}\n{FLAVOR}Hồi trước làm ở xưởng sơn để át mùi tỏi,\nai dè có kẻ hậu đậu làm đổ thùng sơn\nbiến cậu thành ngũ sắc luôn!"
+    "en": "Hypno Garlic diverts biting zombies and charms them!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}100\n{KEYWORD}Special: {STAT}Hypnotizes and diverts biting zombies to an adjacent lane\n{SHORTLINE}\n{FLAVOR}Used to work at a paint factory to mask his odor until someone spilled rainbow paint all over him!",
+    "vi": "Khiến zombie cắn phải chuyển hàng đồng thời bị thôi miên.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}100\n{KEYWORD}Đặc điểm: {STAT}Thôi miên và đẩy zombie chuyển sang hàng kề bên\n{SHORTLINE}\n{FLAVOR}Hồi trước làm ở xưởng sơn để át mùi tỏi, ai dè có kẻ hậu đậu làm đổ thùng sơn biến cậu thành ngũ sắc luôn!"
   },
   {
     "file": "LawnStrings.txt",
     "key": "UMBRELLA_LEAF_DESCRIPTION",
-    "en": "Shields nearby plants from Bungees and\nCatapults.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Range: {STAT}Own tile & 3x3\n{KEYWORD}Special: {STAT}Protects nearby plants from\nBungee & Catapult attacks\n{SHORTLINE}\n{FLAVOR}Even without daytime rain, Coffee\nUmbrella keeps the canopy open to\nprotect that meticulously styled hair.",
-    "vi": "Bảo vệ cây xung quanh khỏi Zombie Bungee\nvà Xe Bắn Đá.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Phạm vi: {STAT}Bản thân và vùng 3x3\n{KEYWORD}Đặc điểm: {STAT}Chống bắt cóc và đạn bóng rổ\ncho cây xung quanh\n{SHORTLINE}\n{FLAVOR}Dù ban ngày ít mưa nhưng vẫn bung ô để\ngiữ nếp mái tóc chăm chút kỹ lưỡng."
+    "en": "Shields nearby plants from Bungees and Catapults.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Range: {STAT}Own tile & 3x3\n{KEYWORD}Special: {STAT}Protects nearby plants from Bungee & Catapult attacks\n{SHORTLINE}\n{FLAVOR}Even without daytime rain, Coffee Umbrella keeps the canopy open to protect that meticulously styled hair.",
+    "vi": "Bảo vệ cây xung quanh khỏi Zombie Bungee và Xe Bắn Đá.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Phạm vi: {STAT}Bản thân và vùng 3x3\n{KEYWORD}Đặc điểm: {STAT}Chống bắt cóc và đạn bóng rổ cho cây xung quanh\n{SHORTLINE}\n{FLAVOR}Dù ban ngày ít mưa nhưng vẫn bung ô để giữ nếp mái tóc chăm chút kỹ lưỡng."
   },
   {
     "file": "LawnStrings.txt",
     "key": "MARIGOLD_DESCRIPTION",
-    "en": "Full-lane knockback & piercing barrage!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20x4/3s\n{KEYWORD}Range: {STAT}One lane\n{KEYWORD}Special: {STAT}Knocks back small zombies down\nthe lane\n{SHORTLINE}\n{FLAVOR}She believes slow and steady teamwork\nwins wars — while trying to tune out\nCactus Blover's grumbling.",
-    "vi": "Đẩy lùi và bắn xuyên thấu cả hàng!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20x4/3s\n{KEYWORD}Phạm vi: {STAT}Một hàng\n{KEYWORD}Đặc điểm: {STAT}Đẩy lùi zombie cỡ nhỏ trên cả\nhàng\n{SHORTLINE}\n{FLAVOR}Cô tin vào sức mạnh đoàn kết bền bỉ,\ntrong lúc cố làm ngơ lời cằn nhằn từ Cỏ\nBa Lá Xương Rồng."
+    "en": "Full-lane knockback & piercing volley!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}20x4/3s\n{KEYWORD}Range: {STAT}One lane\n{KEYWORD}Special: {STAT}Knocks back small zombies in lane\n{SHORTLINE}\n{FLAVOR}She believes slow teamwork wins wars — while tuning out Cactus Blover's grumbling.",
+    "vi": "Đẩy lùi và bắn xuyên thấu cả hàng!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}20x4/3s\n{KEYWORD}Phạm vi: {STAT}Một hàng\n{KEYWORD}Đặc điểm: {STAT}Đẩy lùi zombie cỡ nhỏ trên cả hàng\n{SHORTLINE}\n{FLAVOR}Cô tin vào sức mạnh đoàn kết bền bỉ, trong lúc cố làm ngơ lời cằn nhằn từ Cỏ Ba Lá Xương Rồng."
   },
   {
     "file": "LawnStrings.txt",
     "key": "MELON_PULT_DESCRIPTION",
-    "en": "Deals heavy splash damage to zombie\ncrowds while tanking.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000\n{KEYWORD}Power: {STAT}80/1.5s + 26 splash\n{KEYWORD}Range: {STAT}Full lane ahead\n{KEYWORD}Special: {STAT}Offense and defense combined\n{SHORTLINE}\n{FLAVOR}Everyone wonders if he's a melon or a\nnut. He insists \"Definitely a melon!\" —\nuntil summer hits and he calls himself a\nnut.",
-    "vi": "Gây sát thương lan cực lớn lên đám đông\nzombie.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Sức mạnh: {STAT}80/1.5s, sát thương lan 26\nxung quanh\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Công thủ toàn diện\n{SHORTLINE}\n{FLAVOR}Ai mới gặp cũng hỏi là dưa hay hạt dẻ.\nCậu khẳng định mình là dưa — trừ mùa hè\nthì tự nhận là hạt dẻ!"
+    "en": "Heavy splash damage while tanking crowds.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000\n{KEYWORD}Power: {STAT}80/1.5s + 26 splash\n{KEYWORD}Range: {STAT}Full lane ahead\n{KEYWORD}Special: {STAT}Offense & defense combined\n{SHORTLINE}\n{FLAVOR}Is he a melon or a nut? \"Melon!\" he insists — until summer hits and he calls himself a nut.",
+    "vi": "Gây sát thương lan cực lớn lên zombie.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Sức mạnh: {STAT}80/1.5s, lan 26 xung quanh\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Công thủ toàn diện\n{SHORTLINE}\n{FLAVOR}Ai cũng hỏi là dưa hay hạt dẻ. Cậu nhận là dưa — trừ mùa hè thì tự nhận hạt dẻ!"
   },
   {
     "file": "LawnStrings.txt",
     "key": "GATLING_PEA_DESCRIPTION",
-    "en": "Fires 8 random projectiles every volley!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}8000\n{KEYWORD}Power: {STAT}(160~640)/2s\n{KEYWORD}Range: {STAT}Full lane ahead\n{KEYWORD}Special: {STAT}Produces 50 Sun every 25s\n{KEYWORD}Supreme Gold: {STAT}+100 cost per unit on\nfield\n{SHORTLINE}\n{FLAVOR}\"Blasting zombies is my duty; Burger\nKing is my eternal creed!\"",
-    "vi": "Mỗi lượt xả ra 8 viên đạn ngẫu nhiên!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}8000\n{KEYWORD}Sức mạnh: {STAT}(160~640)/2s\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Mỗi 25 giây tạo 50 Mặt trời\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}Mỗi cây trên sân\ntăng giá thêm 100\n{SHORTLINE}\n{FLAVOR}\"Diệt zombie là nghĩa vụ, Burger King là\nchân ái vĩnh cửu!\""
+    "en": "Fires 8 random projectiles every volley!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}8000\n{KEYWORD}Power: {STAT}(160~640)/2s\n{KEYWORD}Range: {STAT}Full lane ahead\n{KEYWORD}Special: {STAT}Produces 50 Sun every 25s\n{KEYWORD}Supreme Gold: {STAT}+100 cost per unit on field\n{SHORTLINE}\n{FLAVOR}\"Blasting zombies is my duty; Burger King is my eternal creed!\"",
+    "vi": "Mỗi lượt xả ra 8 viên đạn ngẫu nhiên!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}8000\n{KEYWORD}Sức mạnh: {STAT}(160~640)/2s\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Mỗi 25 giây tạo 50 Mặt trời\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}Mỗi cây trên sân tăng giá thêm 100\n{SHORTLINE}\n{FLAVOR}\"Diệt zombie là nghĩa vụ, Burger King là chân ái vĩnh cửu!\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "TWIN_SUNFLOWER_DESCRIPTION",
-    "en": "Generates Sun, shoots spikes, AND\nprotects inner plants!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000\n{KEYWORD}Power: {STAT}20x2/3s\n{KEYWORD}Reflect: {STAT}1/frame\n{KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Special: {STAT}Produces 50 Sun every 25s\n{SHORTLINE}\n{FLAVOR}A desert hybrid excelling at\nphotosynthesis — happily feeding nearby\nplants Sun even if nobody dares hug him.",
-    "vi": "Vừa tạo Mặt trời, bắn gai nhọn và bảo vệ\ncây bên trong.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Sức mạnh: {STAT}20x2/3s\n{KEYWORD}Phản sát thương: {STAT}1/khung hình\n{KEYWORD}Phạm vi: {STAT}1 hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Mỗi 25 giây tạo 50 Mặt trời\n{SHORTLINE}\n{FLAVOR}Cây sa mạc tối đa hóa quang hợp, vui vẻ\ncung cấp Mặt trời dù chẳng ai dám lại\ngần ôm."
+    "en": "Makes Sun, fires spikes & shields!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000\n{KEYWORD}Power: {STAT}20x2/3s\n{KEYWORD}Reflect: {STAT}1/frame\n{KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Special: {STAT}50 Sun every 25s\n{SHORTLINE}\n{FLAVOR}A desert hybrid great at photosynthesis — gladly sharing Sun even if nobody dares hug him.",
+    "vi": "Tạo Mặt trời, bắn gai và bảo vệ cây trong.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Sức mạnh: {STAT}20x2/3s\n{KEYWORD}Phản sát thương: {STAT}1/khung hình\n{KEYWORD}Phạm vi: {STAT}1 hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Mỗi 25s tạo 50 Mặt trời\n{SHORTLINE}\n{FLAVOR}Cây sa mạc tối đa quang hợp, vui vẻ cấp nắng dù chẳng ai dám ôm."
   },
   {
     "file": "LawnStrings.txt",
     "key": "GLOOM_SHROOM_DESCRIPTION",
-    "en": "Sprays dense fumes, kernels, and butter\nall around.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}(20+20)x4 or (20+40)x4 / 2s\n{KEYWORD}Range: {STAT}3x3 (Fumes), 8-way (Shots)\n{KEYWORD}Special: {STAT}5x5 aggro detection\n{KEYWORD}Supreme Gold: {STAT}+100 cost per unit on\nfield\n{SHORTLINE}\n{FLAVOR}He fell into a butter vat by accident —\nyet once everybody started loving him,\nhe wasn't nearly so gloomy anymore!",
-    "vi": "Phun khói dày đặc, hạt bắp và bơ ra xung\nquanh.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}(20+20)x4 hoặc (20+40)x4 / 2s\n{KEYWORD}Phạm vi: {STAT}3x3 (Bong bóng), 8 hướng (Đạn)\n{KEYWORD}Đặc điểm: {STAT}Tầm quét mục tiêu 5x5\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}Mỗi cây trên sân\ntăng giá thêm 100\n{SHORTLINE}\n{FLAVOR}Tai nạn ngã vào thùng bơ lại giúp cậu\nđược mọi người yêu quý hẳn lên, thế là\nbớt sầu đời rồi!"
+    "en": "Sprays fumes, kernels & butter around.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}(20+20)x4 or (20+40)x4 / 2s\n{KEYWORD}Range: {STAT}3x3 (Fumes), 8-way (Shots)\n{KEYWORD}Special: {STAT}5x5 aggro detection\n{KEYWORD}Supreme Gold: {STAT}+100 cost/unit on field\n{SHORTLINE}\n{FLAVOR}Falling into a butter vat made everyone love him — not nearly so gloomy anymore!",
+    "vi": "Phun khói, hạt bắp và bơ xung quanh.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300 | {KEYWORD}Sức mạnh: {STAT}(20+20)x4 hoặc (20+40)x4 / 2s\n{KEYWORD}Phạm vi: {STAT}3x3 (Khói), 8 hướng (Đạn)\n{KEYWORD}Đặc điểm: {STAT}Tầm quét mục tiêu 5x5\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}+100 giá/cây trên sân\n{SHORTLINE}\n{FLAVOR}Ngã vào thùng bơ giúp cậu được mọi người quý hẳn — hết sầu đời rồi!"
   },
   {
     "file": "LawnStrings.txt",
     "key": "CATTAIL_DESCRIPTION",
-    "en": "Arcane melons — the legendary OG Cattail\npowerhouse.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}80x2/1.5s\n{KEYWORD}Range: {STAT}Full-screen homing\n{KEYWORD}Supreme Gold: {STAT}+100 cost per unit on\nfield\n{SHORTLINE}\n{FLAVOR}\"Honestly, I miss my apprentice days,\"\nMelon Cattail reminisces, sipping melon\njuice beside her master's framed photo.",
-    "vi": "Dưa hấu ma pháp, thủy tổ Đuôi Mèo siêu\ncường.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}80x2/1.5s\n{KEYWORD}Phạm vi: {STAT}Truy đuổi toàn màn hình\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}Mỗi cây trên sân\ntăng giá thêm 100\n{SHORTLINE}\n{FLAVOR}\"Thật lòng tôi vẫn nhớ thời đi học việc\nbên sư phụ,\" cậu nhấp ngụm nước dưa rồi\nngắm ảnh thầy trên tường."
+    "en": "Arcane melons — the OG Cattail powerhouse.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}80x2/1.5s\n{KEYWORD}Range: {STAT}Full-screen homing\n{KEYWORD}Supreme Gold: {STAT}+100 cost/unit on field\n{SHORTLINE}\n{FLAVOR}\"I miss my apprentice days,\" Melon Cattail sighs, sipping juice beside her master's photo.",
+    "vi": "Dưa hấu ma pháp — thủy tổ Đuôi Mèo.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}80x2/1.5s\n{KEYWORD}Phạm vi: {STAT}Truy đuổi toàn màn hình\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}+100 giá/cây trên sân\n{SHORTLINE}\n{FLAVOR}\"Nhớ thời đi học việc bên sư phụ,\" cậu nhấp nước dưa rồi ngắm ảnh thầy trên tường."
   },
   {
     "file": "LawnStrings.txt",
     "key": "WINTER_MELON_DESCRIPTION",
-    "en": "Lobs Sun-shrooms at zombies while\ngenerating Sun.\n{AQUATIC}Sleeps during the day\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}40/1.5s (80/1.5s mature)\n{KEYWORD}Range: {STAT}Full lane ahead\n{KEYWORD}Special: {STAT}25 Sun/25s; matures after 120s\nto 50 Sun/25s\n{SHORTLINE}\n{FLAVOR}\"Relax, those thrown Sun-shrooms are\njust plastic replicas!\"",
-    "vi": "Ném Nấm Mặt Trời tấn công zombie và tạo\nnăng lượng.\n{AQUATIC}Ngủ vào ban ngày\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}40/1.5s (trưởng thành 80/1.5s)\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Tạo 25 Mặt trời/25s, sau 120s\ntrưởng thành tạo 50/25s\n{SHORTLINE}\n{FLAVOR}\"Yên tâm, đống nấm ném ra chỉ là đồ nhựa\nmô hình thôi!\""
+    "en": "Lobs Sun-shrooms at zombies while generating Sun.\n{AQUATIC}Sleeps during the day\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}40/1.5s (80/1.5s mature)\n{KEYWORD}Range: {STAT}Full lane ahead\n{KEYWORD}Special: {STAT}25 Sun/25s; matures after 120s to 50 Sun/25s\n{SHORTLINE}\n{FLAVOR}\"Relax, those thrown Sun-shrooms are just plastic replicas!\"",
+    "vi": "Ném Nấm Mặt Trời đánh zombie & tạo nắng.\n{AQUATIC}Ngủ vào ban ngày\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}40/1.5s (lớn 80/1.5s)\n{KEYWORD}Phạm vi: {STAT}Cả hàng phía trước\n{KEYWORD}Đặc điểm: {STAT}Tạo 25 Mặt trời/25s, sau 120s trưởng thành tạo 50/25s\n{SHORTLINE}\n{FLAVOR}\"Yên tâm, đống nấm ném ra chỉ là đồ nhựa mô hình thôi!\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "GOLD_MAGNET_DESCRIPTION",
-    "en": "Vacuums coins and gems and fires them as\nhoming missiles!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Power: {STAT}Silver 100, Gold 500, Diamond\n1000\n{KEYWORD}Range: {STAT}Full-screen homing\n{KEYWORD}Special: {STAT}Mints/absorbs/fires coins every\n5s/2s/2s\n{NOCTURNAL}Evolution Bean: Evolves into Fortune\nMarigold\n{SHORTLINE}\n{FLAVOR}Dave bred her to solve his taco budget\ncrisis — forgetting Marigold coins only\nspend at his own shop!",
-    "vi": "Thu thập tiền xu và kim cương rồi bắn\nngược về phía zombie.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}Xu Bạc 100, Xu Vàng 500, Kim\nCương 1000\n{KEYWORD}Phạm vi: {STAT}Truy đuổi toàn màn hình\n{KEYWORD}Đặc điểm: {STAT}5s tạo 1 xu, 2s hút, 2s bắn\n{NOCTURNAL}Dùng Đậu Tiến Hóa: Tiến hóa thành Thần\nTài Vạn Thọ\n{SHORTLINE}\n{FLAVOR}Dave lai để chữa cháy ngân sách mua\nTaco, ai dè tiền của Vạn Thọ chỉ tiêu\nđược ở đúng tiệm của ông!"
+    "en": "Pulls coins & gems as homing shots!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300 | {KEYWORD}Power: {STAT}Silver 100, Gold 500, Diamond 1000\n{KEYWORD}Range: {STAT}Full-screen homing\n{KEYWORD}Special: {STAT}Mints/pulls/fires coins 5s/2s/2s\n{NOCTURNAL}Evolution Bean: Evolves into Fortune Marigold\n{SHORTLINE}\n{FLAVOR}Dave bred her for tacos — too bad her coins only spend at his shop!",
+    "vi": "Hút xu, kim cương rồi bắn zombie.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Sức mạnh: {STAT}Xu Bạc 100, Vàng 500, Kim Cương 1000\n{KEYWORD}Phạm vi: {STAT}Truy đuổi toàn màn hình\n{KEYWORD}Đặc điểm: {STAT}5s tạo 1 xu, 2s hút, 2s bắn\n{NOCTURNAL}Đậu Tiến Hóa: Hóa Thần Tài Vạn Thọ\n{SHORTLINE}\n{FLAVOR}Dave lai để cứu quỹ Taco, ai dè tiền chỉ tiêu được ở đúng tiệm ông!"
   },
   {
     "file": "LawnStrings.txt",
     "key": "COB_CANNON_DESCRIPTION",
-    "en": "Click to launch lethal Doom-shroom\nwarheads!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1000\n{KEYWORD}Power: {STAT}1800\n{KEYWORD}Range: {STAT}3.5-tile radius\n{KEYWORD}Special: {STAT}Manual aim; obliterates zombies\nin target zone\n{KEYWORD}Supreme Gold: {STAT}+100 cost per unit on\nfield\n{SHORTLINE}\n{FLAVOR}Mushroom clouds instead of popcorn! \"Got\nit — mushroom-corn soup!\" shouts a tiny\nPeashooter.",
-    "vi": "Nhấn vào pháo để khai hỏa đầu đạn Nấm\nHủy Diệt.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1000\n{KEYWORD}Sức mạnh: {STAT}1800\n{KEYWORD}Phạm vi: {STAT}Bán kính 3.5 ô quanh tâm ngắm\n{KEYWORD}Đặc điểm: {STAT}Bắn thủ công, quét sạch zombie\nvùng chọn\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}Mỗi cây trên sân\ntăng giá thêm 100\n{SHORTLINE}\n{FLAVOR}Không phải bỏng ngô mà là mây nấm! \"Biết\nrồi, súp bắp nấm!\" Súng Đậu nhí reo lên."
+    "en": "Click to fire Doom-shroom warheads!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1000\n{KEYWORD}Power: {STAT}1800\n{KEYWORD}Range: {STAT}3.5-tile radius\n{KEYWORD}Special: {STAT}Manual aim; clears target zone\n{KEYWORD}Supreme Gold: {STAT}+100 cost/unit on field\n{SHORTLINE}\n{FLAVOR}Mushroom clouds, not popcorn! \"Mushroom-corn soup!\" cheers a tiny Peashooter.",
+    "vi": "Nhấn pháo bắn đầu đạn Nấm Hủy Diệt.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1000 | {KEYWORD}Sức mạnh: {STAT}1800\n{KEYWORD}Phạm vi: {STAT}Bán kính 3.5 ô quanh tâm\n{KEYWORD}Đặc điểm: {STAT}Bắn thủ công, quét sạch vùng chọn\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}+100 giá/cây trên sân\n{SHORTLINE}\n{FLAVOR}Không phải bỏng ngô mà là mây nấm! \"Súp bắp nấm!\" Súng Đậu nhí reo lên."
   },
   {
     "file": "LawnStrings.txt",
     "key": "IMITATER_DESCRIPTION",
-    "en": "Lets you bring two copies of the exact\nsame plant!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Special: {STAT}3.2s morph time; copies all\ntraits of imitated plant\n\n{FLAVOR}\"That party got so wild I forgot who I\nwas supposed to impersonate,\" sighs\nImitater.",
-    "vi": "Cho phép sử dụng hai bản sao giống hệt\nnhau trong cùng một màn.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Đặc điểm: {STAT}Mất 3.2 giây biến hình, sao\nchép toàn bộ đặc tính\n\n{FLAVOR}\"Đêm tiệc hôm đó quẩy căng tới mức sáng\nra chẳng nhớ mình định đóng giả ai nữa.\""
+    "en": "Lets you bring two copies of the exact same plant!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}300\n{KEYWORD}Special: {STAT}3.2s morph time; copies all traits of imitated plant\n\n{FLAVOR}\"That party got so wild I forgot who I was supposed to impersonate,\" sighs Imitater.",
+    "vi": "Cho phép sử dụng hai bản sao giống hệt nhau trong cùng một màn.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Đặc điểm: {STAT}Mất 3.2 giây biến hình, sao chép toàn bộ đặc tính\n\n{FLAVOR}\"Đêm tiệc hôm đó quẩy căng tới mức sáng ra chẳng nhớ mình định đóng giả ai nữa.\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "SPIKEROCK_DESCRIPTION",
-    "en": "Punctures multiple tires, stalls giants,\nand pokes nearby zombies.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}8000\n{KEYWORD}Power: {STAT}20x2/1s\n{KEYWORD}Range: {STAT}Own tile + left & right tiles\n{KEYWORD}Special: {STAT}Pops vehicles (-500 HP ea);\ntanks multiple smashes (-1000 HP,\nreflects 1000 dmg)\n{KEYWORD}Supreme Gold: {STAT}+100 cost per unit on\nfield\n{FLAVOR}Skipping showers for months sprouted\nspikes all over Tall-nut. \"Wash them\noff? Never — they're my\nbrothers-in-arms!\"",
-    "vi": "Đâm thủng nhiều lốp xe, chặn đứng zombie\nvà gây sát thương vùng.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}8000\n{KEYWORD}Sức mạnh: {STAT}20x2/1s\n{KEYWORD}Phạm vi: {STAT}Ô đứng + ô trái và phải\n{KEYWORD}Đặc điểm: {STAT}Phá nhiều xe (-500 máu/lần);\nchịu nhiều búa (-1000 máu, phản 1000 sát\nthương)\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}Mỗi cây trên sân\ntăng giá thêm 100\n{FLAVOR}Lười tắm lâu ngày nên gai mọc đầy người,\nnhưng anh nhất quyết giữ lại: \"Đây là\nchiến hữu của tôi!\""
+    "en": "Pops tires, stalls giants & pokes foes.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}8000 | {KEYWORD}Power: {STAT}20x2/1s\n{KEYWORD}Range: {STAT}Own + left & right tiles\n{KEYWORD}Special: {STAT}Pops vehicles (-500 HP ea); tanks smashes (-1000 HP, reflects 1000)\n{KEYWORD}Supreme Gold: {STAT}+100 cost/unit on field\n{FLAVOR}Skipping showers grew spikes on Tall-nut. \"Wash 'em? Never — brothers-in-arms!\"",
+    "vi": "Phá nhiều lốp, chặn đứng, đánh vùng.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}8000 | {KEYWORD}Sức mạnh: {STAT}20x2/1s\n{KEYWORD}Phạm vi: {STAT}Ô đứng + ô trái và phải\n{KEYWORD}Đặc điểm: {STAT}Phá nhiều xe (-500 máu/lần); chịu nhiều búa (-1000 máu, phản 1000)\n{KEYWORD}Thẻ Vàng Tối Thượng: {STAT}+100 giá/cây trên sân\n{FLAVOR}Lười tắm nên gai mọc đầy, nhưng anh vẫn giữ: \"Chiến hữu tôi đấy!\""
   },
   {
     "file": "LawnStrings.txt",
     "key": "ZOMBIE_DESCRIPTION",
-    "en": "Regular garden-variety Zombie.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}270\n{KEYWORD}Gear: {STAT}---\n{KEYWORD}Bite Damage: {STAT}100/s\n{KEYWORD}Speed: {STAT}Slow\n{SHORTLINE}\n{FLAVOR}Loves brains endlessly — fresh, stinky,\nor rotten, zombies aren't picky!",
-    "vi": "Zombie bình thường hết sức tầm thường.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}270\n{KEYWORD}Trang bị: {STAT}---\n{KEYWORD}Sát thương gặm: {STAT}100/s\n{KEYWORD}Tốc độ: {STAT}Chậm\n{SHORTLINE}\n{FLAVOR}Loài zombie này mê não vô độ — thối hay\nthơm đều xơi tuốt, chẳng kén cá chọn\ncanh!"
+    "en": "Regular garden-variety Zombie.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}270\n{KEYWORD}Gear: {STAT}---\n{KEYWORD}Bite Damage: {STAT}100/s\n{KEYWORD}Speed: {STAT}Slow\n{SHORTLINE}\n{FLAVOR}Loves brains endlessly — fresh, stinky, or rotten, zombies aren't picky!",
+    "vi": "Zombie bình thường rất tầm thường.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}270\n{KEYWORD}Trang bị: {STAT}---\n{KEYWORD}Sát thương gặm: {STAT}100/s\n{KEYWORD}Tốc độ: {STAT}Chậm\n{SHORTLINE}\n{FLAVOR}Mê não vô độ — thối hay thơm đều xơi tuốt, chẳng kén chọn!"
   },
   {
     "file": "LawnStrings.txt",
     "key": "FLAG_ZOMBIE_DESCRIPTION",
-    "en": "Marks the arrival of a massive wave of\nzombies.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}270\n{KEYWORD}Gear: {STAT}---\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Medium\n{SHORTLINE}\n{FLAVOR}He loves brains, of course, though\nsecretly he just adores flags — maybe\nbecause there's a brain drawn on his.",
-    "vi": "Báo hiệu một đợt sóng zombie khổng lồ\nđang tràn tới.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}270\n{KEYWORD}Trang bị: {STAT}---\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Trung bình\n{SHORTLINE}\n{FLAVOR}Dĩ nhiên hắn thích não, nhưng thầm kín\nlại mê cầm cờ — chắc tại trên cờ có vẽ\nhình bộ não."
+    "en": "Signals a huge wave of zombies.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}270\n{KEYWORD}Gear: {STAT}---\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Medium\n{SHORTLINE}\n{FLAVOR}Loves brains, though secretly adores flags — maybe the brain drawn on his.",
+    "vi": "Báo hiệu đợt zombie khổng lồ tràn tới.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}270\n{KEYWORD}Trang bị: {STAT}---\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Trung bình\n{SHORTLINE}\n{FLAVOR}Thích não nhưng thầm mê cầm cờ — chắc tại trên cờ có vẽ bộ não."
   },
   {
     "file": "LawnStrings.txt",
     "key": "CONEHEAD_ZOMBIE_DESCRIPTION",
-    "en": "Traffic-cone helmet absorbs extra\ndamage.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}(370 or 500)+270\n{KEYWORD}Gear: {STAT}Cone (Type-1), Green Cone (Fast)\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Slow (Fast w/ Green Cone)\n{SHORTLINE}\n{FLAVOR}Stopped mid-shamble to pick up a traffic\ncone and stick it on his head — yeah, he\nloves partying.",
-    "vi": "Chiếc nón giao thông giúp hắn chịu đòn\ntốt hơn zombie thường.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}(370 hoặc 500)+270\n{KEYWORD}Trang bị: {STAT}Nón (Loại 1), Nón Xanh (Tăng\ntốc)\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Chậm (Nón Xanh nhanh)\n{SHORTLINE}\n{FLAVOR}Đang đi ngơ ngẩn tự dưng dừng lại nhặt\nnón đội lên đầu — đúng kiểu dân chơi\ntiệc tùng chính hiệu."
+    "en": "Traffic-cone helmet absorbs extra hits.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}(370 or 500)+270\n{KEYWORD}Gear: {STAT}Cone (Type-1), Green Cone (Fast) | {KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Slow (Fast w/ Green Cone)\n{SHORTLINE}\n{FLAVOR}Picked up a cone mid-shamble to wear — yeah, he loves partying.",
+    "vi": "Chiếc nón giúp hắn chịu đòn hơn hẳn.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}(370 hoặc 500)+270\n{KEYWORD}Trang bị: {STAT}Nón (Loại 1), Nón Xanh (Tăng tốc) | {KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Chậm (Nón Xanh nhanh)\n{SHORTLINE}\n{FLAVOR}Đang đi chợt nhặt nón đội lên đầu — đúng kiểu dân chơi tiệc tùng."
   },
   {
     "file": "LawnStrings.txt",
     "key": "BUCKETHEAD_ZOMBIE_DESCRIPTION",
-    "en": "His metal bucket helmet absorbs immense\ndamage.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1100+270\n{KEYWORD}Gear: {STAT}Bucket (Type-1)\n{KEYMETAL}Weakness: {METAL}Magnet-shroom\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Slow\n{SHORTLINE}\n{FLAVOR}Always stands out wearing a bucket —\nhonestly, he just forgot it was stuck up\nthere.",
-    "vi": "Chiếc xô sắt trên đầu giúp hắn chống\nchịu sát thương cực tốt.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1100+270\n{KEYWORD}Trang bị: {STAT}Xô Sắt (Loại 1)\n{KEYMETAL}Điểm yếu: {METAL}Nấm Nam Châm\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Chậm\n{SHORTLINE}\n{FLAVOR}Luôn nổi bật giữa đám đông với chiếc xô\n— thực ra hắn quên béng cái xô vẫn úp\ntrên đầu đấy."
+    "en": "Metal bucket helmet absorbs huge hits.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1100+270\n{KEYWORD}Gear: {STAT}Bucket (Type-1)\n{KEYMETAL}Weakness: {METAL}Magnet-shroom\n{KEYWORD}Bite Damage: {STAT}100/s | {KEYWORD}Speed: {STAT}Slow\n{SHORTLINE}\n{FLAVOR}Stands out in a bucket — honestly, he forgot it's stuck there.",
+    "vi": "Chiếc xô sắt giúp hắn chịu đòn cực tốt.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1100+270\n{KEYWORD}Trang bị: {STAT}Xô Sắt (Loại 1)\n{KEYMETAL}Điểm yếu: {METAL}Nấm Nam Châm\n{KEYWORD}Sát thương gặm: {STAT}100/s | {KEYWORD}Tốc độ: {STAT}Chậm\n{SHORTLINE}\n{FLAVOR}Nổi bật giữa đám đông với chiếc xô — thật ra hắn quên xô vẫn úp trên đầu."
   },
   {
     "file": "LawnStrings.txt",
     "key": "POLE_VAULTING_ZOMBIE_DESCRIPTION",
-    "en": "Vaults right over your first obstacle.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}500 or (1100+500)\n{KEYWORD}Gear: {STAT}--\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Fast, Slow after jump\n{KEYWORD}Special: {STAT}Vaults over the first plant\nencountered\n{SHORTLINE}\n{FLAVOR}Always striving to go further and leap\nhigher — that's the Pole Vaulter spirit.",
-    "vi": "Dùng sào nhảy vọt qua vật cản đầu tiên.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}500 hoặc (1100+500)\n{KEYWORD}Trang bị: {STAT}--\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Nhanh, Chậm sau khi nhảy\n{KEYWORD}Đặc điểm: {STAT}Nhảy qua cây đầu tiên chạm\ntrán\n{SHORTLINE}\n{FLAVOR}Khát khao vươn xa hơn đã biến một zombie\nbình thường thành vận động viên nhảy\nsào."
+    "en": "Vaults right over your first obstacle.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}500 or (1100+500)\n{KEYWORD}Gear: {STAT}-- | {KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Fast, Slow after jump\n{KEYWORD}Special: {STAT}Vaults over first plant\n{SHORTLINE}\n{FLAVOR}Striving to leap further and higher — that's the Pole Vaulter spirit.",
+    "vi": "Dùng sào nhảy vọt qua vật cản đầu.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}500 hoặc (1100+500)\n{KEYWORD}Trang bị: {STAT}-- | {KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Nhanh, Chậm sau khi nhảy\n{KEYWORD}Đặc điểm: {STAT}Nhảy qua cây đầu tiên\n{SHORTLINE}\n{FLAVOR}Khát khao vươn xa biến một zombie thường thành vận động viên nhảy sào."
   },
   {
     "file": "LawnStrings.txt",
     "key": "NEWSPAPER_ZOMBIE_DESCRIPTION",
-    "en": "Uncle's brand-new ride!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}500+1350\n{KEYWORD}Gear: {STAT}Newspaper (Type-2)\n{KEYWORD}Damage: {STAT}Crush\n{KEYWORD}Speed: {STAT}Slow, Fast when paper breaks\n{SHORTLINE}\n{FLAVOR}Back from the original night lawn with\nfiery vengeance — blazing ice trails\nstraight toward your brains!",
-    "vi": "Chiếc xe mới cáu của Nhị Gia!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}500+1350\n{KEYWORD}Trang bị: {STAT}Tờ Báo (Loại 2)\n{KEYWORD}Sát thương: {STAT}Nghiền nát\n{KEYWORD}Tốc độ: {STAT}Chậm, Nhanh khi rách báo\n{SHORTLINE}\n{FLAVOR}Kình địch từng bị bạn hạ bằng vài Nấm\nNhỏ năm xưa nay trở lại với xe băng báo\nthù, quyết cướp bằng được bộ não!"
+    "en": "Uncle's brand-new ride!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}500+1350\n{KEYWORD}Gear: {STAT}Newspaper (Type-2)\n{KEYWORD}Damage: {STAT}Crush\n{KEYWORD}Speed: {STAT}Slow, Fast when paper breaks\n{SHORTLINE}\n{FLAVOR}Back from night lawn with vengeance — blazing ice trails toward your brains!",
+    "vi": "Chiếc xe mới cáu của Nhị Gia!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}500+1350\n{KEYWORD}Trang bị: {STAT}Tờ Báo (Loại 2)\n{KEYWORD}Sát thương: {STAT}Nghiền nát\n{KEYWORD}Tốc độ: {STAT}Chậm, Nhanh khi rách báo\n{SHORTLINE}\n{FLAVOR}Kình địch năm xưa nay lái xe băng báo thù, quyết cướp bằng được não!"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SCREEN_DOOR_ZOMBIE_DESCRIPTION",
-    "en": "His screen door makes an effective\nshield.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1100+270 (or +370, +1100)\n{KEYWORD}Gear: {STAT}Screen Door (Type-2)\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Weakness: {STAT}Fume-shroom{METAL} & Magnet-shroom{KEYWORD}\n{SHORTLINE}\n{FLAVOR}Ate the last homeowner's brains and\nswiped his screen door as a souvenir.",
-    "vi": "Cánh cửa lưới sắt là tấm khiên phòng ngự\ncực kỳ lợi hại.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1100+270 (hoặc +370, +1100)\n{KEYWORD}Trang bị: {STAT}Cửa Lưới (Loại 2)\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Điểm yếu: {STAT}Nấm Phun{METAL} và Nấm Nam Châm{KEYWORD}\n{SHORTLINE}\n{FLAVOR}Chủ nhà trước thủ hơi ẩu nên bị hắn ăn\nnão xong tiện tay tháo luôn cánh cửa\nlưới mang về."
+    "en": "His screen door makes a sturdy shield.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1100+270 (+370/+1100)\n{KEYWORD}Gear: {STAT}Screen Door (Type-2)\n{KEYWORD}Damage: {STAT}100/s (Bite) | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Weakness: {STAT}Fume-shroom{METAL} & Magnet-shroom{KEYWORD}\n{SHORTLINE}\n{FLAVOR}Ate the owner's brains, took his door.",
+    "vi": "Cửa lưới sắt là tấm khiên cực gắt.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1100+270 (hoặc +370, +1100)\n{KEYWORD}Trang bị: {STAT}Cửa Lưới (Loại 2)\n{KEYWORD}Sát thương gặm: {STAT}100/s | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Điểm yếu: {STAT}Nấm Phun{METAL}/Nấm Nam Châm{KEYWORD}\n{SHORTLINE}\n{FLAVOR}Ăn não chủ nhà trước xong tiện tay tháo luôn cửa lưới mang về."
   },
   {
     "file": "LawnStrings.txt",
     "key": "FOOTBALL_ZOMBIE_DESCRIPTION",
-    "en": "Captain of the Football Zombie squad.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}3000+270\n{KEYWORD}Gear: {STAT}Black Helmet (Type-1) / Scrapped\nHelmet (CC-immune)\n{KEYWORD}Damage: {STAT}200/s (Bite)\n{KEYWORD}Speed: {STAT}Fast\n{SHORTLINE}\n{FLAVOR}Shows endless gridiron grit — yet still\nhas zero idea what football actually is.",
-    "vi": "Đội trưởng khét tiếng của đội Zombie\nBóng Bầu Dục.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}3000+270\n{KEYWORD}Trang bị: {STAT}Mũ Bầu Dục Đen (Loại 1) / Mũ\nPhế Liệu (Miễn khống chế)\n{KEYWORD}Sát thương: {STAT}200/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Nhanh\n{SHORTLINE}\n{FLAVOR}Nhiệt huyết đầy mình và rành chiến thuật\ncông thủ, mỗi tội vẫn mù tịt luật chơi\nbóng bầu dục."
+    "en": "Captain of the Football Zombie squad.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}3000+270 | {KEYWORD}Speed: {STAT}Fast\n{KEYWORD}Gear: {STAT}Black Helmet (Type-1) / Scrapped Helmet (CC-immune)\n{KEYWORD}Damage: {STAT}200/s (Bite)\n{SHORTLINE}\n{FLAVOR}Endless gridiron grit — yet still has zero idea what football actually is.",
+    "vi": "Đội trưởng khét tiếng đội Bầu Dục.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}3000+270 | {KEYWORD}Tốc độ: {STAT}Nhanh\n{KEYWORD}Trang bị: {STAT}Mũ Bầu Dục Đen (Loại 1) / Mũ Phế Liệu (Miễn khống chế)\n{KEYWORD}Sát thương: {STAT}200/s (Gặm)\n{SHORTLINE}\n{FLAVOR}Nhiệt huyết và rành chiến thuật, mỗi tội vẫn mù tịt luật bóng bầu dục."
   },
   {
     "file": "LawnStrings.txt",
     "key": "DANCING_ZOMBIE_DESCRIPTION",
-    "en": "Any resemblance between Dancing Zombie\nand living or dead performers is purely\ncoincidental.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}3000+500\n{KEYWORD}Gear: {STAT}Black Helmet (Type-1) / Scrapped\nHelmet (CC-immune)\n{KEYWORD}Damage: {STAT}200/s (Bite)\n{KEYWORD}Speed: {STAT}Fast (moonwalk), then Slow\n{KEYWORD}Special: {STAT}Summons Disco & Backup Dancers\n{SHORTLINE}\n{FLAVOR}His hit single \"Wabbi-Wabbo Brainz\" is\nsoaring up undead music charts.",
-    "vi": "Mọi sự trùng hợp với người thật còn sống\nhay đã khuất đều hoàn toàn ngẫu nhiên.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}3000+500\n{KEYWORD}Trang bị: {STAT}Mũ Đen (Loại 1) / Mũ Phế Liệu\n(Miễn khống chế)\n{KEYWORD}Sát thương: {STAT}200/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Nhanh lúc trượt, sau đó Chậm\n{KEYWORD}Đặc điểm: {STAT}Triệu hồi Zombie Disco và Vũ\nCông Phụ\n{SHORTLINE}\n{FLAVOR}Đĩa đơn mới của hắn đang leo thẳng lên\nngôi đầu bảng xếp hạng âm nhạc zombie."
+    "en": "Resemblance to real people is random.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}3000+500 | {KEYWORD}Gear: {STAT}Black (T1)/Scrapped Helm (CC-immune)\n{KEYWORD}Damage: {STAT}200/s (Bite)\n{KEYWORD}Speed: {STAT}Fast (slide), Slow later | {KEYWORD}Special: {STAT}Calls Disco & Backup Dancers\n{SHORTLINE}\n{FLAVOR}\"Wabbi-Wabbo Brainz\" tops charts.",
+    "vi": "Trùng hợp người thật đều ngẫu nhiên.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}3000+500 | {KEYWORD}Trang bị: {STAT}Mũ Đen (Loại 1) / Mũ Phế Liệu (Miễn CC)\n{KEYWORD}Sát thương: {STAT}200/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Nhanh lúc trượt, sau đó Chậm\n{KEYWORD}Đặc điểm: {STAT}Gọi Disco & Vũ Công Phụ\n{SHORTLINE}\n{FLAVOR}Đĩa đơn mới đang đứng đầu bảng."
   },
   {
     "file": "LawnStrings.txt",
     "key": "BACKUP_DANCER_DESCRIPTION",
-    "en": "Appears in fours whenever Dancing Zombie\nrocks the floor.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}370+270\n{KEYWORD}Gear: {STAT}Cone (Type-1)\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Slow\n{SHORTLINE}\n{FLAVOR}Studied dance six years at Chewliard in\nZombie NYC and even headlined Undead\nIdol.",
-    "vi": "Xuất hiện theo bộ tứ mỗi khi Vũ Vương\nZombie nhảy múa.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}370+270\n{KEYWORD}Trang bị: {STAT}Nón (Loại 1)\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Chậm\n{SHORTLINE}\n{FLAVOR}Tốt nghiệp học viện vũ đạo hàng đầu\nthành phố New York Zombie sau sáu năm\nrèn luyện."
+    "en": "Joins Dancing Zombie in fours.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}370+270\n{KEYWORD}Gear: {STAT}Cone (Type-1)\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Slow\n{SHORTLINE}\n{FLAVOR}Trained six years at Chewliard in Zombie NYC and rocked Undead Idol.",
+    "vi": "Đi theo bộ tứ khi Vũ Vương nhảy múa.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}370+270\n{KEYWORD}Trang bị: {STAT}Nón (Loại 1)\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Chậm\n{SHORTLINE}\n{FLAVOR}Tốt nghiệp học viện vũ đạo New York Zombie sau sáu năm rèn luyện."
   },
   {
     "file": "LawnStrings.txt",
     "key": "DUCKY_TUBE_ZOMBIE_DESCRIPTION",
-    "en": "His ducky tube keeps him floating across\nthe pool.\n{KEYWORD}Toughness: {STAT}270\n{KEYWORD}Gear: {STAT}---\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Slow\n{AQUATIC}Appears only in Pool levels\n{FLAVOR}Not just any scrub can rock the ducky\ntube — though leaky tubes sadly made a\nfew abandon brain-hunting.",
-    "vi": "Phao vịt giúp zombie nổi lềnh bềnh trên\nmặt nước.\n{KEYWORD}Độ bền: {STAT}270\n{KEYWORD}Trang bị: {STAT}---\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Chậm\n{AQUATIC}Chỉ xuất hiện ở màn hồ bơi\n{FLAVOR}Không phải zombie nào cũng đủ trình mang\nphao vịt; tiếc là vài chiếc phao xì hơi\nkhiến chủ nhân đành bỏ cuộc."
+    "en": "Ducky tube keeps him floating in the pool.\n{KEYWORD}Toughness: {STAT}270\n{KEYWORD}Gear: {STAT}---\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Slow\n{AQUATIC}Appears only in Pool levels\n{FLAVOR}Not any scrub rocks a ducky tube — though leaky tubes forced a few to quit.",
+    "vi": "Phao vịt giúp zombie nổi trên nước.\n{KEYWORD}Độ bền: {STAT}270\n{KEYWORD}Trang bị: {STAT}---\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Chậm\n{AQUATIC}Chỉ xuất hiện ở màn hồ bơi\n{FLAVOR}Không phải ai cũng đủ trình mang phao vịt; vài chiếc xì hơi khiến chủ đành bỏ cuộc."
   },
   {
     "file": "LawnStrings.txt",
     "key": "SNORKEL_ZOMBIE_DESCRIPTION",
-    "en": "Dives underwater to evade oncoming\nattacks.\n{KEYWORD}Toughness: {STAT}1400+270\n{KEYWORD}Gear: {STAT}Black Helmet (Type-1)\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Medium\n{KEYWORD}Special: {STAT}Submerges under most straight\nshots\n{FLAVOR}Zombies don't even breathe air — why\nwear full snorkel gear? {KEYWORD}\n{FLAVOR}Answer: Peer pressure.",
-    "vi": "Có thể lặn dưới mặt nước để né đòn.\n{KEYWORD}Độ bền: {STAT}1400+270\n{KEYWORD}Trang bị: {STAT}Mũ Bầu Dục Đen (Loại 1)\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Trung bình\n{KEYWORD}Đặc điểm: {STAT}Lặn né phần lớn đạn bắn thẳng\n{FLAVOR}Zombie đâu cần thở không khí, sao còn\nđeo ống thở làm màu? {KEYWORD}\n{FLAVOR}Đáp: Áp lực đồng trang lứa."
+    "en": "Dives underwater to dodge attacks.\n{KEYWORD}Toughness: {STAT}1400+270\n{KEYWORD}Gear: {STAT}Black Helmet (Type-1)\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Medium\n{KEYWORD}Special: {STAT}Ducks under straight shots\n{FLAVOR}Zombies don't breathe air — why wear snorkel gear? {KEYWORD}\n{FLAVOR}Answer: Peer pressure.",
+    "vi": "Có thể lặn dưới mặt nước để né đòn.\n{KEYWORD}Độ bền: {STAT}1400+270\n{KEYWORD}Trang bị: {STAT}Mũ Bầu Dục Đen (Loại 1)\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Trung bình\n{KEYWORD}Đặc điểm: {STAT}Lặn né phần lớn đạn thẳng\n{FLAVOR}Zombie đâu cần thở không khí, sao còn đeo ống thở làm màu? {KEYWORD}\n{FLAVOR}Đáp: Áp lực đồng trang lứa."
   },
   {
     "file": "LawnStrings.txt",
     "key": "ZOMBONI_DESCRIPTION",
-    "en": "Crushes your plants and leaves a sheet\nof ice.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}3000\n{KEYWORD}Special: {STAT}Crushes plants, lays ice trail\n{KEYWORD}On Death: {STAT}Spawns an Armed White-Eye\nGargantuar\n{KEYWORD}Damage: {STAT}Crush\n{KEYWORD}Speed: {STAT}Slow\n{SHORTLINE}\n{FLAVOR}The retired Zamboni driver mentored\nGargantuar and custom-built him this\nmega ice rig.",
-    "vi": "Nghiền nát cây trồng và rải lại con\nđường băng.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}3000\n{KEYWORD}Đặc điểm: {STAT}Cán nát cây, tạo đường băng\n{KEYWORD}Khi chết: {STAT}Triệu hồi một Gargantuar Mắt\nTrắng Vũ Trang\n{KEYWORD}Sát thương: {STAT}Nghiền nát\n{KEYWORD}Tốc độ: {STAT}Chậm\n{SHORTLINE}\n{FLAVOR}Tài xế xe băng nghỉ hưu truyền hết nghề\ncho Gargantuar và độ riêng cho anh chiếc\nxe khổng lồ này."
+    "en": "Crushes plants and lays an ice trail.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}3000 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}Crushes plants, lays ice trail\n{KEYWORD}On Death: {STAT}Spawns Armed White-Eye Gargantuar | {KEYWORD}Damage: {STAT}Crush\n{SHORTLINE}\n{FLAVOR}Retired Zamboni driver built Gargantuar this mega ice rig.",
+    "vi": "Nghiền nát cây và rải lại đường băng.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}3000 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}Cán cây, rải đường băng\n{KEYWORD}Khi chết: {STAT}Gọi Gargantuar Mắt Trắng Vũ Trang | {KEYWORD}Sát thương: {STAT}Nghiền nát\n{SHORTLINE}\n{FLAVOR}Tài xế nghỉ hưu truyền nghề và độ riêng cho Gargantuar chiếc xe này."
   },
   {
     "file": "LawnStrings.txt",
     "key": "ZOMBIE_BOBSLED_TEAM_DESCRIPTION",
-    "en": "These zombies rush together in a\nfour-man sled.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}(300+270)x4\n{KEYWORD}Gear: {STAT}Bobsled (Type-1)\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Fast (sliding), Slow on foot\n{KEYWORD}Special: {STAT}Appears only on ice trails\n{SHORTLINE}\n{FLAVOR}Teamwork, trust, and shared brains make\nthis bobsled crew an unstoppable winter\nunit.",
-    "vi": "Xuất hiện theo đội hình bốn thành viên\ntrên xe trượt.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}(300+270)x4\n{KEYWORD}Trang bị: {STAT}Xe Trượt (Loại 1)\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Nhanh khi trượt, bỏ xe sẽ Chậm\n{KEYWORD}Đặc điểm: {STAT}Chỉ xuất hiện trên đường băng\n{SHORTLINE}\n{FLAVOR}Nương tựa nhau, chia sẻ não cho nhau và\ntập luyện ăn ý giúp đội xe trượt băng\nphối hợp cực kỳ nhuần nhuyễn."
+    "en": "Four zombies rushing on a bobsled.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}(300+270)x4\n{KEYWORD}Gear: {STAT}Bobsled (Type-1)\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Fast (sled), Slow on foot\n{KEYWORD}Special: {STAT}Appears only on ice trails\n{SHORTLINE}\n{FLAVOR}Shared brains make this crew lethal.",
+    "vi": "Xuất hiện bộ tứ trên xe trượt băng.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}(300+270)x4\n{KEYWORD}Trang bị: {STAT}Xe Trượt (Loại 1)\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Nhanh (trượt), Chậm (đi bộ)\n{KEYWORD}Đặc điểm: {STAT}Chỉ xuất hiện trên băng\n{SHORTLINE}\n{FLAVOR}Chia sẻ não giúp đội phối hợp ăn ý."
   },
   {
     "file": "LawnStrings.txt",
     "key": "DOLPHIN_RIDER_ZOMBIE_DESCRIPTION",
-    "en": "Exploits gaps in your pool lane\ndefenses.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}370+500\n{KEYWORD}Gear: {STAT}Cone (Type-1)\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Very Fast (pool), Slow after\nvault\n{KEYWORD}Special: {STAT}Vaults over first plant\nencountered\n{KEYMETAL}Weakness: {METAL}Tall-nut\n{SHORTLINE}\n{FLAVOR}The dolphin is also a zombie, by the\nway.",
-    "vi": "Chuyên khai thác sơ hở trong hàng thủ\ndưới hồ bơi.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}370+500\n{KEYWORD}Trang bị: {STAT}Nón (Loại 1)\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Rất nhanh khi cưỡi, Chậm sau\nnhảy\n{KEYWORD}Đặc điểm: {STAT}Nhảy vọt qua cây đầu tiên gặp\nphải\n{KEYMETAL}Điểm yếu: {METAL}Hạt Dẻ Cao\n{SHORTLINE}\n{FLAVOR}À quên, con cá heo kia thực ra cũng là\nzombie đấy."
+    "en": "Exploits gaps in your pool defenses.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}370+500 | {KEYWORD}Gear: {STAT}Cone (Type-1) | {KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Very Fast (pool), Slow later\n{KEYWORD}Special: {STAT}Vaults first plant\n{KEYMETAL}Weakness: {METAL}Tall-nut\n{SHORTLINE}\n{FLAVOR}The dolphin is also a zombie, btw.",
+    "vi": "Chuyên khai thác sơ hở dưới hồ bơi.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}370+500 | {KEYWORD}Trang bị: {STAT}Nón (Loại 1) | {KEYWORD}Sát thương gặm: {STAT}100/s\n{KEYWORD}Tốc độ: {STAT}Rất nhanh (cưỡi), Chậm (sau)\n{KEYWORD}Đặc điểm: {STAT}Nhảy qua cây đầu gặp phải\n{KEYMETAL}Điểm yếu: {METAL}Hạt Dẻ Cao\n{SHORTLINE}\n{FLAVOR}Con cá heo kia cũng là zombie đấy."
   },
   {
     "file": "LawnStrings.txt",
     "key": "ZOMBIE_YETI_DESCRIPTION",
-    "en": "A rare and eccentric snow creature.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}2000\n{KEYWORD}Damage: {STAT}Crush\n{KEYWORD}Speed: {STAT}Slow, then Fast (fleeing)\n{KEYWORD}Special: {STAT}Flees after a short time\n{SHORTLINE}\n{FLAVOR}Little is known about Yeti Zombie beyond\nhis SSN, education, job history, and\nlove for roast-beef-and-Swiss\nsandwiches.",
-    "vi": "Một sinh vật kỳ lạ cực kỳ hiếm gặp.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}2000\n{KEYWORD}Sát thương: {STAT}Nghiền nát\n{KEYWORD}Tốc độ: {STAT}Chậm, sau đó Nhanh khi bỏ chạy\n{KEYWORD}Đặc điểm: {STAT}Sẽ quay đầu bỏ chạy sau một\nlúc\n{SHORTLINE}\n{FLAVOR}Ít ai biết rõ về Người Tuyết trừ tên\ntuổi, ngày sinh, lý lịch công việc và sở\nthích ăn bánh mì kẹp thịt."
+    "en": "A rare and eccentric snow creature.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}2000 | {KEYWORD}Damage: {STAT}Crush\n{KEYWORD}Speed: {STAT}Slow, then Fast (fleeing)\n{KEYWORD}Special: {STAT}Flees after a short time\n{SHORTLINE}\n{FLAVOR}Little is known beyond his SSN, job history, and love for roast-beef sandwiches.",
+    "vi": "Một sinh vật kỳ lạ cực kỳ hiếm gặp.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}2000 | {KEYWORD}Sát thương: {STAT}Nghiền nát\n{KEYWORD}Tốc độ: {STAT}Chậm, sau đó Nhanh (chạy)\n{KEYWORD}Đặc điểm: {STAT}Bỏ chạy sau một lúc\n{SHORTLINE}\n{FLAVOR}Ít ai rõ về Người Tuyết trừ tên tuổi, lý lịch và sở thích bánh mì kẹp thịt."
   },
   {
     "file": "LawnStrings.txt",
     "key": "JACK_IN_THE_BOX_ZOMBIE_DESCRIPTION",
-    "en": "Carries an explosive Pandora's Box.\n{KEYWORD}Toughness: {STAT}370+500\n{KEYWORD}Gear: {STAT}Cone (Type-1)\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Special: {STAT}Detonates when the box opens\n{KEYWORD}Blast Damage: {STAT}1800 (OHKO)\n{KEYWORD}Blast Radius: {STAT}1.5 tiles around self\n{KEYWORD}Speed: {STAT}Fast\n{FLAVOR}He sends chills down spines not from his\ncold corpse, but sheer unhinged madness.",
-    "vi": "Mang theo chiếc hộp Pandora dễ phát nổ.\n{KEYWORD}Độ bền: {STAT}370+500\n{KEYWORD}Trang bị: {STAT}Nón (Loại 1)\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Đặc điểm: {STAT}Mở hộp nhạc sẽ phát nổ\n{KEYWORD}Sát thương nổ: {STAT}1800 (Hạ tức thì)\n{KEYWORD}Phạm vi nổ: {STAT}Bán kính 1.5 ô\n{KEYWORD}Tốc độ: {STAT}Nhanh\n{FLAVOR}Hắn khiến người ta rùng mình không phải\nvì cơ thể lạnh ngắt, mà vì sự điên loạn\ntột độ."
+    "en": "Carries an explosive Pandora's Box.\n{KEYWORD}Toughness: {STAT}370+500\n{KEYWORD}Gear: {STAT}Cone (Type-1) | {KEYWORD}Speed: {STAT}Fast\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Special: {STAT}Detonates when box opens\n{KEYWORD}Blast Damage: {STAT}1800 (OHKO)\n{KEYWORD}Blast Radius: {STAT}1.5 tiles around self\n{FLAVOR}Chills spines not from his cold corpse, but sheer madness.",
+    "vi": "Mang theo chiếc hộp Pandora dễ nổ.\n{KEYWORD}Độ bền: {STAT}370+500\n{KEYWORD}Trang bị: {STAT}Nón (Loại 1) | {KEYWORD}Tốc độ: {STAT}Nhanh\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Đặc điểm: {STAT}Mở hộp nhạc sẽ phát nổ\n{KEYWORD}Sát thương nổ: {STAT}1800 (Hạ tức thì)\n{KEYWORD}Phạm vi nổ: {STAT}Bán kính 1.5 ô\n{FLAVOR}Đáng sợ không phải xác lạnh, mà vì sự điên loạn tột độ."
   },
   {
     "file": "LawnStrings.txt",
     "key": "BALLOON_ZOMBIE_DESCRIPTION",
-    "en": "Floats overhead bypassing most defenses.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}250+270\n{KEYWORD}Gear: {STAT}Balloon (Type-1)\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Special: {STAT}Flies; spawns Armed Dancing\nZombie when popped\n{KEYWORD}Speed: {STAT}Fast, Slow when popped\n{SHORTLINE}\n{FLAVOR}Lucky guy — nobody else stumbled upon\nmulti-purpose balloons like his.",
-    "vi": "Bay lơ lửng trên cao né hầu hết mọi đòn\ntấn công.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}250+270\n{KEYWORD}Trang bị: {STAT}Bóng Bay (Loại 1)\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Đặc điểm: {STAT}Bay; bị bắn rụng gọi ra Vũ\nVương Vũ Trang\n{KEYWORD}Tốc độ: {STAT}Nhanh, Chậm khi rụng bóng\n{SHORTLINE}\n{FLAVOR}Quá may mắn luôn — chẳng tên zombie nào\nkhác nhặt được quả bóng bay đa năng như\ncủa hắn."
+    "en": "Floats above, dodging most defenses.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}250+270 | {KEYWORD}Gear: {STAT}Balloon (Type-1) | {KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Special: {STAT}Flies; pop spawns Armed Dancing Zombie\n{KEYWORD}Speed: {STAT}Fast, Slow when popped\n{SHORTLINE}\n{FLAVOR}Lucky — only he found such balloons.",
+    "vi": "Bay trên cao né hầu hết đòn tấn công.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}250+270 | {KEYWORD}Trang bị: {STAT}Bóng Bay (Loại 1) | {KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Đặc điểm: {STAT}Bay; rụng gọi Vũ Vương Vũ Trang\n{KEYWORD}Tốc độ: {STAT}Nhanh, Chậm khi rụng bóng\n{SHORTLINE}\n{FLAVOR}Quá hên — chỉ hắn có bóng đa năng."
   },
   {
     "file": "LawnStrings.txt",
     "key": "DIGGER_ZOMBIE_DESCRIPTION",
-    "en": "Tunnels beneath your lawn to strike from\nbehind.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}500\n{KEYWORD}Damage: {STAT}200/s (Bite)\n{KEYWORD}Speed: {STAT}Very Fast, Slow on surface\n{KEYWORD}Special: {STAT}Digs underground and emerges on\nfar left\n{SHORTLINE}\n{FLAVOR}Spends three days every week just\nrenewing his excavation permits.",
-    "vi": "Đào đường hầm xuyên lòng đất để đánh bọc\nhậu.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}500\n{KEYWORD}Sát thương: {STAT}200/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Rất nhanh, Chậm sau trồi lên\n{KEYWORD}Đặc điểm: {STAT}Đào ngầm tới tận mép trái bãi\ncỏ rồi trồi dậy\n{SHORTLINE}\n{FLAVOR}Mỗi tuần hắn tốn hết ba ngày chỉ để đi\nxếp hàng xin giấy phép đào đường."
+    "en": "Tunnels beneath your lawn to ambush.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}500 | {KEYWORD}Damage: {STAT}200/s (Bite)\n{KEYWORD}Speed: {STAT}Very Fast, Slow on surface\n{KEYWORD}Special: {STAT}Digs to far left & emerges\n{SHORTLINE}\n{FLAVOR}Spends three days weekly just renewing his excavation permits.",
+    "vi": "Đào hầm xuyên lòng đất đánh bọc hậu.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}500 | {KEYWORD}Sát thương: {STAT}200/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Rất nhanh, Chậm sau trồi lên\n{KEYWORD}Đặc điểm: {STAT}Đào tới mép trái rồi trồi dậy\n{SHORTLINE}\n{FLAVOR}Mỗi tuần tốn ba ngày chỉ để xếp hàng xin giấy phép đào đường."
   },
   {
     "file": "LawnStrings.txt",
     "key": "POGO_ZOMBIE_DESCRIPTION",
-    "en": "Pogo Zombie leaps right over your walls.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1100+270\n{KEYWORD}Gear: {STAT}Bucket (Type-1)\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Fast (pogo) / Medium (walk)\n{KEYWORD}Special: {STAT}Leaps over plants\n{SHORTLINE}\n{FLAVOR}BOING! BOING! BOING! The relentless\nrhythm of efficiency.",
-    "vi": "Nhảy tưng tưng vượt qua hàng phòng thủ.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1100+270\n{KEYWORD}Trang bị: {STAT}Xô Sắt (Loại 1)\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Nhanh (nhún) / Trung bình (đi\nbộ)\n{KEYWORD}Đặc điểm: {STAT}Nhảy vượt qua cây\n{SHORTLINE}\n{FLAVOR}Bưng! Bưng! Bưng! Thứ âm thanh đầy uy\nlực và hiệu quả của gậy lò xo."
+    "en": "Pogo Zombie leaps over your walls.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1100+270 | {KEYWORD}Gear: {STAT}Bucket (Type-1) | {KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Fast (pogo) / Medium (walk)\n{KEYWORD}Special: {STAT}Leaps over plants\n{SHORTLINE}\n{FLAVOR}BOING! BOING! BOING! The relentless rhythm of efficiency.",
+    "vi": "Nhảy tưng tưng vượt qua hàng thủ.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1100+270 | {KEYWORD}Trang bị: {STAT}Xô Sắt (Loại 1) | {KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Nhanh (nhún) / Trung bình (đi)\n{KEYWORD}Đặc điểm: {STAT}Nhảy vượt qua cây\n{SHORTLINE}\n{FLAVOR}Bưng! Bưng! Bưng! Âm thanh đầy uy lực và hiệu quả của gậy lò xo."
   },
   {
     "file": "LawnStrings.txt",
     "key": "BUNGEE_ZOMBIE_DESCRIPTION",
-    "en": "Drops down straight from the sky.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}450\n{KEYWORD}Special: {STAT}Descends from above to steal\nyour plants\n{SHORTLINE}\n{FLAVOR}Loves extreme stunts — hey, when you're\nalready undead, why not risk dying\nagain?",
-    "vi": "Tấn công bất ngờ từ trên trời xuống.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}450\n{KEYWORD}Đặc điểm: {STAT}Rơi từ trên trời xuống bắt cóc\ncây của bạn\n{SHORTLINE}\n{FLAVOR}Cực mê mạo hiểm — đằng nào cũng chết\nrồi, thử cảm giác cận tử thêm lần nữa có\nsao đâu?"
+    "en": "Drops down straight from the sky.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}450\n{KEYWORD}Special: {STAT}Descends from above to steal your plants\n{SHORTLINE}\n{FLAVOR}Loves extreme stunts — hey, when you're already undead, why not risk dying again?",
+    "vi": "Tấn công bất ngờ từ trên trời xuống.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}450\n{KEYWORD}Đặc điểm: {STAT}Rơi từ trên trời xuống bắt cóc cây của bạn\n{SHORTLINE}\n{FLAVOR}Cực mê mạo hiểm — đằng nào cũng chết rồi, thử cảm giác cận tử thêm lần nữa có sao đâu?"
   },
   {
     "file": "LawnStrings.txt",
     "key": "LADDER_ZOMBIE_DESCRIPTION",
-    "en": "Helps allies climb right over obstacles.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}(370+1000) or (1100+1000)\n{KEYWORD}Gear: {STAT}Ladder (Type-2), Cone (Type-1),\nBucket (Type-1), Nut Helm (Type-1)\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Fast, then Slow (after dropping\nladder)\n{KEYWORD}Weakness: {STAT}Fume-shroom{METAL} & Magnet-shroom{KEYWORD}\n{SHORTLINE}\n{FLAVOR}Picked up that ladder on clearance for\n$8.99.",
-    "vi": "Bắc thang giúp zombie trèo qua chướng\nngại vật.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}(370+1000) hoặc (1100+1000)\n{KEYWORD}Trang bị: {STAT}Thang (Loại 2), Nón, Xô, Mũ\nHạt Dẻ (Loại 1)\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Nhanh, Chậm sau khi đặt thang\n{KEYWORD}Điểm yếu: {STAT}Nấm Phun{METAL} và Nấm Nam Châm{KEYWORD}\n{SHORTLINE}\n{FLAVOR}Chiếc thang đó tốn của hắn hết đúng\n$8.99 ngoài tiệm đấy."
+    "en": "Helps allies climb right over obstacles.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}(370+1000)/(1100+1000)\n{KEYWORD}Gear: {STAT}Ladder (T2), Cone (T1), Bucket (T1), Nut Helm (T1) | {KEYWORD}Bite Dmg: {STAT}100/s\n{KEYWORD}Speed: {STAT}Fast, Slow later | {KEYWORD}Weakness: {STAT}Fume-shroom{METAL} & Magnet-shroom{KEYWORD}\n{SHORTLINE}\n{FLAVOR}Got that ladder on clearance for $8.99.",
+    "vi": "Bắc thang cho zombie trèo qua cây.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}(370+1000) hoặc (1100+1000)\n{KEYWORD}Trang bị: {STAT}Thang (Loại 2), Nón, Xô, Mũ Hạt Dẻ (L1) | {KEYWORD}Sát thương gặm: {STAT}100/s\n{KEYWORD}Tốc độ: {STAT}Nhanh, Chậm sau đặt thang\n{KEYWORD}Điểm yếu: {STAT}Nấm Phun{METAL}/Nấm Nam Châm{KEYWORD}\n{SHORTLINE}\n{FLAVOR}Thang đó tốn đúng $8.99 ngoài tiệm."
   },
   {
     "file": "LawnStrings.txt",
     "key": "CATAPULT_ZOMBIE_DESCRIPTION",
-    "en": "Operates heavy siege artillery.\n{KEYWORD}Toughness: {STAT}1400+850\n{KEYWORD}Gear: {STAT}Black Helmet (Type-1)\n{KEYWORD}Special: {STAT}Lobs basketballs at your plants\n{KEYWORD}Speed: {STAT}Fast (driving)\n{KEYWORD}Crush Dmg: {STAT}50 (OHKO)\n{KEYWORD}Basketball Dmg: {STAT}75\n{KEYWORD}Target: {STAT}Leftmost non-spike plant in lane\n{FLAVOR}Can fire anything from that catapult,\nthough basketballs scored top style\npoints.",
-    "vi": "Vận hành cỗ xe công thành hạng nặng.\n{KEYWORD}Độ bền: {STAT}1400+850\n{KEYWORD}Trang bị: {STAT}Mũ Bầu Dục Đen (Loại 1)\n{KEYWORD}Đặc điểm: {STAT}Ném bóng rổ tấn công cây\n{KEYWORD}Tốc độ: {STAT}Nhanh khi di chuyển\n{KEYWORD}Sát thương cán: {STAT}50 (Hạ tức thì)\n{KEYWORD}Sát thương bóng: {STAT}75\n{KEYWORD}Mục tiêu: {STAT}Cây ngoài cùng bên trái cùng\nhàng (trừ gai)\n{FLAVOR}Xe bắn được đủ thứ, nhưng bóng rổ vẫn là\nlựa chọn chân ái nhất."
+    "en": "Operates heavy siege artillery.\n{KEYWORD}Toughness: {STAT}1400+850\n{KEYWORD}Gear: {STAT}Black Helmet (Type-1)\n{KEYWORD}Special: {STAT}Lobs basketballs at your plants\n{KEYWORD}Speed: {STAT}Fast (driving)\n{KEYWORD}Crush Dmg: {STAT}50 (OHKO)\n{KEYWORD}Basketball Dmg: {STAT}75\n{KEYWORD}Target: {STAT}Leftmost non-spike plant\n{FLAVOR}Fires anything, but basketballs win.",
+    "vi": "Vận hành cỗ xe công thành hạng nặng.\n{KEYWORD}Độ bền: {STAT}1400+850\n{KEYWORD}Trang bị: {STAT}Mũ Bầu Dục Đen (Loại 1)\n{KEYWORD}Đặc điểm: {STAT}Ném bóng rổ tấn công cây\n{KEYWORD}Tốc độ: {STAT}Nhanh khi di chuyển\n{KEYWORD}Sát thương cán: {STAT}50 (Hạ tức thì)\n{KEYWORD}Sát thương bóng: {STAT}75\n{KEYWORD}Mục tiêu: {STAT}Cây trái nhất hàng (trừ gai)\n{FLAVOR}Bắn đủ thứ, nhưng bóng rổ vẫn là nhất."
   },
   {
     "file": "LawnStrings.txt",
     "key": "GARGANTUAR_DESCRIPTION",
-    "en": "A towering giant of a zombie.\n{KEYWORD}Toughness: {STAT}3000+(1100 or 3000)+100\n{KEYWORD}Gear: {STAT}Screen Door (Type-2) + Bucket /\nBlack Helmet / Scrapped Helmet\n(CC-immune)\n{KEYWORD}Damage: {STAT}Smash (OHKOs standard plants)\n{KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}Throws Imp below 50% base HP\n{FLAVOR}The earth shakes with every footstep.\nIdolized by every zombie — yet still\ntragically single.",
-    "vi": "Gã khổng lồ cao lớn áp đảo.\n{KEYWORD}Độ bền: {STAT}3000+(1100 hoặc 3000)+100\n{KEYWORD}Trang bị: {STAT}Cửa Lưới (Loại 2) + Xô / Mũ\nĐen / Mũ Phế Liệu (Miễn khống chế)\n{KEYWORD}Sát thương: {STAT}Đập búa (hạ tức thì cây\nthường)\n{KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}Máu gốc dưới một nửa ném Tiểu\nQuỷ\n{FLAVOR}Mỗi bước chân anh khiến mặt đất rung\nchuyển. Thần tượng của cả tộc zombie,\nmỗi tội tới giờ vẫn ế."
+    "en": "A towering giant of a zombie.\n{KEYWORD}Toughness: {STAT}3000+(1100 or 3000)+100\n{KEYWORD}Gear: {STAT}Screen Door (T2) + Bucket / Black / Scrapped Helm (CC-immune)\n{KEYWORD}Damage: {STAT}Smash (OHKOs standard plants) | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}Throws Imp < 50% base HP\n{FLAVOR}The earth shakes per step. Idolized by zombies — yet still single.",
+    "vi": "Gã khổng lồ cao lớn áp đảo.\n{KEYWORD}Độ bền: {STAT}3000+(1100 hoặc 3000)+100\n{KEYWORD}Trang bị: {STAT}Cửa Lưới (Loại 2) + Xô / Mũ Đen / Mũ Phế Liệu (Miễn khống chế)\n{KEYWORD}Sát thương: {STAT}Đập búa (hạ tức thì cây thường) | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}<nửa máu ném Tiểu Quỷ\n{FLAVOR}Bước chân rung chuyển đất trời. Thần tượng tộc zombie, mỗi tội vẫn ế."
   },
   {
     "file": "LawnStrings.txt",
     "key": "IMP_DESCRIPTION",
-    "en": "Pint-sized zombies tossed into your\nbackline by Gargantuars.\n{KEYWORD}Toughness: {STAT}270 (70 in I, Zombie)\n{KEYWORD}Gear: {STAT}---\n{KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Slow (Very Fast in I, Zombie)\n{KEYWORD}Drop Zone: {STAT}Cols 2-4 (lawn), Cols 2-5\n(roof)\n{SHORTLINE}\n{FLAVOR}Small yet deadly — black belts in Zombie\nKung Fu, Karate, and Taekwondo. Plus he\nplays harmonica!",
-    "vi": "Nhóm zombie nhỏ con được Khổng Lồ ném\nthẳng vào tuyến sau.\n{KEYWORD}Độ bền: {STAT}270 (Tôi Là Zombie: 70)\n{KEYWORD}Trang bị: {STAT}---\n{KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Chậm (Rất nhanh ở Tôi Là Zombie)\n{KEYWORD}Phạm vi ném: {STAT}Cột 2~4 (đất bằng), 2~5\n(mái nhà)\n{SHORTLINE}\n{FLAVOR}Nhỏ con nhưng tinh thông Kung Fu, Karate\nlẫn Taekwondo Zombie, lại còn biết thổi\nkèn harmonica!"
+    "en": "Imps tossed behind by Gargantuars.\n{KEYWORD}Toughness: {STAT}270 (70 in I, Zombie)\n{KEYWORD}Gear: {STAT}--- | {KEYWORD}Damage: {STAT}100/s (Bite)\n{KEYWORD}Speed: {STAT}Slow (Very Fast in I, Zombie)\n{KEYWORD}Drop Zone: {STAT}Cols 2-4 (lawn), 2-5 (roof)\n{SHORTLINE}\n{FLAVOR}Small yet deadly — black belts in Zombie Kung Fu, Karate & Taekwondo. Plus harmonica!",
+    "vi": "Zombie nhỏ bị ném vào tuyến sau.\n{KEYWORD}Độ bền: {STAT}270 (Tôi Là Zombie: 70)\n{KEYWORD}Trang bị: {STAT}--- | {KEYWORD}Sát thương: {STAT}100/s (Gặm)\n{KEYWORD}Tốc độ: {STAT}Chậm (Rất nhanh ở Tôi Là Zombie)\n{KEYWORD}Phạm vi ném: {STAT}Cột 2~4 (đất), 2~5 (mái)\n{SHORTLINE}\n{FLAVOR}Nhỏ nhưng tinh thông Kung Fu, Karate, Taekwondo & biết thổi harmonica!"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BOSS_DESCRIPTION",
-    "en": "Dr. Dave is the supreme overlord of the\nzombies.\n{KEYWORD}Toughness: {STAT}500000\n{KEYWORD}Attacks: {STAT}1. Summons zombies\n2. Ice/Fire orbs (full-lane OHKO)\n3. Van smash (2x3) / Stomp (2x4 OHKO)\n{KEYWORD}Counter: {STAT}Jalapeno/Ice-shroom negates\nFire/Ice orbs\n{FLAVOR}One dark night Dave ambushed Dr.\nZomboss, rebuilt the mech, and became\nZombie King. Why turn undead? \"I became\nmy own test subject.\"",
-    "vi": "Tiến Sĩ Dave là chúa tể tối cao mới của\nlũ zombie.\n{KEYWORD}Độ bền: {STAT}500000\n{KEYWORD}Chiêu thức: {STAT}1. Thả zombie\n2. Phun cầu Băng/Lửa (hạ tức thì cả\nhàng)\n3. Nện xe (2x3) / Giẫm đạp (2x4 hạ tức\nthì)\n{KEYWORD}Khắc chế: {STAT}Ớt / Nấm Băng hóa giải cầu\nBăng / Lửa\n{FLAVOR}Một đêm tối trời, Dave đánh úp Tiến Sĩ\nEdgar và cải tạo robot lên ngôi Vua\nZombie: \"Ta lấy chính mình làm vật thí\nnghiệm!\""
+    "en": "Dr. Dave is the supreme zombie overlord.\n{KEYWORD}Toughness: {STAT}500000\n{KEYWORD}Attacks: {STAT}1. Summons zombies\n2. Ice/Fire orbs (full-lane OHKO)\n3. Van (2x3) / Stomp (2x4 OHKO)\n{KEYWORD}Counter: {STAT}Jalapeno/Ice-shroom negates Fire/Ice orbs\n{FLAVOR}Dave ambushed Dr. Zomboss, rebuilt the mech, and became Zombie King: \"I became my own test subject.\"",
+    "vi": "Tiến Sĩ Dave là chúa tể mới của lũ zombie.\n{KEYWORD}Độ bền: {STAT}500000\n{KEYWORD}Chiêu thức: {STAT}1. Thả zombie\n2. Cầu Băng/Lửa (hạ tức thì cả hàng)\n3. Nện xe (2x3) / Giẫm (2x4 hạ tức thì)\n{KEYWORD}Khắc chế: {STAT}Ớt / Nấm Băng hóa giải cầu Băng / Lửa\n{FLAVOR}Một đêm tối, Dave đánh úp Tiến Sĩ Edgar, độ robot lên ngôi Vua Zombie: \"Ta lấy chính mình làm vật thí nghiệm!\""
   },
   {
     "file": "LawnStrings.txt",
@@ -2222,8 +2222,8 @@
   {
     "file": "LawnStrings.txt",
     "key": "ZOMBIE_FOOTBALL_GARGANTUAR_REDEYE_DESCRIPTION",
-    "en": "Charging Gargantuar sees red — and black\nis his favorite shade.\n{SHORTLINE}\n{AQUATIC}Hero Mode Exclusive\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}3000+6000\n{KEYWORD}Speed: {STAT}Fast\n{KEYWORD}Special: {STAT}Smashes plants and throws\nCharging Red-Eye Football Imps\n{FLAVOR}The \"Black Giants\" all-star squad\nalready has a blockbuster biopic in\nproduction!",
-    "vi": "Gargantuar xung phong nổi cơn thịnh nộ,\nvà màu đen là màu ruột của hắn.\n{SHORTLINE}\n{AQUATIC}Chỉ xuất hiện ở Chế Độ Anh Hùng\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}3000+6000\n{KEYWORD}Tốc độ: {STAT}Nhanh\n{KEYWORD}Đặc điểm: {STAT}Đập bẹp cây, ném Tiểu Quỷ Mắt\nĐỏ Bầu Dục Đen\n{FLAVOR}Đội bóng ngôi sao \"Khổng Lồ Đen\" sắp\nđược đạo diễn quay hẳn phim tài liệu bom\ntấn!"
+    "en": "Charging Gargantuar sees only red.\n{SHORTLINE}\n{AQUATIC}Hero Mode Exclusive\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}3000+6000 | {KEYWORD}Speed: {STAT}Fast\n{KEYWORD}Special: {STAT}Smashes plants & throws Charging Red-Eye Football Imps\n{FLAVOR}The \"Black Giants\" squad already has a blockbuster biopic coming!",
+    "vi": "Gargantuar xung phong đang thịnh nộ.\n{SHORTLINE}\n{AQUATIC}Chỉ xuất hiện ở Chế Độ Anh Hùng\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}3000+6000 | {KEYWORD}Tốc độ: {STAT}Nhanh\n{KEYWORD}Đặc điểm: {STAT}Đập bẹp cây, ném Tiểu Quỷ Mắt Đỏ Bầu Dục Đen\n{FLAVOR}Đội \"Khổng Lồ Đen\" sắp có phim tài liệu bom tấn!"
   },
   {
     "file": "LawnStrings.txt",
@@ -2240,8 +2240,8 @@
   {
     "file": "LawnStrings.txt",
     "key": "ZOMBIE_FOOTBALL_IMP_REDEYE_DESCRIPTION",
-    "en": "Red-Eye Club mascot and loyal follower.\n{SHORTLINE}\n{AQUATIC}Hero Mode Exclusive\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}3000+270\n{KEYWORD}Speed: {STAT}Fast\n{FLAVOR}Trained tirelessly to become the\nspotlight star on game day — look, he\njust got punted like a football again!",
-    "vi": "Tiểu quỷ cưng của câu lạc bộ Mắt Đỏ.\n{SHORTLINE}\n{AQUATIC}Chỉ xuất hiện ở Chế Độ Anh Hùng\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}3000+270\n{KEYWORD}Tốc độ: {STAT}Nhanh\n{FLAVOR}Nỗ lực tập luyện để trở thành tâm điểm\nsân cỏ — nhìn kìa, nó lại bị ném đi như\ntrái bóng bầu dục rồi!"
+    "en": "Red-Eye Club's loyal little mascot.\n{SHORTLINE}\n{AQUATIC}Hero Mode Exclusive\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}3000+270\n{KEYWORD}Speed: {STAT}Fast\n{FLAVOR}Trained tirelessly to be game-day star — look, he just got punted like a football again!",
+    "vi": "Tiểu quỷ cưng của câu lạc bộ Mắt Đỏ.\n{SHORTLINE}\n{AQUATIC}Chỉ xuất hiện ở Chế Độ Anh Hùng\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}3000+270\n{KEYWORD}Tốc độ: {STAT}Nhanh\n{FLAVOR}Nỗ lực tập luyện để trở thành tâm điểm sân cỏ — nhìn kìa, nó lại bị ném đi như trái bóng bầu dục rồi!"
   },
   {
     "file": "LawnStrings.txt",
@@ -2258,8 +2258,8 @@
   {
     "file": "LawnStrings.txt",
     "key": "ZOMBIE_ZOMBONI_REDEYE_DESCRIPTION",
-    "en": "A crushing titan tearing across the\nbattlefield.\n{SHORTLINE}\n{AQUATIC}Hero Mode Exclusive\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}3000\n{KEYWORD}Speed: {STAT}Slow\n{KEYWORD}On Death: {STAT}Spawns an Armed Red-Eyed\nGargantuar\n{FLAVOR}Saved up forever for this brand-new\nZamboni — his Imp partner didn't have\nthe heart to say everyone owns one now.",
-    "vi": "Thế lực cực kỳ đáng gờm trên chiến\ntrường.\n{SHORTLINE}\n{AQUATIC}Chỉ xuất hiện ở Chế Độ Anh Hùng\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}3000\n{KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Khi chết: {STAT}Triệu hồi Gargantuar Vũ Trang\nMắt Đỏ\n{FLAVOR}Dành dụm mãi mới mua được chiếc xe băng\nmới tinh — Tiểu Quỷ đi cùng chẳng nỡ nói\nmẫu này giờ đại trà lắm rồi."
+    "en": "A crushing titan tearing across the field.\n{SHORTLINE}\n{AQUATIC}Hero Mode Exclusive\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}3000 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}On Death: {STAT}Spawns Armed Red-Eyed Gargantuar\n{FLAVOR}Saved up for this new Zamboni — his Imp couldn't say everyone owns one.",
+    "vi": "Thế lực đáng gờm trên chiến trường.\n{SHORTLINE}\n{AQUATIC}Chỉ xuất hiện ở Chế Độ Anh Hùng\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}3000 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Khi chết: {STAT}Triệu hồi Gargantuar Vũ Trang Mắt Đỏ\n{FLAVOR}Góp mãi mới mua xe băng mới — Tiểu Quỷ chẳng nỡ nói mẫu này đại trà."
   },
   {
     "file": "LawnStrings.txt",
@@ -2276,8 +2276,8 @@
   {
     "file": "LawnStrings.txt",
     "key": "ZOMBIE_REPEATER_DESCRIPTION",
-    "en": "Pierces straight through your plant\nlines.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1000\n{KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}Fires 2 piercing spikes every\n3s\n{KEYWORD}Damage: {STAT}20x2/3s\n{KEYWORD}Weakness: {STAT}Spikes lose piercing after\npassing Wall-nut plants\n{FLAVOR}Once a plain Repeater Zombie — this\nhappens if you skip washing your face\ntoo long.",
-    "vi": "Có thể bắn xuyên thủng tuyến phòng ngự\ncây trồng.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1000\n{KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}Mỗi 3 giây bắn 2 gai xuyên\nthấu cây\n{KEYWORD}Sát thương: {STAT}20x2/3s\n{KEYWORD}Điểm yếu: {STAT}Gai mất xuyên thấu sau khi đi\nqua cây họ Hạt Dẻ\n{FLAVOR}Từng là một Zombie Đậu Đôi bình\nthường... lười rửa mặt lâu ngày là thành\nthế này đấy."
+    "en": "Pierces straight through plant lines.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1000 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}Fires 2 piercing spikes/3s\n{KEYWORD}Damage: {STAT}20x2/3s\n{KEYWORD}Weakness: {STAT}Spikes lose pierce after Wall-nuts\n{FLAVOR}Once a plain Repeater Zombie — this happens if you skip washing your face.",
+    "vi": "Bắn xuyên thủng tuyến phòng ngự cây.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1000 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}Mỗi 3s bắn 2 gai xuyên cây\n{KEYWORD}Sát thương: {STAT}20x2/3s\n{KEYWORD}Điểm yếu: {STAT}Mất xuyên sau khi qua cây Hạt Dẻ\n{FLAVOR}Từng là Zombie Đậu Đôi... lười rửa mặt lâu ngày là thành thế này đấy."
   },
   {
     "file": "LawnStrings.txt",
@@ -2294,8 +2294,8 @@
   {
     "file": "LawnStrings.txt",
     "key": "ZOMBIE_WALLNUTABC_DESCRIPTION",
-    "en": "Matryoshka Zombie with three health\nbars!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000\n{KEYWORD}Speed: {STAT}Slow\n{KEYWORD}On Death: {STAT}Spawns Bottle-Nut Zombie (2000\nHP) -> Cup-Nut Zombie (1000 HP)\n{KEYWORD}Bottle-Nut: {STAT}2000 HP; spawns Cup-Nut\nZombie\n{KEYWORD}Cup-Nut: {STAT}1000 HP, no spawn\n{FLAVOR}Famous across zombie society for having\nthe thickest skin imaginable.",
-    "vi": "Zombie Hạt Dẻ có hẳn ba lớp mạng.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Khi chết: {STAT}Triệu hồi Zombie Chai Hạt Dẻ\n{KEYWORD}Zombie Chai: {STAT}2000 máu, chết gọi Zombie\nCốc Hạt Dẻ\n{KEYWORD}Zombie Cốc: {STAT}1000 máu\n{FLAVOR}Nổi tiếng khắp giới zombie nhờ độ \"mặt\ndày\" có số má."
+    "en": "Matryoshka Zombie, three HP bars!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}On Death: {STAT}Spawns Bottle-Nut (2000 HP) -> Cup-Nut Zombie (1000 HP)\n{KEYWORD}Bottle-Nut: {STAT}2000 HP; spawns Cup-Nut\n{KEYWORD}Cup-Nut: {STAT}1000 HP, no spawn\n{FLAVOR}Famous across zombie society for having the thickest skin imaginable.",
+    "vi": "Zombie Hạt Dẻ có hẳn ba lớp mạng.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Khi chết: {STAT}Gọi Zombie Chai Hạt Dẻ\n{KEYWORD}Zombie Chai: {STAT}2000 máu, chết gọi Zombie Cốc Hạt Dẻ\n{KEYWORD}Zombie Cốc: {STAT}1000 máu\n{FLAVOR}Nổi tiếng khắp giới zombie nhờ độ \"mặt dày\" có số má."
   },
   {
     "file": "LawnStrings.txt",
@@ -2312,8 +2312,8 @@
   {
     "file": "LawnStrings.txt",
     "key": "ZOMBIE_WALLNUT_VIP_DESCRIPTION",
-    "en": "Steals heaps of your Sun upon defeat!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000\n{KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}Grows after 100s and restores\n+4000 HP\n{KEYWORD}On Death: {STAT}Drains 300 Sun\n{KEYWORD}Mature Death: {STAT}Drains 600 Sun\n{FLAVOR}Said to be Dave's failed experiment\nwhose effect flipped backward. \"Pretty\nstrong — call it a happy accident!\"",
-    "vi": "Tên zombie chuyên đi cuỗm Mặt trời của\nbạn.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}Sau 100 giây trưởng thành và\nhồi thêm 4000 máu\n{KEYWORD}Khi chết: {STAT}Trừ 300 Mặt trời\n{KEYWORD}Trưởng thành chết: {STAT}Trừ 600 Mặt trời\n{FLAVOR}Sản phẩm thí nghiệm lỗi của Dave bị đảo\nngược công dụng: \"Khỏe phết, tính là\ntrong cái rủi có cái may vậy.\""
+    "en": "Steals heaps of your Sun upon defeat!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}4000 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}Grows at 100s, +4000 HP\n{KEYWORD}On Death: {STAT}Drains 300 Sun\n{KEYWORD}Mature Death: {STAT}Drains 600 Sun\n{FLAVOR}Dave's failed experiment flipped backward: \"Pretty strong — call it a happy accident!\"",
+    "vi": "Tên zombie chuyên đi cuỗm Mặt trời.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}Sau 100s lớn lên, hồi +4000 máu\n{KEYWORD}Khi chết: {STAT}Trừ 300 Mặt trời\n{KEYWORD}Trưởng thành chết: {STAT}Trừ 600 Mặt trời\n{FLAVOR}Thí nghiệm lỗi của Dave bị đảo ngược: \"Khỏe phết, trong cái rủi có cái may!\""
   },
   {
     "file": "LawnStrings.txt",
@@ -2330,8 +2330,8 @@
   {
     "file": "LawnStrings.txt",
     "key": "ZOMBIE_KERNEL_PULT_DESCRIPTION",
-    "en": "Lobs attacks straight over your front\nline.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1000\n{KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}Hurls 3 kernels or butter pats\nat leftmost column plants\n{KEYWORD}Kernel: {STAT}20 dmg/3s\n{KEYWORD}Butter: {STAT}40 dmg/3s, stuns plant 3s\n{KEYWORD}Weakness: {STAT}Umbrella Leaf plants\n{FLAVOR}Writes Dr. Dave weekly begging to\nrecruit Cabbage and Melon too: \"I miss\nthrowing birthday parties for them...\"",
-    "vi": "Phóng đạn bay vượt qua hàng rào chắn lên\nthẳng tuyến sau.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1000\n{KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}Ném 3 hạt bắp hoặc bơ vào cây\ncột ngoài cùng bên trái\n{KEYWORD}Hạt bắp: {STAT}20 sát thương/3s\n{KEYWORD}Bơ: {STAT}40 sát thương/3s, làm choáng cây 3\ngiây\n{KEYWORD}Điểm yếu: {STAT}Cây họ Ô Bảo Vệ\n{FLAVOR}Tuần nào cũng viết thư xin Tiến Sĩ Dave\ntuyển thêm Bắp Cải và Dưa Hấu: \"Nhớ mấy\nbữa sinh nhật anh em quá...\""
+    "en": "Lobs attacks right over your front line.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1000 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}Hurls 3 kernels/butter at far left\n{KEYWORD}Kernel: {STAT}20/3s | {KEYWORD}Butter: {STAT}40/3s (stun 3s)\n{KEYWORD}Weakness: {STAT}Umbrella Leaf plants\n{FLAVOR}Begs Dave weekly to recruit Cabbage & Melon: \"I miss throwing birthday parties...\"",
+    "vi": "Phóng đạn vượt hàng chắn tuyến sau.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1000 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}Ném 3 bắp/bơ vào cột đầu\n{KEYWORD}Hạt bắp: {STAT}20/3s | {KEYWORD}Bơ: {STAT}40/3s (choáng 3s)\n{KEYWORD}Điểm yếu: {STAT}Cây họ Ô Bảo Vệ\n{FLAVOR}Tuần nào cũng xin Tiến Sĩ Dave tuyển Bắp Cải, Dưa Hấu: \"Nhớ sinh nhật anh em quá...\""
   },
   {
     "file": "LawnStrings.txt",
@@ -2348,8 +2348,8 @@
   {
     "file": "LawnStrings.txt",
     "key": "ZOMBIE_BOSSGARGANYETI_DESCRIPTION",
-    "en": "A legendary warlord wielding elemental\nfrost.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}500000 (Immune to most\nstatuses)\n{KEYWORD}Abilities: {STAT}Leap, Summon, Heavy Smash,\nMini Ice Orbs, Enrage when low HP\n{SHORTLINE}\n{FLAVOR}Dave's experiment or King of Yetis?\nNobody knows — he simply marches under\nwinter stars and naps in Dave's largest\ndeep-freezer.",
-    "vi": "Thủ lĩnh huyền thoại nắm giữ quyền năng\nbăng giá.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}500000 (Miễn nhiều hiệu ứng bất\nlợi)\n{KEYWORD}Kỹ năng: {STAT}Nhảy, Triệu hồi, Nện búa, Tạo\ncầu băng nhỏ, Cuồng nộ khi yếu máu\n{SHORTLINE}\n{FLAVOR}Không ai rõ hắn là vật thí nghiệm hay\nVua Người Tuyết — chỉ biết hắn hay ngủ\ntrong cái tủ đông to nhất của Dave."
+    "en": "Legendary frost-wielding warlord.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}500000 (Status-immune)\n{KEYWORD}Abilities: {STAT}Leap, Summon, Heavy Smash, Mini Ice Orbs, Enrage when low HP\n{SHORTLINE}\n{FLAVOR}Experiment or Yeti King? He just naps in Dave's largest deep-freezer.",
+    "vi": "Thủ lĩnh huyền thoại nắm giữ băng giá.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}500000 (Miễn nhiều hiệu ứng)\n{KEYWORD}Kỹ năng: {STAT}Nhảy, Triệu hồi, Nện búa, Cầu băng nhỏ, Cuồng nộ khi yếu máu\n{SHORTLINE}\n{FLAVOR}Là vật thí nghiệm hay Vua Người Tuyết? Chỉ biết hắn hay ngủ trong tủ đông to nhất của Dave."
   },
   {
     "file": "LawnStrings.txt",
@@ -2366,8 +2366,8 @@
   {
     "file": "LawnStrings.txt",
     "key": "ZOMBIE_BOSSEDGAR_DESCRIPTION",
-    "en": "An old foe returns... or a clone?\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}350000 (Immune to most\nstatuses)\n{KEYWORD}Abilities: {STAT}Giant Fist Smash, Fireball\nVolley, EMP Jamming, Zombie Summon\n{SHORTLINE}\n{FLAVOR}Before falling on that fateful night,\nDr. Zomboss activated his young clone —\nDave made him his right-hand man.\nWait... isn't that raising a tiger in\nyour own house?",
-    "vi": "Người quen cũ tái xuất... hay bản sao?\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}350000 (Miễn nhiều hiệu ứng bất\nlợi)\n{KEYWORD}Kỹ năng: {STAT}Đấm khổng lồ, Phun cầu lửa,\nXung nhiễu từ, Gọi zombie\n{SHORTLINE}\n{FLAVOR}Trước lúc ngã xuống, Tiến Sĩ Zomboss\nkích hoạt bản sao trẻ tuổi — Dave liền\nthu làm cánh tay phải, nhưng liệu có\nphải đang nuôi ong tay áo?"
+    "en": "An old foe returns... or a clone?\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}350000 (Status-immune)\n{KEYWORD}Abilities: {STAT}Giant Fist Smash, Fireball Volley, EMP Jamming, Zombie Summon\n{SHORTLINE}\n{FLAVOR}Zomboss woke a clone — Dave hired him, isn't that raising a tiger inside?",
+    "vi": "Người quen cũ tái xuất... hay bản sao?\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}350000 (Miễn nhiều hiệu ứng)\n{KEYWORD}Kỹ năng: {STAT}Đấm khổng lồ, Phun cầu lửa, Xung nhiễu từ, Gọi zombie\n{SHORTLINE}\n{FLAVOR}Trước khi gục, Zomboss kích hoạt bản sao trẻ — Dave thu làm tay phải, nhưng có nuôi ong tay áo?"
   },
   {
     "file": "LawnStrings.txt",

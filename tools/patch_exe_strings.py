@@ -19,6 +19,7 @@ SAFE_REF_KINDS = {
     "mov_sibdisp8_imm32",
     "mov_regind_imm32",
     "aligned_ptr_table",
+    "unaligned_ptr_table",
 }
 
 

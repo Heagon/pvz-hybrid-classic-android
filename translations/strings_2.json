@@ -1742,92 +1742,92 @@
   {
     "file": "LawnStrings.txt",
     "key": "SURVIVAL_DAY_NORMAL",
-    "en": "Survival: Day",
-    "vi": "Sinh Tồn: Ban Ngày"
+    "en": "Surv: Day",
+    "vi": "ST: Ban Ngày"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SURVIVAL_NIGHT_NORMAL",
-    "en": "Survival: Night",
-    "vi": "Sinh Tồn: Ban Đêm"
+    "en": "Surv: Night",
+    "vi": "ST: Ban Đêm"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SURVIVAL_POOL_NORMAL",
-    "en": "Survival: Pool",
-    "vi": "Sinh Tồn: Hồ Bơi"
+    "en": "Surv: Pool",
+    "vi": "ST: Hồ Bơi"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SURVIVAL_FOG_NORMAL",
-    "en": "Survival: Fog",
-    "vi": "Sinh Tồn: Sương Mù"
+    "en": "Surv: Fog",
+    "vi": "ST: Sương Mù"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SURVIVAL_ROOF_NORMAL",
-    "en": "Survival: Roof",
-    "vi": "Sinh Tồn: Mái Nhà"
+    "en": "Surv: Roof",
+    "vi": "ST: Mái Nhà"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SURVIVAL_DAY_HARD",
-    "en": "Survival: Day (Hard)",
-    "vi": "Sinh Tồn: Ban Ngày (Khó)"
+    "en": "Day (Hard)",
+    "vi": "Ngày (Khó)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SURVIVAL_NIGHT_HARD",
-    "en": "Survival: Night (Hard)",
-    "vi": "Sinh Tồn: Ban Đêm (Khó)"
+    "en": "Night (Hard)",
+    "vi": "Đêm (Khó)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SURVIVAL_POOL_HARD",
-    "en": "Survival: Pool (Hard)",
-    "vi": "Sinh Tồn: Hồ Bơi (Khó)"
+    "en": "Pool (Hard)",
+    "vi": "Hồ (Khó)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SURVIVAL_FOG_HARD",
-    "en": "Survival: Fog (Hard)",
-    "vi": "Sinh Tồn: Sương Mù (Khó)"
+    "en": "Fog (Hard)",
+    "vi": "Sương (Khó)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SURVIVAL_ROOF_HARD",
-    "en": "Survival: Roof (Hard)",
-    "vi": "Sinh Tồn: Mái Nhà (Khó)"
+    "en": "Roof (Hard)",
+    "vi": "Mái (Khó)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SURVIVAL_DAY_ENDLESS",
-    "en": "Survival: Day (Endless)",
-    "vi": "Sinh Tồn: Ban Ngày (Vô Tận)"
+    "en": "Day (Endless)",
+    "vi": "Ngày (Vô Tận)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SURVIVAL_NIGHT_ENDLESS",
-    "en": "Survival: Night (Endless)",
-    "vi": "Sinh Tồn: Ban Đêm (Vô Tận)"
+    "en": "Night (Inf.)",
+    "vi": "Đêm (Vô Tận)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SURVIVAL_POOL_ENDLESS",
-    "en": "Survival: Pool (Endless)",
-    "vi": "Sinh Tồn: Hồ Bơi (Vô Tận)"
+    "en": "Pool (Endless)",
+    "vi": "Hồ (Vô Tận)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SURVIVAL_FOG_ENDLESS",
-    "en": "Survival: Fog (Endless)",
-    "vi": "Sinh Tồn: Sương Mù (Vô Tận)"
+    "en": "Fog (Endless)",
+    "vi": "Sương (Inf.)"
   },
   {
     "file": "LawnStrings.txt",
     "key": "SURVIVAL_ROOF_ENDLESS",
-    "en": "Survival: Roof (Endless)",
-    "vi": "Sinh Tồn: Mái Nhà (Vô Tận)"
+    "en": "Roof (Endless)",
+    "vi": "Mái (Vô Tận)"
   },
   {
     "file": "LawnStrings.txt",
@@ -1923,19 +1923,19 @@
     "file": "LawnStrings.txt",
     "key": "PORTAL_COMBAT",
     "en": "Portal Combat",
-    "vi": "Bảo Vệ Cổng Không Gian"
+    "vi": "Cổng Không Gian"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BEGHOULED",
     "en": "Beghouled",
-    "vi": "Ghép Ngọc Thực Vật"
+    "vi": "Ghép Ngọc"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BEGHOULED_TWIST",
     "en": "Beghouled Twist",
-    "vi": "Xoay Ngọc Thực Vật"
+    "vi": "Ngọc Xoay"
   },
   {
     "file": "LawnStrings.txt",
@@ -1947,7 +1947,7 @@
     "file": "LawnStrings.txt",
     "key": "GRAVE_DANGER",
     "en": "Grave Danger",
-    "vi": "Hiểm Họa Nghĩa Địa"
+    "vi": "Hiểm Họa Bia"
   },
   {
     "file": "LawnStrings.txt",
@@ -1976,26 +1976,26 @@
   {
     "file": "LawnStrings.txt",
     "key": "LITTLE_TROUBLE",
-    "en": "Big Trouble Little Zombie",
-    "vi": "Zombie Tí Hon Rắc Rối Lớn"
+    "en": "Little Trouble",
+    "vi": "Rắc Rối Nhỏ"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BOBSLED_BONANZA",
-    "en": "Bobsled Bonanza",
-    "vi": "Đại Tiệc Xe Trượt Tuyết"
+    "en": "Bobsled Fun",
+    "vi": "Xe Trượt Tuyết"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ITS_RAINING_SEEDS ",
-    "en": "Hybrid Seed Rain (By Qianting Weiweimi)",
-    "vi": "Cơn Mưa Hạt Giống Lai (Qianting Weiweimi)"
+    "en": "Seed Rain Mod",
+    "vi": "Mưa Hạt Giống"
   },
   {
     "file": "LawnStrings.txt",
     "key": "INVISIGHOUL",
     "en": "Invisi-ghoul",
-    "vi": "Kẻ Ăn Não Tàng Hình"
+    "vi": "Não Tàng Hình"
   },
   {
     "file": "LawnStrings.txt",
@@ -2012,14 +2012,14 @@
   {
     "file": "LawnStrings.txt",
     "key": "COLUMN_AS_YOU_SEE_EM",
-    "en": "Column Like You See 'Em",
-    "vi": "Trồng Cả Cột Một Lần"
+    "en": "Column Mode",
+    "vi": "Xếp Theo Cột"
   },
   {
     "file": "LawnStrings.txt",
     "key": "BUNGEE_BLITZ",
     "en": "Bungee Blitz",
-    "vi": "Bão Đột Kích Bungee"
+    "vi": "Bão Bungee"
   },
   {
     "file": "LawnStrings.txt",
@@ -2037,13 +2037,13 @@
     "file": "LawnStrings.txt",
     "key": "LAST_STAND",
     "en": "Last Stand",
-    "vi": "Phòng Tuyến Cuối Cùng"
+    "vi": "Phòng Tuyến"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ART_CHALLENGE_WALL_NUT",
-    "en": "Art Challenge Wall-nut",
-    "vi": "Nghệ Thuật Hạt Dẻ"
+    "en": "Art Wall-nut",
+    "vi": "Hình Óc Chó"
   },
   {
     "file": "LawnStrings.txt",
@@ -2061,19 +2061,19 @@
     "file": "LawnStrings.txt",
     "key": "BIG_TIME",
     "en": "Big Time",
-    "vi": "Thời Khắc Khổng Lồ"
+    "vi": "Cây Khổng Lồ"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ART_CHALLENGE_SUNFLOWER",
-    "en": "Art Challenge Sunflower",
-    "vi": "Nghệ Thuật Hướng Dương"
+    "en": "Art Sunflower",
+    "vi": "Hình H.Dương"
   },
   {
     "file": "LawnStrings.txt",
     "key": "ZOMBIES_ON_SPEED",
-    "en": "Zombie Nimble Zombie Quick",
-    "vi": "Zombie Siêu Tốc"
+    "en": "Zom-Speed",
+    "vi": "ZB Siêu Tốc"
   },
   {
     "file": "LawnStrings.txt",
@@ -2091,13 +2091,13 @@
     "file": "LawnStrings.txt",
     "key": "HIGH_GRAVITY",
     "en": "High Gravity",
-    "vi": "Trọng Lực Bất Thường"
+    "vi": "Trọng Lực Cao"
   },
   {
     "file": "LawnStrings.txt",
     "key": "WAR_AND_PEAS_2",
-    "en": "Zombotany 2",
-    "vi": "Zombie Thực Vật 2"
+    "en": "ZomBotany 2",
+    "vi": "Cây Zombie 2"
   },
   {
     "file": "LawnStrings.txt",
@@ -2108,8 +2108,8 @@
   {
     "file": "LawnStrings.txt",
     "key": "WALL_NUT_BOWLING_EXTREME",
-    "en": "Wall-nut Bowling 2",
-    "vi": "Bowling Hạt Dẻ 2"
+    "en": "Bowling 2",
+    "vi": "Bowling 2"
   },
   {
     "file": "LawnStrings.txt",
