@@ -80,9 +80,11 @@ def compile_all():
             if CJK_RE.search(vi_v):
                 cjk_leaks.append(("VI", fn, key, vi_v))
 
-            cn_tags = TAG_RE.findall(cn)
+            # {SHORTLINE} is purely vertical spacing and is intentionally omitted in compact boxes
+            # (Achievements, short gear cards); all semantic/color/icon tags must still match 1:1.
+            cn_tags = [t for t in TAG_RE.findall(cn) if t != "{SHORTLINE}"]
             for lang_lbl, tv in [("EN", en_v), ("VI", vi_v)]:
-                tv_tags = TAG_RE.findall(tv)
+                tv_tags = [t for t in TAG_RE.findall(tv) if t != "{SHORTLINE}"]
                 if sorted(cn_tags) != sorted(tv_tags):
                     tag_mismatches.append((lang_lbl, fn, key, cn_tags, tv_tags))
 

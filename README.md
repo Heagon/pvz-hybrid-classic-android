@@ -40,8 +40,8 @@ Full release notes & checksums: **[GitHub Release `v3.20.1`](https://github.com/
 
 | Edition | Size | Summary | Direct Download |
 | :--- | :---: | :--- | :---: |
-| **`[EN]` English** | `389.4 MiB` (`408.3 MB`) | Complete English build (3,309 property strings with 437 refitted Almanac descriptions, 1,038 unique EXE strings / 1,421 binary refs, 133 localized UI textures, `VirGL` + `csmt=0` performance tuning, hardware-verified on Android) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-English.apk"><img src="assets/btn-dl-en-stable.svg" height="30" alt="Download English APK"></a> |
-| **`[VI]` Bản Việt Hóa** | `389.3 MiB` (`408.2 MB`) | Complete accented Vietnamese build (3,309 property strings with 437 refitted Almanac descriptions, 1,038 unique EXE strings / 1,421 binary refs, 133 localized VI UI textures, 6 merged Unicode `.ttf` fonts + `PvZ2-VH Bold`) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk"><img src="assets/btn-dl-en-stable.svg" height="30" alt="Download Vietnamese APK"></a> |
+| **`[EN]` English** | `387.7 MiB` (`406.5 MB`) | Complete English build (3,309 property strings with 437 refitted Almanac descriptions, 1,038 unique EXE strings / 1,421 binary refs, 171 localized UI textures, `VirGL` + `csmt=0` performance tuning, hardware-verified on Android) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-English.apk"><img src="assets/btn-dl-en-stable.svg" height="30" alt="Download English APK"></a> |
+| **`[VI]` Bản Việt Hóa** | `387.8 MiB` (`406.7 MB`) | Complete accented Vietnamese build (3,309 property strings with 437 refitted Almanac descriptions, 1,038 unique EXE strings / 1,421 binary refs, 171 localized VI UI textures, 6 merged Unicode `.ttf` fonts + `PvZ2-VH Bold`) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk"><img src="assets/btn-dl-en-stable.svg" height="30" alt="Download Vietnamese APK"></a> |
 | **`[CN]` 中文原版 (Raw)** | `389.4 MiB` (`408.4 MB`) | Untouched original Chinese v3.20.1 by **潜艇伟伟迷**, bundled standalone with `VirGL` + `csmt=0` performance tuning and signed with the unified keystore for lossless switching | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk"><img src="assets/btn-dl-en-stable.svg" height="30" alt="Download Chinese Raw APK"></a> |
 
 <details>
@@ -52,8 +52,8 @@ Full release notes & checksums: **[GitHub Release `v3.20.1`](https://github.com/
 
 | File | Exact Bytes | SHA-256 |
 | :--- | :---: | :--- |
-| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `408,303,833` | `5b282c40a6d24281f25dd178b3c80c377ddfa76f43e4aeff26df5e2825bcafbf` |
-| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `408,242,393` | `0b12a3593fdf8f701b8a7a1a9cb411c154c8bc5c2448087e6a7bfedeaa144078` |
+| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `406,522,073` | `f2ba799bfb60ce7789eec93a1673a389039c60a655b0356eca31e7ad0d1ea84c` |
+| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `406,685,913` | `f2c7539849fb558db3d87a74ccc491839411652fcf6510980e53d1b3fc1ec481` |
 | `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,177` | `1087a781c7742c63c505e4e24bf9a5bceba2c046201a10b98f2b954fd338ec81` |
 
 </details>
@@ -90,9 +90,9 @@ Full release notes & checksums: **[GitHub Release `v3.20.1`](https://github.com/
 - **2x Faster Performance &amp; Lower RAM (`VirGL` + `WineD3D csmt=0`):** Switches default rendering to **`VirGL`** + **`WineD3D` GL (`csmt=0`, `OffscreenRenderingMode=fbo`, `strict_shader_math=0`, `VideoMemorySize=512`)** with `WINEESYNC=1`, `mesa_glthread=false`, upright `Is3D=1` 3D Acceleration enabled, and Box64 fast dynarec (`STRONGMEM=0`, `BIGBLOCK=3`, `CALLRET=1`, `FASTNAN=1`, `FASTROUND=1`, `NATIVEFLAGS=1`, `FORWARD=1024`) — boosting Main Menu frame rate from `8.5–12.2 FPS` to **`20.4–20.8 FPS`** while cutting CPU load (~63–67%) and saving ~200 MB RAM.
 - **Engine-Level UTF-8 &amp; Font Upgrade:** Binary-patched `gdi42.dll` (`CP936` → `CP_UTF8`) across all 4 `MultiByteToWideChar` call sites and merged complete Latin + Vietnamese diacritics via `fontTools` into all 6 runtime `.ttf` fonts.
 - **Full Dual-Layer Localization &amp; UI Refit:**
-  - **3,309/3,309** property strings across all 9 `properties/*.txt` files, including **437 Plant, Zombie &amp; Hero Almanac descriptions refitted** cleanly within non-scrolling card bounds.
-  - **1,038 unique / 1,421 referenced** hardcoded binary strings relocated cleanly inside `PlantsVsZombies.exe` (covering Console options, Sandbox, Shop, Stage titles, and dialogs) + **73 `std::string(ptr, len)` length-push opcodes updated** + Main Menu version prefix (`PvZ Hybrid Cls EN v3.20.1`).
-  - **133 localized UI textures** per language (Main Menu signs, wood plaques, gravestones, 22 Adventure/Mode banners, Almanac/Shop/Hero buttons, `FlagMeter` progress, and title badges).
+  - **3,309/3,309** property strings across all 9 `properties/*.txt` files, including **437 Plant, Zombie &amp; Hero Almanac descriptions refitted** cleanly within non-scrolling card bounds, compact Seed Chooser tabs (`Gem`/`K.C`, `7-Clr`/`7 Màu`), and tight `Get:`/`Quà:` Achievement rewards.
+  - **1,038 unique / 1,421 referenced** hardcoded binary strings relocated cleanly inside `PlantsVsZombies.exe` (covering Console options, Sandbox, Shop, Stage titles, and dialogs, plus non-overlapping `ContinueDialog` button rects &amp; expanded Almanac text boxes) + **73 `std::string(ptr, len)` length-push opcodes updated** + Main Menu version prefix (`PvZ Hybrid Cls EN v3.20.1`).
+  - **171 localized UI textures** per language (Main Menu signs, wood plaques, gravestones, 22 Adventure/Mode banners, 17 Adventure chapter book covers, 141 Space-Time / Secret Realm map nodes on `HybridTime_BG.png` / `HybridTime_BG2.png`, Experimental Logs `01–09`, Almanac/Shop/Achievement/Hero buttons, `FlagMeter` progress, and title badges).
 
 ---
 
@@ -133,7 +133,7 @@ Captured on physical `arm64-v8a` Android hardware across **`[EN]` English** and 
 | Category / Role | Creators &amp; Contributors | Official Links |
 | :--- | :--- | :--- |
 | **Original Mod**<br>*PvZ Hybrid Classic*<br>(植物大战僵尸杂交版经典版) | • **Qianting Weiweimi (潜艇伟伟迷)** — Creator, Game Design &amp; Lead Developer<br>• **In-Game Credited Contributors:** 小小咩MS, AXH弦, 一只吴铭仕哒, 沉默寡言白河愁 | *PvZ Hybrid Edition Classic v3.20.1* |
-| **Localization (`[EN]` / `[VI]`), UTF-8 Engine Shim &amp; Android Packaging** | • **Heagon** — 3,309 property strings (437 refitted Almanac entries) + 1,038 unique EXE strings (1,421 refs), 133 localized UI textures/lang, `gdi42.dll` UTF-8 shim, 6 merged Unicode fonts, `VirGL` + `WineD3D` `csmt=0` tuning + `GLXExtension` upright fix, standalone `com.pvzh.cls` APK packaging | [GitHub Repository](https://github.com/Heagon/pvz-hybrid-classic-android) |
+| **Localization (`[EN]` / `[VI]`), UTF-8 Engine Shim &amp; Android Packaging** | • **Heagon** — 3,309 property strings (437 refitted Almanac entries) + 1,038 unique EXE strings (1,421 refs), 171 localized UI textures/lang, `gdi42.dll` UTF-8 shim, 6 merged Unicode fonts, `VirGL` + `WineD3D` `csmt=0` tuning + `GLXExtension` upright fix, standalone `com.pvzh.cls` APK packaging | [GitHub Repository](https://github.com/Heagon/pvz-hybrid-classic-android) |
 | **Open-Source Tooling** | [Winlator](https://github.com/brunodev85/winlator) (`Box64` · `Wine`), [fontTools](https://github.com/fonttools/fonttools), [Pillow](https://python-pillow.org/), [Liberation Fonts](https://github.com/liberationfonts/liberation-fonts), [Apktool](https://apktool.org/), [uber-apk-signer](https://github.com/patrickfav/uber-apk-signer), [Zstandard](https://github.com/facebook/zstd) | See [CREDITS.md](CREDITS.md) |
 
 ---

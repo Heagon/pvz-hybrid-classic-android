@@ -15,7 +15,7 @@
     "file": "NewPlantStrings.txt",
     "key": "HYPNOSHROOMICE_DESCRIPTION",
     "en": "Ice Torchwood meets Hypno-shroom!\n{SHORTLINE}\n{KEYWORD}Power: {STAT}1800 (On Death)\n{KEYWORD}Special: {STAT}Ice Torchwood + charms eaters passing its aura; plant or zombie death fires a lane Frostfire wave (dmg, freeze & chill)\n{SHORTLINE}\n{FLAVOR}\"Aloof chill\" defined her until rumors said she's \"hot\"... \"ACHOO!\" Just a fever.",
-    "vi": "Lai Đuốc Băng & Nấm Thôi Miên!\n{SHORTLINE}\n{KEYWORD}Sức mạnh: {STAT}1800 (Khi chết)\n{KEYWORD}Đặc điểm: {STAT}Hiệu ứng Đuốc Băng & thôi miên kẻ ăn truyền luôn hiệu ứng; cây hoặc quái này chết sẽ phóng băng hỏa cả hàng gây ST, đóng băng & chậm\n{SHORTLINE}\n{FLAVOR}Mỹ nhân lạnh lùng bỗng đồn nóng bỏng... \"HẮT XÌ!\" Hóa ra cảm lạnh thôi."
+    "vi": "Lai Đuốc Băng & Nấm Thôi Miên!\n{SHORTLINE}\n{KEYWORD}ST: {STAT}1800 (Khi chết)\n{KEYWORD}Đặc điểm: {STAT}Hiệu ứng Đuốc Băng & thôi miên kẻ ăn truyền hiệu ứng; cây/quái này chết phóng băng hỏa cả hàng gây ST, đóng băng & chậm\n{SHORTLINE}\n{FLAVOR}Mỹ nhân lạnh lùng bỗng đồn nóng bỏng... \"HẮT XÌ!\" Hóa ra bị cảm lạnh."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -110,7 +110,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "HYPNOSHROOMGHOST_DESCRIPTION",
-    "en": "Summons Black-Football Gargantuars!\n{SHORTLINE}\n{KEYWORD}Special: {STAT}1. -50 Sun per charmed zombie summoned (can go negative); 2. Spawns a column of charmed Black-Football Gargantuars; 3. Resets card cost to 800\n{SHORTLINE}\n{FLAVOR}Haunted House owner with Gargantuar guards: \"Mafia? Please, I just need security.\"",
+    "en": "Spawns Black-Football Gargantuars!\n{SHORTLINE}\n{KEYWORD}Special: {STAT}1. -50 Sun per charmed zombie summoned (can go negative); 2. Spawns column of charmed Black-Football Gargantuars; 3. Cost resets to 800\n{SHORTLINE}\n{FLAVOR}Haunted House owner with Gargantuar guards: \"Mafia? Please, I just need security.\"",
     "vi": "Gọi đội quân Khổng Lồ chiến đấu!\n{SHORTLINE}\n{KEYWORD}Đặc điểm: {STAT}1. Mỗi lần gọi 1 zombie đồng minh giảm 50 giá (có thể âm); 2. Ra sân gọi một cột Gargantuar Bầu Dục Đen phe ta; 3. Dùng xong giá về 800\n{SHORTLINE}\n{FLAVOR}Bà chủ nhà ma dắt vệ sĩ Khổng Lồ ra sân: \"Xã hội đen đâu, thuê bảo vệ thôi mà.\""
   },
   {
@@ -230,7 +230,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "CATGATLINGPEA_DESCRIPTION",
-    "en": "Star-Cat Gatling Pro firepower!\n{AQUATIC}Gacha Edition Collab Plant\n{KEYWORD}Power: {STAT}20x4/1.5s (Normal / Homing)\n{KEYWORD}Special: {STAT}1. 20%/shot spreads 5 stars (misses home); 2. Every 10 volleys fires Giant Star (200 AoE + knockback); 3. Star Torchwood 2x dmg & knockback; 4. Cat Bed: 35% spread\n{FLAVOR}Limited cat-ear bundle — though Gatling Peas are shy to wear stickers.",
+    "en": "Star-Cat Gatling Pro firepower!\n{AQUATIC}Gacha Edition Collab Plant\n{KEYWORD}Power: {STAT}20x4/1.5s (Normal / Homing)\n{KEYWORD}Special: {STAT}1. 20%/shot sprays 5 stars (misses home); 2. Every 10 volleys fires Giant Star (200 AoE + knockback); 3. Star Torchwood: 2x dmg & knockback; 4. Cat Bed: 35% spread\n{FLAVOR}Limited cat-ear bundle — Gatling Peas are shy wearing stickers.",
     "vi": "Bản Pro hỏa lực mèo sao cực mạnh!\n{AQUATIC}Cây Hợp Tác Bản Gacha\n{KEYWORD}Sức mạnh: {STAT}20x4/1.5s (Thường / Truy đuổi)\n{KEYWORD}Đặc điểm: {STAT}1. 20% mỗi loạt tỏa 5 sao (hụt truy đuổi); 2. Mỗi 10 loạt bắn 1 Sao Lớn nổ 200 ST lan & đẩy lùi; 3. Qua Gốc Cây Khế x2 ST & đẩy lùi; 4. Ổ Mèo Bí Ngô tăng tỏa 35%\n{FLAVOR}Quà tặng kèm sticker tai mèo, dù mấy anh Súng Máy ngại dán lên nón."
   },
   {
@@ -302,7 +302,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "TORCHWOODZ_DESCRIPTION",
-    "en": "Turns Zombie Peas into Ghostfire!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Special: {STAT}Torchwood buff + ignites Zombie Peas into Ghostfire Peas\n{KEYWORD}Ghostfire Pea: {STAT}80 dmg, 50% single-tile splash; 50% on kill spawns 270-HP Bug Zombie\n{SHORTLINE}\n{FLAVOR}\"We should all get along!\" Picked Team Plants to convert Team Zombies.",
+    "en": "Turns Zombie Peas into Ghostfire!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Special: {STAT}Torchwood buff + turns Zombie Peas into Ghostfire\n{KEYWORD}Ghostfire Pea: {STAT}80 dmg, 50% 1-tile splash; 50%/kill spawns 270-HP Bug Zombie\n{SHORTLINE}\n{FLAVOR}\"We should all get along!\" Joined Team Plants to convert Team Zombies.",
     "vi": "Cường hóa đạn cho zombie phe ta!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300 | {KEYWORD}Đặc điểm: {STAT}Hiệu ứng Gốc Đuốc & đốt Đậu Zombie thành Cầu Ma Hỏa xanh\n{KEYWORD}Cầu Ma Hỏa: {STAT}80 ST, lan 50% một ô; hạ quái 50% gọi 1 Zombie Bọ 270 máu phe ta\n{SHORTLINE}\n{FLAVOR}\"Vườn đâu có kẻ thù!\" — tạm theo phe cây để cảm hóa phe zombie."
   },
   {
@@ -351,7 +351,7 @@
     "file": "NewPlantStrings.txt",
     "key": "PLANTERNHYPON_DESCRIPTION",
     "en": "Heals & stations charmed allies!\n{SHORTLINE}\n{KEYWORD}Special: {STAT}1. Illuminates fog & heals 3x3 charmed allies +40 HP/s; 2. Halts up to 9 charmed allies in 1x3 ahead\n{KEYWORD}On Death: {STAT}Charms non-immune zombies on tile\n{SHORTLINE}\n{FLAVOR}\"A perfect maid cares for lost guests!\" Seems she misread her manual.",
-    "vi": "Trị thương & giữ chân zombie phe ta!\n{SHORTLINE}\n{KEYWORD}Đặc điểm: {STAT}1. Chiếu sáng & hồi 40 máu/s cho zombie thôi miên vùng 3x3; 2. Chặn tối đa 9 zombie thôi miên trong 1x3 trước mặt\n{KEYWORD}Khi chết: {STAT}Thôi miên mọi quái thường cùng ô\n{SHORTLINE}\n{FLAVOR}\"Hầu gái hoàn hảo phải tiếp đãi vị khách lạc lối!\" — cô đọc nhầm sách rồi."
+    "vi": "Trị thương & giữ chân zombie phe ta!\n{SHORTLINE}\n{KEYWORD}Đặc điểm: {STAT}1. Chiếu sáng & hồi 40 máu/s cho zombie thôi miên vùng 3x3; 2. Chặn tối đa 9 zombie thôi miên trong 1x3 trước mặt\n{KEYWORD}Khi chết: {STAT}Thôi miên quái thường cùng ô\n{SHORTLINE}\n{FLAVOR}\"Hầu gái chuẩn phải tiếp đãi khách lạc lối!\" — cô đọc nhầm sách rồi."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -375,7 +375,7 @@
     "file": "NewPlantStrings.txt",
     "key": "WALLNUTD_DESCRIPTION",
     "en": "Resists massive burst hits thanks to diamond armor!\n{AQUATIC}Shop-Exclusive Plant\n{KEYWORD}HP: {STAT}4000\n{KEYWORD}Special: {STAT}Takes at most 200 damage per single hit\n{SHORTLINE}\n{FLAVOR}Picked up a foreign language recently and brags nonstop: \"Ha, my accent's as stiff as a diamond!\" Nobody told him hard != stiff.",
-    "vi": "Chống chịu cực tốt trước những cú đánh dồn sát thương!\n{AQUATIC}Cây Độc Quyền Cửa Hàng\n{KEYWORD}Máu: {STAT}4000\n{KEYWORD}Đặc điểm: {STAT}Mỗi lần chịu tối đa không quá 200 sát thương\n{SHORTLINE}\n{FLAVOR}Mới học thêm ngoại ngữ rồi tự hào khoe khắp xóm: \"Nghe tôi nói cứng như kim cương chưa!\" — Chắc cậu nhầm chữ cứng cáp với cứng nhắc rồi."
+    "vi": "Chống cực tốt đòn dồn sát thương!\n{AQUATIC}Cây Độc Quyền Cửa Hàng\n{KEYWORD}Máu: {STAT}4000\n{KEYWORD}Đặc điểm: {STAT}Mỗi lần chịu tối đa 200 sát thương\n{SHORTLINE}\n{FLAVOR}Mới học ngoại ngữ liền khoe khắp xóm: \"Nghe tôi nói cứng như kim cương chưa!\" — Chắc cậu nhầm cứng cáp với cứng nhắc rồi."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -398,7 +398,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "CORNPULTC_DESCRIPTION",
-    "en": "Lobs chain-blast Cherries & Pits!\n{SHORTLINE}\n{KEYWORD}Power: {STAT}40 or 100/2s\n{KEYWORD}Special: {STAT}1. Lobs Cherry Pits (20% sticky Mini Cherry that roots); 2. Pit vs rooted foe: 200 single-tile dmg; 3. Mini Cherry combo: 3x3 500-dmg blast\n{SHORTLINE}\n{FLAVOR}Edible explosives from a gourmet manga — harmless until the shockwave hits!",
+    "en": "Lobs chain-blast Cherries & Pits!\n{SHORTLINE}\n{KEYWORD}Power: {STAT}40 or 100/2s\n{KEYWORD}Special: {STAT}1. Lobs Cherry Pits (20% sticky Mini Cherry roots); 2. Pit hits rooted foe: 200 1-tile dmg; 3. Mini Cherry combo: 3x3 500-dmg blast\n{SHORTLINE}\n{FLAVOR}Edible explosives from a gourmet manga — safe until the shockwave hits!",
     "vi": "Ném hạt nổ phản ứng dây chuyền!\n{SHORTLINE}\n{KEYWORD}Sức mạnh: {STAT}40 hoặc 100/2s\n{KEYWORD}Đặc điểm: {STAT}1. Ném Hạt Anh Đào, 20% ra Anh Đào Nhỏ dính trói quái; 2. Hạt trúng quái dính nổ 200 ST 1 ô; 3. Anh Đào Nhỏ trúng nhau nổ 3x3 500 ST\n{SHORTLINE}\n{FLAVOR}Thuốc nổ ăn được lấy cảm hứng từ Thợ Săn Sành Ăn — va đúng tần số mới nổ!"
   },
   {
@@ -422,7 +422,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "TANGLEKELPH_DESCRIPTION",
-    "en": "Drags a zombie beneath the waves, then unleashes it hypnotized!\n{SHORTLINE}\n{KEYWORD}Damage: {STAT}Instant kill (fails on Bosses)\n{KEYWORD}Special: {STAT}Single-use aquatic plant; drags one non-Boss under and spawns its charmed counterpart on the spot\n{SHORTLINE}\n{FLAVOR}\"Honestly I felt bad watching them keep swimming headfirst into trouble — so I gave them a gentle reset!\"",
+    "en": "Drags a zombie under, then releases it charmed!\n{SHORTLINE}\n{KEYWORD}Damage: {STAT}Instant kill (fails on Bosses)\n{KEYWORD}Special: {STAT}Single-use aquatic; pulls 1 non-Boss under & spawns its charmed copy on the spot\n{SHORTLINE}\n{FLAVOR}\"Honestly I felt bad watching them keep swimming headfirst into trouble — so I gave them a gentle reset!\"",
     "vi": "Kéo zombie xuống nước rồi biến nó thành đồng minh.\n{SHORTLINE}\n{KEYWORD}Sát thương: {STAT}Hạ tức thì (vô hiệu Boss)\n{KEYWORD}Đặc điểm: {STAT}Thủy sinh dùng 1 lần; kéo zombie thường xuống nước rồi thả bản sao thôi miên tại chỗ\n{SHORTLINE}\n{FLAVOR}\"Thấy họ cứ bơi đâm đầu vô chỗ chết nên tôi kéo xuống chỉnh lại suy nghĩ chút thôi.\""
   },
   {
@@ -446,7 +446,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "CALTROPZ_DESCRIPTION",
-    "en": "Fits thorny balls on charmed allies!\n{SHORTLINE}\n{KEYWORD}Dmg: {STAT}40/1.5s | {KEYWORD}Special: {STAT}Adds 1 Spiked Ball/1.5s to allies\n{KEYWORD}Spiked Ball: {STAT}1/zombie; deals 20 dmg/1.5s on contact\n{KEYWORD}Special: {STAT}Balls & plant pop vehicles once\n{SHORTLINE}\n{FLAVOR}Too short to scout, he hitches spiky probes onto allies — never asks back.",
+    "en": "Fits thorny balls on charmed allies!\n{SHORTLINE}\n{KEYWORD}Dmg: {STAT}40/1.5s | {KEYWORD}Special: {STAT}Adds 1 Spiked Ball/1.5s to allies\n{KEYWORD}Spiked Ball: {STAT}1/zombie; deals 20 dmg/1.5s on contact\n{KEYWORD}Special: {STAT}Balls & plant pop 1 vehicle\n{SHORTLINE}\n{FLAVOR}Too short to scout, he hitches spiky probes onto allies — never asks first.",
     "vi": "Gắn Cầu Gai lên zombie thôi miên!\n{SHORTLINE}\n{KEYWORD}ST: {STAT}40/1.5s | {KEYWORD}Đặc điểm: {STAT}Mỗi 1.5s gắn Cầu Gai lên quái thôi miên\n{KEYWORD}Cầu Gai: {STAT}Tối đa 1/zombie, gây 20 ST/1.5s chạm địch\n{KEYWORD}Đặc biệt: {STAT}Cầu Gai & cây đều phá xe 1 lần\n{SHORTLINE}\n{FLAVOR}Dáng lùn khó trinh sát nên gắn cầu gai đi nhờ đội bạn ra tiền tuyến."
   },
   {
@@ -518,7 +518,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "TALLNUTFERTILIZER_DESCRIPTION",
-    "en": "Leaks healing fertilizer as he cracks!\n{AQUATIC}Unlocked at 10 Zen Garden Plants\n{KEYWORD}HP: {STAT}8000\n{KEYWORD}Special: {STAT}Blocks vaults; heals other 3x3 plants +1000 HP per degrade stage\n{KEYWORD}Death & Shovel: {STAT}Fully heals 3x3 plants\n{SHORTLINE}\n{FLAVOR}\"Zombies chew my shell, plants crave my filling — guess I'm gourmet fusion!\"",
+    "en": "Leaks healing fertilizer as he cracks!\n{AQUATIC}Unlocked at 10 Zen Garden Plants\n{KEYWORD}HP: {STAT}8000 | {KEYWORD}Special: {STAT}Blocks vaults; heals other 3x3 plants +1000 HP/degrade stage\n{KEYWORD}Die/Dig: {STAT}Fully heals 3x3 plants\n{SHORTLINE}\n{FLAVOR}\"Zombies chew my shell, plants crave my filling — guess I'm gourmet fusion!\"",
     "vi": "Vỏ nứt tung phân bón hồi máu quanh.\n{AQUATIC}Chăm 10 cây Vườn Thiền để mở khóa\n{KEYWORD}Độ bền: {STAT}8000\n{KEYWORD}Đặc điểm: {STAT}Chặn nhảy; mỗi mốc hư hại hồi 1000 máu cây khác vùng 3x3\n{KEYWORD}Chết & Đào: {STAT}Hồi đầy mọi cây vùng 3x3\n{SHORTLINE}\n{FLAVOR}\"Zombie mê vỏ, cây khoái lõi — chắc tôi là món đặc sản hai trong một!\""
   },
   {
@@ -542,8 +542,8 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "STINKYCHOMPER_DESCRIPTION",
-    "en": "Brawler who naps to heal anytime!\n{AQUATIC}Unlocked at 20 Zen Garden Plants\n{KEYWORD}HP: {STAT}4000 | {KEYWORD}Dmg: {STAT}100/0.5s | {KEYWORD}Range: {STAT}1.5 tiles\n{KEYWORD}Special: {STAT}1. Ladder-immune; executes <=30% HP non-Bosses (+200 HP); 2. Click to Sleep (untargetable, +40 HP/s); 3. Tanks smashes/cars (-1500 HP)\n{FLAVOR}\"Nonstop zombies! Why couldn't I land a Zen Garden nap gig like Uncle Stinky?!\"",
-    "vi": "Chiến binh biết xin nghỉ phép hồi máu!\n{AQUATIC}Chăm 20 cây Vườn Thiền để mở khóa\n{KEYWORD}Bền: {STAT}4000 | {KEYWORD}ST: {STAT}100/0.5s | {KEYWORD}Tầm: {STAT}1.5 ô trước\n{KEYWORD}Đặc điểm: {STAT}1. Miễn thang, kết liễu quái thường <=30% máu (+200 máu); 2. Nhấn ngủ hồi 40/s & né đòn tới đầy hoặc nhấn lại; 3. Chịu đập/cán mất 1500 máu\n{FLAVOR}Ghen tị ông chú Ốc Sên ở Vườn Thiền thích ngủ lúc nào là ngủ."
+    "en": "Brawler who naps to heal anytime!\n{AQUATIC}Unlocked at 20 Zen Garden Plants\n{KEYWORD}HP: {STAT}4000 | {KEYWORD}Dmg: {STAT}100/0.5s | {KEYWORD}Range: {STAT}1.5 tiles\n{KEYWORD}Special: {STAT}1. No ladders; executes <=30% HP non-Boss (+200 HP); 2. Click: Sleep (untargetable, +40 HP/s); 3. Tanks smashes/cars (-1500 HP)\n{FLAVOR}\"Nonstop zombies! Why didn't I get a Zen Garden nap gig like Uncle Stinky?!\"",
+    "vi": "Chiến binh biết xin nghỉ phép hồi máu!\n{AQUATIC}Mở khóa: 20 cây Vườn Thiền\n{KEYWORD}Bền: {STAT}4000 | {KEYWORD}ST: {STAT}100/0.5s | {KEYWORD}Tầm: {STAT}1.5 ô\n{KEYWORD}Đặc điểm: {STAT}1. Miễn thang, kết liễu quái thường <=30% máu (+200 máu); 2. Nhấn ngủ hồi 40/s & né đòn tới đầy hoặc nhấn lại; 3. Chịu đập/cán mất 1500 máu\n{FLAVOR}Ghen tị ông chú Ốc Sên ở Vườn Thiền thích ngủ lúc nào là ngủ."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -567,7 +567,7 @@
     "file": "NewPlantStrings.txt",
     "key": "WALLNUTCHOCO_DESCRIPTION",
     "en": "Sweet aroma lures zombies to him!\n{AQUATIC}Unlocked at 30 Zen Garden Plants\n{KEYWORD}HP: {STAT}4000\n{KEYWORD}Special: {STAT}Pulls 3x3 zombies onto tile (no Giants, vehicles, Pogos or Bosses)\n{KEYWORD}On Death: {STAT}Drops Chocolate doubling attack speed for 30s\n{SHORTLINE}\n{FLAVOR}\"No online dating with Nutty!\" Zombies just can't resist his chocolate smell!",
-    "vi": "Thơm ngào ngạt hút zombie bu lại!\n{AQUATIC}Chăm 30 cây Vườn Thiền để mở khóa\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Đặc điểm: {STAT}Hút zombie 3x3 về ô mình (trừ Khổng Lồ, Xe, Lò Xo, Boss)\n{KEYWORD}Khi chết: {STAT}Rơi Sô-cô-la gấp đôi tốc đánh 30s\n{SHORTLINE}\n{FLAVOR}\"Không hẹn hò qua mạng đâu!\" — zombie bu tới chỉ vì mùi sô-cô-la thơm quá."
+    "vi": "Thơm ngào ngạt hút zombie bu lại!\n{AQUATIC}Mở khóa: 30 cây Vườn Thiền\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Đặc điểm: {STAT}Hút zombie 3x3 về ô mình (trừ Khổng Lồ, Xe, Lò Xo, Boss)\n{KEYWORD}Khi chết: {STAT}Rơi Sô-cô-la x2 tốc đánh 30s\n{SHORTLINE}\n{FLAVOR}\"Không hẹn hò qua mạng đâu!\" — zombie bu tới chỉ vì mùi sô-cô-la thơm quá."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -615,7 +615,7 @@
     "file": "NewPlantStrings.txt",
     "key": "CABBAGEMORTAR_DESCRIPTION",
     "en": "Cluster artillery fueled by teamwork!\n{SHORTLINE}\n{KEYWORD}Power: {STAT}100x(2~6)/3s\n{KEYWORD}Special: {STAT}1. Splash + 20% 0.5s stun; 2. Scatters 10 Cabbages on hit; 3. +1 shell per copy planted (max 6); 4. Ignites via Torch Chili Bean\n{SHORTLINE}\n{FLAVOR}\"No geniuses here — we just climbed on giants' shoulders and wore stilts!\"",
-    "vi": "Pháo bắp cải cộng hưởng hỏa lực!\n{SHORTLINE}\n{KEYWORD}Sức mạnh: {STAT}100x2~6/3s\n{KEYWORD}Đặc điểm: {STAT}1. Nổ lan 20% choáng 0.5s; 2. Trúng tỏa 10 Bắp Cải; 3. Mỗi cây trồng thêm giúp đồng đội bắn thêm 1 quả (tối đa 6); 4. Đốt bởi Đậu Ớt Lửa\n{SHORTLINE}\n{FLAVOR}\"Chẳng thiên tài nào hết — tụi tôi chỉ đứng trên vai tiền bối rồi đi cà kheo thôi.\""
+    "vi": "Pháo bắp cải cộng hưởng hỏa lực!\n{SHORTLINE}\n{KEYWORD}Sức mạnh: {STAT}100x2~6/3s\n{KEYWORD}Đặc điểm: {STAT}1. Nổ lan 20% choáng 0.5s; 2. Trúng tỏa 10 Bắp Cải; 3. Mỗi cây thêm tăng +1 đạn cho đồng đội (max 6); 4. Đốt bởi Đậu Ớt Lửa\n{SHORTLINE}\n{FLAVOR}\"Chẳng thiên tài nào cả — tụi tôi chỉ đứng trên vai tiền bối rồi đi cà kheo!\""
   },
   {
     "file": "NewPlantStrings.txt",
@@ -639,7 +639,7 @@
     "file": "NewPlantStrings.txt",
     "key": "TORCHWOODGM_DESCRIPTION",
     "en": "Upgrades with coins to shoot coinage!\n{AQUATIC}Unlocked at 60 Zen Garden Plants\n{KEYWORD}Special: {STAT}Absorbs 5 coins/2s to evolve\n{KEYWORD}Lv1 Silver: {STAT}1000 HP; 35% Silver shots\n{KEYWORD}Lv2: {STAT}5 Gold->2000 HP, +10% Gold shots\n{KEYWORD}Lv3 Diamond: {STAT}5 Diamonds->3000 HP, 200 cap, +5% Diamond\n{SHORTLINE}\n{FLAVOR}Lives by \"Spend money to earn money\" — still working on earning.",
-    "vi": "Hút xu nâng cấp & bắn tiền xu!\n{AQUATIC}Chăm 60 cây Vườn Thiền để mở khóa\n{KEYWORD}Đặc điểm: {STAT}Mỗi 2s hút tối đa 5 xu để lên cấp\n{KEYWORD}Lv1 Bạc: {STAT}1000 máu, 35% ra Xu Bạc\n{KEYWORD}Lv2: {STAT}5 Vàng->2000 máu, +10% Vàng\n{KEYWORD}Lv3 Kim Cương: {STAT}5 Kim Cương->3000 máu, tối đa 200 ST, +5% Kim Cương\n{SHORTLINE}\n{FLAVOR}Tin \"Tiền vung ra sẽ quay về\" — giờ mới thạo vế vung tiền."
+    "vi": "Hút xu nâng cấp & bắn tiền xu!\n{AQUATIC}Mở khóa: 60 cây Vườn Thiền\n{KEYWORD}Đặc điểm: {STAT}Hút tối đa 5 xu/2s để lên cấp\n{KEYWORD}Lv1 Bạc: {STAT}1000 máu, 35% ra Xu Bạc\n{KEYWORD}Lv2: {STAT}5 Vàng->2000 máu, +10% Vàng\n{KEYWORD}Lv3 Kim Cương: {STAT}5 KC->3000 máu, tối đa 200 ST, +5% Kim Cương\n{SHORTLINE}\n{FLAVOR}Tin \"Tiền vung ra sẽ quay về\" — giờ mới thạo vế vung tiền."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -782,8 +782,8 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "WATERPULT_DESCRIPTION",
-    "en": "Offense and hydration in one pult!\n{AQUATIC}Tree of Wisdom 700m Reward\n{KEYWORD}Dmg: {STAT}40 (Normal) or 60 (Gold)/2s\n{KEYWORD}Special: {STAT}1. Single-tile splash + 20-dmg wave; 2. 1000 HP, amphibious, 2x rate in water; 3. Heals tile +15% HP/30s; 4. Upgrade by stacking\n{KEYWORD}Gold Watering-pult: {STAT}2x HP, more dmg, 4 waves, 3x3 heal\n{FLAVOR}Hooked a fire hose to himself: \"WHOA — TURN IT OFF!!\"",
-    "vi": "Vừa tạt bóng nước vừa tưới hồi máu!\n{AQUATIC}Cây Trí Tuệ 700m mở khóa\n{KEYWORD}ST: {STAT}40 (Thường) hoặc 60 (Vàng)/2s\n{KEYWORD}Đặc điểm: {STAT}1. Bóng lan 1 ô + sóng 20 ST; 2. 1000 máu, cạn/nước đều trồng, x2 tốc dưới nước; 3. Mỗi 30s hồi 15% máu cùng ô; 4. Trồng đè lên Bình Vàng\n{KEYWORD}Bình Vàng: {STAT}Máu x2, tăng ST, 4 sóng & hồi máu 3x3\n{FLAVOR}Nối vòi cứu hỏa sau lưng: \"Á á nước tràn bờ rồi tắt van mau lên!!\""
+    "en": "Offense and hydration in one pult!\n{AQUATIC}Tree of Wisdom 700m Reward\n{KEYWORD}Dmg: {STAT}40 (Normal) or 60 (Gold)/2s\n{KEYWORD}Special: {STAT}1. 1-tile splash + 20-dmg wave; 2. 1000 HP, amphibious, 2x water rate; 3. Heals tile +15% HP/30s; 4. Stacks to upgrade\n{KEYWORD}Gold Pult: {STAT}2x HP, higher dmg, 4 waves, 3x3 heal\n{FLAVOR}Hooked a fire hose to himself: \"WHOA — TURN IT OFF!!\"",
+    "vi": "Tạt bóng nước kiêm tưới hồi máu!\n{AQUATIC}Cây Trí Tuệ 700m mở khóa\n{KEYWORD}ST: {STAT}40 (Thường) hoặc 60 (Vàng)/2s\n{KEYWORD}Đặc điểm: {STAT}1. Lan 1 ô + sóng 20 ST; 2. 1000 máu, cạn/nước, x2 tốc dưới nước; 3. Hồi 15% máu ô/30s; 4. Trồng đè lên Bình Vàng\n{KEYWORD}Bình Vàng: {STAT}x2 máu, ST tăng, 4 sóng, hồi 3x3\n{FLAVOR}Nối vòi cứu hỏa sau lưng: \"Á á nước tràn bờ rồi tắt van mau lên!!\""
   },
   {
     "file": "NewPlantStrings.txt",
@@ -855,7 +855,7 @@
     "file": "NewPlantStrings.txt",
     "key": "KEYBEAN_DESCRIPTION",
     "en": "The garden's premier security vault!\n{AQUATIC}Unlocked at 220 Zen Garden Plants\n{KEYWORD}Special: {STAT}1. Locks other plants on tile untargetable while present; 2. Shoveling Key Bean unlocks them and resets their seed cooldowns\n{KEYWORD}Limit: {STAT}Price doubles per Key Bean on field\n{SHORTLINE}\n{FLAVOR}Lives by \"He who locks must unlock\" — except he only knows how to lock!",
-    "vi": "Bậc thầy bảo hiểm an toàn cho cây!\n{AQUATIC}Mở khóa: Chăm 220 cây Vườn Thiền\n{KEYWORD}Đặc điểm: {STAT}1. Đứng cùng ô khóa bảo vệ các cây khác khỏi bị zombie nhắm; 2. Đào Đậu mở khóa & xóa hồi chiêu của chúng\n{KEYWORD}Giới hạn: {STAT}Mỗi cây làm giá tăng gấp đôi\n{SHORTLINE}\n{FLAVOR}Tâm đắc câu \"Buộc chuông phải mở chuông\", mỗi tội chỉ biết khóa chứ quên mở."
+    "vi": "Bậc thầy bảo hiểm an toàn cho cây!\n{AQUATIC}Mở khóa: 220 cây Vườn Thiền\n{KEYWORD}Đặc điểm: {STAT}1. Khóa bảo vệ cây cùng ô khỏi bị zombie nhắm; 2. Đào Đậu mở khóa & xóa hồi chiêu ngay\n{KEYWORD}Giới hạn: {STAT}Giá tăng x2 mỗi cây trên sân\n{SHORTLINE}\n{FLAVOR}Tâm đắc câu \"Buộc chuông phải mở chuông\", mỗi tội chỉ biết khóa chứ quên mở."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -878,7 +878,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "CHERRYMINE_DESCRIPTION",
-    "en": "Chain-detonates Cherry Spores globally!\n{SHORTLINE}\n{KEYWORD}Power: {STAT}1800 | {KEYWORD}Range: {STAT}3x3 / Full screen\n{KEYWORD}Special: {STAT}1. Arms in 5s; 2. Blast coats 3x3 foes in Cherry Spores, detonating all spored zombies screen-wide (each 3x3, 200 dmg)\n{SHORTLINE}\n{FLAVOR}Customers rave about his fast-food stall's mashed cherry potatoes!",
+    "en": "Global Cherry Spore chain blasts!\n{SHORTLINE}\n{KEYWORD}Power: {STAT}1800 | {KEYWORD}Range: {STAT}3x3 / Screen\n{KEYWORD}Special: {STAT}1. Arms in 5s; 2. Blast coats 3x3 foes in Cherry Spores, detonating all spored foes screen-wide (3x3, 200 dmg ea)\n{SHORTLINE}\n{FLAVOR}Customers rave about his fast-food stall's mashed cherry potatoes!",
     "vi": "Nổ chuỗi Bào Tử Anh Đào toàn sân!\n{SHORTLINE}\n{KEYWORD}Sức mạnh: {STAT}1800 | {KEYWORD}Tầm: {STAT}3x3 / Toàn sân\n{KEYWORD}Đặc điểm: {STAT}1. Chờ 5s lên nòng; 2. Nổ 3x3 gắn Bào Tử Anh Đào rồi kích nổ mọi quái mang bào tử toàn sân (mỗi con nổ 3x3 gây 200 ST)\n{SHORTLINE}\n{FLAVOR}Tiệm khoai tây nghiền sốt anh đào thơm nức mũi của cậu bán siêu chạy."
   },
   {
@@ -902,8 +902,8 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "TALLNUTGAR_DESCRIPTION",
-    "en": "An unjumpable garlic-scented fortress!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}8000\n{KEYWORD}Special: {STAT}1. Blocks vaults & diverts biters; 2. 30%/bite for 3s Poison; 3. Survives 3 smashes, triggering Garlic Jalapeno per degrade/death\n{SHORTLINE}\n{FLAVOR}\"Purely intimidating stature! Okay, a drop of allicin... hey, why's my head pointy?\"",
-    "vi": "Bức tường mùi tỏi chặn nhảy vượt qua.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}8000\n{KEYWORD}Đặc điểm: {STAT}1. Chặn nhảy & đuổi zombie đổi hàng; 2. Mỗi cắn 30% độc 3s; 3. Chịu 3 lần đập, mỗi nấc nứt/chết kích hoạt Ớt Cay Vị Tỏi\n{SHORTLINE}\n{FLAVOR}\"Không gen tỏi đâu, uy nghiêm hù chạy đấy — chỉ thêm xíu tinh chất, soi đầu nhọn gì?!\""
+    "en": "Unjumpable garlic-scented fortress!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}8000\n{KEYWORD}Special: {STAT}1. Blocks vaults & diverts biters; 2. 30%/bite for 3s Poison; 3. Survives 3 smashes, triggering Garlic Jalapeno per degrade/death\n{SHORTLINE}\n{FLAVOR}\"Purely intimidating! Okay, a drop of allicin... hey, why's my head pointy?\"",
+    "vi": "Bức tường mùi tỏi chặn nhảy vượt!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}8000\n{KEYWORD}Đặc điểm: {STAT}1. Chặn nhảy & đuổi zombie đổi hàng; 2. Mỗi cắn 30% độc 3s; 3. Chịu 3 lần đập, mỗi nấc nứt/chết kích Ớt Cay Vị Tỏi\n{SHORTLINE}\n{FLAVOR}\"Không gen tỏi đâu, uy nghiêm hù đấy — chỉ thêm xíu tinh chất, soi đầu nhọn gì?!\""
   },
   {
     "file": "NewPlantStrings.txt",
@@ -926,7 +926,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "STARLEAF_DESCRIPTION",
-    "en": "Bounced foes & shots fall as meteors!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}1000 | {KEYWORD}Power: {STAT}100 (Meteor) / 200 (Hyper)\n{KEYWORD}Special: {STAT}1. Umbrella shield bounces Hypnotists repeatedly; 2. Bounce drops a 3x3 meteor on nearest zombie; 3. 20% Hyper Meteor (+2s stun)\n{SHORTLINE}\n{FLAVOR}\"Believe in gravity? Everything tossed up crashes down as a falling star!\"",
+    "en": "Bounced threats drop as meteors!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}1000 | {KEYWORD}Dmg: {STAT}100 / 200 (Hyper)\n{KEYWORD}Special: {STAT}1. Umbrella shield bounces Hypnotists endlessly; 2. Bounces drop a 3x3 meteor on nearest foe; 3. 20% Hyper (+2s stun)\n{SHORTLINE}\n{FLAVOR}\"Believe in gravity? Everything tossed up crashes down as a falling star!\"",
     "vi": "Vật bị hất lên đều hóa sao băng rơi!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}1000 | {KEYWORD}ST: {STAT}100 (Sao) / 200 (Siêu)\n{KEYWORD}Đặc điểm: {STAT}1. Bảo vệ như Lá Ô, hất Thôi Miên Sư nhiều lần; 2. Mỗi lần hất quái/đạn thả 1 Sao Băng nổ 3x3 xuống quái gần nhất; 3. 20% Sao Siêu Năng choáng 2s\n{SHORTLINE}\n{FLAVOR}\"Tin trọng lực không? Vật bay lên rồi đều hóa sao băng rơi xuống hết!\""
   },
   {
@@ -951,7 +951,7 @@
     "file": "NewPlantStrings.txt",
     "key": "GLOOMSQUASH_DESCRIPTION",
     "en": "Sprays spores with seismic slams!\n{SHORTLINE}\n{KEYWORD}Power: {STAT}20x4x2 (Spores+Quakes)/2s | {KEYWORD}Range: {STAT}3x3\n{KEYWORD}Special: {STAT}1. Shockwaves 3% 2s stun; 2. Hits Balloons (spores) & Diggers (quakes + 10% stun)\n{KEYWORD}On Death: {STAT}Triggers Squash smash\n{SHORTLINE}\n{FLAVOR}\"I'm SQUASHING mad — guess extreme gloom turned into pure rage!\"",
-    "vi": "Phun bào tử & dậm địa chấn 3x3!\n{SHORTLINE}\n{KEYWORD}ST: {STAT}20x4x2 (Bào tử+Chấn động)/2s | {KEYWORD}Tầm: {STAT}3x3\n{KEYWORD}Đặc điểm: {STAT}1. Địa chấn 3% choáng 2s; 2. Đánh Khinh Khí Cầu (bào tử) & Thợ Mỏ dưới đất (địa chấn + 10% choáng)\n{KEYWORD}Khi chết: {STAT}Kích hoạt cú đè Bí Đao\n{SHORTLINE}\n{FLAVOR}\"Hay nổi quạu vô cớ — nghe bảo triệu chứng trầm cảm nặng hóa cuồng nộ.\""
+    "vi": "Phun bào tử & dậm địa chấn 3x3!\n{SHORTLINE}\n{KEYWORD}ST: {STAT}20x4x2 (Bào tử+Địa chấn)/2s | {KEYWORD}Tầm: {STAT}3x3\n{KEYWORD}Đặc điểm: {STAT}1. Địa chấn 3% choáng 2s; 2. Đánh Khinh Khí Cầu (bào tử) & Thợ Mỏ (địa chấn + 10% choáng)\n{KEYWORD}Khi chết: {STAT}Kích hoạt cú đè Bí Đao\n{SHORTLINE}\n{FLAVOR}\"Hay nổi quạu vô cớ — nghe bảo trầm cảm nặng quá hóa cuồng nộ.\""
   },
   {
     "file": "NewPlantStrings.txt",
@@ -1046,7 +1046,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "CHOMPERBLOW_DESCRIPTION",
-    "en": "Who bolted a vacuum onto Chomper?!\n{SHORTLINE}\n{KEYWORD}Power: {STAT}Eats small zombies | {KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Special: {STAT}1. Vacuums & eats approaching small zombies; 2. After digesting, blasts all small lane zombies back 2 tiles\n{SHORTLINE}\n{FLAVOR}Dave bragged about his zombie-biofuel fan; Chomper yells: \"Get in my belly!\"",
+    "en": "Who bolted a fan onto Chomper?!\n{SHORTLINE}\n{KEYWORD}Dmg: {STAT}Eats small foes | {KEYWORD}Range: {STAT}Lane\n{KEYWORD}Special: {STAT}1. Vacuums & eats approaching small zombies; 2. After digesting, blows all small lane zombies back 2 tiles\n{SHORTLINE}\n{FLAVOR}Dave bragged of his zombie-biofuel fan; Chomper yells: \"Get in my belly!\"",
     "vi": "Mang máy hút bụi ra chiến trường?\n{SHORTLINE}\n{KEYWORD}ST: {STAT}Nuốt zombie nhỏ | {KEYWORD}Tầm: {STAT}Một hàng trước\n{KEYWORD}Đặc điểm: {STAT}1. Quay quạt hút zombie nhỏ lại ăn; 2. Tiêu hóa xong thổi đẩy toàn bộ zombie nhỏ trên hàng lùi 2 ô\n{SHORTLINE}\n{FLAVOR}Dave khoe quạt chạy bằng zombie, Ăn Thịt chẳng màng miễn đồ ăn bay vô miệng!"
   },
   {
@@ -1071,7 +1071,7 @@
     "file": "NewPlantStrings.txt",
     "key": "NUTCANNON_DESCRIPTION",
     "en": "Cannon burning its own HP as ammo!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}2000~4000 | {KEYWORD}Power: {STAT}1800 | {KEYWORD}Range: {STAT}3x3\n{KEYWORD}Special: {STAT}1. +100 HP/5s; 2. Click to spend 1800 HP & fire; 3. Zero reload delay if enough HP\n{KEYWORD}Limit: {STAT}Cannot wear a Pumpkin\n{SHORTLINE}\n{FLAVOR}\"No jokes mid-aim,\" warns Bandage Nut Cannon, \"or I'll split a stitch!\"",
-    "vi": "Pháo dùng chính sinh mạng làm đạn!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}2000~4000 | {KEYWORD}ST: {STAT}1800 | {KEYWORD}Tầm: {STAT}3x3\n{KEYWORD}Đặc điểm: {STAT}1. Mỗi 5s hồi 100 máu; 2. Nhấn tốn 1800 máu bắn ngay; 3. Không hồi chiêu nếu đủ máu\n{KEYWORD}Giới hạn: {STAT}Không bọc được Bí Ngô\n{SHORTLINE}\n{FLAVOR}\"Đừng kể chuyện cười lúc tôi gồng, kẻo cười rách băng gạc nổ nòng mất!\""
+    "vi": "Pháo dùng chính sinh mạng làm đạn!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}2000~4000 | {KEYWORD}ST: {STAT}1800 | {KEYWORD}Tầm: {STAT}3x3\n{KEYWORD}Đặc điểm: {STAT}1. Mỗi 5s hồi 100 máu; 2. Nhấn tốn 1800 máu bắn ngay; 3. Đủ máu bắn không hồi\n{KEYWORD}Giới hạn: {STAT}Không bọc được Bí Ngô\n{SHORTLINE}\n{FLAVOR}\"Đừng chọc cười lúc tôi gồng, kẻo cười rách băng gạc nổ nòng!\""
   },
   {
     "file": "NewPlantStrings.txt",
@@ -1095,7 +1095,7 @@
     "file": "NewPlantStrings.txt",
     "key": "PRESENTMAGIC_DESCRIPTION",
     "en": "Now you see them — now you don't!\n{SHORTLINE}\n{KEYWORD}Range: {STAT}3x3\n{KEYWORD}Special: {STAT}Pulls all plants and zombies in 3x3 into the hat, releasing them 30s later (plants return as seed packets)\n{SHORTLINE}\n{FLAVOR}\"Everyone gripes that 'Disappearing Act' should only vanish humans! Look, plants and zombies are the best audience I've got!\"",
-    "vi": "Màn ảo thuật làm biến mất tất cả!\n{SHORTLINE}\n{KEYWORD}Phạm vi: {STAT}3x3\n{KEYWORD}Đặc điểm: {STAT}Thu gọn mọi cây và zombie trong 3x3 vào hộp, 30 giây sau thả trở lại (cây rớt ra dạng thẻ bài)\n{SHORTLINE}\n{FLAVOR}Làm ảo thuật gia khổ lắm: dân mạng cứ cằn nhằn tiết mục sai đề vì làm biến mất toàn cây với zombie thay vì người sống."
+    "vi": "Màn ảo thuật làm biến mất tất cả!\n{SHORTLINE}\n{KEYWORD}Tầm: {STAT}3x3 | {KEYWORD}Đặc điểm: {STAT}Thu gọn cây & zombie trong 3x3 vào hộp, 30s sau thả lại (cây rớt dạng thẻ bài)\n{SHORTLINE}\n{FLAVOR}Làm ảo thuật gia khổ lắm: dân mạng cứ chê sai đề vì làm biến mất toàn cây với zombie thay vì người sống."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -1143,7 +1143,7 @@
     "file": "NewPlantStrings.txt",
     "key": "ICESHROOMMINI_DESCRIPTION",
     "en": "Pint-sized Ice-shrooms — two for one!\n{SHORTLINE}\n{KEYWORD}Range: {STAT}Own tile\n{KEYWORD}Special: {STAT}Buy 1 get 1 free; freezes touching zombies on its tile for 8s\n{SHORTLINE}\n{FLAVOR}Hates height jokes: \"Short?! We're fully grown adults — and NO, we're not related to any Egyptian Iceberg Lettuce!\"",
-    "vi": "Nấm Băng thu nhỏ, mua một tặng một siêu tiện!\n{SHORTLINE}\n{KEYWORD}Phạm vi: {STAT}Ô đang đứng\n{KEYWORD}Đặc điểm: {STAT}Mua 1 tặng 1; khi bị zombie chạm sẽ kích hoạt đóng băng 8 giây tại ô đó\n{SHORTLINE}\n{FLAVOR}Ghét nhất bị chê lùn: \"Nhỏ nhưng có võ nhé! Mà tụi tôi chẳng họ hàng gì với cây Xà Lách Băng bên Ai Cập đâu!\""
+    "vi": "Nấm Băng mini — mua 1 tặng 1 cực tiện!\n{SHORTLINE}\n{KEYWORD}Tầm: {STAT}Ô đứng | {KEYWORD}Đặc điểm: {STAT}Mua 1 tặng 1; khi bị zombie chạm sẽ đóng băng 8s tại ô đó\n{SHORTLINE}\n{FLAVOR}Ghét nhất bị chê lùn: \"Nhỏ nhưng có võ nhé! Mà tụi tôi chẳng họ hàng gì với cây Xà Lách Băng bên Ai Cập đâu!\""
   },
   {
     "file": "NewPlantStrings.txt",
@@ -1215,7 +1215,7 @@
     "file": "NewPlantStrings.txt",
     "key": "BROOMBEAN_DESCRIPTION",
     "en": "Airborne sanitation officer!\n{SHORTLINE}\n{KEYWORD}Sweep: {STAT}3 tiles (left, center, right)\n{KEYWORD}Special: {STAT}1. Coffee Bean-class; 2. Every 10s clears all obstacles except normal craters (incl. Magnet-shroom metal)\n{SHORTLINE}\n{FLAVOR}\"SWEEP! Keep Magnet-shrooms away — they keep sucking junk onto my clean lawn!\"",
-    "vi": "Vệ sĩ môi trường biết bay!\n{SHORTLINE}\n{KEYWORD}Phạm vi dọn: {STAT}Ba ô (trái, giữa, phải)\n{KEYWORD}Đặc điểm: {STAT}1. Nhóm Hạt Cà Phê; 2. Mỗi 10s dọn sạch mọi chướng ngại trong vùng trừ hố thường, kể cả sắt đang kẹt ở Nấm Nam Châm\n{SHORTLINE}\n{FLAVOR}\"QUÉT! QUÉT! QUÉT! Bảo mấy tên đội nam châm tránh xa tôi ra — cứ hút đống sắt vụn về làm bẩn sân mãi!\""
+    "vi": "Vệ sĩ môi trường biết bay!\n{SHORTLINE}\n{KEYWORD}Phạm vi dọn: {STAT}Ba ô (trái, giữa, phải)\n{KEYWORD}Đặc điểm: {STAT}1. Nhóm Hạt Cà Phê; 2. Mỗi 10s dọn sạch chướng ngại trừ hố thường (gồm sắt ở Nấm Nam Châm)\n{SHORTLINE}\n{FLAVOR}\"QUÉT! QUÉT! Bảo mấy tên đội nam châm tránh xa ra — cứ hút đống sắt vụn về bẩn sân mãi!\""
   },
   {
     "file": "NewPlantStrings.txt",
@@ -1262,7 +1262,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "PUMPKINROCK_DESCRIPTION",
-    "en": "Spikerock shell with 360° protection!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}8000 | {KEYWORD}Power: {STAT}20x2/1.5s (near foes)\n{KEYWORD}Special: {STAT}1. Shields inner plants; 2. Blocks 8 smashes/crushes (-1000 HP ea, reflects 1000 dmg to Gargantuars)\n{SHORTLINE}\n{FLAVOR}Swears he hates babysitting — wears spikes for privacy (ignoring the Sunflower inside).",
+    "en": "Spikerock shell with 360° protection!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}8000 | {KEYWORD}Dmg: {STAT}20x2/1.5s (nearby)\n{KEYWORD}Special: {STAT}1. Shields inner plants; 2. Blocks 8 smashes/crushes (-1000 HP ea, reflects 1000 dmg to Gargantuars)\n{SHORTLINE}\n{FLAVOR}Swears he hates babysitting — wears spikes for privacy (ignoring the Sunflower inside).",
     "vi": "Áo giáp siêu cứng bảo vệ cây bên trong!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}8000 | {KEYWORD}ST: {STAT}20x2/1.5s (quái gần)\n{KEYWORD}Đặc điểm: {STAT}1. Chịu đòn ngoài thay cây trong; 2. Đỡ 8 lần đập/cán (-1000 máu mỗi lần & phản 1000 ST lại kẻ đập)\n{SHORTLINE}\n{FLAVOR}Cứ làm bộ khó gần không muốn che chở ai, nhưng luôn bảo vệ chặt đồng đội."
   },
   {
@@ -1287,7 +1287,7 @@
     "file": "NewPlantStrings.txt",
     "key": "FLAGBEAN_DESCRIPTION",
     "en": "Rallies bonus undead reinforcements!\n{SHORTLINE}\n{KEYWORD}Special: {STAT}1. Coffee Bean-class; 2. When Zombie Sunflower / Pea / Wall-nut on tile spawns an ally, Flag Bean spawns an extra match\n{SHORTLINE}\n{FLAVOR}Lives by \"Turn their spear on their shield!\" Still baffled why some wear helmets.",
-    "vi": "Phối hợp cây hệ Zombie gọi viện binh!\n{SHORTLINE}\n{KEYWORD}Đặc điểm: {STAT}1. Nhóm Hạt Cà Phê; 2. Khi Hướng Dương Zombie / Súng Đậu Zombie / Hạt Dẻ Zombie cùng ô gọi quân, Đậu Cờ gọi kèm thêm 1 con cùng loại\n{SHORTLINE}\n{FLAVOR}Thuộc làu binh pháp \"Lấy gậy ông đập lưng ông\", dù lạ sao quân hay đội mũ sắt."
+    "vi": "Cùng cây hệ Zombie gọi viện binh!\n{SHORTLINE}\n{KEYWORD}Đặc điểm: {STAT}1. Nhóm Hạt Cà Phê; 2. Khi Hướng Dương Zombie / Súng Đậu Zombie / Hạt Dẻ Zombie cùng ô gọi quân, Đậu Cờ gọi thêm 1 con cùng loại\n{SHORTLINE}\n{FLAVOR}Thuộc làu binh pháp \"Lấy gậy ông đập lưng ông\", lạ sao lính hay đội mũ sắt."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -1382,8 +1382,8 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "MAGNETSHROOMICE_DESCRIPTION",
-    "en": "Chills metal-bearers into Ice Orbs!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Range: {STAT}3-tile radius | {KEYWORD}CD: {STAT}15s\n{KEYWORD}Special: {STAT}1. Pulling metal applies 15s chill in 3x3 around target; 2. After digesting, fires a homing Ice Orb\n{KEYWORD}Ice Orb: {STAT}100 dmg in 3x3 + freeze & chill\n{SHORTLINE}\n{FLAVOR}\"Conservation of energy...\" Voice trails off — tough flexing physics when you flunked!",
-    "vi": "Hút sắt làm lạnh & đổi thành Cầu Băng!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}300 | {KEYWORD}R: {STAT}3 ô | {KEYWORD}Hút: {STAT}15s\n{KEYWORD}Đặc điểm: {STAT}1. Hút sắt làm chậm 15s vùng 3x3 quanh mục tiêu; 2. Hết hồi chiêu bắn 1 Cầu Băng truy đuổi\n{KEYWORD}Cầu Băng: {STAT}100 ST 3x3 + đóng băng & làm chậm\n{SHORTLINE}\n{FLAVOR}Giảng bảo toàn năng lượng cho ngầu, xong nhỏ tiếng vì từng liệt Vật Lý."
+    "en": "Chills metal-bearers into Ice Orbs!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Range: {STAT}3 tiles | {KEYWORD}CD: {STAT}15s\n{KEYWORD}Special: {STAT}1. Pulling metal applies 15s chill in 3x3 around target; 2. After digesting, fires a homing Ice Orb\n{KEYWORD}Ice Orb: {STAT}100 3x3 dmg + freeze & chill\n{SHORTLINE}\n{FLAVOR}\"Conservation of energy...\" Voice fades — tough flexing physics when you flunked!",
+    "vi": "Hút sắt làm lạnh, bắn ra Cầu Băng!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}300 | {KEYWORD}R: {STAT}3 ô | {KEYWORD}Hút: {STAT}15s\n{KEYWORD}Đặc điểm: {STAT}1. Hút sắt làm chậm 15s vùng 3x3 quanh mục tiêu; 2. Hết hồi chiêu bắn 1 Cầu Băng truy đuổi\n{KEYWORD}Cầu Băng: {STAT}100 ST 3x3 + băng, chậm\n{SHORTLINE}\n{FLAVOR}Giảng bảo toàn năng lượng cho ngầu, xong nhỏ tiếng vì từng liệt Vật Lý."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -1455,7 +1455,7 @@
     "file": "NewPlantStrings.txt",
     "key": "GATLINGPEAZ_DESCRIPTION",
     "en": "Zombie Peashooter's big bro arrives!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}1000 | {KEYWORD}Dmg: {STAT}40x4/1.5s | {KEYWORD}Range: {STAT}Lane\n{KEYWORD}Special: {STAT}1. Summons charmed Gatling Pea Zombie/30s; 2. With Flag Zombie Bean on tile, 40% chance for Wild Gatling Zombie\n{SHORTLINE}\n{FLAVOR}\"Plant or zombie doesn't matter — at heart, we all fight for BRAINS!\"",
-    "vi": "Anh cả Súng Đậu Zombie xuất trận!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}1000 | {KEYWORD}ST: {STAT}40x4/1.5s | {KEYWORD}Tầm: {STAT}Một hàng\n{KEYWORD}Đặc điểm: {STAT}1. Mỗi 30s gọi 1 Zombie Súng Máy phe ta; 2. Có Đậu Cờ Zombie cùng ô sẽ 40% gọi Zombie Súng Máy Cuồng Dã phe ta\n{SHORTLINE}\n{FLAVOR}\"Cây hay zombie không quan trọng — cốt lõi là ai cũng chiến đấu vì Não cả!\""
+    "vi": "Anh cả Súng Đậu Zombie xuất trận!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}1000 | {KEYWORD}ST: {STAT}40x4/1.5s | {KEYWORD}Tầm: {STAT}Hàng\n{KEYWORD}Đặc điểm: {STAT}1. Mỗi 30s gọi 1 Zombie Súng Máy phe ta; 2. Có Đậu Cờ Zombie cùng ô sẽ 40% gọi Zombie Súng Máy Cuồng Dã phe ta\n{SHORTLINE}\n{FLAVOR}\"Cây hay zombie chẳng sao — cốt lõi ai cũng chiến đấu vì Não cả!\""
   },
   {
     "file": "NewPlantStrings.txt",
@@ -1503,7 +1503,7 @@
     "file": "NewPlantStrings.txt",
     "key": "PUMPKINUM_DESCRIPTION",
     "en": "Bounces straight zombie shots back!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}4000\n{KEYWORD}Special: {STAT}1. No aerial Umbrella shield, but blocks enemy fireball splash; 2. Spends HP to reflect straight enemy shots forward\n{SHORTLINE}\n{FLAVOR}Wove shed leaves to look like missing cousin Renfield — got turned into a flower pot!",
-    "vi": "Giương tán lá phản đạn thẳng zombie!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Đặc điểm: {STAT}1. Không chống nhảy dù nhưng chặn sát thương lan cầu lửa zombie; 2. Tốn máu phản ngược đạn thẳng zombie về trước\n{SHORTLINE}\n{FLAVOR}Kết lá rụng cho giống ông anh họ mất tích, ai ngờ bị biến thành bồn hoa luôn."
+    "vi": "Tán lá phản ngược đạn thẳng zombie!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000\n{KEYWORD}Đặc điểm: {STAT}1. Không chống nhảy dù nhưng chặn sát thương lan cầu lửa zombie; 2. Tốn máu phản ngược đạn thẳng zombie về trước\n{SHORTLINE}\n{FLAVOR}Kết lá rụng cho giống anh họ mất tích, ai ngờ biến thành bồn hoa luôn."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -1526,7 +1526,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "POTSPIKE_DESCRIPTION",
-    "en": "Unassuming look — deadly underfoot!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Dmg: {STAT}20/1.5s | {KEYWORD}Range: {STAT}Own tile\n{KEYWORD}Special: {STAT}1. Flower Pot on bare earth; 2. Low, unbitable; 3. Pops one car; 4. Digger Imps ignore tile plants\n{SHORTLINE}\n{FLAVOR}Zombies wonder why thorns don't poke inner plants — all spikes face outward!",
+    "en": "Plain look — deadly underfoot!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Dmg: {STAT}20/1.5s | {KEYWORD}Range: {STAT}Tile\n{KEYWORD}Special: {STAT}1. Flower Pot on bare earth; 2. Low, unbitable; 3. Pops one car; 4. Digger Imps ignore tile plants\n{SHORTLINE}\n{FLAVOR}Zombies wonder why thorns miss inner plants — all spikes face outward!",
     "vi": "Chiếc chậu bình thường nhưng đâm cực buốt.\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}300 | {KEYWORD}ST: {STAT}20/1.5s | {KEYWORD}Tầm: {STAT}Ô đứng\n{KEYWORD}Đặc điểm: {STAT}1. Chậu Hoa trồng đất trơ; 2. Thấp không bị gặm; 3. Chọc nổ xe 1 lần; 4. Thợ Mỏ Nhí Đâm Gai bỏ qua cây cùng ô\n{SHORTLINE}\n{FLAVOR}Zombie thắc mắc sao gai không đâm cây trong — tại gai chĩa ra ngoài đấy!"
   },
   {
@@ -1574,7 +1574,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "CORNPULTM_DESCRIPTION",
-    "en": "Hurls unstable magnets down the lane!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Dmg: {STAT}60/2s | {KEYWORD}Range: {STAT}Lane\n{KEYWORD}Special: {STAT}30% chance for Charged Magnet\n{KEYWORD}Charged Magnet: {STAT}60 dmg, steals nearby metal on hit & deals 60-dmg single-tile blast\n{SHORTLINE}\n{FLAVOR}\"MAGNET OUT!!\" Nobody asks why — not when he's pitching solid iron!",
+    "en": "Hurls unstable magnets down lanes!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Dmg: {STAT}60/2s | {KEYWORD}Range: {STAT}Lane\n{KEYWORD}Special: {STAT}30% Charged Magnet\n{KEYWORD}Charged Magnet: {STAT}60 dmg, steals nearby metal on hit & deals 60-dmg single-tile blast\n{SHORTLINE}\n{FLAVOR}\"MAGNET OUT!!\" Nobody asks why — not when he's pitching solid iron!",
     "vi": "Ném nam châm mất ổn định ra sân!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}300 | {KEYWORD}ST: {STAT}60/2s | {KEYWORD}Tầm: {STAT}Một hàng\n{KEYWORD}Đặc điểm: {STAT}30% ném Nam Châm Tích Điện\n{KEYWORD}Nam Châm: {STAT}60 ST, hút sắt lân cận khi trúng & nổ 60 ST trong 1 ô\n{SHORTLINE}\n{FLAVOR}Khoái hét \"Ném bom từ trường!\" — chẳng ai dám vặn vì cục sắt nặng trịch thật."
   },
   {
@@ -1647,7 +1647,7 @@
     "file": "NewPlantStrings.txt",
     "key": "ICESHROOMTOP_DESCRIPTION",
     "en": "Absolute zero punishes the horde!\n{SHORTLINE}\n{KEYWORD}Dmg: {STAT}100 or 1800 | {KEYWORD}Range: {STAT}Full screen\n{KEYWORD}Special: {STAT}1. Freezes all zombies 8s + 100 dmg; 2. Deals 1800 dmg to frozen or freeze-immune foes\n{SHORTLINE}\n{FLAVOR}Folks tease his grandiose nicknames — he merely borrowed frost tricks from shady pals.",
-    "vi": "Cái lạnh thấu xương quét chiến trường!\n{SHORTLINE}\n{KEYWORD}ST: {STAT}100 hoặc 1800 | {KEYWORD}Tầm: {STAT}Toàn sân\n{KEYWORD}Đặc điểm: {STAT}1. Đóng băng mọi zombie 8s & gây 100 ST; 2. Gây thẳng 1800 ST lên quái đã đóng băng hoặc miễn đóng băng\n{SHORTLINE}\n{FLAVOR}Bị đặt biệt danh nghe như tướng bài, ngài cười trừ — học lỏm Nấm Độc Ảnh thôi."
+    "vi": "Cái lạnh thấu xương đóng băng sân!\n{SHORTLINE}\n{KEYWORD}ST: {STAT}100 hoặc 1800 | {KEYWORD}Tầm: {STAT}Toàn sân\n{KEYWORD}Đặc điểm: {STAT}1. Đóng băng mọi zombie 8s & gây 100 ST; 2. Gây 1800 ST lên quái đã đóng băng hoặc miễn đóng băng\n{SHORTLINE}\n{FLAVOR}Nghe biệt danh như tướng bài, ngài cười trừ — học lỏm Nấm Độc Ảnh thôi."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -1718,7 +1718,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "LILYKELP_DESCRIPTION",
-    "en": "Drags zombies down & leaves Lily Pad!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Dmg: {STAT}Instant (no Boss) | {KEYWORD}Range: {STAT}Tile\n{KEYWORD}Special: {STAT}1. Plants over Lily Pad / Pea Lily / Aquatic Pot Lily; 2. Drags a zombie & leaves a Lily Pad immune to bites/shots 2s\n{SHORTLINE}\n{FLAVOR}Lily Pad slept so soundly he thought tangled seaweed was a cozy blanket!",
+    "en": "Pulls foes under & leaves a Lily Pad!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Dmg: {STAT}Instant (no Boss) | {KEYWORD}Range: {STAT}Tile\n{KEYWORD}Special: {STAT}1. Over Lily Pad / Pea Lily / Aquatic Pot Lily; 2. Drags 1 foe & leaves a Lily Pad immune to bites/shots 2s\n{SHORTLINE}\n{FLAVOR}Lily Pad slept so soundly he thought tangled seaweed was a cozy blanket!",
     "vi": "Kéo zombie áp sát & để lại Lá Sen.\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}300 | {KEYWORD}ST: {STAT}Hạ tức thì (trừ Boss) | {KEYWORD}Tầm: {STAT}Ô đứng\n{KEYWORD}Đặc điểm: {STAT}1. Trồng đè Lá Sen thường/Đậu/Chậu nước; 2. Kéo 1 zombie để lại Lá Sen miễn gặm & đạn 2s\n{SHORTLINE}\n{FLAVOR}Lá Sen ngủ say, bị rong biển quấn vẫn tưởng ai đắp chăn ấm."
   },
   {
@@ -1742,8 +1742,8 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "FUMESHROOMBLOW_DESCRIPTION",
-    "en": "Blasts piercing gusts pushing lanes!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Dmg: {STAT}40/1.5s (Norm), 500 (Charged)\n{KEYWORD}Range: {STAT}4 tiles (Norm) / Lane (Charged)\n{KEYWORD}Special: {STAT}1. Light pushback; 2. Click for mega gust shoving lane far back, then rests 30s\n{SHORTLINE}\n{FLAVOR}Blowing gales is tiring — just needs a quick breather. Don't overthink it.",
-    "vi": "Phóng luồng khí xuyên đẩy lùi zombie!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}300 | {KEYWORD}ST: {STAT}40/1.5s (Thường), 500 (Tụ)\n{KEYWORD}Phạm vi: {STAT}4 ô (Thường) / Một hàng (Tụ)\n{KEYWORD}Đặc điểm: {STAT}1. Đòn thường đẩy nhẹ; 2. Nhấn tung gió lớn đẩy cả hàng lùi xa rồi nghỉ mệt 30s\n{SHORTLINE}\n{FLAVOR}Thổi mạnh quá cần chợp mắt chút thôi, đừng nghĩ ngợi sâu xa làm gì nhé."
+    "en": "Blasts piercing gusts pushing lanes!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Dmg: {STAT}40/1.5s, 500 | {KEYWORD}Range: {STAT}4 tiles/Lane\n{KEYWORD}Special: {STAT}1. Light pushback; 2. Click for mega gust shoving lane far back, then rests 30s\n{SHORTLINE}\n{FLAVOR}Blowing gales is tiring — just needs a quick breather. Don't overthink it.",
+    "vi": "Phóng luồng gió xuyên đẩy lùi zombie!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}300 | {KEYWORD}ST: {STAT}40/1.5s, 500 | {KEYWORD}Tầm: {STAT}4 ô/Hàng\n{KEYWORD}Đặc điểm: {STAT}1. Đòn thường đẩy nhẹ; 2. Nhấn tung gió lớn đẩy cả hàng lùi xa rồi nghỉ 30s\n{SHORTLINE}\n{FLAVOR}Thổi mạnh quá cần chợp mắt chút thôi, đừng nghĩ ngợi sâu xa làm gì."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -1790,7 +1790,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "CATLEAF_DESCRIPTION",
-    "en": "Homing canopy missiles — express!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Dmg: {STAT}50/3s / Kill Bungee\n{KEYWORD}Range: {STAT}Full-screen homing\n{KEYWORD}Special: {STAT}1. Amphibious (no local shield); 2. Missiles push back 3x3 ground foes (+20 dmg); 3. Prioritizes Bungees\n{SHORTLINE}\n{FLAVOR}Hands out free umbrellas — bangs make them smack passersby's faces!",
+    "en": "Homing canopy missiles — express!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Dmg: {STAT}50/3s / Kill Bungee\n{KEYWORD}Range: {STAT}Full-screen homing\n{KEYWORD}Special: {STAT}1. Amphibious (no tile shield); 2. Missiles push 3x3 ground foes (+20 dmg); 3. Targets Bungees 1st\n{SHORTLINE}\n{FLAVOR}Hands out free umbrellas — bangs make them hit passersby's faces!",
     "vi": "Tên lửa ô truy đuổi đóng gói phóng!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}300 | {KEYWORD}ST: {STAT}50/3s (Diệt Bungee)\n{KEYWORD}Phạm vi: {STAT}Truy đuổi toàn màn hình\n{KEYWORD}Đặc điểm: {STAT}1. Trồng cạn/nước (không Ô che); 2. Trúng đích bung ô đẩy quái đất 3x3 (+20 ST); 3. Ưu tiên Bungee\n{SHORTLINE}\n{FLAVOR}Thích phát ô che nắng, mỗi tội tóc che mắt nên toàn ném trúng mặt người qua đường."
   },
   {
@@ -1910,7 +1910,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "PUMPKINJACK_DESCRIPTION",
-    "en": "Fits allies with Pandora boxes!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}4000 | {KEYWORD}Dmg: {STAT}1800 (Die) | {KEYWORD}Range: {STAT}3x3\n{KEYWORD}Special: {STAT}1. Jack-in-the-Box blast on death; 2. 30% equips allies with Mini Box\n{KEYWORD}Mini Box: {STAT}Max 1; 3x3 100-dmg on die\n{KEYWORD}Special: {STAT}Excludes Zombie Spiked Balls\n{FLAVOR}Halloween's \"explosively\" dashing star — just don't peek inside!",
+    "en": "Fits allies with Pandora boxes!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}4000 | {KEYWORD}Dmg: {STAT}1800 (Death) | {KEYWORD}Range: {STAT}3x3\n{KEYWORD}Special: {STAT}1. Jack blast on die; 2. 30% gives Mini Box\n{KEYWORD}Mini Box: {STAT}Max 1; 3x3 100-dmg on die\n{KEYWORD}Note: {STAT}No Zombie Spiked Ball\n{FLAVOR}Halloween's \"explosively\" dashing star — don't peek!",
     "vi": "Gắn Hộp Pandora nổ cho phe ta!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}4000 | {KEYWORD}ST: {STAT}1800 (Chết) | {KEYWORD}Tầm: {STAT}3x3\n{KEYWORD}Đặc điểm: {STAT}1. Chết nổ Hộp Nhạc; 2. 30% gắn Hộp Nhạc Nhỏ phe ta qua\n{KEYWORD}Hộp Nhạc Nhỏ: {STAT}Max 1/con, chết nổ 3x3 100 ST\n{KEYWORD}Đặc biệt: {STAT}Kỵ Cầu Gai Cỏ Gai Zombie\n{FLAVOR}Sao Halloween đẹp trai bùng nổ đúng nghĩa — đừng tự ý mở hộp nhé."
   },
   {
@@ -1934,8 +1934,8 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "SCAREDYSHROOMPT_DESCRIPTION",
-    "en": "Commands all Potato Mines to surface!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Dmg: {STAT}40/s (Shot)/1800 (Die) | {KEYWORD}Range: {STAT}Lane/Tile\n{KEYWORD}Special: {STAT}Hides when foes enter 3x3, arming all Potato Mines now\n{KEYWORD}Death & Shovel: {STAT}Triggers Potato Mine blast\n{SHORTLINE}\n{FLAVOR}\"I'm NOT scared — just sending tactical ground signals!\"",
-    "vi": "Hoảng sợ gọi Mìn Khoai chồi lên ngay!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}300 | {KEYWORD}ST: {STAT}40/s (Bắn)/1800 (Chết) | {KEYWORD}Tầm: {STAT}Hàng/Ô\n{KEYWORD}Đặc điểm: {STAT}Có quái trong 3x3 sẽ núp & làm mọi Mìn Khoai trên sân chồi lên ngay\n{KEYWORD}Chết & Đào: {STAT}Kích nổ Mìn Khoai Tây\n{SHORTLINE}\n{FLAVOR}\"Đâu có sợ! Tôi chỉ cúi xuống... truyền tín hiệu mật cho đội mìn thôi!\""
+    "en": "Orders all Potato Mines to surface!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Dmg: {STAT}40/s (Shot)/1800 (Die) | {KEYWORD}Range: {STAT}Lane/Tile\n{KEYWORD}Special: {STAT}Hides when foes enter 3x3, arming all Potato Mines now\n{KEYWORD}Die/Dig: {STAT}Triggers Potato Mine blast\n{SHORTLINE}\n{FLAVOR}\"I'm NOT scared — just sending tactical ground signals!\"",
+    "vi": "Hoảng sợ gọi Mìn Khoai nổi lên ngay!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}300 | {KEYWORD}ST: {STAT}40/s (Bắn)/1800 (Chết) | {KEYWORD}Tầm: {STAT}Hàng/Ô\n{KEYWORD}Đặc điểm: {STAT}Quái vào 3x3 sẽ núp & làm mọi Mìn Khoai trên sân trồi lên ngay\n{KEYWORD}Chết & Đào: {STAT}Kích nổ Mìn Khoai Tây\n{SHORTLINE}\n{FLAVOR}\"Đâu có sợ! Tôi chỉ cúi xuống... truyền tín hiệu mật cho đội mìn thôi!\""
   },
   {
     "file": "NewPlantStrings.txt",
@@ -1958,8 +1958,8 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "MAGNETBOMB_DESCRIPTION",
-    "en": "Yanks armored zombies & blasts them!\n{SHORTLINE}\n{KEYWORD}Power: {STAT}1800 base | {KEYWORD}Range: {STAT}5x5 (Pull) / 3x3 (Blast)\n{KEYWORD}Special: {STAT}Pulls metal-armored foes in range, strips gear & detonates; +100 dmg/pulled zombie (uncapped)\n{SHORTLINE}\n{FLAVOR}Truly magnetic charm — their co-authored shrapnel thesis won top military honors!",
-    "vi": "Hút sạch giáp sắt rồi kích nổ vang trời!\n{SHORTLINE}\n{KEYWORD}ST: {STAT}1800 đầu | {KEYWORD}Tầm: {STAT}5x5 (Hút) / 3x3 (Nổ)\n{KEYWORD}Đặc điểm: {STAT}Hút mọi quái giáp kim loại trong vùng, lột giáp rồi nổ; mỗi con hút tăng 100 ST không giới hạn\n{SHORTLINE}\n{FLAVOR}Cặp anh em sức hút khó cưỡng, bài nghiên cứu bom mảnh được quân sự khen nức nở."
+    "en": "Yanks armored zombies, then blasts!\n{SHORTLINE}\n{KEYWORD}Power: {STAT}1800+ | {KEYWORD}Range: {STAT}5x5 Pull / 3x3 Blast\n{KEYWORD}Special: {STAT}Pulls metal-armored foes in range, strips gear & detonates; +100 dmg/pulled zombie (uncapped)\n{SHORTLINE}\n{FLAVOR}Truly magnetic charm — their co-authored shrapnel thesis won top military honors!",
+    "vi": "Hút giáp sắt rồi phát nổ vang trời!\n{SHORTLINE}\n{KEYWORD}ST: {STAT}1800+ | {KEYWORD}Tầm: {STAT}5x5 Hút / 3x3 Nổ\n{KEYWORD}Đặc điểm: {STAT}Hút mọi quái giáp kim loại trong vùng, lột giáp rồi nổ; mỗi con hút tăng 100 ST không giới hạn\n{SHORTLINE}\n{FLAVOR}Cặp anh em sức hút khó cưỡng, bài nghiên cứu bom mảnh được quân sự khen nức nở."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -1983,7 +1983,7 @@
     "file": "NewPlantStrings.txt",
     "key": "WALLNUTTK_DESCRIPTION",
     "en": "Drags zombies down & weaves a shield!\n{KEYWORD}HP: {STAT}4000 | {KEYWORD}Dmg: {STAT}Instant (no Bosses)\n{KEYWORD}Special: {STAT}1. Aquatic drags foes down; 2. Degrades one stage/drag\n{KEYWORD}On Death: {STAT}Spawns a Kelp Wad ahead\n{KEYWORD}Kelp Wad: {STAT}HP = last zombie dragged; zero footprint; blocks bites & shots\n{SHORTLINE}\n{FLAVOR}Terrifies zombies like a sea monster — actually just a tidy pool janitor.",
-    "vi": "Kéo quái bện thành tấm khiên!\n{KEYWORD}Bền: {STAT}4000 | {KEYWORD}ST: {STAT}Diệt ngay (trừ Boss)\n{KEYWORD}Đặc điểm: {STAT}1. Thủy sinh kéo chìm zombie; 2. Mỗi lần kéo 1 con tụt một nấc bền\n{KEYWORD}Khi chết: {STAT}Để lại Búi Rong phía trước\n{KEYWORD}Búi Rong: {STAT}Máu bằng quái cuối kéo, không chiếm ô, chặn gặm & đạn\n{SHORTLINE}\n{FLAVOR}Mặt ngầu như thủy quái khiến zombie khiếp sợ, thật ra chỉ là lao công dọn hồ."
+    "vi": "Kéo quái bện thành tấm khiên!\n{KEYWORD}Bền: {STAT}4000 | {KEYWORD}ST: {STAT}Diệt ngay (trừ Boss)\n{KEYWORD}Đặc điểm: {STAT}1. Thủy sinh kéo chìm quái; 2. Mỗi lần kéo tụt 1 nấc bền\n{KEYWORD}Khi chết: {STAT}Để lại Búi Rong phía trước\n{KEYWORD}Búi Rong: {STAT}Máu bằng quái cuối kéo, không chiếm ô, chặn gặm & đạn\n{SHORTLINE}\n{FLAVOR}Mặt ngầu như thủy quái làm zombie khiếp sợ, thực ra chỉ là lao công dọn hồ."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -2054,8 +2054,8 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "TORCHWOODSP_DESCRIPTION",
-    "en": "Mirrors passing straight bullets back!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300\n{KEYWORD}Special: {STAT}Duplicates passing linear projectiles and fires the copy backward\n{KEYWORD}Limit: {STAT}Duplicated shots cannot duplicate again\n{SHORTLINE}\n{FLAVOR}Scatterbrained about direction — luckily his rear twin settled: \"One forward, one back!\"",
-    "vi": "Chép đạn bay thẳng bắn ngược chiều!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Đặc điểm: {STAT}Nhân bản viên đạn thẳng bay qua để bắn ngược về phía đối diện\n{KEYWORD}Giới hạn: {STAT}Đạn đã nhân bản không thể nhân bản thêm lần nữa\n{SHORTLINE}\n{FLAVOR}Đầu trước hay phân vân hướng bắn, may đầu sau chốt gọn: \"Trước một viên, sau một viên!\""
+    "en": "Mirrors passing straight bullets back!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Limit: {STAT}Cloned shots won't re-clone\n{KEYWORD}Special: {STAT}Duplicates passing linear shots and fires the copy backward\n{SHORTLINE}\n{FLAVOR}Scatterbrained about direction — luckily his rear twin settled: \"One forward, one back!\"",
+    "vi": "Chép đạn thẳng bắn ngược chiều!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}300 | {KEYWORD}Đặc điểm: {STAT}Nhân bản đạn thẳng bay qua để bắn ngược về sau\n{KEYWORD}Giới hạn: {STAT}Đạn nhân bản không nhân bản lại\n{SHORTLINE}\n{FLAVOR}Đầu trước hay phân vân hướng bắn, may đầu sau chốt gọn: \"Trước một viên, sau một viên!\""
   },
   {
     "file": "NewPlantStrings.txt",
@@ -2078,7 +2078,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "CHOMPERCORNCRAB_DESCRIPTION",
-    "en": "Clamps close foes while lobbing afar!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}600 | {KEYWORD}Odds: {STAT}40% Kernel, 30% Butter, 29% Chomp, 1% Giant\n{KEYWORD}Special: {STAT}1. Lobs 1/1.5s & clamps close foes (+80 dmg, 1s); 2. Chomp executes <=15% non-Boss (+5x spd 5s); 3. Giant executes any non-Boss\n{KEYWORD}On Death: {STAT}Scuttles for 800 lane dmg\n{SHORTLINE}\n{FLAVOR}Loves his armor — why yell \"Parsnip?!\"",
+    "en": "Clamps close foes while lobbing afar!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}600 | {KEYWORD}Odds: {STAT}40% Kernel, 30% Butter, 29% Chomp, 1% Giant\n{KEYWORD}Special: {STAT}1. Lobs 1/1.5s & clamps close (+80 dmg, 1s); 2. Chomp slays <=15% non-Boss (+5x spd 5s); 3. Giant kills any non-Boss\n{KEYWORD}On Death: {STAT}Scuttles for 800 lane dmg\n{SHORTLINE}\n{FLAVOR}Loves his armor — why \"Parsnip?!\"",
     "vi": "Kẹp cận chiến, ném đạn tầm xa!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}600 | {KEYWORD}Đạn: {STAT}40% Bắp, 30% Bơ, 29% Răng, 1% Khổng Lồ\n{KEYWORD}Đặc điểm: {STAT}1. 1.5s ném 1 đạn & kẹp (+80 ST, 1s); 2. Răng diệt <=15% máu x5 tốc 5s; 3. Khổng Lồ nuốt quái thường\n{KEYWORD}Khi chết: {STAT}Bò ngang 800 ST dọc hàng\n{SHORTLINE}\n{FLAVOR}Ưng giáp lắm, sao gọi \"Củ Cải Vàng\"!"
   },
   {
@@ -2156,8 +2156,8 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "WILDPEA_SKIN_DESCRIPTION",
-    "en": "Equips Wild Gatling Pea with a sleek skin granting piercing shots!\n{SHORTLINE}\n{AQUATIC}Wild Gatling Pea Skin\n{NOCTURNAL}Plant directly over Wild Gatling Pea\n{KEYWORD}Skin Effect: {STAT}Replaces peas with Cyber Cube rounds boasting a 30% chance to pierce zombies (retained when ignited!)\n{SHORTLINE}\n{FLAVOR}Hottest cyberpunk trend straight from the far future!",
-    "vi": "Trang bị trang phục mới giúp Súng Máy Cuồng Dã bắn đạn xuyên thấu!\n{SHORTLINE}\n{AQUATIC}Trang phục Súng Máy Cuồng Dã\n{NOCTURNAL}Cần trồng đè lên Súng Máy Cuồng Dã\n{KEYWORD}Hiệu ứng Skin: {STAT}Biến đạn thành Đạn Lập Phương Mạng có 30% tỷ lệ xuyên qua zombie (giữ nguyên khi đốt lửa!)\n{SHORTLINE}\n{FLAVOR}Phong cách thời trang thịnh hành đến từ tương lai."
+    "en": "Sleek skin giving Wild Gatling piercing shots!\n{SHORTLINE}\n{AQUATIC}Wild Gatling Pea Skin\n{NOCTURNAL}Plant directly over Wild Gatling Pea\n{KEYWORD}Skin Effect: {STAT}Turns peas into Cyber Cubes with 30% pierce chance (kept when ignited!)\n{SHORTLINE}\n{FLAVOR}Hottest cyberpunk trend straight from the far future!",
+    "vi": "Skin mới giúp Súng Máy Cuồng Dã bắn xuyên!\n{SHORTLINE}\n{AQUATIC}Trang phục Súng Máy Cuồng Dã\n{NOCTURNAL}Trồng đè lên Súng Máy Cuồng Dã\n{KEYWORD}Hiệu ứng: {STAT}Đổi sang Đạn Lập Phương Mạng có 30% xuyên zombie (giữ khi đốt lửa!)\n{SHORTLINE}\n{FLAVOR}Phong cách thời trang thịnh hành đến từ tương lai."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -2228,8 +2228,8 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "FUMESHROOM_SKIN_DESCRIPTION",
-    "en": "Equips Winter Melon Fume with frosty Absolute Winter Melon volleys!\n{SHORTLINE}\n{AQUATIC}Winter Melon Fume Skin\n{NOCTURNAL}Plant directly over Winter Melon Fume\n{KEYWORD}Skin Effect: {STAT}Gives a 30% chance per shot to fire an extra Absolute Winter Melon!\n{SHORTLINE}\n{FLAVOR}100% natural iced watermelon slushie — only 100 Sun a cup!",
-    "vi": "Trang bị trang phục Mùa Hè giúp phóng thêm Dưa Cực Hàn!\n{SHORTLINE}\n{AQUATIC}Trang phục Nấm Phun Dưa Băng\n{NOCTURNAL}Cần trồng đè lên Nấm Phun Dưa Băng\n{KEYWORD}Hiệu ứng Skin: {STAT}Mỗi đợt tấn công có 30% tỷ lệ bắn kèm một quả Dưa Hấu Băng Cực Hàn!\n{SHORTLINE}\n{FLAVOR}Nước ép dưa hấu ướp lạnh nguyên chất 100%, đồng giá 100 Mặt trời!"
+    "en": "Skin firing extra Absolute Winter Melons!\n{SHORTLINE}\n{AQUATIC}Winter Melon Fume Skin\n{NOCTURNAL}Plant over Winter Melon Fume\n{KEYWORD}Skin Effect: {STAT}30% chance/shot to fire an extra Absolute Winter Melon!\n{SHORTLINE}\n{FLAVOR}100% natural iced watermelon slushie — only 100 Sun a cup!",
+    "vi": "Skin Mùa Hè phóng thêm Dưa Băng Cực Hàn!\n{SHORTLINE}\n{AQUATIC}Trang phục Nấm Phun Dưa Băng\n{NOCTURNAL}Trồng đè lên Nấm Phun Dưa Băng\n{KEYWORD}Hiệu ứng: {STAT}Mỗi đợt bắn có 30% tỷ lệ kèm 1 quả Dưa Hấu Băng Cực Hàn!\n{SHORTLINE}\n{FLAVOR}Nước ép dưa hấu ướp lạnh nguyên chất 100%, đồng giá 100 Mặt trời!"
   },
   {
     "file": "NewPlantStrings.txt",
@@ -2276,7 +2276,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "CUPIDSHROOM_SKIN_DESCRIPTION",
-    "en": "Angelic form shielding the whole lawn!\n{SHORTLINE}\n{AQUATIC}Hypno Peashooter Skin\n{NOCTURNAL}Single-use skin — no host needed!\n{KEYWORD}Skin: {STAT}1. Plants anywhere, untargetable; 2. Sprays 8 Love Arrows/2s charming foes (slays immune); 3. Lasts 20s, all plants invincible & heal +500 HP/2s\n{SHORTLINE}\n{FLAVOR}An angel in white watching over you with pure devotion~",
+    "en": "Angelic form shielding all plants!\n{SHORTLINE}\n{AQUATIC}Hypno Peashooter Skin\n{NOCTURNAL}Single-use skin — no host needed!\n{KEYWORD}Skin: {STAT}1. Plant anywhere, untargetable; 2. 8 Love Arrows/2s charm foes (kill immune); 3. Lasts 20s: plants invincible & +500 HP/2s\n{SHORTLINE}\n{FLAVOR}An angel in white watching over you with pure devotion~",
     "vi": "Tư thế vừa công vừa bảo hộ sân!\n{SHORTLINE}\n{AQUATIC}Trang phục Súng Đậu Thôi Miên\n{NOCTURNAL}Dùng một lần, không cần trồng đè\n{KEYWORD}Skin: {STAT}1. Trồng mọi ô, miễn nhắm; 2. Mỗi 2s tỏa 8 Mũi Tên Tình Yêu thôi miên (diệt quái miễn); 3. Tồn tại 20s giúp sân bất tử & hồi 500 máu/2s\n{SHORTLINE}\n{FLAVOR}Thiên thần áo trắng mang trọn tấm lòng bảo vệ vườn của bạn~"
   },
   {
@@ -2300,8 +2300,8 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "SUNPLANTERN_DESCRIPTION",
-    "en": "Inspires nearby Sun producers' output!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300\n{KEYWORD}Special: {STAT}1. Lights fog & makes 25 Sun/25s; 2. Triggers other 3x3 Sun producers to drop +10 bonus Sun each\n{KEYWORD}On Death: {STAT}Drops 100 Sun\n{SHORTLINE}\n{FLAVOR}Chats nonstop — Sunflowers chip in 10 Sun apiece just for a few seconds of quiet!",
-    "vi": "Thúc cây kinh tế tạo thêm nắng!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300\n{KEYWORD}Đặc điểm: {STAT}1. Chiếu sáng, mỗi 25s tạo 25 Mặt trời; 2. Mỗi lần đẻ kích cây tạo nắng khác trong 3x3 đẻ thêm 10 Mặt trời\n{KEYWORD}Khi chết: {STAT}Rơi ngay 100 Mặt trời\n{SHORTLINE}\n{FLAVOR}Buôn chuyện tới mức hàng xóm hùn 10 Mặt trời chỉ mong cô im lặng một lát!"
+    "en": "Boosts nearby Sun producers' output!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}On Death: {STAT}Drops 100 Sun\n{KEYWORD}Special: {STAT}1. Lights fog & makes 25 Sun/25s; 2. Prompts 3x3 Sun plants to drop +10 Sun each\n{SHORTLINE}\n{FLAVOR}Chats nonstop — Sunflowers chip in 10 Sun each for a moment of quiet!",
+    "vi": "Thúc cây kinh tế tạo thêm nắng!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}300 | {KEYWORD}Khi chết: {STAT}Rơi 100 Mặt trời\n{KEYWORD}Đặc điểm: {STAT}1. Soi sương, 25s tạo 25 Mặt trời; 2. Khi tạo kích cây nắng 3x3 khác ra thêm 10 Mặt trời\n{SHORTLINE}\n{FLAVOR}Nói nhiều tới mức hàng xóm hùn 10 Mặt trời chỉ mong cô im lặng một lát!"
   },
   {
     "file": "NewPlantStrings.txt",
@@ -2397,7 +2397,7 @@
     "file": "NewPlantStrings.txt",
     "key": "DOOMMINE_DESCRIPTION",
     "en": "Nocturnal nuke mine with Doom punch!\n{AQUATIC}Sleeps during the day\n{KEYWORD}Power: {STAT}1800 | {KEYWORD}Range: {STAT}5x5 / Single tile\n{KEYWORD}Special: {STAT}1. Arming pauses asleep; 2. Awake arms 15s -> Doom-shroom + crater; 3. Die/dig unarmed or asleep -> crater-free Potato Mine blast\n{FLAVOR}Got wasted, swiped Potato Mine's cap, and stumbled right into his own crater.",
-    "vi": "Mìn hạt nhân đêm, chờ thời cơ nổ lớn!\n{AQUATIC}Ngủ vào ban ngày\n{KEYWORD}ST: {STAT}1800 | {KEYWORD}Phạm vi: {STAT}5x5 / Một ô\n{KEYWORD}Đặc điểm: {STAT}1. Ngủ không đếm giờ; 2. Thức cần 15s lên nòng, chạm quái nổ Nấm Hủy Diệt + hố; 3. Chết/đào khi chưa lên nòng/ngủ nổ như Mìn Khoai không hố\n{FLAVOR}Say rượu đội nhầm mũ Mìn Khoai rồi lảo đảo lọt xuống chính cái hố mình nổ."
+    "vi": "Mìn hạt nhân đêm, chực chờ nổ lớn!\n{AQUATIC}Ngủ vào ban ngày\n{KEYWORD}ST: {STAT}1800 | {KEYWORD}Phạm vi: {STAT}5x5 / Một ô\n{KEYWORD}Đặc điểm: {STAT}1. Ngủ không đếm giờ; 2. Thức cần 15s lên nòng, chạm quái nổ Nấm Hủy Diệt + hố; 3. Chết/đào khi chưa lên nòng/ngủ nổ như Mìn Khoai không hố\n{FLAVOR}Say xỉn đội nhầm mũ Mìn Khoai rồi lảo đảo lọt xuống chính hố mình nổ."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -2445,7 +2445,7 @@
     "file": "NewPlantStrings.txt",
     "key": "THREEPOTATO_DESCRIPTION",
     "en": "Click to launch 3 Mini Potato Mines!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Dmg: {STAT}40 or 500/1.5s | {KEYWORD}Range: {STAT}Three lanes\n{KEYWORD}Special: {STAT}1. Turf/Pot; 2. Ignite via Torch/Ice; 3. Click spends 1 bulb for 3x 500-dmg shells; 4. Recharges 1 bulb/30s\n{KEYWORD}On Death: {STAT}Potato Mine if lit\n{FLAVOR}Fired from three kitchens — stir-fry was 100% potato!",
-    "vi": "Nhấn phóng ba Mìn Khoai Tây nhỏ!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}300 | {KEYWORD}ST: {STAT}40 hoặc 500/1.5s (hàng) | {KEYWORD}Tầm: {STAT}Ba hàng\n{KEYWORD}Đặc điểm: {STAT}1. Cỏ/chậu; 2. Đạn khoai qua Đuốc/Băng; 3. Nhấn tốn 1 đèn bắn 3 Mìn (500 ST 1 ô); 4. Mỗi 30s sáng 1 đèn\n{KEYWORD}Khi chết: {STAT}Còn đèn sáng nổ Mìn Khoai\n{FLAVOR}Bị ba quán sa thải vì món thập cẩm của cậu chỉ toàn khoai tây là khoai tây!"
+    "vi": "Nhấn phóng ba Mìn Khoai Tây nhỏ!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}300 | {KEYWORD}ST: {STAT}40 hay 500 | {KEYWORD}Tầm: {STAT}3 hàng\n{KEYWORD}Đặc điểm: {STAT}1. Cỏ/chậu; 2. Đạn qua Đuốc/Băng; 3. Nhấn tốn 1 đèn bắn 3 Mìn 500 ST; 4. 30s sáng 1 đèn\n{KEYWORD}Khi chết: {STAT}Còn đèn sáng nổ Mìn Khoai\n{FLAVOR}Bị ba quán đuổi vì món thập cẩm 100% khoai tây!"
   },
   {
     "file": "NewPlantStrings.txt",
@@ -2564,8 +2564,8 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "PUMPSQUASH_DESCRIPTION",
-    "en": "Joins inner Squashes in body-slams!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}4000 | {KEYWORD}Power: {STAT}1800\n{KEYWORD}Special: {STAT}Leaps with inner Squash to crush foes, losing HP equal to toughest zombie hit before hopping back alive\n{KEYWORD}On Death: {STAT}Triggers wide Squash smash\n{FLAVOR}\"Stay calm, play defense...\" Wait, jumping?! \"HOLD UP — COMBO SLAM!\"",
-    "vi": "Hợp lực họ Bí Đao lao tới đè kẻ thù!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000 | {KEYWORD}Sức mạnh: {STAT}1800\n{KEYWORD}Đặc điểm: {STAT}Nhảy cùng Bí Đao bên trong đập mục tiêu, mất máu bằng con trâu nhất; còn máu sẽ quay về chỗ cũ\n{KEYWORD}Khi chết: {STAT}Kích cú đập Bí Đao tầm rộng hơn\n{FLAVOR}\"Nhiệm vụ là phòng thủ...\" Thấy đồng đội nhảy liền hét: \"Đợi ăn đòn liên hoàn!\""
+    "en": "Joins inner Squashes in body-slams!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}4000 | {KEYWORD}Power: {STAT}1800\n{KEYWORD}Special: {STAT}Leaps with inner Squash to crush foes, losing HP equal to toughest zombie hit before hopping back alive\n{KEYWORD}On Death: {STAT}Wide Squash smash\n{FLAVOR}\"Stay calm, defend...\" Wait, leaping?! \"HOLD UP — COMBO SLAM!\"",
+    "vi": "Hợp lực họ Bí Đao lao tới đè kẻ thù!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}4000 | {KEYWORD}Sức mạnh: {STAT}1800\n{KEYWORD}Đặc điểm: {STAT}Nhảy cùng Bí Đao bên trong đập mục tiêu, mất máu bằng con trâu nhất; còn máu sẽ quay về chỗ cũ\n{KEYWORD}Khi chết: {STAT}Kích Bí Đao đập tầm rộng\n{FLAVOR}\"Nhiệm vụ là thủ...\" Thấy đồng đội nhảy liền hét: \"Đợi ăn đòn liên hoàn!\""
   },
   {
     "file": "NewPlantStrings.txt",
@@ -2661,7 +2661,7 @@
     "file": "NewPlantStrings.txt",
     "key": "SALEBURGER_DESCRIPTION",
     "en": "Mega Burger Sale — free Deluxe!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}2000 | {KEYWORD}Dmg: {STAT}80~320/3s | {KEYWORD}Range: {STAT}Lane\n{KEYWORD}Special: {STAT}1. 4 random base shots; 2. 25 Sun/25s; 3. Costs -25 less per plant; at 0 Sun spawns Burger Shooter (Gold Card)!\n{SHORTLINE}\n{FLAVOR}Mini Burger rival: \"2-for-1 is old news — cheap big meals rule!\"",
-    "vi": "Đại tiệc giảm giá săn Burger VIP!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}2000 | {KEYWORD}ST: {STAT}80~320/3s | {KEYWORD}Tầm: {STAT}Một hàng\n{KEYWORD}Đặc điểm: {STAT}1. Bắn 4 đạn cơ bản ngẫu nhiên; 2. Mỗi 25s tạo 25 Mặt trời; 3. Mỗi lần trồng giảm 25 giá, giá = 0 hóa Súng Bánh Burger (Thẻ Vàng)\n{SHORTLINE}\n{FLAVOR}Đối thủ Burger Nhí: \"Mua 1 tặng 1 xưa rồi, bán rẻ phần ú ụ mới là chân ái!\""
+    "vi": "Đại tiệc giảm giá săn Burger VIP!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}2000 | {KEYWORD}ST: {STAT}80~320/3s | {KEYWORD}Tầm: {STAT}1 hàng\n{KEYWORD}Đặc điểm: {STAT}1. Bắn 4 đạn cơ bản ngẫu nhiên; 2. Mỗi 25s tạo 25 Mặt trời; 3. Mỗi lần trồng giảm 25 giá, giá = 0 hóa Súng Bánh Burger (Thẻ Vàng)\n{SHORTLINE}\n{FLAVOR}Đối thủ Burger Nhí: \"Mua 1 tặng 1 xưa rồi, bán rẻ suất ú ụ mới chuẩn!\""
   },
   {
     "file": "NewPlantStrings.txt",
@@ -2859,7 +2859,7 @@
     "file": "NewPlantStrings.txt",
     "key": "CACTUSCANNON_DESCRIPTION",
     "en": "Heavy land-and-air defense battery!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}1000 | {KEYWORD}Dmg: {STAT}1800+20x36/5s (Main) / 20x2/1.5s (Wing) / 40/s (Refl)\n{KEYWORD}Range: {STAT}Screen (Main) / Lane (Wing)\n{KEYWORD}Special: {STAT}1. Targets air first, single-tile blast & anti-air ring; 2. Thorns biters & pops 1 car\n{SHORTLINE}\n{FLAVOR}Her wingman drone is her bestie — popping balloons together!",
-    "vi": "Trận địa pháo đối không lẫn đối đất!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}1000 | {KEYWORD}ST: {STAT}1800+20x36/5s (Chính) / 20x2/1.5s (Phụ) / 40/s (Phản)\n{KEYWORD}Tầm: {STAT}Toàn sân (Chính)/Hàng (Phụ)\n{KEYWORD}Đặc điểm: {STAT}1. Ưu tiên trên không, nổ 1 ô kèm vòng gai diệt quái bay; 2. Phản ST & phá 1 xe\n{SHORTLINE}\n{FLAVOR}Cô vệ tinh là bạn thân, suốt ngày thi chọc bóng bay kiêm làm bà mối."
+    "vi": "Trận địa pháo đối không lẫn đối đất!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}1000 | {KEYWORD}Tầm: {STAT}Toàn sân / Hàng\n{KEYWORD}ST: {STAT}1800+20x36/5s (Chính), 20x2/1.5s (Phụ), 40/s (Phản)\n{KEYWORD}Đặc điểm: {STAT}1. Ưu tiên bay, nổ 1 ô + vòng gai diệt quái bay; 2. Phản ST & phá 1 xe\n{SHORTLINE}\n{FLAVOR}Cô vệ tinh là bạn thân, suốt ngày thi chọc bóng bay kiêm làm bà mối."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -2955,7 +2955,7 @@
     "file": "NewPlantStrings.txt",
     "key": "WALLNUTXR_DESCRIPTION",
     "en": "Sage nut mastering shapeshifting!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}6000 | {KEYWORD}Dmg: {STAT}20x36x10 (Counter)\n{KEYWORD}Special: {STAT}1. Tanks 6 lethal hits (-1000 HP ea), firing 10 spike rings; 2. Morphs into random Wall-nut/15s (isolated state)\n{SHORTLINE}\n{FLAVOR}Trained centuries for Sun Wukong's 72 Transformations — now turns into other Wall-nuts!",
-    "vi": "Tiên nhân Hạt Dẻ giỏi biến hóa!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}6000 | {KEYWORD}ST: {STAT}20x36x10 (Phản kích)\n{KEYWORD}Đặc điểm: {STAT}1. Chặn 6 đòn chí tử (-1000 máu/lần) phóng 10 vòng gai; 2. Mỗi 15s hóa Hạt Dẻ ngẫu nhiên (không ảnh hưởng bản thể)\n{SHORTLINE}\n{FLAVOR}Luyện 72 phép Tây Du Ký nhiều năm, cuối cùng biến được thành... Hạt Dẻ khác!"
+    "vi": "Tiên nhân Hạt Dẻ giỏi biến hóa!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}6000 | {KEYWORD}ST: {STAT}20x36x10 (Phản)\n{KEYWORD}Đặc điểm: {STAT}1. Chặn 6 đòn chí tử (-1000 máu/lần) phóng 10 vòng gai; 2. Mỗi 15s hóa Hạt Dẻ ngẫu nhiên (không ảnh hưởng bản thể)\n{SHORTLINE}\n{FLAVOR}Luyện 72 phép Tây Du nhiều năm, rốt cuộc biến được thành... Hạt Dẻ khác!"
   },
   {
     "file": "NewPlantStrings.txt",
@@ -3170,7 +3170,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "LASERCANNON_EQUIPMENT_DESCRIPTION",
-    "en": "Upgrade pod for Future Laser Cannon!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}1000 | {KEYWORD}Dmg: {STAT}40x2/0.5s | {KEYWORD}Range: {STAT}Homing\n{KEYWORD}Special: {STAT}1. Mounts Laser Cannon only, chill/freeze immune; 2. True-dmg homing bolts; 3. Cannon CD -> 12s; 4. 50 Brain-sun/25s\n{SHORTLINE}\n{FLAVOR}Faster blasts drain Sun faster — summoning tougher Debt Collectors!",
+    "en": "Upgrade pod for Laser Cannon!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}1000 | {KEYWORD}Dmg: {STAT}40x2/0.5s | {KEYWORD}Range: {STAT}Homing\n{KEYWORD}Special: {STAT}1. Mounts Laser Cannon only, chill/freeze immune; 2. True-dmg homing; 3. Cannon CD 12s; 4. 50 Brain-sun/25s\n{SHORTLINE}\n{FLAVOR}Faster blasts drain Sun faster — summoning tougher Debt Collectors!",
     "vi": "Phụ kiện nâng cấp cho Pháo Laze.\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}1000 | {KEYWORD}ST: {STAT}40x2/0.5s | {KEYWORD}Tầm: {STAT}Toàn sân\n{KEYWORD}Đặc điểm: {STAT}1. Gắn Pháo Laze, miễn băng; 2. Bắn đạn xuyên giáp truy đuổi; 3. Rút chu kỳ Pháo còn 12s; 4. Mỗi 25s sinh 50 Não-sáng\n{SHORTLINE}\n{FLAVOR}Hứa hẹn bắn lẹ mạnh hơn — đồng nghĩa chủ nợ đuổi gắt hơn!"
   },
   {
@@ -3195,7 +3195,7 @@
     "file": "NewPlantStrings.txt",
     "key": "WDZBJ_DESCRIPTION",
     "en": "Submarine Pea Ice-Maker returns!\n{KEYWORD}HP: {STAT}4000 | {KEYWORD}Dmg: {STAT}20x(4+4)~(20+20)/2s (Normal)\n{KEYWORD}Special: {STAT}1. Amphibious, click + WASD steer; 2. Chill/crush-resistant (-500 HP); 3. Pea/Ice rounds (+2 via Beans, max 20); 4. Bombs/30s; 5. Ice Blover/50s & echoes; 6. 4 waves/2s in pool\n{FLAVOR}Qianting Weiweimi's ultimate summer cooling contraption!",
-    "vi": "Chiến hạm Máy Làm Băng Đậu trở lại!\n{KEYWORD}Bền: {STAT}4000 | {KEYWORD}ST: {STAT}20x(4+4)~(20+20)/2s (Thường)\n{KEYWORD}Đặc điểm: {STAT}1. Cạn/nước đều trồng, nhấn WASD di chuyển; 2. Miễn băng chậm, đỡ đập/cán (-500 máu); 3. Bắn đậu & đậu băng (cho Đậu Làm Đá tăng tối đa 20/loại); 4. Mỗi 30s bắn Bom Đậu/Băng; 5. Mỗi 50s Cỏ Ba Lá Băng; 6. Hồ mỗi 2s phát 4 sóng\n{FLAVOR}Tuyệt tác của Qianting Weiweimi!"
+    "vi": "Chiến hạm Làm Băng Đậu trở lại!\n{KEYWORD}Bền: {STAT}4000 | {KEYWORD}ST: {STAT}20x(4+4)~(20+20)/2s (Thường)\n{KEYWORD}Đặc điểm: {STAT}1. Cạn/nước đều trồng, nhấn WASD di chuyển; 2. Miễn băng chậm, đỡ đập/cán (-500 máu); 3. Đậu & đậu băng (Đậu Làm Đá tối đa +20/loại); 4. 30s Bom Đậu/Băng; 5. 50s Cỏ Ba Lá Băng; 6. Hồ 2s phát 4 sóng\n{FLAVOR}Tuyệt tác của Qianting Weiweimi!"
   },
   {
     "file": "NewPlantStrings.txt",
@@ -3219,7 +3219,7 @@
     "file": "NewPlantStrings.txt",
     "key": "WALLNUTQX_DESCRIPTION",
     "en": "Holographic laser fortress!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}4000 | {KEYWORD}Dmg: {STAT}40/2s | {KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Special: {STAT}1. Bare earth; 2. Lane-piercing laser; 3. CC-immune, leaves Base on death; 4. Base revives in 30s\n{FLAVOR}From the future — ask about tomorrow and he forgets at the speed of light!",
-    "vi": "Phòng tuyến toàn ảnh công thủ đủ đầy!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}4000 | {KEYWORD}ST: {STAT}40/2s | {KEYWORD}Tầm: {STAT}Một hàng\n{KEYWORD}Đặc điểm: {STAT}1. Trồng đất trơ; 2. Bắn tia Laze xuyên cả hàng; 3. Miễn khống chế, chết để Đế Chiếu; 4. Sau 30s tự hồi sinh\n{FLAVOR}Từ tương lai tới nhưng hỏi chuyện tương lai lại quên nhanh như tia laze vậy."
+    "vi": "Phòng tuyến toàn ảnh công thủ vẹn toàn!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}4000 | {KEYWORD}ST: {STAT}40/2s | {KEYWORD}Tầm: {STAT}1 hàng\n{KEYWORD}Đặc điểm: {STAT}1. Trồng đất trơ; 2. Bắn tia Laze xuyên cả hàng; 3. Miễn khống chế, chết để Đế Chiếu; 4. Sau 30s tự hồi sinh\n{FLAVOR}Từ tương lai tới mà hỏi chuyện mai sau lại quên nhanh như tia laze."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -3242,7 +3242,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "CACTUSQX_DESCRIPTION",
-    "en": "Anti-air & ground energy spikes!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}1000 | {KEYWORD}Dmg: {STAT}60(+200)/2s | {KEYWORD}Range: {STAT}Lane ahead\n{KEYWORD}Special: {STAT}1. Bare earth; 2. Energy spike pierces 3 foes, blasts 3rd; 3. 1 energy + 1 normal spike; 4. CC-immune; Base pops 1 car, revives 30s\n{FLAVOR}\"Glad I warped to this era — everyone thinks my holo spikes are super cool!\"",
+    "en": "Anti-air & ground energy spikes!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}1000 | {KEYWORD}Dmg: {STAT}60(+200)/2s | {KEYWORD}Range: {STAT}Lane\n{KEYWORD}Special: {STAT}1. Bare earth; 2. Pierces 3, blasts 3rd; 3. 1 energy + 1 spike; 4. CC-immune; Base pops 1 car, revives 30s\n{FLAVOR}\"Everyone here thinks my holo spikes look super cool!\"",
     "vi": "Gai năng lượng đối không lẫn đất!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}1000 | {KEYWORD}ST: {STAT}60(+200)/2s | {KEYWORD}Tầm: {STAT}Một hàng\n{KEYWORD}Đặc điểm: {STAT}1. Đất trơ; 2. Gai năng lượng xuyên 3 quái, chạm con thứ 3 nổ 1 ô; 3. Bắn 1 năng lượng + 1 thường; 4. Miễn khống chế, Đế phá 1 xe & hồi sinh 30s\n{FLAVOR}\"Xuyên không đúng thời đại quá, anh em ở đây khen ngầu quá trời!\""
   },
   {
@@ -3267,7 +3267,7 @@
     "file": "NewPlantStrings.txt",
     "key": "ICESHROOMGENE_DESCRIPTION",
     "en": "WARNING: Gene mutation armed!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Range: {STAT}Full screen\n{KEYWORD}Special: {STAT}Triggers Ice-shroom + Gene Mutation globally, reverting non-Boss specials to Basic Zombies keeping current body HP\n{SHORTLINE}\n{FLAVOR}Geneticist isn't angry — he just forgot to cure his own frozen facial paralysis!",
-    "vi": "Cảnh báo: Đột biến gen sẵn sàng nổ!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300 | {KEYWORD}Phạm vi: {STAT}Toàn màn hình\n{KEYWORD}Đặc điểm: {STAT}Nổ Nấm Băng + Đột Biến Gen toàn sân, biến quái đặc biệt (trừ Boss) thành Zombie Thường giữ máu hiện tại\n{SHORTLINE}\n{FLAVOR}Chuyên gia di truyền mặt hầm hầm mãi — thực ra quên chữa chứng liệt cơ mặt thôi."
+    "vi": "Cảnh báo: Đột biến gen sẵn sàng nổ!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}300 | {KEYWORD}Phạm vi: {STAT}Toàn sân\n{KEYWORD}Đặc điểm: {STAT}Nổ Nấm Băng + Đột Biến Gen toàn sân, biến quái đặc biệt trừ Boss thành Zombie Thường giữ nguyên máu\n{SHORTLINE}\n{FLAVOR}Chuyên gia di truyền mặt hầm hầm mãi — thực ra quên chữa chứng liệt cơ mặt thôi."
   },
   {
     "file": "NewPlantStrings.txt",
@@ -3290,7 +3290,7 @@
   {
     "file": "NewPlantStrings.txt",
     "key": "CORNPULT_GENE_DESCRIPTION",
-    "en": "Armor-piercing Corn & mutating Butter!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Dmg: {STAT}40 or 80/3s | {KEYWORD}Range: {STAT}Lane\n{KEYWORD}Special: {STAT}1. Gene Kernels bypass armor to base HP; 2. 20% Gene Butter turns special non-Bosses into Basic Zombies keeping body HP\n{SHORTLINE}\n{FLAVOR}Swears bio-corn is safe — dragged Dave out, who screams \"chaos.\"",
+    "en": "Piercing Gene Corn & mutating Butter!\n{SHORTLINE}\n{KEYWORD}HP: {STAT}300 | {KEYWORD}Dmg: {STAT}40 or 80/3s | {KEYWORD}Range: {STAT}Lane\n{KEYWORD}Special: {STAT}1. Kernels bypass armor to body HP; 2. 20% Gene Butter turns special non-Bosses into Basic Zombies (same HP)\n{SHORTLINE}\n{FLAVOR}Swears bio-corn is safe — dragged Dave out, who screams \"chaos.\"",
     "vi": "Ném bắp xuyên giáp & Bơ đột biến!\n{SHORTLINE}\n{KEYWORD}Bền: {STAT}300 | {KEYWORD}ST: {STAT}40 hoặc 80/3s | {KEYWORD}Tầm: {STAT}Hàng\n{KEYWORD}Đặc điểm: {STAT}1. Bắp Gen xuyên giáp đánh máu gốc; 2. 20% Bơ Gen biến quái đặc biệt thường thành Zombie Thường giữ máu\n{SHORTLINE}\n{FLAVOR}Khẳng định bắp sạch sẽ, lôi cả Dave làm chứng dù trông chẳng đáng tin."
   },
   {

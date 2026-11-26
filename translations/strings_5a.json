@@ -33,7 +33,7 @@
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_BACKUP_DESCRIPTION",
     "en": "These zombies appear in sets of four whenever Disco Zombie rocks out.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}270\n{SHORTLINE}\n{FLAVOR}Backup Dancer spent six years perfecting his art at the Chewliard School for the Performing Arts in Zombie New York City.",
-    "vi": "Nhóm zombie này luôn xuất hiện theo bộ tứ mỗi khi Zombie Disco nhún nhảy.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}270\n{SHORTLINE}\n{FLAVOR}Vũ Công Phụ đã dành sáu năm trời rèn giũa vũ đạo tại Học viện Nghệ thuật Biểu diễn \"Nhai Nghiến Răng\" ở thành phố New York Zombie."
+    "vi": "Nhóm này xuất hiện theo bộ tứ mỗi khi Zombie Disco nhảy.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}270\n{SHORTLINE}\n{FLAVOR}Vũ Công Phụ tốn sáu năm luyện nhảy tại Học viện \"Nhai Nghiến Răng\" ở New York Zombie."
   },
   {
     "file": "NewZombieStrings.txt",
@@ -68,7 +68,7 @@
   {
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_NECROMANCER_DESCRIPTION",
-    "en": "Commands an undying Skeleton army.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}3000 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}1. Immune to non-damage debuffs; 2. Calls 2 Skeletons ahead every 15s\n{SHORTLINE}\n{FLAVOR}Trained by Dr. Dave, his spells threaten the lawn.",
+    "en": "Commands an undying Skeleton legion.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}3000 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}1. Non-dmg debuff immune; 2. Calls 2 Skeletons ahead /15s\n{SHORTLINE}\n{FLAVOR}Trained by Dr. Dave, his spells threaten the lawn.",
     "vi": "Triệu hồi quân Zombie Bộ Xương.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}3000 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}1. Miễn hiệu ứng trừ sát thương; 2. Mỗi 15s gọi 2 Bộ Xương ở ô trước\n{SHORTLINE}\n{FLAVOR}Được Tiến Sĩ Dave huấn luyện, phép thuật đe dọa toàn sân."
   },
   {
@@ -483,7 +483,7 @@
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_SEADEMON_DESCRIPTION",
     "en": "Summons Kelp Snorkel Zombies.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}5000\n{KEYWORD}Special: {STAT}Calls 3 Kelp Snorkels /15s, 5x dmg, resists CC & some Kelp\n{SHORTLINE}\n{FLAVOR}Stole a pitchfork—just a Ducky Tube dragged down.",
-    "vi": "Hải Yêu gọi Thợ Lặn Rong Biển.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}5000\n{KEYWORD}Đặc điểm: {STAT}Mỗi 15s gọi 3 Thợ Lặn Rong Biển, sát thương x5, miễn khống chế thường & vài hiệu ứng Rong Biển\n{SHORTLINE}\n{FLAVOR}Chôm đinh ba nhận thủy quái—vốn Phao Vịt bị kéo."
+    "vi": "Hải Yêu gọi Thợ Lặn Rong Biển.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}5000\n{KEYWORD}Đặc điểm: {STAT}Mỗi 15s gọi 3 Thợ Lặn Rong Biển, x5 sát thương, miễn CC & vài hiệu ứng Rong\n{SHORTLINE}\n{FLAVOR}Chôm đinh ba nhận thủy quái—vốn Phao Vịt bị kéo."
   },
   {
     "file": "NewZombieStrings.txt",
@@ -518,7 +518,7 @@
   {
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_DIAMOND_DESCRIPTION",
-    "en": "Wears rock-solid crystalline armor.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1000+270\n{KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}Diamond helmet caps damage at 20 per hit\n{SHORTLINE}\n{FLAVOR}A trust-fund kid buried with treasure so he could stay flashy even in undeath.",
+    "en": "Wears rock-solid crystalline armor.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1000+270 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}Diamond helmet caps damage at 20 per hit\n{SHORTLINE}\n{FLAVOR}A trust-fund kid buried with treasure so he'd stay flashy in undeath.",
     "vi": "Khoác lớp giáp cứng như đá quý.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1000+270 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}Mũ kim cương nhận tối đa 20 sát thương/đòn\n{SHORTLINE}\n{FLAVOR}Thiếu gia chôn theo kho báu để làm ma vẫn lấp lánh."
   },
   {
@@ -698,7 +698,7 @@
   {
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_IMPDIGGER_DESCRIPTION",
-    "en": "Imps sure love cosplay.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}270 | {KEYWORD}Speed: {STAT}Fast\n{KEYWORD}Special: {STAT}Doesn't chew; deals 50 dmg/s to plants overhead until each dies\n{KEYWORD}Weakness: {STAT}Area damage, Crater-nut\n{SHORTLINE}\n{FLAVOR}After playing \"PvZ: Hybrid Edition,\" he fused a Digger helmet with Spikeweed.",
+    "en": "Imps sure love cosplay.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}270 | {KEYWORD}Speed: {STAT}Fast\n{KEYWORD}Special: {STAT}No bite; deals 50 dmg/s to plants overhead until dead\n{KEYWORD}Weakness: {STAT}Area damage, Crater-nut\n{SHORTLINE}\n{FLAVOR}After \"PvZ: Hybrid,\" he fused a Digger helmet with Spikeweed.",
     "vi": "Tiểu Quỷ cực mê hóa trang cosplay.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}270 | {KEYWORD}Tốc độ: {STAT}Nhanh\n{KEYWORD}Đặc điểm: {STAT}Không gặm, gây 50/s lên cây đi qua rồi mới tiến\n{KEYWORD}Điểm yếu: {STAT}Diện rộng, Óc Chó Hố Sâu\n{SHORTLINE}\n{FLAVOR}Chơi \"PvZ Lai Tạo\" xong ghép mũ Thợ Đào với Gai."
   },
   {
@@ -789,7 +789,7 @@
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_RICHMAN_DESCRIPTION",
     "en": "Has money to burn—and throw.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}500+1800 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Armor: {STAT}Gold Hat (coin dmg immune)\n{KEYWORD}Special: {STAT}Tosses Silver/Gold/Diamond /3s\n{SHORTLINE}\n{FLAVOR}Endless cash & weight remain a mystery.",
-    "vi": "Nắm giữ khối tiền bạc khổng lồ.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}500+1800 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Trang bị: {STAT}Mũ Vàng, miễn sát thương xu\n{KEYWORD}Đặc điểm: {STAT}Mỗi 3s ném Bạc, Vàng, Kim Cương\n{SHORTLINE}\n{FLAVOR}Tiền không vơi, cân chẳng giảm là bí ẩn."
+    "vi": "Nắm giữ khối tiền bạc khổng lồ.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}500+1800 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Trang bị: {STAT}Mũ Vàng, miễn đòn xu\n{KEYWORD}Đặc điểm: {STAT}Mỗi 3s ném Bạc, Vàng, Kim Cương\n{SHORTLINE}\n{FLAVOR}Tiền không vơi, cân chẳng giảm là bí ẩn."
   },
   {
     "file": "NewZombieStrings.txt",
@@ -932,7 +932,7 @@
   {
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_POLESTRIKER_DESCRIPTION",
-    "en": "Football grit meets pole-vaulting grace!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1100+500 | {KEYWORD}Speed: {STAT}Fast\n{KEYWORD}Special: {STAT}Vaults 2 tiles in a leap and chews at 2x speed\n{SHORTLINE}\n{FLAVOR}Coach said both skills scored 50/100—didn't mean for him to combine both sports!",
+    "en": "Football grit meets pole vaulting!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1100+500 | {KEYWORD}Speed: {STAT}Fast\n{KEYWORD}Special: {STAT}Vaults 2 tiles in a leap and chews at 2x speed\n{SHORTLINE}\n{FLAVOR}Coach said both skills scored 50/100—didn't mean combine both sports!",
     "vi": "Bóng bầu dục kết hợp nhảy sào!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1100+500 | {KEYWORD}Tốc độ: {STAT}Nhanh\n{KEYWORD}Đặc điểm: {STAT}Nhảy vọt 2 ô, gặm nhanh gấp 2 lần\n{SHORTLINE}\n{FLAVOR}HLV chấm cả hai môn 50 điểm—thế là gộp luôn làm một!"
   },
   {
@@ -1004,8 +1004,8 @@
   {
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_CREW_DESCRIPTION",
-    "en": "The crew keeps electing new captains!\n{KEYWORD}Toughness: {STAT}500 | {KEYWORD}Speed: {STAT}Medium\n{KEYWORD}Damage: {STAT}~150/s (Cutlass)\n{KEYWORD}Special: {STAT}Nearest Crew becomes new Captain & resets stats on Captain death\n{FLAVOR}Whenever their boss falls, they play rock-paper-scissors for his hat and fake beard.",
-    "vi": "Đám thủy thủ luôn bầu ra Thuyền Trưởng mới!\n{KEYWORD}Độ bền: {STAT}500 | {KEYWORD}Tốc độ: {STAT}Trung bình\n{KEYWORD}Sát thương: {STAT}~150/s (Mã tấu)\n{KEYWORD}Đặc điểm: {STAT}Thuyền Trưởng chết, thủy thủ gần nhất kế nhiệm và hồi trạng thái\n{FLAVOR}Mỗi khi sếp ngã xuống, cả bọn liền oẳn tù tì chọn người thừa kế mũ và bộ râu giả."
+    "en": "Crews keep electing new captains!\n{KEYWORD}Toughness: {STAT}500 | {KEYWORD}Speed: {STAT}Medium\n{KEYWORD}Damage: {STAT}~150/s (Cutlass)\n{KEYWORD}Special: {STAT}On Captain death, nearest Crew takes over & resets\n{FLAVOR}When their boss falls, they play rock-paper-scissors for his hat and fake beard.",
+    "vi": "Thủy thủ luôn bầu Thuyền Trưởng mới!\n{KEYWORD}Độ bền: {STAT}500 | {KEYWORD}Tốc độ: {STAT}Trung bình\n{KEYWORD}Sát thương: {STAT}~150/s (Mã tấu)\n{KEYWORD}Đặc điểm: {STAT}Thuyền Trưởng chết, thủy thủ gần nhất kế nhiệm & hồi trạng thái\n{FLAVOR}Sếp ngã là cả bọn oẳn tù tì giành mũ và bộ râu giả."
   },
   {
     "file": "NewZombieStrings.txt",
@@ -1023,7 +1023,7 @@
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_MAGNETIC_DESCRIPTION",
     "en": "Magnetic suit draws all fire.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1000+270 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}Redirects all on-screen shots to self\n{KEYWORD}Weakness: {STAT}Magnet-shroom\n{SHORTLINE}\n{FLAVOR}Covers allies—ruins Screen Door's pea ping-pong.",
-    "vi": "Bộ giáp từ tính hút hỏa lực khắp bãi cỏ.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1000+270 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}Hút toàn bộ đạn trên màn hình vào mình\n{KEYWORD}Điểm yếu: {STAT}Nấm Nam Châm\n{SHORTLINE}\n{FLAVOR}Ai cũng thích hắn chắn đạn hộ, trừ Cửa Lưới cáu vì mất hứng đánh bóng bàn."
+    "vi": "Giáp từ tính hút hỏa lực khắp sân.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1000+270 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}Hút toàn bộ đạn trên màn hình vào mình\n{KEYWORD}Điểm yếu: {STAT}Nấm Nam Châm\n{SHORTLINE}\n{FLAVOR}Ai cũng thích hắn chắn đạn, trừ Cửa Lưới cáu vì mất kèo bóng bàn."
   },
   {
     "file": "NewZombieStrings.txt",
@@ -1058,7 +1058,7 @@
   {
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_CAT_DESCRIPTION",
-    "en": "Agile feline fighter firing homing spikes!\n{KEYWORD}Toughness: {STAT}1800+500 | {KEYWORD}Speed: {STAT}Fast\n{KEYWORD}Special: {STAT}1. Fires 2 homing spikes every 0.5s (20x2 dmg) at nearest plant; 2. 2x bite dmg & switches lanes after biting\n{KEYWORD}Weakness: {STAT}Magnet-shroom\n{FLAVOR}\"Cat reflexes are 7x faster than a zombie's\"—all to dodge bitter-tasting plants.",
+    "en": "Agile cat firing homing spikes!\n{KEYWORD}Toughness: {STAT}1800+500 | {KEYWORD}Speed: {STAT}Fast\n{KEYWORD}Special: {STAT}1. 2 homing spikes/0.5s (20x2) at nearest plant; 2. 2x bite & swaps lanes\n{KEYWORD}Weakness: {STAT}Magnet-shroom\n{FLAVOR}\"Cat reflexes are 7x faster than zombies\"—to dodge bitter plants.",
     "vi": "Mèo phóng gai truy đuổi từ vai!\n{KEYWORD}Độ bền: {STAT}1800+500 | {KEYWORD}Tốc độ: {STAT}Nhanh\n{KEYWORD}Đặc điểm: {STAT}1. Mỗi 0.5s bắn 2 gai (20x2) vào cây gần; 2. Gặm gấp đôi, xong đổi hàng\n{KEYWORD}Điểm yếu: {STAT}Nấm Nam Châm\n{FLAVOR}\"Phản xạ nhanh gấp 7 lần zombie\" để né cây đắng."
   },
   {
@@ -1077,7 +1077,7 @@
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_BALLOONPULT_DESCRIPTION",
     "en": "Deploys high-flying balloon bombs!\n{KEYWORD}Toughness: {STAT}1350 | {KEYWORD}Speed: {STAT}Medium\n{KEYWORD}Special: {STAT}Drops up to 10 bombs then crushes; 3 early\n{KEYWORD}Balloon Bomb: {STAT}80 HP, high, 100 dmg 3x3\n{KEYWORD}Bomb Weakness: {STAT}Spikes, Blover\n{FLAVOR}Plants really need a dart monkey.",
-    "vi": "Xe khinh khí cầu thả bom bay!\n{KEYWORD}Độ bền: {STAT}1350 | {KEYWORD}Tốc độ: {STAT}Trung bình\n{KEYWORD}Đặc điểm: {STAT}Thả tối đa 10 bom rồi cán; phá sớm rơi 3\n{KEYWORD}Bom Khí Cầu: {STAT}80 máu, bay cao, nổ 100 3x3\n{KEYWORD}Điểm yếu bom: {STAT}Gai/truy đuổi, Cỏ Ba Lá\n{FLAVOR}Cây chắc cần tuyển thêm khỉ bắn bóng."
+    "vi": "Xe khinh khí cầu thả bom bay!\n{KEYWORD}Độ bền: {STAT}1350 | {KEYWORD}Tốc độ: {STAT}Trung bình\n{KEYWORD}Đặc điểm: {STAT}Thả tối đa 10 bom rồi cán; vỡ sớm rơi 3\n{KEYWORD}Bom Khí Cầu: {STAT}80 máu, bay cao, nổ 100 3x3\n{KEYWORD}Điểm yếu bom: {STAT}Gai/truy đuổi, Cỏ Ba Lá\n{FLAVOR}Cây chắc cần tuyển khỉ bắn bóng."
   },
   {
     "file": "NewZombieStrings.txt",
@@ -1113,7 +1113,7 @@
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_RNECROMANCERG_DESCRIPTION",
     "en": "Heals allies and revives once!\n{KEYWORD}Toughness: {STAT}3000 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}CC/Garlic immune; heals 20% HP in 3x3 /15s\n{KEYWORD}On Death: {STAT}Skull pit revives once after 30s\n{FLAVOR}\"We've died already—now let magic shine!\"",
-    "vi": "Hồi máu đồng đội và tự hồi sinh một lần!\n{KEYWORD}Độ bền: {STAT}3000 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}Miễn khống chế & Tỏi, mỗi 15s hồi 20% máu cho zombie vùng 3x3\n{KEYWORD}Khi chết: {STAT}Để hố sọ xanh tự hồi sinh một lần sau 30s\n{FLAVOR}\"Ai cũng chết khi sống—nhưng ta chết rồi, giờ là lúc phép màu tỏa sáng!\""
+    "vi": "Hồi máu đồng đội, tự hồi sinh 1 lần!\n{KEYWORD}Độ bền: {STAT}3000 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}Miễn CC & Tỏi; mỗi 15s hồi 20% máu vùng 3x3\n{KEYWORD}Khi chết: {STAT}Hố sọ xanh hồi sinh 1 lần sau 30s\n{FLAVOR}\"Ai cũng chết khi sống—ta chết rồi, giờ là lúc phép màu tỏa sáng!\""
   },
   {
     "file": "NewZombieStrings.txt",
@@ -1347,7 +1347,7 @@
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_POLEJACKER_DESCRIPTION",
     "en": "Strapped a bomb to his pole.\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}1000 | {KEYWORD}Speed: {STAT}Fast\n{KEYWORD}Special: {STAT}Drops Bomb Pole after vault\n{KEYWORD}Bomb Pole: {STAT}500 HP, 15s 1800 dmg 3x3\n{KEYWORD}Weakness: {STAT}Tall-nut, Magnet, sweep\n{FLAVOR}Just wants a show—and an invite inside.",
-    "vi": "Buộc bom hẹn giờ lên sào nhảy.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1000 | {KEYWORD}Tốc độ: {STAT}Nhanh\n{KEYWORD}Đặc điểm: {STAT}Nhảy qua cắm Sào Tự Nổ\n{KEYWORD}Sào Tự Nổ: {STAT}500 máu, 15s nổ 1800 3x3\n{KEYWORD}Điểm yếu: {STAT}Hạt Dẻ Cao, Nam Châm, quét\n{FLAVOR}Chỉ muốn diễn đẹp—cực vui nếu mời vào nhà."
+    "vi": "Buộc bom hẹn giờ lên sào nhảy.\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}1000 | {KEYWORD}Tốc độ: {STAT}Nhanh\n{KEYWORD}Đặc điểm: {STAT}Nhảy qua cắm Sào Tự Nổ\n{KEYWORD}Sào Nổ: {STAT}500 máu, 15s nổ 1800 (3x3)\n{KEYWORD}Điểm yếu: {STAT}Hạt Dẻ Cao, Nam Châm, quét\n{FLAVOR}Chỉ muốn diễn hay—rất vui nếu mời vào nhà."
   },
   {
     "file": "NewZombieStrings.txt",
@@ -1491,7 +1491,7 @@
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_SKELETUAR_DESCRIPTION",
     "en": "Giant skeleton—smash or burn it!\n{KEYWORD}Toughness: {STAT}3000 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Damage: {STAT}Smash (OHKOs plants)\n{KEYWORD}Special: {STAT}1. Imp <50% HP; 2. Non-ash drops Bone Pile\n{KEYWORD}Bone Pile: {STAT}3000 HP, blocks, 30s revive\n{FLAVOR}Stays bone-lean to land a date?",
-    "vi": "Xương khổng lồ—đập hoặc thiêu rụi!\n{KEYWORD}Độ bền: {STAT}3000 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Sát thương: {STAT}Đập nát (hạ cây)\n{KEYWORD}Đặc điểm: {STAT}1. Dưới nửa ném Quỷ Xương; 2. Chết thường rơi Đống Xương\n{KEYWORD}Đống Xương: {STAT}3000 máu, chiếm ô, 30s hồi\n{FLAVOR}Giữ dáng gầy trơ cho dễ kiếm bạn gái?"
+    "vi": "Xương khổng lồ—đập hoặc thiêu rụi!\n{KEYWORD}Độ bền: {STAT}3000 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Sát thương: {STAT}Đập nát (hạ cây)\n{KEYWORD}Đặc điểm: {STAT}1. <50% máu ném Quỷ Xương; 2. Chết thường rơi Đống Xương\n{KEYWORD}Đống Xương: {STAT}3000 máu, chiếm ô, 30s hồi\n{FLAVOR}Giữ dáng gầy cho dễ kiếm bạn gái?"
   },
   {
     "file": "NewZombieStrings.txt",
@@ -1616,7 +1616,7 @@
   {
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_WALLICENUT_IMP_DESCRIPTION",
-    "en": "Pint-sized \"God of War\" in your backline...\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}2000 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Damage: {STAT}100/s (Bite) 20x8 / 1.5s (Shot)\n{SHORTLINE}\n{FLAVOR}\"Here I come!\" he cackles. \"Huh? Why do you all look so thrilled to see me?\"",
+    "en": "Mini \"God of War\" in your backline...\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}2000 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Damage: {STAT}100/s (Bite), 20x8/1.5s (Shot)\n{SHORTLINE}\n{FLAVOR}\"Here I come!\" he cackles. \"Huh? Why do you all look so thrilled to see me?\"",
     "vi": "\"Chiến Thần\" mini ở tuyến sau...\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}2000 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Sát thương: {STAT}100/s (Gặm), 20x8/1.5s (Bắn)\n{SHORTLINE}\n{FLAVOR}\"Ta tới đây! Sao mặt tụi bay chẳng vui vậy?\""
   },
   {
@@ -1706,7 +1706,7 @@
   {
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_GIFTMACHINE_DESCRIPTION",
-    "en": "Zombies gacha with YOUR coins?!\n{KEYWORD}Toughness: {STAT}1100+500 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Damage: {STAT}100/s\n{KEYWORD}Special: {STAT}1. Gold helm max 50; 2. 1 coin/5s\n{KEYWORD}Prize Pool: {STAT}70% 15 Brain-sun, 15% Bucket, 10% Black FB, 5% Box\n{KEYWORD}On Death: {STAT}Dark Gift Machine\n{KEYWORD}Dark Machine: {STAT}4000 HP, blocks, spins",
+    "en": "Zombies gacha with YOUR coins?!\n{KEYWORD}Toughness: {STAT}1100+500 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Damage: {STAT}100/s\n{KEYWORD}Special: {STAT}1. Gold helm cap 50; 2. 1 coin/5s\n{KEYWORD}Prize Pool: {STAT}70% 15 Brain-sun, 15% Bucket, 10% Black FB, 5% Box\n{KEYWORD}On Death: {STAT}Dark Gift Machine\n{KEYWORD}Dark Box: {STAT}4000 HP, blocks, spins",
     "vi": "Zombie chơi gacha bằng tiền BẠN?!\n{KEYWORD}Độ bền: {STAT}1100+500 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Sát thương: {STAT}100/s\n{KEYWORD}Đặc điểm: {STAT}1. Mũ vàng tối đa 50; 2. 5s hút 1 xu quay\n{KEYWORD}Tỷ lệ nổ hũ: {STAT}15 Não 70%, Xô 15%, Bầu Dục Đen 10%, Quà 5%\n{KEYWORD}Khi chết: {STAT}Để Máy Quà Bóng Tối\n{KEYWORD}Máy Bóng Tối: {STAT}4000 máu, chặn, quay"
   },
   {
@@ -1815,7 +1815,7 @@
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_GARGANANGEL_DESCRIPTION",
     "en": "Heavyweight celestial terror!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}3000 | {KEYWORD}Speed: {STAT}Slow\n{KEYWORD}Special: {STAT}1. Flies, hits ground, blow-immune; 2. Revives non-Imps as Giants\n{KEYWORD}On Death: {STAT}Revives once, no shield\n{KEYWORD}Note: {STAT}Ignores regular Angels\n{FLAVOR}Dinosaurs died last time he landed.",
-    "vi": "Thiên thần hạng siêu nặng!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}3000 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}1. Bay nhưng trúng đất, miễn thổi; 2. Hồi (trừ Tiểu Quỷ) thành Khổng Lồ\n{KEYWORD}Khi chết: {STAT}Hồi một lần, không bất tử\n{KEYWORD}Lưu ý: {STAT}Không tương tác Thiên Thần\n{FLAVOR}Lần đáp trước khủng long tuyệt chủng."
+    "vi": "Thiên thần hạng siêu nặng!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}3000 | {KEYWORD}Tốc độ: {STAT}Chậm\n{KEYWORD}Đặc điểm: {STAT}1. Bay, dính đòn đất, miễn thổi; 2. Hồi (trừ Quỷ) thành Khổng Lồ\n{KEYWORD}Khi chết: {STAT}Hồi một lần, không bất tử\n{KEYWORD}Lưu ý: {STAT}Không tương tác Thiên Thần\n{FLAVOR}Lần đáp trước, khủng long tuyệt chủng."
   },
   {
     "file": "NewZombieStrings.txt",
@@ -1887,7 +1887,7 @@
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_ALIEN_DESCRIPTION",
     "en": "Visitors from outer space!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}800 | {KEYWORD}Speed: {STAT}Fast\n{KEYWORD}Special: {STAT}Laser /3s: 100 dmg 3 tiles ahead (no low/air, ignores Pumpkin)\n{KEYWORD}On Death: {STAT}Drops 3 Brain-sun (-75 Sun)\n{SHORTLINE}\n{FLAVOR}Wrong planet on their GPS?",
-    "vi": "Khách lạ từ ngoài vũ trụ!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}800 | {KEYWORD}Tốc độ: {STAT}Nhanh\n{KEYWORD}Đặc điểm: {STAT}Mỗi 3s laze 100 sát thương 3 ô trước (trừ thấp/bay, xuyên Bí Ngô)\n{KEYWORD}Khi chết: {STAT}Rơi 3 Não-sáng (trừ 75 nắng)\n{SHORTLINE}\n{FLAVOR}Khoái Não-sáng—đi nhầm tinh cầu?"
+    "vi": "Khách lạ từ ngoài vũ trụ!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}800 | {KEYWORD}Tốc độ: {STAT}Nhanh\n{KEYWORD}Đặc điểm: {STAT}Mỗi 3s laze 100 sát thương 3 ô trước (trừ thấp/bay, xuyên Bí Ngô)\n{KEYWORD}Khi chết: {STAT}Rơi 3 Não-sáng (-75 nắng)\n{SHORTLINE}\n{FLAVOR}Khoái Não-sáng—đi nhầm tinh cầu?"
   },
   {
     "file": "NewZombieStrings.txt",
@@ -1905,7 +1905,7 @@
     "file": "NewZombieStrings.txt",
     "key": "ZOMBIE_GARGANTUAR_PAPER_DESCRIPTION",
     "en": "Reading—better not interrupt him!\n{SHORTLINE}\n{KEYWORD}Toughness: {STAT}500+3000 | {KEYWORD}Speed: {STAT}Slow/Fast\n{KEYWORD}Special: {STAT}1. Paper stun (min 1 HP); 2. Fury: +3000 HP, fast speed\n{SHORTLINE}\n{FLAVOR}Reading \"Lonely Hearts\"—shred at own risk.",
-    "vi": "Khổng Lồ đọc báo—đừng làm phiền!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}500+3000 | {KEYWORD}Tốc độ: {STAT}Chậm/Nhanh\n{KEYWORD}Đặc điểm: {STAT}1. Rách báo khựng lại (min 1 máu); 2. Sau Cuồng Nộ: +3000 máu, chạy nhanh\n{SHORTLINE}\n{FLAVOR}Đang đọc \"Mai mối\"—rách là phát điên."
+    "vi": "Khổng Lồ đọc báo—đừng làm phiền!\n{SHORTLINE}\n{KEYWORD}Độ bền: {STAT}500+3000 | {KEYWORD}Tốc độ: {STAT}Chậm/Nhanh\n{KEYWORD}Đặc điểm: {STAT}1. Rách báo khựng (min 1 máu); 2. Cuồng Nộ: +3000 máu, chạy nhanh\n{SHORTLINE}\n{FLAVOR}Đang đọc \"Mai mối\"—rách phát điên."
   },
   {
     "file": "NewLawnStrings.txt",
@@ -1934,14 +1934,14 @@
   {
     "file": "NewLawnStrings.txt",
     "key": "CARD_SWITCH3",
-    "en": "Diamond",
-    "vi": "K.Cương"
+    "en": "Gem",
+    "vi": "K.C"
   },
   {
     "file": "NewLawnStrings.txt",
     "key": "CARD_SWITCH4",
-    "en": "Rainbow",
-    "vi": "Cầu Vồng"
+    "en": "7-Clr",
+    "vi": "7 Màu"
   },
   {
     "file": "NewLawnStrings.txt",
@@ -3704,14 +3704,14 @@
   {
     "file": "NewLawnStrings.txt",
     "key": "UPDATA_TIP",
-    "en": "Hybrid Edition v3.20.1 Patch Notes\n\nI. Balance & Adjustments\n1. VIP Nut Challenge 2: Increased starting Sun\n2. VIP Nut Challenge 2: Adjusted zombie waves\n3. Super Gatling Zombie: Removed summon from Ult",
-    "vi": "Thông Báo Cập Nhật v3.20.1\n\nI. Điều Chỉnh Cân Bằng\n1. Thử Thách Óc Chó VIP 2: Tăng Mặt Trời đầu\n2. Thử Thách Óc Chó VIP 2: Chỉnh lại đợt quái\n3. Siêu Zombie Súng Máy: Bỏ gọi quái ở Tuyệt Chiêu"
+    "en": "v3.20.1 Balance Adjustments\n1. VIP Nut 2: More start Sun & tuned waves\n2. Super Gatling: Removed Ult summon",
+    "vi": "Cân Bằng v3.20.1\n1. Óc Chó VIP 2: +Nắng đầu & chỉnh đợt\n2. Siêu Zombie Súng: Bỏ gọi quái Chiêu"
   },
   {
     "file": "NewLawnStrings.txt",
     "key": "UPDATA_TIP2",
-    "en": "Hybrid Edition v3.20.1 Patch Notes\n\nII. Bug Fixes\n1. Fixed crash in Portal Combat & Double-Front\n2. Fixed Cactus CIWS Cannon abnormal damage\n3. Fixed Gift Box Zombie abnormal speed\n4. Fixed crash when Giant Pea passes fire\n5. Fixed crash in Shapeshifter stage",
-    "vi": "Thông Báo Cập Nhật v3.20.1\n\nII. Sửa Lỗi\n1. Sửa văng màn Cổng Dịch Chuyển & Kẹp Hai Đầu\n2. Sửa sát thương Pháo Xương Rồng & tốc độ Hộp Quà\n3. Sửa văng game khi Đậu Khổng Lồ bắn qua lửa\n4. Sửa lỗi văng game màn Biến Ảo Khôn Lường"
+    "en": "v3.20.1 Bug Fixes\n1. Fixed Portal & Pincer crash\n2. Fixed Cactus CIWS dmg & Gift Box spd\n3. Fixed Giant Pea fire & Shapeshift crash",
+    "vi": "Sửa Lỗi v3.20.1\n1. Sửa văng Cổng & Kẹp Hai Đầu\n2. Sửa ST Pháo X.Rồng & tốc Hộp Quà\n3. Sửa văng Đậu Lớn lửa & Biến Ảo"
   },
   {
     "file": "NewLawnStrings.txt",

@@ -26,7 +26,7 @@
 ### 1. Cấu hình thiết bị yêu cầu
 - Điện thoại hoặc máy tính bảng chạy **Android 8.0** trở lên.
 - Vi xử lý 64-bit kiến trúc **`arm64-v8a`** (hầu hết thiết bị từ năm 2018 trở lại đây đều hỗ trợ).
-- Bộ nhớ trống tối thiểu: **~1.8 GB** khả dụng (tệp APK nặng ~390 MiB / ~409 MB; lần mở đầu tiên sẽ tự giải nén môi trường chạy và dữ liệu game vào bộ nhớ trong).
+- Bộ nhớ trống tối thiểu: **~1.8 GB** khả dụng (tệp APK nặng ~388–390 MiB / ~407–409 MB; lần mở đầu tiên sẽ tự giải nén môi trường chạy và dữ liệu game vào bộ nhớ trong).
 
 ### 2. Các bước cài đặt chuẩn (Chỉ 1 APK duy nhất)
 > Khác với các bản giả lập rời yêu cầu tải riêng container hay tự chép file, bộ cài đặt này đóng gói toàn bộ thành **1 tệp APK độc lập (`com.pvzh.cls`)**:
@@ -57,7 +57,7 @@
 ### 1. System Requirements
 - Android phone or tablet running **Android 8.0+**.
 - **`arm64-v8a`** 64-bit CPU architecture.
-- Free storage: at least **~1.8 GB** available (~390 MiB / ~409 MB APK + one-time first-launch extraction of runtime & game data).
+- Free storage: at least **~1.8 GB** available (~388–390 MiB / ~407–409 MB APK + one-time first-launch extraction of runtime & game data).
 
 ### 2. Step-by-Step Installation (Single Standalone APK)
 > No separate emulator setup, OBB folders, or manual file copying required — everything runs from one self-contained package (**`com.pvzh.cls`**):
@@ -88,7 +88,7 @@
 ### 1. 系统配置要求
 - 运行 **Android 8.0** 及以上系统的手机或平板电脑。
 - **`arm64-v8a`** 64 位处理器架构。
-- 存储空间：建议预留 **约 1.8 GB** 可用空间（APK 本体约 390 MiB / 409 MB，首次启动时会自动在应用内部释放运行环境与游戏文件）。
+- 存储空间：建议预留 **约 1.8 GB** 可用空间（APK 本体约 388–390 MiB / 407–409 MB，首次启动时会自动在应用内部释放运行环境与游戏文件）。
 
 ### 2. 一键单包安装步骤（无需单独配置模拟器）
 > 本项目将游戏本体与运行容器整合为**单一独立 APK（包名 `com.pvzh.cls`）**，免去手动导入容器的繁琐步骤：

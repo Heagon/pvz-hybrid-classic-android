@@ -98,8 +98,8 @@
   {
     "file": "NewLevelStrings.txt",
     "key": "LEVEL_TIP17",
-    "en": "40% chance to drop a Bungee when planting\n10% chance to spawn Hypnotist when planting\n30% chance to spawn a Jammer Van on seed recharge\n50% chance to spawn Sunflower Zombie per 100 Sun produced\n50% chance to spawn a Skeleton Zombie when a plant vanishes",
-    "vi": "Trồng cây có 40% tỷ lệ rơi Zombie Bungee\nTrồng cây có 10% tỷ lệ rơi Thôi Miên Sư\nHết hồi chiêu thẻ có 30% tỷ lệ ra Xe Gây Nhiễu\nMỗi 100 Mặt trời tạo ra có 50% tỷ lệ ra Zombie Hướng Dương\nKhi cây biến mất có 50% tỷ lệ ra một Zombie Bộ Xương"
+    "en": "Planting: 40% Bungee, 10% Hypnotist.\nRecharge: 30% Jammer Van. 50% Skel on fade.\nEvery 100 Sun made: 50% Sun Zombie.",
+    "vi": "Trồng: 40% Bungee, 10% Thôi Miên Sư.\nHồi thẻ: 30% Xe Nhiễu. Cây mất: 50% Xương.\nMỗi 100 MT tạo: 50% Zombie Hướng Dương."
   },
   {
     "file": "NewLevelStrings.txt",
@@ -110,14 +110,14 @@
   {
     "file": "NewLevelStrings.txt",
     "key": "LEVEL_TIP19",
-    "en": "Shark Zombie: costs 1000, produces 350 Sun per cycle;\nmust devour Snorkel Zombies to stay fed.\n\nEvery 4 Snorkel Zombies on field merge into a Kelp Snorkel Zombie\n(produces 100 Sun, eats 2 brains per cycle).\n\nEvery 4 Kelp Snorkels merge into a Siren Zombie\n(produces 400 Sun, eats 5 brains per cycle).",
-    "vi": "Zombie Cá Mập: giá 1000, mỗi lần tạo 350 Mặt trời,\ncần ăn Zombie Lặn để no bụng.\n\nCứ 4 Zombie Lặn trên sân tự hợp thành Zombie Lặn Rong Biển\n(tạo 100 Mặt trời, mỗi lần ăn 2 não).\n\nCứ 4 Zombie Lặn Rong Biển hợp thành Zombie Hải Yêu\n(tạo 400 Mặt trời, mỗi lần ăn 5 não)."
+    "en": "Shark (1000, +350 Sun): must eat Snorkels.\n4 Snorkels -> Kelp (+100 Sun, eats 2).\n4 Kelp -> Siren (+400 Sun, eats 5).",
+    "vi": "Cá Mập (1000, +350 MT): phải ăn ZB Lặn.\n4 Lặn -> Rong Biển (+100 MT, ăn 2 não).\n4 Rong -> Hải Yêu (+400 MT, ăn 5 não)."
   },
   {
     "file": "NewLevelStrings.txt",
     "key": "LEVEL_TIP20",
-    "en": "When a column on the lawn is filled with identical plants,\na Pepper Relifer spawns atop them,\nplants to the right shift left into gaps, and you gain 5 pts.\n\nReach 200 points to win the match.\n\nA red line marks Column 8 (play zone inside).\nYou may only plant to the right of existing plants.",
-    "vi": "Nếu một cột trên sân toàn cây giống hệt nhau,\nhệ thống đặt Ớt Tái Tạo lên trên,\ncác cây bên phải dồn sang trái lấp chỗ và nhận 5 điểm.\n\nTích đủ 200 điểm sẽ giành chiến thắng.\n\nCột 8 có vạch đỏ đánh dấu vùng chơi.\nChỉ được trồng cây ở bên phải ô đã có cây."
+    "en": "Fill a column with identical plants -> Pepper\nRelifer spawns, right plants shift & +5 pts.\nRed line = Col 8. Plant right of plants. Goal: 200.",
+    "vi": "Cột kín cây giống nhau -> ra Ớt Tái Tạo,\ncây phải dồn trái & +5đ (Đạt 200đ = thắng).\nVạch đỏ Cột 8; chỉ trồng bên phải cây sẵn có."
   },
   {
     "file": "NewLevelStrings.txt",
@@ -164,8 +164,8 @@
   {
     "file": "NewLevelStrings.txt",
     "key": "LEVEL_TIP28",
-    "en": "1. Zombies with >=3000 HP leave a Revival Mage pit on death;\nothers leave a Skeleton Zombie pit.\n2. Revival Mages and Skeleton Zombies turn into Zombie Ghosts on death.\n3. Zombie Ghosts turn into Tombstones on death.\n4. Vanishing Tombstones drop 25 Brain-sun (-25 Sun).",
-    "vi": "1. Zombie có máu >=3000 khi chết để lại hố Pháp Sư Hồi Sinh;\ncác con khác để lại hố Zombie Bộ Xương.\n2. Pháp Sư Hồi Sinh và Bộ Xương khi chết biến thành Bóng Ma Zombie.\n3. Bóng Ma Zombie khi chết biến thành Bia Mộ.\n4. Bia Mộ biến mất rơi 25 Não-sáng (người chơi mất 25 Mặt trời)."
+    "en": "1. >=3000 HP drops Revival Mage pit; else Skel.\n2. Mage & Skel -> Ghost -> Tombstone on death.\n3. Fading Tombstones drain 25 Sun.",
+    "vi": "1. >=3000 máu rơi hố Hồi Sinh; còn lại Xương.\n2. Pháp Sư & Xương -> Bóng Ma -> Bia Mộ.\n3. Bia Mộ biến mất làm mất 25 Mặt trời."
   },
   {
     "file": "NewLevelStrings.txt",
@@ -194,8 +194,8 @@
   {
     "file": "NewLevelStrings.txt",
     "key": "LEVEL_TIP33",
-    "en": "Every 30s a random rule triggers:\n1. All plant fire rate -> 2s\n2. All plant HP -> 2000\n3. All card cost -> 175\n4. All cooldowns -> 20s\n5. All zombie HP -> 1000\n6. All projectile dmg -> 100\n7. Suppress vanish effects\n8. All plant & zombie HP -> 4000\n9. 2x speed for all\n10. 0.5x speed for all",
-    "vi": "Mỗi 30 giây ngẫu nhiên xảy ra 1 hiệu ứng:\n1. Tốc độ đánh cây -> 2s\n2. Máu cây -> 2000\n3. Giá thẻ -> 175\n4. Hồi chiêu -> 20s\n5. Máu zombie -> 1000\n6. Sát thương đạn -> 100\n7. Vô hiệu hiệu ứng biến mất\n8. Máu tất cả -> 4000\n9. Tốc độ tất cả x2\n10. Tốc độ tất cả giảm nửa"
+    "en": "Every 30s a random rule triggers:\n1. Rate->2s   2. Plant HP->2000\n3. Cost->175   4. CD->20s   5. Zom HP->1000\n6. Dmg->100   7. No fade   8. All HP->4000\n9. Speed x2   10. Speed x0.5",
+    "vi": "Mỗi 30s kích ngẫu nhiên 1 hiệu ứng:\n1. Tốc bắn->2s  2. Máu cây->2000\n3. Giá->175  4. Hồi->20s  5. Máu ZB->1000\n6. Đạn->100  7. Không mất  8. Máu->4000\n9. Tốc x2   10. Tốc x0.5"
   },
   {
     "file": "NewLevelStrings.txt",
@@ -206,8 +206,8 @@
   {
     "file": "NewLevelStrings.txt",
     "key": "LEVEL_TIP35",
-    "en": "1. 10 Big Suns (50 ea) fall from the sky; all units burn for 50/s (except Hypno Pea).\n2. Plant Hypno-shroom Shooter to shoot down the suns (-1 per vanish).\n3. Triggering Ice-shroom cuts Hypno-shroom Shooter CD by 30s.\n4. Reaching 8000 Sun = Game Over.\n5. Only 1 Sun left in the sky = Victory!",
-    "vi": "1. Trời rơi 10 Mặt Trời Lớn (50 điểm); tất cả chịu 50/s sát thương lửa (trừ Súng Đậu Thôi Miên).\n2. Trồng Súng Đậu Thôi Miên bắn rụng mặt trời trên trời!\n3. Mỗi lần kích hoạt Nấm Băng giảm 30s hồi chiêu Súng Đậu Thôi Miên.\n4. Đạt 8000 Mặt trời = Thua.\n5. Trên trời chỉ còn 1 Mặt Trời = Thắng!"
+    "en": "1. 10 Suns (50) fall; all burn 50/s (exc. Hypno Pea).\n2. Hypno Pea shoots down suns; Ice -30s CD.\n3. 8000 Sun = Lose | 1 Sun in sky = Win!",
+    "vi": "1. 10 MT (50đ) rơi; đốt 50/s (trừ Đậu Miên).\n2. Trồng Đậu Miên bắn rụng MT; Băng -30s.\n3. 8000 MT = Thua | Còn 1 MT = Thắng!"
   },
   {
     "file": "NewLevelStrings.txt",
@@ -2252,8 +2252,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL2_DESCRIPTION",
-    "en": "Removes a plant and refunds 20% of its Sun cost.\n{SHORTLINE}\nBought with Gold Coins.\n{SHORTLINE}\nLooks solid gold and surprisingly sturdy — probably just gold-plated though.\n{SHORTLINE}\nUnlock: Shop.",
-    "vi": "Đào bỏ cây và hoàn lại 20% Mặt trời.\n{SHORTLINE}\nChiếc xẻng mua bằng Xu Vàng\n{SHORTLINE}\nTrông như vàng ròng mà bền bất ngờ, chắc là mạ vàng thôi.\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
+    "en": "Removes a plant and refunds 20% Sun.\n{SHORTLINE}\nBought with Gold Coins.\nLooks solid gold — probably just plated!\n{SHORTLINE}\nUnlock: Shop.",
+    "vi": "Đào bỏ cây và hoàn 20% Mặt trời.\n{SHORTLINE}\nMua bằng Xu Vàng. Trông như vàng ròng mà bền\nbất ngờ — chắc là hàng mạ vàng thôi!\n{SHORTLINE}\nCách nhận: Mua ở Cửa Hàng."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2270,8 +2270,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL3_DESCRIPTION",
-    "en": "Removes a plant and refunds 30% of its Sun cost.\n{SHORTLINE}\nBought with Diamonds.\n{SHORTLINE}\nWith this sleek craftsmanship, it surely wasn't crafted from 1 diamond and 2 sticks?\n{SHORTLINE}\nUnlock: Shop.",
-    "vi": "Đào bỏ cây và hoàn lại 30% Mặt trời.\n{SHORTLINE}\nChiếc xẻng mua bằng Kim Cương\n{SHORTLINE}\nNhìn chất liệu liền khối thế này chắc không phải ghép từ 1 viên kim cương với 2 que gỗ đâu nhỉ?\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
+    "en": "Removes a plant and refunds 30% Sun.\n{SHORTLINE}\nBought with Diamonds.\nSleek craft — definitely not 1 gem & 2 sticks!\n{SHORTLINE}\nUnlock: Shop.",
+    "vi": "Đào bỏ cây và hoàn 30% Mặt trời.\n{SHORTLINE}\nMua bằng Kim Cương. Đẹp thế này chắc chẳng\nphải ghép 1 viên kim cương & 2 que gỗ đâu nhỉ?\n{SHORTLINE}\nCách nhận: Mua ở Cửa Hàng."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2468,8 +2468,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "SHOVEL14_DESCRIPTION",
-    "en": "Shovel a plant with <=30s cooldown, spending 25% of its Sun cost to convert it into a seed packet.\n{SHORTLINE}\nRumored to be forged from shards of fallen cards... Tree of Wisdom clarifies it's just scrap crafts from leftover cardboard.\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 100m.",
-    "vi": "Đào cây có hồi chiêu <=30s, tiêu tốn 25% giá cây để biến nó lại thành thẻ.\n{SHORTLINE}\nĐồn làm từ mảnh thẻ vỡ ngoài chiến trường... nhưng Cây Trí Tuệ đính chính chỉ là đồ thủ công từ bìa thừa.\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 100 mét."
+    "en": "Digs <=30s CD plant (costs 25% Sun) -> card.\n{SHORTLINE}\nTree of Wisdom confirms: leftover cardboard.\n{SHORTLINE}\nUnlock: Tree of Wisdom 100m.",
+    "vi": "Đào cây hồi <=30s (tốn 25% giá) -> về thẻ.\n{SHORTLINE}\nCây Trí Tuệ xác nhận: làm từ bìa các-tông!\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 100 mét."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2648,8 +2648,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "LAWNMOWER8_DESCRIPTION",
-    "en": "Replaces Pool Cleaner; clears non-Boss zombies and shaves 5s off cooldown for plants passed (right-click).\n{SHORTLINE}\nHey, why is this thing leaking everywhere?\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 30m.",
-    "vi": "Thay thế Xe Dọn Hồ, dọn zombie thường và giảm 5s hồi chiêu cho cây dọc đường; chuột phải phóng thủ công.\n{SHORTLINE}\nƠ kìa, sao cái xe này rỉ nước tùm lum vậy?\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 30 mét."
+    "en": "Pool Cleaner: wipes lane & -5s plant CDs.\n{SHORTLINE}\nHey, why is this thing leaking everywhere?\n{SHORTLINE}\nUnlock: Tree of Wisdom 30m.",
+    "vi": "Xe Dọn Hồ: dọn hàng & giảm 5s hồi chiêu cây.\n{SHORTLINE}\nƠ kìa, sao xe này cứ rỉ nước tùm lum thế?\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 30 mét."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2666,8 +2666,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "LAWNMOWER9_DESCRIPTION",
-    "en": "Replaces Lawn Mower; clears non-Bosses and grants +50% HP to plants along its path (right-click).\n{SHORTLINE}\nImported straight from San Diego — rumored to have saved struggling farmlands?\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 50m.",
-    "vi": "Thay thế Xe Cắt Cỏ, dọn zombie thường và tăng 50% máu cho cây dọc đường; chuột phải phóng thủ công.\n{SHORTLINE}\nHàng nhập nguyên chiếc từ San Diego, tương truyền từng giải cứu nhiều vùng nông nghiệp kém phát triển?\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 50 mét."
+    "en": "Lawn Mower: wipes lane & +50% HP to plants.\n{SHORTLINE}\nImported from San Diego; famous farm savior!\n{SHORTLINE}\nUnlock: Tree of Wisdom 50m.",
+    "vi": "Xe Cắt Cỏ: dọn hàng & +50% máu cây.\n{SHORTLINE}\nHàng nhập San Diego, từng cứu bao đồng ruộng!\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 50 mét."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2684,8 +2684,8 @@
   {
     "file": "NewPropStrings.txt",
     "key": "LAWNMOWER10_DESCRIPTION",
-    "en": "Replaces Pool Cleaner; clears non-Bosses and cuts 15s cooldown across 3 adjacent rows (right-click).\n{SHORTLINE}\nBuilt for automated garden watering... until Stinky the Snail stole its job.\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 150m.",
-    "vi": "Thay thế Xe Dọn Hồ, dọn zombie thường và giảm 15s hồi chiêu cho cây 3 hàng; chuột phải phóng thủ công.\n{SHORTLINE}\nVốn chế để tự động tưới vườn... nhưng bị Ốc Sên cướp mất chén cơm rồi.\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 150 mét."
+    "en": "Pool Cleaner: wipes lane & -15s CD in 3 rows.\n{SHORTLINE}\nMade for watering, until Stinky took over.\n{SHORTLINE}\nUnlock: Tree of Wisdom 150m.",
+    "vi": "Xe Dọn Hồ: dọn hàng & giảm 15s hồi 3 hàng.\n{SHORTLINE}\nVốn chế tưới vườn mà bị Ốc Sên cướp việc!\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 150 mét."
   },
   {
     "file": "NewPropStrings.txt",
@@ -2942,229 +2942,229 @@
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_1_TOOLTIP",
-    "en": "Clear Adventure Mode Chapters 1-8.\n{SHORTLINE}\n{AQUATIC}Reward: Pumpkin Shovel",
-    "vi": "Hoàn thành Chế Độ Phiêu Lưu Chương 1-8.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xẻng Bí Ngô"
+    "en": "Clear Adventure Chapters 1-8.\n{AQUATIC}Get: Pump. Shovel",
+    "vi": "Hoàn thành Phiêu Lưu Chương 1-8.\n{AQUATIC}Quà: Xẻng Bí Ngô"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_2_TOOLTIP",
-    "en": "Collect 100 distinct plants.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x1,000",
-    "vi": "Sưu tầm 100 loại cây khác nhau.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x1000"
+    "en": "Collect 100 distinct plants.\n{AQUATIC}Get: 1K Gems",
+    "vi": "Sưu tầm 100 loài cây khác nhau.\n{AQUATIC}Quà: 1K KC"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_3_TOOLTIP",
-    "en": "Earn the Gold Sunflower Trophy.\n{SHORTLINE}\n{AQUATIC}Reward: Seed Card - Gold Sunflower",
-    "vi": "Nhận được Cúp Hướng Dương Vàng.\n{SHORTLINE}\n{AQUATIC}Thưởng: Thẻ Cây - Hướng Dương Vàng"
+    "en": "Earn the Gold Sunflower Trophy.\n{AQUATIC}Get: Gold Cup",
+    "vi": "Nhận được Cúp Hướng Dương Vàng.\n{AQUATIC}Quà: Cúp Vàng"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_4_TOOLTIP",
-    "en": "Hypnotize 20 zombies at once.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x200",
-    "vi": "Thôi miên cùng lúc 20 zombie.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x200"
+    "en": "Hypnotize 20 zombies at once.\n{AQUATIC}Get: 200 Gems",
+    "vi": "Thôi miên cùng lúc 20 zombie.\n{AQUATIC}Quà: 200 KC"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_5_TOOLTIP",
-    "en": "Gain 1,000 Sun in a single cast of Sun Bomb or Ice Sun-shroom.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
-    "vi": "Dùng Bom Mặt Trời hoặc Nấm Mặt Trời Băng nhận 1000 Mặt trời một lần.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+    "en": "1 Sun Bomb/Ice Sun grants 1k Sun.\n{AQUATIC}Get: 1K Gold",
+    "vi": "1 Bom MT/Nấm Băng cho 1000 MT.\n{AQUATIC}Quà: 1000 Xu"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_6_TOOLTIP",
-    "en": "Clear any Challenge stage bringing ONLY Lucky Clover.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
-    "vi": "Vượt 1 màn Thử Thách chỉ mang theo Cỏ Bốn Lá May Mắn.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+    "en": "Win a Challenge using only Clover.\n{AQUATIC}Get: 1K Gold",
+    "vi": "Qua Thử Thách chỉ mang Cỏ Bốn Lá.\n{AQUATIC}Quà: 1000 Xu"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_7_TOOLTIP",
-    "en": "Clear any Challenge stage carrying 16 Gold Cards.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
-    "vi": "Vượt 1 màn Thử Thách khi mang đủ 16 Thẻ Vàng.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+    "en": "Clear a Challenge with 16 Gold Cards.\n{AQUATIC}Get: 1K Gold",
+    "vi": "Thắng Thử Thách với 16 Thẻ Vàng.\n{AQUATIC}Quà: 1000 Xu"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_8_TOOLTIP",
-    "en": "Obtain 100 total Gold Cards via Treasure Eater.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
-    "vi": "Dùng Kẻ Nuốt Kho Báu nhận tổng cộng 100 Thẻ Vàng.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+    "en": "Get 100 Gold Cards via Treasure.\n{AQUATIC}Get: 1K Gold",
+    "vi": "Nuốt Kho Báu cho 100 Thẻ Vàng.\n{AQUATIC}Quà: 1000 Xu"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_9_TOOLTIP",
-    "en": "Hold 10,000 Diamonds.\n{SHORTLINE}\n{AQUATIC}Reward: Diamond Mower",
-    "vi": "Sở hữu 10.000 Kim Cương.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xe Kim Cương"
+    "en": "Hold 10,000 Diamonds.\n{AQUATIC}Get: Gem Mower",
+    "vi": "Sở hữu 10.000 Kim Cương.\n{AQUATIC}Quà: Xe K.Cương"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_10_TOOLTIP",
-    "en": "Spend 100,000 total currency.\n{SHORTLINE}\n{AQUATIC}Reward: Deluxe Shovel",
-    "vi": "Tiêu tổng cộng 100.000 tiền tệ.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xẻng Cao Cấp"
+    "en": "Spend 100,000 total currency.\n{AQUATIC}Get: Deluxe Shv.",
+    "vi": "Tiêu tổng cộng 100.000 tiền tệ.\n{AQUATIC}Quà: Xẻng Vip"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_11_TOOLTIP",
-    "en": "Defeat 1,000,000 zombies total.\n{SHORTLINE}\n{AQUATIC}Reward: Hypno Shovel",
-    "vi": "Tiêu diệt tổng cộng 1.000.000 zombie.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xẻng Thôi Miên"
+    "en": "Defeat 1,000,000 zombies total.\n{AQUATIC}Get: Hypno Shv.",
+    "vi": "Tiêu diệt tổng cộng 1.000.000 zombie.\n{AQUATIC}Quà: Xẻng Miên"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_12_TOOLTIP",
-    "en": "Spend 50 Diamonds on Burger Shooter on a Thursday.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x50",
-    "vi": "Vào thứ Năm dùng 50 Kim Cương mua Súng Bánh Burger.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x50"
+    "en": "Buy Burger for 50 Gems on Thursday.\n{AQUATIC}Reward: Gems x50",
+    "vi": "Mua Súng Burger bằng 50 Gem T5.\n{AQUATIC}Thưởng: KC x50"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_13_TOOLTIP",
-    "en": "Drop your Sun balance to -1,000 or lower.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
-    "vi": "Đạt lượng Mặt trời từ -1000 trở xuống.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+    "en": "Drop Sun balance to -1,000 or less.\n{AQUATIC}Get: 1K Gold",
+    "vi": "Đạt lượng Mặt trời từ -1000 trở xuống.\n{AQUATIC}Quà: 1000 Xu"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_14_TOOLTIP",
-    "en": "Thaw 20 frozen plants at once.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x2,000",
-    "vi": "Rã đông cùng lúc 20 cây bị đóng băng.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x2000"
+    "en": "Thaw 20 frozen plants at once.\n{AQUATIC}Get: 2K Silver",
+    "vi": "Rã đông cùng lúc 20 cây bị băng.\n{AQUATIC}Quà: 2000 Bạc"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_15_TOOLTIP",
-    "en": "Have 15 cards costing 0 Sun at once in any level.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x2,000",
-    "vi": "Trong một màn bất kỳ có cùng lúc 15 thẻ giá 0.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x2000"
+    "en": "Hold 15 zero-cost cards at once.\n{AQUATIC}Get: 2K Silver",
+    "vi": "Có cùng lúc 15 thẻ giá 0 trong 1 màn.\n{AQUATIC}Quà: 2000 Bạc"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_16_TOOLTIP",
-    "en": "Win the Trophy jackpot from Gold Melon-pult.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x2,000",
-    "vi": "Dùng Pháo Dưa Vàng mở trúng Cúp Chiến Thắng.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x2000"
+    "en": "Win Trophy jackpot from Gold Melon.\n{AQUATIC}Get: 2K Gems",
+    "vi": "Pháo Dưa Vàng mở trúng Cúp Vàng.\n{AQUATIC}Quà: 200 KC0"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_17_TOOLTIP",
-    "en": "Freeze 30 zombies simultaneously.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x2,000",
-    "vi": "Đóng băng cùng lúc 30 zombie.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x2000"
+    "en": "Freeze 30 zombies simultaneously.\n{AQUATIC}Get: 2K Silver",
+    "vi": "Đóng băng cùng lúc 30 zombie.\n{AQUATIC}Quà: 2000 Bạc"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_18_TOOLTIP",
-    "en": "Have a Piggy Bank Nut storing 100 coins.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x200",
-    "vi": "Sở hữu một Hạt Dẻ Heo Đất tích trữ đủ 100 đồng xu.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x200"
+    "en": "Store 100 coins in one Piggy Nut.\n{AQUATIC}Get: 200 Gems",
+    "vi": "1 Óc Chó Heo Đất tích trữ đủ 100 xu.\n{AQUATIC}Quà: 200 KC"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_19_TOOLTIP",
-    "en": "Have a single plant with 20,000 HP in any level.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x2,000",
-    "vi": "Trong màn bất kỳ có một cây đạt 20.000 máu.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x2000"
+    "en": "Grow a plant with 20,000+ HP.\n{AQUATIC}Get: 2K Silver",
+    "vi": "Có 1 cây trên sân đạt từ 20.000 máu.\n{AQUATIC}Quà: 2000 Bạc"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_20_TOOLTIP",
-    "en": "Stack 10 plants on a single tile.\n{SHORTLINE}\n{AQUATIC}Reward: Gift Box Shovel",
-    "vi": "Trồng dồn 10 cây trong cùng một ô đất.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xẻng Hộp Quà"
+    "en": "Stack 10 plants on one tile.\n{AQUATIC}Get: Gift Shovel",
+    "vi": "Trồng dồn 10 cây trên cùng 1 ô đất.\n{AQUATIC}Quà: Xẻng Quà"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_21_TOOLTIP",
-    "en": "Use Timer or Reverse Alarm 100 times total.\n{SHORTLINE}\n{AQUATIC}Reward: Chrono Mower",
-    "vi": "Dùng tổng cộng 100 lần Đồng Hồ Hẹn Giờ hoặc Ngược Giờ.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xe Thời Gian"
+    "en": "Use Timer or Reverse 100 times.\n{AQUATIC}Get: Time Mower",
+    "vi": "Dùng Hẹn/Ngược Giờ đủ 100 lần.\n{AQUATIC}Quà: Xe T.Gian"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_22_TOOLTIP",
-    "en": "Clear zombie armor, tombstones, AND craters in one Pinata Candy cast.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x500",
-    "vi": "Dùng Kẹo Quét Sạch xóa cùng lúc giáp zombie, bia mộ và hố bom.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x500"
+    "en": "1 Candy wipes armor, graves & pits.\n{AQUATIC}Get: 500 Silver",
+    "vi": "1 Kẹo xóa giáp, bia mộ & hố bom.\n{AQUATIC}Quà: 500 Bạc"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_23_TOOLTIP",
-    "en": "Mature 1,000 growing plants total.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
-    "vi": "Giúp tổng cộng 1000 cây trưởng thành.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+    "en": "Mature 1,000 growing plants total.\n{AQUATIC}Get: 1K Gold",
+    "vi": "Giúp tổng cộng 1000 cây lớn lên.\n{AQUATIC}Quà: 1000 Xu"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_24_TOOLTIP",
-    "en": "Have 3,000 plants eaten by zombies total.\n{SHORTLINE}\n{AQUATIC}Reward: Burger Shovel",
-    "vi": "Bị zombie ăn mất tổng cộng 3000 cây.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xẻng Bánh Burger"
+    "en": "Have 3,000 plants eaten by zombies.\n{AQUATIC}Get: Burger Shv.",
+    "vi": "Bị zombie ăn mất tổng 3000 cây.\n{AQUATIC}Quà: Xẻng Burger"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_25_TOOLTIP",
-    "en": "Plant a full column of Garlic Flowers.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x500",
-    "vi": "Trồng kín một cột Hoa Tỏi.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x500"
+    "en": "Fill a column with Garlic Flowers.\n{AQUATIC}Get: 500 Silver",
+    "vi": "Trồng kín một cột Hoa Tỏi.\n{AQUATIC}Quà: 500 Bạc"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_26_TOOLTIP",
-    "en": "Reach Wave 30 in Vasebreaker Endless.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x1,000",
-    "vi": "Vượt qua đợt 30 Đập Bình Vô Tận.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x1000"
+    "en": "Reach Wave 30 in Vasebreaker Endl.\n{AQUATIC}Get: 1K Gems",
+    "vi": "Đạt Đợt 30 Đập Bình Vô Tận.\n{AQUATIC}Quà: 1K KC"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_27_TOOLTIP",
-    "en": "Reach Wave 20 in I, Zombie Endless.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x1,000",
-    "vi": "Vượt qua đợt 20 Tôi Là Zombie Vô Tận.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x1000"
+    "en": "Reach Wave 20 in I, Zombie Endless.\n{AQUATIC}Get: 1K Gems",
+    "vi": "Đạt Đợt 20 Tôi Là Zombie Vô Tận.\n{AQUATIC}Quà: 1K KC"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_28_TOOLTIP",
-    "en": "Knock down 7 zombies with a single Bowling Wall-nut.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
-    "vi": "Húc ngã 7 zombie chỉ bằng một quả Bowling Hạt Dẻ.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+    "en": "Knock 7 zombies with 1 Bowling Nut.\n{AQUATIC}Get: 1K Gold",
+    "vi": "1 quả Bowling Hạt Dẻ húc ngã 7 ZB.\n{AQUATIC}Quà: 1000 Xu"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_29_TOOLTIP",
-    "en": "Blow away 10 Balloon Zombies at once.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x2,000",
-    "vi": "Thổi bay cùng lúc 10 Zombie Bóng Bay.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x2000"
+    "en": "Blow away 10 Balloon Zomb at once.\n{AQUATIC}Get: 2K Silver",
+    "vi": "Thổi bay cùng lúc 10 ZB Bóng Bay.\n{AQUATIC}Quà: 2000 Bạc"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_30_TOOLTIP",
-    "en": "Pack 4 plants onto each of any 40 lawn tiles!\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x500",
-    "vi": "Trồng kín mỗi ô 4 cây trên 40 ô bất kỳ!\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x500"
+    "en": "Stack 4 plants across 40 lawn tiles.\n{AQUATIC}Get: 500 Gems",
+    "vi": "Trồng 4 cây mỗi ô trên 40 ô bất kỳ.\n{AQUATIC}Quà: 500 KC"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_31_TOOLTIP",
-    "en": "Relife 100 plants.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
-    "vi": "Tái tạo 100 cây.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+    "en": "Relife 100 plants.\n{AQUATIC}Get: 1K Gold",
+    "vi": "Tái tạo 100 cây.\n{AQUATIC}Quà: 1000 Xu"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_32_TOOLTIP",
-    "en": "Draw 5 identical cards using Lucky Clover or Gold Sunflower.\n{SHORTLINE}\n{AQUATIC}Reward: Seed Card - Lucky Clover",
-    "vi": "Dùng Cỏ Bốn Lá May Mắn hoặc Hướng Dương Vàng mở ra 5 thẻ giống nhau.\n{SHORTLINE}\n{AQUATIC}Thưởng: Thẻ Cây - Cỏ Bốn Lá May Mắn"
+    "en": "Draw 5 matches via Clover or Sun.\n{AQUATIC}Get: 4-Leaf Clov.",
+    "vi": "Mở 5 thẻ giống (Cỏ 4 Lá/HD Vàng).\n{AQUATIC}Quà: Cỏ 4 Lá"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_33_TOOLTIP",
-    "en": "Draw a card with base cost >=300 from Spare Supplies.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x3,000",
-    "vi": "Dùng Tiếp Tế Dự Phòng mở trúng thẻ có giá gốc từ 300 trở lên.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x3000"
+    "en": "Draw a >=300 card from Supplies.\n{AQUATIC}Get: 3K Silver",
+    "vi": "Tiếp Tế Dự Phòng mở thẻ >=300.\n{AQUATIC}Quà: 3000 Bạc"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_34_TOOLTIP",
-    "en": "Defeat a zombie positioned in Column -1.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x1,000",
-    "vi": "Hạ một zombie đang đứng ở cột -1 trên bản đồ.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x1000"
+    "en": "Defeat a zombie standing on Col -1.\n{AQUATIC}Get: 1K Silver",
+    "vi": "Hạ 1 zombie đứng ở cột -1 bản đồ.\n{AQUATIC}Quà: 1000 Bạc"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_35_TOOLTIP",
-    "en": "Collect 10 Shovels.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x1,000",
-    "vi": "Sưu tầm 10 chiếc Xẻng.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x1000"
+    "en": "Collect 10 Shovels.\n{AQUATIC}Get: 1K Gems",
+    "vi": "Sưu tầm 10 chiếc Xẻng.\n{AQUATIC}Quà: 1K KC"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_36_TOOLTIP",
-    "en": "Grow the Tree of Wisdom to 500m.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x1,000",
-    "vi": "Nuôi Cây Trí Tuệ cao tới 500 mét.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x1000"
+    "en": "Grow Tree of Wisdom to 500m.\n{AQUATIC}Get: 1K Gems",
+    "vi": "Nuôi Cây Trí Tuệ cao 500 mét.\n{AQUATIC}Quà: 1K KC"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_37_TOOLTIP",
-    "en": "Raise 200 different plants in your Zen Garden total.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x1,000",
-    "vi": "Trồng tích lũy 200 giống cây khác nhau trong Khu Vườn.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x1000"
+    "en": "Raise 200 distinct Garden plants.\n{AQUATIC}Get: 1K Gems",
+    "vi": "Trồng tích lũy 200 loài trong Vườn.\n{AQUATIC}Quà: 1K KC"
   },
   {
     "file": "NewAcheesementsStrings.txt",
     "key": "ACHEESEMENTS_38_TOOLTIP",
-    "en": "Clear every Pincer Double-Front stage.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x1,000",
-    "vi": "Hoàn thành toàn bộ các màn Kẹp Hai Đầu.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x1000"
+    "en": "Clear all Pincer Double-Front levels.\n{AQUATIC}Get: 1K Gems",
+    "vi": "Xong toàn bộ màn Kẹp Hai Đầu.\n{AQUATIC}Quà: 1K KC"
   }
 ]

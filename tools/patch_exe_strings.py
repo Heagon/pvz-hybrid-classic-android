@@ -176,6 +176,23 @@ def patch_pvz_exe(
     buf[0x251540:0x251552] = ascii_prefix
     assert bytes(buf[0x251552:0x251566]) == b"v3.20.1st1105125000\x00"
 
+    # UI geometry & button-overlap fixes in PlantsVsZombies.exe (.text VA 0x401000 == file off 0x1000)
+    # 1. ContinueDialog::Resize (0x4334b6): reduce stone button middle repeat from 3*w to 2*w (8d 34 40 -> 8d 34 00)
+    #    so "Continue" & "New Game" / "Tiếp tục" & "Chơi mới" sit cleanly side-by-side without overlapping.
+    assert bytes(buf[0x334B6:0x334B9]) == b"\x8d\x34\x40", f"Unexpected ContinueDialog bytes at 0x334b6: {buf[0x334B6:0x334B9].hex()}"
+    buf[0x334B6:0x334B9] = b"\x8d\x34\x00"
+
+    # 2. Plant & Zombie Almanac description rects: slightly expand vertical margins to eliminate bottom crowding.
+    assert bytes(buf[0x2600:0x2608]) == b"\xc7\x44\x24\x40\x35\x01\x00\x00", "Unexpected Plant Almanac Y instruction"
+    assert bytes(buf[0x2610:0x2618]) == b"\xc7\x44\x24\x48\xe6\x00\x00\x00", "Unexpected Plant Almanac H instruction"
+    buf[0x2604:0x2608] = struct.pack("<I", 305)
+    buf[0x2614:0x2618] = struct.pack("<I", 234)
+
+    assert bytes(buf[0x3761:0x3769]) == b"\xc7\x44\x24\x28\x79\x01\x00\x00", "Unexpected Zombie Almanac Y instruction"
+    assert bytes(buf[0x3771:0x3779]) == b"\xc7\x44\x24\x30\xaa\x00\x00\x00", "Unexpected Zombie Almanac H instruction"
+    buf[0x3765:0x3769] = struct.pack("<I", 373)
+    buf[0x3775:0x3779] = struct.pack("<I", 178)
+
     os.makedirs(os.path.dirname(os.path.abspath(out_exe_path)), exist_ok=True)
     with open(out_exe_path, "wb") as f:
         f.write(buf)

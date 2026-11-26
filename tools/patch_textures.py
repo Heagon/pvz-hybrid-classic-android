@@ -526,13 +526,32 @@ def build_textures_for_lang(lang: str) -> list[str]:
         save_png(healed, out_dir, rel)
         generated.append(rel)
 
-    # ShopChallenge_button (121x126 red brain flag -> bottom label "SHOP" / "ẢI SHOP")
+    # ShopChallenge_button (121x126 red brain flag -> bottom label "SHOP TRIAL" / "ẢI SHOP")
     for rel, is_hi in [("new/ShopChallenge_button.png", False), ("new/ShopChallenge_button2.png", True)]:
         im = load_src(rel)
-        healed = heal_dark_or_bright_in_poly(im, [(28, 76), (108, 70), (112, 106), (32, 112)], blur_r=6, feather=3)
+        px = im.load()
+        clean_reds = []
+        for y in range(70, 118):
+            row_reds = [px[x, y][:3] for x in range(10, 118) if px[x, y][3] > 200 and px[x, y][0] > 125 and px[x, y][1] < 45 and px[x, y][2] < 45]
+            clean_reds.append(row_reds)
+        poly_mask = Image.new("L", im.size, 0)
+        ImageDraw.Draw(poly_mask).polygon([(11, 72), (115, 68), (117, 112), (13, 116)], fill=255)
+        pm = poly_mask.load()
+        for y in range(70, 118):
+            row_r = clean_reds[y - 70]
+            avg_c = (
+                (sum(c[0] for c in row_r) // len(row_r), sum(c[1] for c in row_r) // len(row_r), sum(c[2] for c in row_r) // len(row_r))
+                if row_r else (190, 18, 22)
+            )
+            for x in range(10, 118):
+                if pm[x, y] > 0 and px[x, y][3] > 100:
+                    r, g, b, a = px[x, y]
+                    if not (r > 125 and g < 45 and b < 45):
+                        px[x, y] = (avg_c[0], avg_c[1], avg_c[2], a)
+        healed = im
         lbl = "SHOP TRIAL" if is_en else "ẢI SHOP"
-        f = fit_font(FONT_BOLD, lbl, 76, 24, 13, min_size=8)
-        draw_outlined_text(healed, (70, 92), lbl, f, fill=(255, 245, 150, 255) if is_hi else (255, 248, 240, 255), outline=(95, 12, 12, 255), stroke_w=2, angle=6.0, shadow_offset=None)
+        f = fit_font(FONT_BOLD, lbl, 84, 24, 13, min_size=8)
+        draw_outlined_text(healed, (66, 92), lbl, f, fill=(255, 245, 150, 255) if is_hi else (255, 248, 240, 255), outline=(95, 12, 12, 255), stroke_w=2, angle=6.0, shadow_offset=None)
         save_png(healed, out_dir, rel)
         generated.append(rel)
 
@@ -943,6 +962,368 @@ def build_textures_for_lang(lang: str) -> list[str]:
     dest_zfn = os.path.join(out_dir, "images", "Zombiefinalnote.png")
     zfn_mask.save(dest_zfn, "PNG")
     generated.append("images/Zombiefinalnote.png")
+
+    # 16. Achievements selector rocks & buttons, Shop Card Slot icon, Shop Trial cards (37x), & Adventure Experimental Logs (01..09)
+    # 16a. Achievements_selectorscreen_bg + _snow
+    for rel, left_y, left_cy, cent_y, cent_cy in [
+        ("NewAcheesements/Achievements_selectorscreen_bg.png", 46, 74, 54, 84),
+        ("NewAcheesements/Achievements_selectorscreen_bg_snow.png", 56, 85, 52, 80),
+    ]:
+        im = load_src(rel)
+        healed = heal_polygon(im, [(250, left_y), (344, left_y - 8), (348, left_y + 48), (254, left_y + 54)], blur_r=8, feather=3)
+        hx = healed.load()
+        cmask = Image.new("L", healed.size, 0)
+        ImageDraw.Draw(cmask).polygon([(476, cent_y), (590, cent_y), (590, cent_y + 56), (476, cent_y + 56)], fill=255)
+        cm = cmask.load()
+        for yy in range(cent_y, cent_y + 57):
+            rocks = [hx[xx, yy][:3] for xx in range(470, 596) if not (hx[xx, yy][0] > 140 and hx[xx, yy][1] > 125 and hx[xx, yy][2] < 135) and hx[xx, yy][0] > 80]
+            rc = (sum(c[0] for c in rocks) // len(rocks), sum(c[1] for c in rocks) // len(rocks), sum(c[2] for c in rocks) // len(rocks)) if rocks else (138, 128, 122)
+            for xx in range(476, 591):
+                if cm[xx, yy] > 0:
+                    r, g, b, a = hx[xx, yy]
+                    if (r > 138 and g > 122 and b < 135) or (r < 98):
+                        hx[xx, yy] = (rc[0], rc[1], rc[2], a)
+        back_lbl = "BACK" if is_en else "TRỞ VỀ"
+        fb = fit_font(FONT_BLACK, back_lbl, 74, 28, 17, min_size=10)
+        draw_carved_stone_text(healed, (296, left_cy), back_lbl, fb, angle=11.0, highlight_mode=False)
+        ach_lbl = "ACHIEVEMENTS" if is_en else "THÀNH TỰU"
+        fa = fit_font(FONT_BLACK, ach_lbl, 176, 36, 26, min_size=12)
+        draw_outlined_text(
+            healed, (533, cent_cy), ach_lbl, fa,
+            fill=(252, 212, 82, 255), outline=(42, 34, 18, 255), stroke_w=3, shadow_offset=(0, 2),
+        )
+        save_png(healed, out_dir, rel)
+        generated.append(rel)
+
+    # 16b. acheesements_back_highlight (93x39)
+    bh_src = load_src("NewAcheesements/acheesements_back_highlight.png")
+    bh_canvas = Image.new("RGBA", bh_src.size, (0, 0, 0, 0))
+    back_lbl = "BACK" if is_en else "TRỞ VỀ"
+    fbh = fit_font(FONT_BLACK, back_lbl, 74, 28, 17, min_size=10)
+    draw_outlined_text(
+        bh_canvas, (bh_src.width / 2, bh_src.height / 2), back_lbl, fbh,
+        fill=(45, 255, 50, 255), outline=(16, 105, 16, 230), stroke_w=2,
+        glow=(130, 255, 85, 220), glow_radius=3, angle=11.0, shadow_offset=None,
+    )
+    save_png(bh_canvas, out_dir, "NewAcheesements/acheesements_back_highlight.png")
+    generated.append("NewAcheesements/acheesements_back_highlight.png")
+
+    # 16c. acheesements_more_button / _top_button (92x120)
+    for rel, is_hi in [("NewAcheesements/acheesements_more_button.png", False), ("NewAcheesements/acheesements_more_button_highlight.png", True)]:
+        im = load_src(rel)
+        im.paste(Image.new("RGBA", (im.width, 56), (0, 0, 0, 0)), (0, 0))
+        mlbl = "MORE" if is_en else "THÊM"
+        fm = fit_font(FONT_BLACK, mlbl, 70, 22, 16, min_size=10)
+        draw_outlined_text(
+            im, (45, 41), mlbl, fm,
+            fill=(255, 200, 12, 255) if is_hi else (12, 12, 14, 255),
+            outline=(155, 88, 5, 230) if is_hi else (130, 130, 135, 170),
+            stroke_w=2 if is_hi else 1, shadow_offset=(1, 2),
+        )
+        save_png(im, out_dir, rel)
+        generated.append(rel)
+
+    for rel, is_hi in [("NewAcheesements/acheesements_top_button.png", False), ("NewAcheesements/acheesements_top_button_highlight.png", True)]:
+        im = load_src(rel)
+        im.paste(Image.new("RGBA", (im.width, im.height - 61), (0, 0, 0, 0)), (0, 61))
+        tlbl = "TOP" if is_en else "ĐẦU"
+        ft = fit_font(FONT_BLACK, tlbl, 70, 22, 16, min_size=10)
+        draw_outlined_text(
+            im, (45, 74), tlbl, ft,
+            fill=(255, 200, 12, 255) if is_hi else (12, 12, 14, 255),
+            outline=(155, 88, 5, 230) if is_hi else (130, 130, 135, 170),
+            stroke_w=2 if is_hi else 1, shadow_offset=(1, 2),
+        )
+        save_png(im, out_dir, rel)
+        generated.append(rel)
+
+    # 16d. Remove "卡槽+1" from newshop/SHOP_UI_1.png slot 9 & newshop/Shop_icon.png idx 2
+    ui1 = load_src("newshop/SHOP_UI_1.png")
+    ui1_px = ui1.load()
+    slate = ui1_px[1179 + 96, 40]
+    for yy in range(54, 92):
+        t_g = max(0.0, min(1.0, (yy - 54) / 24.0))
+        card_c = (int(196 + 22 * t_g), int(232 - 6 * t_g), int(186 - 14 * t_g), 255)
+        for xx in range(48, 115):
+            lx = 1179 + xx
+            if yy >= 80 or xx >= 91:
+                ui1_px[lx, yy] = slate
+            elif yy == 79 and 50 <= xx < 91:
+                ui1_px[lx, yy] = (52, 62, 48, 255)
+            elif xx == 90:
+                ui1_px[lx, yy] = (52, 62, 48, 255)
+            else:
+                ui1_px[lx, yy] = card_c
+    save_png(ui1, out_dir, "newshop/SHOP_UI_1.png")
+    generated.append("newshop/SHOP_UI_1.png")
+
+    si = load_src("newshop/Shop_icon.png")
+    si_px = si.load()
+    for yy in range(26, 59):
+        t_g = max(0.0, min(1.0, (yy - 26) / 17.0))
+        card_c = (int(196 + 22 * t_g), int(232 - 6 * t_g), int(186 - 14 * t_g), 255)
+        for xx in range(21, 59):
+            lx = 120 + xx
+            if yy >= 44 or xx >= 45:
+                si_px[lx, yy] = (0, 0, 0, 0)
+            elif yy == 43 or xx == 44:
+                si_px[lx, yy] = (52, 62, 48, 255)
+            else:
+                si_px[lx, yy] = card_c
+    save_png(si, out_dir, "newshop/Shop_icon.png")
+    generated.append("newshop/Shop_icon.png")
+
+    # 16e. newshop/Shop_Challenge_Window.png (4366x120 = 37 Shop Trial cards x 118px wide)
+    scw_labels = [
+        ("Silver Trial", "Thử Thách Bạc"),
+        ("Gold Trial", "Thử Thách Vàng"),
+        ("Gem Trial", "Thử Thách Gem"),
+        ("Claw Machine", "Máy Gắp Quà"),
+        ("Fortune Cat", "Mèo Thần Tài"),
+        ("Crystal Snail", "Ốc Pha Lê"),
+        ("Nut Bank", "Heo Đất Hạt"),
+        ("Gold Shooter", "Xạ Thủ Vàng"),
+        ("Gem Seed", "Hạt Kim Cương"),
+        ("Deluxe Gacha", "Hộp Quà VIP"),
+        ("Landlord 1", "Địa Chủ 1"),
+        ("Landlord 2", "Địa Chủ 2"),
+        ("Landlord 3", "Địa Chủ 3"),
+        ("Diamond-nut", "Óc Kim Cương"),
+        ("Tall-nut Bag", "Túi Phân Cao"),
+        ("Snail Chomper", "Răng Hổ Ốc"),
+        ("Choco-nut", "Óc Chó Sôcôla"),
+        ("Barrow Pot", "Chậu Xe Rùa"),
+        ("Wealth Stump", "Gốc Tài Lộc"),
+        ("Spray Fume", "Phun Diệt Sâu"),
+        ("Gold Sunflwr", "H.Dương Vàng"),
+        ("Phono Puff", "Nấm Nhỏ Nhạc"),
+        ("Glove Bean", "Đậu Găng Tay"),
+        ("Treasure Pot", "Tụ Bảo Bồn"),
+        ("Can-pult", "Bình Tưới Hất"),
+        ("Custom 1", "Tự Chọn 1"),
+        ("Custom 2", "Tự Chọn 2"),
+        ("Custom 3", "Tự Chọn 3"),
+        ("Custom 4", "Tự Chọn 4"),
+        ("Custom 5", "Tự Chọn 5"),
+        ("Custom 6", "Tự Chọn 6"),
+        ("Custom 7", "Tự Chọn 7"),
+        ("Custom 8", "Tự Chọn 8"),
+        ("Chili Spray", "Xịt Ớt Cay"),
+        ("Reset Bag", "Phân Tái Tạo"),
+        ("Key Coffee", "Cà Phê Chìa"),
+        ("Mystery Trial", "Biến Hóa Khôn"),
+    ]
+    scw = load_src("newshop/Shop_Challenge_Window.png")
+    scw_px = scw.load()
+    d_scw = ImageDraw.Draw(scw)
+    ribbon_rows = [(scw_px[12, yy], scw_px[104, yy]) for yy in range(85, 109)]
+    for idx_c, (en_lbl, vi_lbl) in enumerate(scw_labels):
+        x0 = idx_c * 118
+        for idx_y, yy in enumerate(range(85, 109)):
+            lc, rc = ribbon_rows[idx_y]
+            for xx in range(x0 + 12, x0 + 105):
+                t = (xx - (x0 + 12)) / 92.0
+                scw_px[xx, yy] = (
+                    int(round(lc[0] * (1 - t) + rc[0] * t)),
+                    int(round(lc[1] * (1 - t) + rc[1] * t)),
+                    int(round(lc[2] * (1 - t) + rc[2] * t)),
+                    255,
+                )
+        lbl = en_lbl if is_en else vi_lbl
+        f_c = fit_font(FONT_BOLD, lbl, 86, 18, 12, min_size=8)
+        d_scw.text((x0 + 58, 97), lbl, font=f_c, fill=(38, 38, 46, 255), anchor="mm")
+    save_png(scw, out_dir, "newshop/Shop_Challenge_Window.png")
+    generated.append("newshop/Shop_Challenge_Window.png")
+
+    # 16f. NewAdventure/ExperimentalLogNote01..09.png (654x427 Dr. Edgar story logs)
+    palai_p = r"C:\Windows\Fonts\palai.ttf"
+    timesi_p = r"C:\Windows\Fonts\timesi.ttf"
+    log_font = note_font if is_en else (palai_p if os.path.exists(palai_p) else (timesi_p if os.path.exists(timesi_p) else FONT_BOLD))
+    exp_logs = [
+        ("ExperimentalLogNote01.png", True,
+         "Log 023",
+         "Successfully isolated activated Peashooter\ngenes. Less stable than expected, yet they\nsuppress Zombie DNA mutations during fusion\n— boosting mass Peashooter-Zombie output!\nNow I can send more Plant-Zombies ahead.\nTruly, I am the greatest genius alive!",
+         "Nhật Ký 023",
+         "Đã chiết xuất thành công gen Đậu Bắn Đạn\nhoạt hóa. Dù kém ổn định, nó kìm hãm hiệu\nquả đột biến gen Zombie khi dung hợp — tăng\nmạnh sản lượng Zombie Đậu!\nGiờ ta có thể tung thêm Cây-Zombie ra tiền\ntuyến. Quả nhiên ta là thiên tài xuất chúng!"),
+        ("ExperimentalLogNote02.png", True,
+         "Log 036",
+         "Intelligence enhancement tests succeeded!\nSubject IQ has risen noticeably — they are\nalready learning to wield tools and gear.\n\nA promising start. I see a bright future ahead!",
+         "Nhật Ký 036",
+         "Thí nghiệm nâng cao trí tuệ đã thành công!\nIQ của các mẫu vật tăng rõ rệt — chúng bắt\nđầu học cách dùng nhiều công cụ và trang bị.\n\nKhởi đầu thuận lợi, ta thấy tương lai rạng rỡ!"),
+        ("ExperimentalLogNote03.png", True,
+         "Log 048",
+         "A breakthrough on Gargantuars! Our new\ngene-enhancement serum reliably triggers the\nonce-rare [Red-Eye Berserk] state while boosting\nstability and obedience.\nWith these giants ready, the plan advances!",
+         "Nhật Ký 048",
+         "Thuốc cải tiến gen mới đã đột phá trên\nGargantuar, tái hiện ổn định trạng thái\n[Mắt Đỏ Cuồng Nộ] vốn hiếm gặp, đồng thời\ntăng mạnh độ ổn định và phục tùng.\nCó những gã khổng lồ này, kế hoạch tiến xa hơn!"),
+        ("ExperimentalLogNote04.png", True,
+         "Log 063",
+         "Building aerosol dispensers to pilot-spray Gen-\nXII Gene Serum across Zombie clusters. It\nshould spark mass evolution among the horde.\n\nJust wait — one day I'll claim his brains!",
+         "Nhật Ký 063",
+         "Đang lắp đặt dàn phun sương thí điểm Thuốc\nCải Gen Thế Hệ XII tại các ổ Zombie. Dự kiến\nsẽ kích hoạt đợt tiến hóa quy mô lớn.\n\nCứ chờ xem — rồi ta sẽ đoạt bộ não của hắn!"),
+        ("ExperimentalLogNote05.png", True,
+         "Log 079",
+         "The aerosol worked wonders! IQ surged —\nBobsled Drivers are teaching Gargantuars to\ndrive, and they're learning fast... Need bigger\nZombonis! Can't wait to see that fool's\nface when he meets them, haha!",
+         "Nhật Ký 079",
+         "Khí cải gen thật kỳ diệu: Zombie khôn ra hẳn,\ntài xế Xe Tuyết còn dạy Gargantuar lái xe và\ntụi nó sắp biết lái rồi... Chắc phải đóng xe\nlớn hơn. Sẽ hả hê lắm khi thấy mặt tên kia!"),
+        ("ExperimentalLogNote06.png", True,
+         "Log 095",
+         "Due to unknown interference, the serum gas\nhas begun drifting slightly from its formula.\nNo abnormal Zombie effects observed yet —\nfurther monitoring required.",
+         "Nhật Ký 095",
+         "Do tác nhân chưa rõ, tính chất khí cải gen\nbắt đầu hơi lệch khỏi thiết kế ban đầu.\nHiện chưa ghi nhận bất thường trên Zombie,\ncần tiếp tục theo dõi thêm."),
+        ("ExperimentalLogNote07.png", False,
+         "Log 098",
+         "05:47 today: abnormal vibrations struck the\ngas array from flow instability.\nRepairs underway; status stable for—",
+         "Nhật Ký 098",
+         "05:47 hôm nay: dàn phun khí rung bất thường\ndo biến đổi lưu lượng khí.\nĐang sửa chữa, trạng thái tạm ổn—"),
+        ("ExperimentalLogNote08.png", True,
+         "Log 099",
+         "Though the blast wrecked my lab, our main\nZombie army is intact — enough to crush that\ngarden. Ignore the drifting gas for now.\nHe reached out again with some mad plot.\nI'll grant his visit — and end him for good!",
+         "Nhật Ký 099",
+         "Dù vụ nổ phá hủy phòng thí nghiệm, đội quân\nZombie chính vẫn an toàn — đủ san phẳng khu\nvườn. Kệ đám khí đang trôi nổi ngoài kia.\nHắn lại tìm gặp ta. Ta sẽ tiếp đón — và nhân\ncơ hội tiễn hắn biến mất vĩnh viễn!"),
+        ("ExperimentalLogNote09.png", True,
+         "Log 001",
+         "Theme: [Deep Plant-Zombie Genetic Research].\nUnlocking cross-species traits to breed elite\nZombies and potent Plant-Zombies.\nNamed: [PROJECT HYBRID].\nMay this mark a great beginning!",
+         "Nhật Ký 001",
+         "Đề tài: [Nghiên Cứu Gen Cây & Zombie].\nKhai phá đặc tính dung hợp đa gen để tạo\nZombie tinh nhuệ & Cây-Zombie hùng mạnh.\nĐặt tên: [KẾ HOẠCH LAI TẠO].\nHy vọng đây là khởi đầu tốt đẹp!"),
+    ]
+    for fname, has_sig, h_en, b_en, h_vi, b_vi in exp_logs:
+        rel = f"NewAdventure/{fname}"
+        im = load_src(rel)
+        rgb = im.convert("RGB")
+        src_rgb = rgb.copy()
+        healed_c = src_rgb.filter(ImageFilter.MaxFilter(19)).filter(ImageFilter.GaussianBlur(5))
+        r_arr = rgb.load()
+        h_arr = healed_c.load()
+        s_arr = src_rgb.load()
+        y_lim = 236 if not has_sig else 288
+        for yy in range(28, y_lim):
+            for xx in range(26, 608):
+                sr, sg, sb = s_arr[xx, yy]
+                hr, hg, hb = h_arr[xx, yy]
+                if hr > 145 and hg > 130 and (hr - hb) > 20 and ((hr - sr > 16) or (hg - sg > 16) or (hb - sb > 14)):
+                    r_arr[xx, yy] = (hr, hg, hb)
+        if has_sig:
+            for yy in range(334, 376):
+                for xx in range(400, 565):
+                    sr, sg, sb = s_arr[xx, yy]
+                    hr, hg, hb = h_arr[xx, yy]
+                    if hr > 155 and hg > 140 and (hr - hb) > 20 and ((hr - sr > 16) or (hg - sg > 16) or (hb - sb > 14)):
+                        r_arr[xx, yy] = (hr, hg, hb)
+        note_rgba = rgb.convert("RGBA")
+        note_rgba.putalpha(im.getchannel("A"))
+        dn = ImageDraw.Draw(note_rgba)
+        hdr = h_en if is_en else h_vi
+        body = b_en if is_en else b_vi
+        fh = get_font(log_font, 23 if is_en else 22)
+        dn.text((48, 48), hdr, font=fh, fill=(24, 22, 18, 255))
+        fb = fit_font(log_font, body, 520 if has_sig else 505, 185 if has_sig else 108, 17 if is_en else 18, min_size=12)
+        dn.multiline_text((48, 92 if has_sig else 88), body, font=fb, fill=(28, 24, 18, 255), spacing=5 if has_sig else 4)
+        if has_sig:
+            fs = get_font(log_font, 17)
+            dn.text((480, 355), "Dr. Edgar" if is_en else "Tiến Sĩ Edgar", font=fs, fill=(24, 22, 18, 255), anchor="mm")
+        save_png(note_rgba, out_dir, rel)
+        generated.append(rel)
+
+    # 17. NewAdventure chapter cover books (chapter_book01..09_8.png) & HybridTime Space-Time maps
+    import json
+    import numpy as np
+
+    wryh_path = os.path.join(WORK, "unicode_fonts", "wryh.ttf")
+    ui_font = wryh_path if os.path.exists(wryh_path) else FONT_BOLD
+
+    chapter_books = [
+        ("NewAdventure/chapter_book01.png", "Chapter 1", "Yard Alert", "Chương 1", "Sân Trước"),
+        ("NewAdventure/chapter_book02.png", "Chapter 2", "Pool Defense", "Chương 2", "Hồ Bơi"),
+        ("NewAdventure/chapter_book03.png", "Chapter 3", "Roof Battle", "Chương 3", "Mái Nhà"),
+        ("NewAdventure/chapter_book04.png", "Chapter 4", "Journey Begins", "Chương 4", "Khởi Hành"),
+        ("NewAdventure/chapter_book05.png", "Chapter 5", "Mystic Valley", "Chương 5", "Thung Lũng"),
+        ("NewAdventure/chapter_book06.png", "Chapter 6", "Four Seas", "Chương 6", "Bốn Bể"),
+        ("NewAdventure/chapter_book07.png", "Chapter 7", "Village Quest", "Chương 7", "Thôn Làng"),
+        ("NewAdventure/chapter_book08.png", "Chapter 8", "Journey's End", "Chương 8", "Trận Cuối"),
+        ("NewAdventure/chapter_book09.png", "Extra Chapters", "Hidden Campaign", "Ngoại Truyện", "Chiến Dịch Ẩn"),
+        ("NewAdventure/chapter_book09_1.png", "Extra 1", "Barren Land", "Ngoại 1", "Hoang Địa"),
+        ("NewAdventure/chapter_book09_2.png", "Extra 2", "Cool Summer", "Ngoại 2", "Hè Mát Lành"),
+        ("NewAdventure/chapter_book09_3.png", "Extra 3", "Three Realms", "Ngoại 3", "Chân Vạc"),
+        ("NewAdventure/chapter_book09_4.png", "Extra 4", "Sleepless Night", "Ngoại 4", "Đêm Thức"),
+        ("NewAdventure/chapter_book09_5.png", "Extra 5", "Shop Guard", "Ngoại 5", "Giữ Tiệm"),
+        ("NewAdventure/chapter_book09_6.png", "Extra 6", "Flowing Creek", "Ngoại 6", "Suối Nhỏ"),
+        ("NewAdventure/chapter_book09_7.png", "Extra 7", "Night Parade", "Ngoại 7", "Bách Quỷ Đêm"),
+        ("NewAdventure/chapter_book09_8.png", "Extra 8", "Harbor Probe", "Ngoại 8", "Bến Cảng"),
+    ]
+    for rel, h_en, s_en, h_vi, s_vi in chapter_books:
+        im = load_src(rel)
+        dr = ImageDraw.Draw(im)
+        hdr = h_en if is_en else h_vi
+        sub = s_en if is_en else s_vi
+        dr.rounded_rectangle([72, 20, 308, 76], radius=12, fill=(22, 34, 18, 228), outline=(170, 225, 85, 235), width=2)
+        fh = fit_font(ui_font, hdr, 216, 48, 30, min_size=18)
+        dr.text((190, 48), hdr, font=fh, fill=(198, 255, 92, 255), stroke_width=2, stroke_fill=(10, 18, 8, 255), anchor="mm")
+        dr.rounded_rectangle([148, 174, 456, 248], radius=12, fill=(18, 28, 22, 228), outline=(145, 220, 165, 235), width=2)
+        fs = fit_font(ui_font, sub, 286, 56, 28, min_size=16)
+        dr.text((302, 211), sub, font=fs, fill=(195, 255, 200, 255), stroke_width=2, stroke_fill=(10, 18, 12, 255), anchor="mm")
+        save_png(im, out_dir, rel)
+        generated.append(rel)
+
+    # Space-Time Trial maps (new/HybridTime_BG.png & new/HybridTime_BG2.png)
+    exe_tr_path = os.path.join(ROOT, "translations", "strings_exe.json")
+    if not os.path.isfile(exe_tr_path):
+        exe_tr_path = os.path.join(WORK, "strings_exe.json")
+    exe_tr = {k.strip(): v for k, v in json.load(open(exe_tr_path, encoding="utf-8")).items()}
+
+    def node_label(cn: str) -> str:
+        ent = exe_tr.get(cn)
+        if not ent:
+            return cn
+        return ent["en"] if is_en else ent["vi"]
+
+    ht1_cards = [
+        (76, 151, "初始时光"), (76, 409, "水生植物"), (76, 653, "海洋时光"), (76, 911, "大海归途"), (76, 1170, "错乱记忆"), (76, 1432, "滚瓜烂熟"), (76, 1690, "黄金瓜子"),
+        (419, 151, "投手时光"), (419, 409, "冰天雪地"), (419, 653, "大嘴领地"), (419, 911, "溜冰场"), (419, 1170, "恐惧僵尸"), (419, 1431, "南瓜派"), (419, 1690, "雪地战役"),
+        (762, 150, "玉米大嘴"), (764, 409, "冬眠配方"), (762, 653, "冻结阳光"), (764, 912, "阳光梦想"), (764, 1170, "胆小回忆"), (763, 1428, "葵花宝典"), (762, 1690, "枪林弹雨"),
+        (1105, 150, "大嘴派对"), (1105, 408, "多重抉择"), (1105, 652, "蓝色梦想"), (1105, 911, "光明黑暗"), (1105, 1170, "乘风破浪"), (1105, 1429, "风力发电"), (1105, 1690, "狂野之路"),
+        (1450, 23, "圣诞之夜"), (1448, 220, "地刺空间"), (1450, 416, "三线入口"), (1448, 579, "土豆泥"), (1448, 817, "阳光道路"), (1448, 996, "禁忌力量"), (1448, 1257, "骷髅巨人"), (1450, 1512, "黑暗巢穴"), (1450, 1767, "黑暗尽头"),
+        (1791, 23, "促销风暴"), (1791, 220, "僵尸之主"), (1791, 400, "土豆爆炸"), (1791, 579, "毁灭之路"), (1791, 816, "光明使者"), (1791, 996, "禁忌任务"), (1791, 1257, "僵尸墓地"), (1791, 1512, "暗影之力"), (1791, 1767, "毁灭阳光"),
+        (2134, 23, "促销汉堡"), (2134, 219, "魅惑秀场"), (2134, 400, "三重反转"), (2134, 579, "天坑"), (2134, 816, "星星之火"), (2134, 996, "废弃花园"), (2134, 1257, "园艺危机"), (2134, 1512, "重见光明"), (2134, 1767, "南瓜基地"),
+        (2478, 78, "促销之旅"), (2477, 324, "光之信仰"), (2477, 571, "太阳能量"), (2477, 816, "阳光火炬"), (2477, 996, "空中花园"), (2477, 1257, "高山流水"), (2477, 1512, "窝瓜时空"), (2477, 1767, "夜晚基地"),
+        (2820, 19, "狂野之城"), (2820, 264, "狂野之门"), (2820, 571, "阳光炸弹"), (2820, 817, "阳光征途"), (2820, 996, "巨人飞艇"), (2820, 1257, "细水长流"), (2820, 1512, "生命之源"),
+        (3163, 19, "狂野之境"), (3164, 264, "回归自然"), (3164, 507, "天鹅之乱"), (3164, 750, "空中漫步"), (3163, 996, "星空灿烂"), (3163, 1247, "浪漫山谷"), (3163, 1495, "浪漫夜空"), (3163, 1749, "浪漫结局"),
+    ]
+    ht2_cards = [
+        (419, 151, "整装待发"), (762, 151, "精英对决"), (1105, 151, "乱象丛生"), (1448, 151, "巨人之城"), (1791, 151, "天下无双"), (2134, 151, "仙人之掌"),
+        (76, 422, "超级汉堡"), (419, 422, "南征北调"), (762, 422, "超级僵尸"), (1105, 422, "极限生存"), (1448, 422, "天空之城"), (1791, 422, "超级葵花"), (2134, 422, "仙人之道"),
+        (76, 693, "美味佳肴"), (419, 693, "超级寒冰"), (762, 694, "暗影空间"), (1105, 694, "炼狱之门"), (1448, 693, "无尽能源"), (1791, 693, "钻石剧场"), (2134, 694, "仙人之门"), (2477, 693, "天使之战"), (2820, 693, "天空之战"), (3163, 693, "终极轮盘"),
+        (76, 965, "炙手可热"), (419, 965, "冰霜行者"), (762, 965, "兵临城下"), (1105, 965, "熔岩炼狱"), (1448, 965, "坚果魔力"), (1791, 965, "坚不可摧"), (2134, 965, "仙人指路"), (2477, 965, "八仙过海"), (2820, 965, "狗尾池塘"), (3163, 965, "狐尾池塘"),
+        (76, 1236, "僵尸实验"), (419, 1236, "千里冰封"), (762, 1236, "火焰女王"), (1105, 1236, "盖世英雄"), (1448, 1236, "阳光魅力"), (1791, 1236, "狂热狙击"), (2134, 1236, "终极猎手"), (2477, 1236, "幽灵之战"), (2820, 1236, "未来科技"), (3163, 1236, "激光装备"),
+        (76, 1508, "植物实验"), (419, 1508, "终极实验"), (762, 1508, "阳光危机"), (1105, 1508, "植物危机"), (1448, 1508, "至尊坚果"), (1791, 1508, "狂野狙击"), (2134, 1508, "幽灵之路"), (2477, 1508, "幽灵之城"), (2820, 1508, "夏日决战"), (3163, 1508, "终极武器"),
+        (76, 1772, "烈焰行者"), (419, 1772, "火焰使者"), (762, 1772, "美味火锅"), (1105, 1772, "菠萝果屋"), (1448, 1772, "菠萝泳池"), (1791, 1772, "菠萝草坪"), (2134, 1772, "夏日之火"), (2477, 1772, "夏日之水"), (2820, 1772, "清凉一夏"), (3163, 1772, "实验末路"),
+    ]
+
+    ht_specs = [
+        ("new/HybridTime_BG.png", "HYBRID ERA" if is_en else "THỜI KHÔNG", ht1_cards, (2820, 1749, "Secret Realm" if is_en else "Vào Bí Cảnh")),
+        ("new/HybridTime_BG2.png", "SECRET REALM" if is_en else "BÍ CẢNH", ht2_cards, (76, 151, "Hybrid Era" if is_en else "Thời Không")),
+    ]
+    for rel, rib_txt, card_list, portal in ht_specs:
+        im = load_src(rel)
+        arr = np.array(im)
+        rgb = arr[:, :, :3].copy()
+        # Erase baked text in top gold ribbon (x=425..655, y=10..56) via horizontal gold sample
+        col = rgb[10:56, 420:425].mean(axis=1, keepdims=True).astype(np.uint8)
+        rgb[10:56, 425:655] = np.repeat(col, 655 - 425, axis=1)
+        out_ht = Image.fromarray(np.dstack([rgb, arr[:, :, 3]]), "RGBA")
+        hd = ImageDraw.Draw(out_ht)
+        f_rib = fit_font(ui_font, rib_txt, 240, 40, 28, min_size=16)
+        hd.text((540, 32), rib_txt, font=f_rib, fill=(255, 252, 235, 255), stroke_width=3, stroke_fill=(95, 50, 10, 255), anchor="mm")
+        for cx, cy, cn in card_list:
+            lbl = node_label(cn)
+            fc = fit_font(ui_font, lbl, 144, 22, 14, min_size=9)
+            hd.rounded_rectangle([cx + 10, cy + 2, cx + 166, cy + 31], radius=5, fill=(22, 26, 32, 235), outline=(235, 195, 95, 230), width=1)
+            hd.text((cx + 88, cy + 16), lbl, font=fc, fill=(255, 236, 130, 255), anchor="mm")
+        px_p, py_p, p_lbl = portal
+        fp = fit_font(ui_font, p_lbl, 134, 28, 16, min_size=10)
+        hd.rounded_rectangle([px_p + 14, py_p + 43, px_p + 160, py_p + 83], radius=8, fill=(18, 28, 22, 232), outline=(255, 215, 95, 240), width=2)
+        hd.text((px_p + 87, py_p + 63), p_lbl, font=fp, fill=(255, 240, 150, 255), stroke_width=2, stroke_fill=(12, 16, 12, 255), anchor="mm")
+        save_png(out_ht, out_dir, rel)
+        generated.append(rel)
 
     return generated
 

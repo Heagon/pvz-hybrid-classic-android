@@ -41,8 +41,8 @@
 | 语言版本 | 文件大小 | 版本说明 | 直接下载 |
 | :--- | :---: | :--- | :---: |
 | **`[CN]` 中文原版 (Raw)** | `389.4 MiB` (`408.4 MB`) | 完整保留 **潜艇伟伟迷** v3.20.1 原版游戏文件与字体，内置 `VirGL` + `csmt=0` 性能调优并采用统一签名支持与英/越版自由互切 | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk"><img src="assets/btn-dl-cn-stable.svg" height="30" alt="下载中文原版 APK"></a> |
-| **`[EN]` English (英文版)** | `389.4 MiB` (`408.3 MB`) | 完整英文本地化（3,309 条属性词条 + 437 条图鉴精简重排、1,038 条 EXE 独立词条 / 1,421 处引用、133 张英文重绘贴图、`VirGL` + `csmt=0` 提速与真机验证） | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-English.apk"><img src="assets/btn-dl-cn-stable.svg" height="30" alt="下载英文版 APK"></a> |
-| **`[VI]` Bản Việt Hóa (越化版)** | `389.3 MiB` (`408.2 MB`) | 完整越南语本地化（3,309 条属性词条 + 437 条图鉴精简重排、1,038 条 EXE 词条 / 1,421 处引用、133 张越化贴图、`VirGL` + `csmt=0` 提速、6 套声调 `.ttf` 字库） | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk"><img src="assets/btn-dl-cn-stable.svg" height="30" alt="下载越化版 APK"></a> |
+| **`[EN]` English (英文版)** | `387.7 MiB` (`406.5 MB`) | 完整英文本地化（3,309 条属性词条 + 437 条图鉴精简重排、1,038 条 EXE 独立词条 / 1,421 处引用、171 张英文重绘贴图、`VirGL` + `csmt=0` 提速与真机验证） | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-English.apk"><img src="assets/btn-dl-cn-stable.svg" height="30" alt="下载英文版 APK"></a> |
+| **`[VI]` Bản Việt Hóa (越化版)** | `387.8 MiB` (`406.7 MB`) | 完整越南语本地化（3,309 条属性词条 + 437 条图鉴精简重排、1,038 条 EXE 词条 / 1,421 处引用、171 张越化贴图、`VirGL` + `csmt=0` 提速、6 套声调 `.ttf` 字库） | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk"><img src="assets/btn-dl-cn-stable.svg" height="30" alt="下载越化版 APK"></a> |
 
 <details>
 <summary><b>🔐 APK 校验信息与 SHA-256 哈希表</b></summary>
@@ -53,8 +53,8 @@
 | 文件名 | 精确字节数 | SHA-256 |
 | :--- | :---: | :--- |
 | `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,177` | `1087a781c7742c63c505e4e24bf9a5bceba2c046201a10b98f2b954fd338ec81` |
-| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `408,303,833` | `5b282c40a6d24281f25dd178b3c80c377ddfa76f43e4aeff26df5e2825bcafbf` |
-| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `408,242,393` | `0b12a3593fdf8f701b8a7a1a9cb411c154c8bc5c2448087e6a7bfedeaa144078` |
+| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `406,522,073` | `f2ba799bfb60ce7789eec93a1673a389039c60a655b0356eca31e7ad0d1ea84c` |
+| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `406,685,913` | `f2c7539849fb558db3d87a74ccc491839411652fcf6510980e53d1b3fc1ec481` |
 
 </details>
 
@@ -88,9 +88,9 @@
 - **帧率翻倍与内存优化 (`VirGL` + `WineD3D csmt=0`)：** 默认采用 **`VirGL`** 配合 **`WineD3D` GL (`csmt=0`、`OffscreenRenderingMode=fbo`、`strict_shader_math=0`、`VideoMemorySize=512`)**、开启 `WINEESYNC=1`、关闭 `mesa_glthread`、开启正向 `Is3D=1` 3D 加速并启用 Box64 快速 Dynarec（`STRONGMEM=0`、`BIGBLOCK=3`、`CALLRET=1`、`FASTNAN=1`、`FASTROUND=1`、`NATIVEFLAGS=1`、`FORWARD=1024`），实测主菜单帧率从 `8.5–12.2 FPS` 翻倍至 **`20.4–20.8 FPS`**，CPU 占用降至 ~63–67%，同时节省约 200 MB 内存。
 - **底层 UTF-8 与全字库融合：** 修改 `gdi42.dll` 4 处 `MultiByteToWideChar`（`CP936` → `CP_UTF8`），并将完整拉丁扩展及越南语声调字形注入全部 6 套 `.ttf` 字体。
 - **双语深度本地化与版面精调：**
-  - **3,309 / 3,309** 条 `properties/*.txt` 全覆盖，并将 **437 条植物、僵尸与英雄图鉴介绍精简重排**至卡片可视行数内（无需滚动、零裁切）。
-  - **1,038 条独立 / 1,421 处** `PlantsVsZombies.exe` 硬编码词条（含 24 项控制台、沙盒、商店、关卡标题与弹窗）同步更新 **73 处 `std::string(ptr, len)` 长度压栈指令**及主菜单版本标识。
-  - **133 张 / 语言** 界面贴图重绘（主菜单木牌、模式墓碑、22 个关卡章节横幅、图鉴与商店按钮、`FlagMeter` 进度条与标题徽标）。
+  - **3,309 / 3,309** 条 `properties/*.txt` 全覆盖，并将 **437 条植物、僵尸与英雄图鉴介绍精简重排**至卡片可视行数内（无需滚动、零裁切），同步优化选卡页签（`Gem`/`K.C`、`7-Clr`/`7 Màu`）与成就奖励间距（`Get:`/`Quà:` 与计数器完全分离）。
+  - **1,038 条独立 / 1,421 处** `PlantsVsZombies.exe` 硬编码词条（含 24 项控制台、沙盒、商店、关卡标题与弹窗，并修复继续游戏弹窗按钮重叠及扩大图鉴文本框矩形），同步更新 **73 处 `std::string(ptr, len)` 长度压栈指令**及主菜单版本标识。
+  - **171 张 / 语言** 界面贴图重绘（主菜单木牌、模式墓碑、22 个关卡章节横幅、17 张冒险书皮、时空/秘境 141 个地图节点 `HybridTime_BG.png`/`BG2.png`、实验日志 `01–09`、图鉴/商店/成就/英雄按钮与 `FlagMeter` 进度条）。
 
 ---
 
@@ -129,7 +129,7 @@
 | 模块与角色 | 作者与贡献成员 | 来源说明 |
 | :--- | :--- | :--- |
 | **原版模组制作**<br>《植物大战僵尸杂交版经典版》 | • **潜艇伟伟迷** — 模组创作、设计与主程序<br>• **原版片头特别鸣谢：** 小小咩MS、AXH弦、一只吴铭仕哒、沉默寡言白河愁 | *PvZ 杂交版经典版 v3.20.1* |
-| **英/越本地化、UTF-8 引擎补丁与安卓单包整合** | • **Heagon** — 3,309 条属性词条（437 条图鉴精简重排）+ 1,038 条独立 EXE 词条（1,421 处引用）、133 张贴图重绘/语种、`gdi42.dll` UTF-8 改造、6 字库合并、`VirGL` + `WineD3D` `csmt=0` 性能调优与 `GLXExtension` 正向修复、`com.pvzh.cls` 无损独立打包 | [GitHub 仓库主页](https://github.com/Heagon/pvz-hybrid-classic-android) |
+| **英/越本地化、UTF-8 引擎补丁与安卓单包整合** | • **Heagon** — 3,309 条属性词条（437 条图鉴精简重排）+ 1,038 条独立 EXE 词条（1,421 处引用）、171 张贴图重绘/语种、`gdi42.dll` UTF-8 改造、6 字库合并、`VirGL` + `WineD3D` `csmt=0` 性能调优与 `GLXExtension` 正向修复、`com.pvzh.cls` 无损独立打包 | [GitHub 仓库主页](https://github.com/Heagon/pvz-hybrid-classic-android) |
 | **开源构建组件** | [Winlator](https://github.com/brunodev85/winlator) (`Box64` · `Wine`), [fontTools](https://github.com/fonttools/fonttools), [Pillow](https://python-pillow.org/), [Liberation Fonts](https://github.com/liberationfonts/liberation-fonts), [Apktool](https://apktool.org/), [uber-apk-signer](https://github.com/patrickfav/uber-apk-signer), [Zstandard](https://github.com/facebook/zstd) | 详见 [CREDITS.md](CREDITS.md#cn-简体中文) |
 
 ---
