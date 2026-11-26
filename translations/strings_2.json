@@ -1,0 +1,2894 @@
+[
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2032",
+    "en": "{NO_SOUND}{NO_CLICK}The Mushroom Garden lets you grow\nnocturnal plants!",
+    "vi": "{NO_SOUND}{NO_CLICK}Vườn Nấm giúp bạn trồng các loại cây\nhoạt động ban đêm!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2033",
+    "en": "{NO_SOUND}{NO_CLICK}Wall-nut First Aid lets you plant\ndirectly over damaged Wall-nuts! It\nworks on Tall-nuts and Pumpkins too!",
+    "vi": "{NO_SOUND}{NO_CLICK}Sơ Cứu Hạt Dẻ cho phép trồng đè trực\ntiếp lên Hạt Dẻ bị thương! Áp dụng\ncho cả Hạt Dẻ Cao và Bí Ngô!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2034",
+    "en": "{NO_SOUND}{NO_CLICK}Advancing through more levels\nunlocks more plants, and introduces\nmore kinds of zombies!",
+    "vi": "{NO_SOUND}{NO_CLICK}Vượt qua càng nhiều màn, bạn sẽ mở\nkhóa thêm nhiều cây mới và gặp nhiều\nloại zombie hơn!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2100",
+    "en": "Hey, look at that, you found a\nWatering Can!",
+    "vi": "Này, nhìn xem kìa, bạn tìm thấy một\nchiếc Bình Tưới Nước!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2101",
+    "en": "You earned this highest honor, and\nnow I give you the Zen Garden!",
+    "vi": "Bạn đã xứng đáng với vinh dự cao\nnhất này, giờ tôi tặng bạn Khu Vườn\nThiền!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2102",
+    "en": "Hey, I'm giving you two sprouts to\nget you started!",
+    "vi": "Này, tôi tặng bạn hai mầm cây nhỏ để\nbắt đầu nhé!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2103",
+    "en": "Grow them to full size and they'll\npay you back handsomely!",
+    "vi": "Hãy chăm chúng lớn lên, chúng sẽ đền\nđáp bạn xứng đáng!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2104",
+    "en": "Have fun!",
+    "vi": "Chúc chơi vui vẻ!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2200",
+    "en": "The zombies wanted me to help them\npractice invading houses.",
+    "vi": "Lũ zombie nhờ tôi giúp chúng tập\ndượt đột nhập vào nhà."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2201",
+    "en": "I told 'em it's fine, as long as no\nplants get hurt.",
+    "vi": "Tôi bảo chúng miễn không làm hại cây\ncối thì cứ tự nhiên."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2202",
+    "en": "So I sectioned off your lawn with\ncardboard.",
+    "vi": "Thế là tôi lấy bìa các-tông ngăn bãi\ncỏ của bạn lại."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2203",
+    "en": "Have fun!",
+    "vi": "Chúc chơi vui vẻ!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2300",
+    "en": "Uh oh, he's here.",
+    "vi": "Ồ ồ, hắn đến rồi kìa."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2301",
+    "en": "You'd better get ready.",
+    "vi": "Bạn nên chuẩn bị sẵn sàng đi."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2302",
+    "en": "This is gonna be a huge battle!",
+    "vi": "Đây sẽ là một trận chiến khốc liệt!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2303",
+    "en": "Listen, ok, I know his weakness:",
+    "vi": "Nghe này, tôi biết điểm yếu của hắn\nlà:"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2304",
+    "en": "You have to hit him in the pancreas!",
+    "vi": "Bạn phải tấn công vào tuyến tụy của\nhắn!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2305",
+    "en": "Oh, wait, no, that's a different\nguy...",
+    "vi": "Ồ, không phải, đó là tên khác mất\nrồi..."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2306",
+    "en": "You have to... uh... kick him in\nthe...",
+    "vi": "Bạn phải... ờ... đá vào chỗ..."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2307",
+    "en": "Hmm...",
+    "vi": "Hừm..."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2308",
+    "en": "You have to press Up, Up, Down,\nDown, Left, Right...",
+    "vi": "Bạn phải bấm Lên, Lên, Xuống, Xuống,\nTrái, Phải..."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2309",
+    "en": "Er...",
+    "vi": "Ờm..."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2310",
+    "en": "Wait, I remember! It's...{MOUTH_SMALL_OH}",
+    "vi": "Đợi đã, tôi nhớ ra rồi! Nó là...{MOUTH_SMALL_OH}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2400",
+    "en": "Greetings, neighbor!",
+    "vi": "Xin chào, người hàng xóm!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2401",
+    "en": "The name's Crazy Dave.",
+    "vi": "Tên tôi là Dave Điên Cuồng."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2402",
+    "en": "But you can just call me Crazy Dave.",
+    "vi": "Nhưng bạn cứ gọi tôi là Crazy Dave\nlà được."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2403",
+    "en": "Listen, I've got a surprise for you.",
+    "vi": "Nghe này, tôi có một bất ngờ cho bạn\nđây."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2404",
+    "en": "But first, you'll have to clear off\nyour lawn.",
+    "vi": "Nhưng trước tiên, bạn phải dọn sạch\nbãi cỏ đã."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2405",
+    "en": "Use your Shovel and dig up those\nplants!",
+    "vi": "Dùng Xẻng đào hết đống cây kia lên\nđi!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2406",
+    "en": "LET'S GET DIGGING!{MOUTH_SMALL_OH} {SCREAM}",
+    "vi": "BẮT ĐẦU ĐÀO THÔI!{MOUTH_SMALL_OH} {SCREAM}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2410",
+    "en": "Ok, goody, now for the surprise...",
+    "vi": "Được rồi, tốt lắm, giờ đến tiết mục\nbất ngờ..."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2411",
+    "en": "We're going BOWLING!{MOUTH_SMALL_SMILE}\n\n[CRAZY_DAVE_2412] {SHOW_WALLNUT}\nHey, take this Wall-nut!",
+    "vi": "Chúng ta đi chơi BOWLING nào!{MOUTH_SMALL_SMILE}\n\n[CRAZY_DAVE_2412] {SHOW_WALLNUT}\nNày, cầm lấy Hạt Dẻ này!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2413",
+    "en": "Why'd I give you a Wall-nut?{MOUTH_SMALL_OH}\n\n[CRAZY_DAVE_2414] {SHAKE}\nBecause I'm CRAAAZY!!!!!{MOUTH_BIG_SMILE}",
+    "vi": "Tại sao tôi lại đưa bạn Hạt Dẻ?{MOUTH_SMALL_OH}\n\n[CRAZY_DAVE_2414] {SHAKE}\nTại vì tôi ĐIIIÊN rồi!!!!!{MOUTH_BIG_SMILE}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2415",
+    "en": "NOW GO! BRING HOME A TROPHY!{MOUTH_BIG_SMILE}\n {SCREAM}",
+    "vi": "LÊN ĐƯỜNG THÔI! MANG CÚP VỀ ĐÂY!{MOUTH_BIG_SMILE}\n {SCREAM}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2500",
+    "en": "My buddy, Fliquescaster Harvey, used\nto smash vases whenever he got\nbored.",
+    "vi": "Bạn thân tôi, Fliquescaster Harvey,\nhồi trước cứ buồn chán là đi đập\nbình hoa."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2501",
+    "en": "Well Harvey's out of town, so you're\ngonna help me instead, Harvey Two!",
+    "vi": "Mà Harvey đang đi vắng, nên bạn làm\ncùng tôi nhé, Harvey Đệ Nhị!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2502",
+    "en": "Smash 'em to your heart's content,\nHarvey! {SCREAM}",
+    "vi": "Cứ đập thỏa thích đi, Harvey! {SCREAM}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2600",
+    "en": "Hey, welcome to the Zen Garden\nsection of my shop!",
+    "vi": "Này, chào mừng đến khu Vườn Thiền\ntrong cửa hàng của tôi!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2601",
+    "en": "{SHOW_FERTILIZER}I'll throw in some Fertilizer too!",
+    "vi": "{SHOW_FERTILIZER}Tôi sẽ tặng kèm bạn một ít phân bón\nluôn!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2602",
+    "en": "Look around and see if anything\ncatches your eye!",
+    "vi": "Cứ xem xung quanh xem có món nào ưng\ný không nhé!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2700",
+    "en": "Buddy, you smashed all those vases!\nNice work!",
+    "vi": "Bạn hiền, đập sạch đống bình đó rồi,\nlàm tốt lắm!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2701",
+    "en": "Smash 'em with those garbage cans,\njust like I smash my shovel in back!",
+    "vi": "Lấy mấy thùng rác kia mà phang, y\nnhư tôi hay đập xẻng ở sân sau ấy!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2702",
+    "en": "Here, I'll give you some more vases.",
+    "vi": "Đây, tôi đưa thêm cho bạn ít bình\nnữa."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2703",
+    "en": "Careful, don't smash 'em too fast.",
+    "vi": "Cẩn thận đấy, đừng đập nhanh quá."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2704",
+    "en": "There are way too many zombies for\nyou to handle all at once, haha.",
+    "vi": "Zombie đông quá, bạn không xử lý hết\nmột lúc đâu, haha."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2800",
+    "en": "Nice!",
+    "vi": "Tuyệt vời!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2801",
+    "en": "That should be the last wave of 'em.",
+    "vi": "Đây chắc là đợt cuối cùng của chúng\nrồi."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_2802",
+    "en": "Smash 'em up and you're all done!",
+    "vi": "Đập nốt lũ đó là bạn xong việc!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3000",
+    "en": "This is Vasebreaker.",
+    "vi": "Đây là chế độ Đập Bình."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3001",
+    "en": "Some of these levels are really\ntough.",
+    "vi": "Vài màn trong này khó nhằn thật sự\nđấy."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3002",
+    "en": "Good luck!",
+    "vi": "Chúc bạn may mắn!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3100",
+    "en": "Hey, neighbor! I've got some new\nstuff for sale!",
+    "vi": "Này hàng xóm! Tôi mới nhập thêm vài\nmón hàng mới để bán đây!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3200",
+    "en": "{SHOW_TREE_FOOD}Hey {PLAYER_NAME}! Here's your Tree of Wisdom!\nI'll give you some Tree Food to\nstart with.",
+    "vi": "{SHOW_TREE_FOOD}Này {PLAYER_NAME}! Đây là Cây Trí Tuệ của bạn!\nTôi tặng bạn ít phân bón để bắt đầu\nnhé."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3300",
+    "en": "{TIME_275}End of the road, buddy!{DELAY_50}",
+    "vi": "{TIME_275}Hết đường rồi, bạn ơi!{DELAY_50}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3301",
+    "en": "{TIME_275}Ah, you knew this speech was coming.{DELAY_50}",
+    "vi": "{TIME_275}À, kiểu gì bạn cũng đoán trước bài\ndiễn văn này rồi.{DELAY_50}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3302",
+    "en": "{TIME_325}Want to play more? You should get\nthe Full Version.{DELAY_50}",
+    "vi": "{TIME_325}Muốn chơi thêm nữa? Hãy tải bản Đầy\nĐủ đi nhé.{DELAY_50}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3303",
+    "en": "{TIME_275}Yeah, I'm gonna get right down to...\nroot level...{DELAY_50}",
+    "vi": "{TIME_275}Phải rồi, tôi sắp xuống... ngang tầm\nrễ cây đây...{DELAY_50}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3304",
+    "en": "{TIME_325}If you get the Full Version, I'll\ngive you more plants!{DELAY_25}",
+    "vi": "{TIME_325}Nếu bạn có bản Đầy Đủ, tôi sẽ tặng\nthêm cho bạn nhiều cây lắm!{DELAY_25}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3305",
+    "en": "{TIME_175}{SCREAM}{HANDING}Like this one!{DELAY_50}",
+    "vi": "{TIME_175}{SCREAM}{HANDING}Như cây này này!{DELAY_50}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3306",
+    "en": "{TIME_175}{SCREAM}{HANDING}And this one!{DELAY_50}",
+    "vi": "{TIME_175}{SCREAM}{HANDING}Và cây này nữa!{DELAY_50}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3307",
+    "en": "{TIME_275}{HANDING}Later on, I'll even add this one!{DELAY_50}",
+    "vi": "{TIME_275}{HANDING}Lát nữa tôi sẽ cho thêm cây này vào!{DELAY_50}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3308",
+    "en": "{TIME_125}{SHORT_SOUND}{HANDING}Why?{DELAY_50}",
+    "vi": "{TIME_125}{SHORT_SOUND}{HANDING}Tại sao ư?{DELAY_50}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3309",
+    "en": "{TIME_225}{SHAKE}Because I'm CRA-ZEE!!!!{MOUTH_BIG_SMILE}{DELAY_150}",
+    "vi": "{TIME_225}{SHAKE}Tại vì tôi ĐIII-ÊÊÊN rồi!!!!{MOUTH_BIG_SMILE}{DELAY_150}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3310",
+    "en": "{TIME_150}And hey...{DELAY_50}",
+    "vi": "{TIME_150}Mà này...{DELAY_50}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3311",
+    "en": "{TIME_175}You want action?{DELAY_50}",
+    "vi": "{TIME_175}Bạn muốn hành động à?{DELAY_50}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3312",
+    "en": "{TIME_200}{SCREAM}I'll give you more action!{DELAY_300}",
+    "vi": "{TIME_200}{SCREAM}Tôi sẽ cho bạn thêm nhiều trận\nchiến!{DELAY_300}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3313",
+    "en": "{TIME_300}{SCREAM2}25 MORE LEVELS OF ACTION!{DELAY_300}",
+    "vi": "{TIME_300}{SCREAM2}THÊM 25 MÀN CHIẾN ĐẤU NỮA!{DELAY_300}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3314",
+    "en": "{TIME_300}{SCREAM}40 MINI-GAMES & PUZZLES!{DELAY_50}",
+    "vi": "{TIME_300}{SCREAM}40 MINI-GAME & GIẢI ĐỐ!{DELAY_50}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3315",
+    "en": "{TIME_200}TACODACTYL!!!{DELAY_100}",
+    "vi": "{TIME_200}KHỦNG LONG TACO!!!{DELAY_100}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3316",
+    "en": "{TIME_300}{SCREAM2}Enough to blast your brains to Mars\nand back!{DELAY_300}",
+    "vi": "{TIME_300}{SCREAM2}Đủ sức thổi bay não bạn lên Sao Hỏa\nrồi quay về luôn!{DELAY_300}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3317",
+    "en": "{TIME_150}So, what are you waiting for?",
+    "vi": "{TIME_150}Vậy còn chần chừ gì nữa?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_3400",
+    "en": "{NO_CLICK}To give a Wall-nut First Aid, simply\nplant a new Wall-nut right over an\ninjured one!",
+    "vi": "{NO_CLICK}Để sơ cứu Hạt Dẻ, chỉ cần trồng đè\nmột Hạt Dẻ mới lên Hạt Dẻ đang bị\nthương!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "MENU_BUTTON",
+    "en": "Menu",
+    "vi": "Menu"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_MORE_ZOMBIES",
+    "en": "More zombies are coming!",
+    "vi": "Thêm nhiều zombie đang tới!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_MORE_SCARY_POTS",
+    "en": "More vases incoming!\nCurrent Streak: {STREAK}",
+    "vi": "Thêm bình mới sắp ra!\nChuỗi hiện tại: {STREAK}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SCARY_POTTER_TUTORIAL",
+    "en": "Temp Dave placed more vases on the lawn!\n{STREAK} after 5 waves",
+    "vi": "Dave tạm thời vừa đặt thêm bình lên bãi cỏ!\n{STREAK} sau 5 đợt"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_3_IN_A_ROW",
+    "en": "More vases incoming!\n{STREAK} after 3 waves",
+    "vi": "Thêm bình sắp tới!\n{STREAK} sau 3 đợt"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "LONGEST_STREAK",
+    "en": "Longest Streak: {STREAK}",
+    "vi": "Chuỗi dài nhất: {STREAK}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_MORE_IZOMBIE",
+    "en": "Nice job!\nCurrent Streak: {STREAK}",
+    "vi": "Làm tốt lắm!\nChuỗi hiện tại: {STREAK}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_CLICK_ON_SUN",
+    "en": "Click to collect falling sun!",
+    "vi": "Nhấn để nhặt Mặt trời rơi xuống!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_GRAVEBUSTERS_ON_GRAVES",
+    "en": "Grave Busters can only be planted on graves",
+    "vi": "Cây Phá Mộ chỉ có thể trồng trên bia mộ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_LILYPAD_ON_WATER",
+    "en": "Lily Pads can only be planted in water",
+    "vi": "Lá Sen chỉ có thể trồng dưới nước"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_TANGLEKELP_ON_WATER",
+    "en": "Tangle Kelp can only be planted in water",
+    "vi": "Rong Biển chỉ có thể trồng dưới nước"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SEASHROOM_ON_WATER",
+    "en": "Sea-shrooms can only be planted in water",
+    "vi": "Nấm Biển chỉ có thể trồng dưới nước"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_POTATO_MINE_ON_LILY",
+    "en": "Potato plants cannot be planted on Lily Pads",
+    "vi": "Cây họ Khoai Tây không thể trồng trên Lá Sen"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_NOT_PASSED_LINE",
+    "en": "Place Wall-nuts to the left of the red line",
+    "vi": "Chỉ được đặt Hạt Dẻ ở bên trái vạch đỏ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_I_ZOMBIE_NOT_PASSED_LINE",
+    "en": "Place zombies to the right of the line",
+    "vi": "Đặt zombie ở bên phải vạch kẻ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_I_ZOMBIE_LEFT_OF_LINE",
+    "en": "Place Bungee Zombies to the left of the line",
+    "vi": "Đặt Zombie Bungee ở bên trái vạch kẻ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ONLY_ON_REPEATERS",
+    "en": "Can only be planted on Repeaters",
+    "vi": "Chỉ có thể trồng lên Súng Đậu Đôi"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ONLY_ON_MELONPULT",
+    "en": "Can only be planted on Melon-pults",
+    "vi": "Chỉ có thể trồng lên Pháo Dưa Hấu"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ONLY_ON_SUNFLOWER",
+    "en": "Can only be planted on Sunflowers",
+    "vi": "Chỉ có thể trồng lên Hoa Hướng Dương"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ONLY_ON_SPIKEWEED",
+    "en": "Can only be planted on Spikeweeds",
+    "vi": "Chỉ có thể trồng lên Cỏ Gai"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ONLY_ON_KERNELPULT",
+    "en": "Can only be planted on two Kernel-pults",
+    "vi": "Chỉ có thể trồng lên một cặp Pháo Bắp"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ONLY_ON_MAGNETSHROOM",
+    "en": "Can only be planted on Magnet-shrooms",
+    "vi": "Chỉ có thể trồng lên Nấm Nam Châm"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ONLY_ON_FUMESHROOM",
+    "en": "Can only be planted on Fume-shrooms",
+    "vi": "Chỉ có thể trồng lên Nấm Phun Khói"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ONLY_ON_LILYPAD",
+    "en": "Can only be planted on Lily Pads",
+    "vi": "Chỉ có thể trồng lên Lá Sen"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_WRONG_ART_TYPE",
+    "en": "You planted {SEED} there",
+    "vi": "Bạn đã trồng hạt {SEED} vào ô đó"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_NEED_POT1",
+    "en": "You can only plant in Flower Pots",
+    "vi": "Bạn chỉ có thể trồng trong Chậu Hoa"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_NEED_POT2",
+    "en": "Plant a Flower Pot first",
+    "vi": "Vui lòng trồng Chậu Hoa trước"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_NOT_ON_GRAVE",
+    "en": "You can't plant on a grave",
+    "vi": "Bạn không thể trồng cây lên bia mộ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_NOT_ON_CRATER",
+    "en": "You can't plant in a crater",
+    "vi": "Bạn không thể trồng cây vào hố bom"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_CANT_PLANT_THERE",
+    "en": "You can't plant there",
+    "vi": "Bạn không thể trồng ở đó"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_NOT_ON_WATER",
+    "en": "Plant a Lily Pad first",
+    "vi": "Vui lòng đặt Lá Sen trước"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANTING_NEED_SLEEPING",
+    "en": "Coffee Beans can only be planted on sleeping mushrooms",
+    "vi": "Hạt Cà Phê chỉ trồng được lên nấm đang ngủ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANTING_NEEDS_GROUND",
+    "en": "Plant on solid ground",
+    "vi": "Chỉ trồng được trên mặt đất cứng"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_MORE_SUNFLOWERS",
+    "en": "The more Sunflowers you have, the faster you can plant!",
+    "vi": "Càng nhiều Hướng Dương, bạn càng trồng cây nhanh hơn!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SHOVEL_REFRESH",
+    "en": "Shovel is recharging",
+    "vi": "Xẻng vẫn đang hồi chiêu"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_HUGE_WAVE",
+    "en": " ",
+    "vi": " "
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_CLICK_PEASHOOTER",
+    "en": "Click Peashooter to plant another one!",
+    "vi": "Nhấn vào Súng Đậu để trồng thêm một cây!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_SUNFLOWER1",
+    "en": "Sunflowers are extremely important plants!",
+    "vi": "Hoa Hướng Dương là loại cây cực kỳ quan trọng!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_SUNFLOWER2",
+    "en": "Plant at least three Sunflowers!",
+    "vi": "Hãy trồng ít nhất ba cây Hướng Dương!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_SUNFLOWER3",
+    "en": "Plant at least three Sunflowers to boost your odds of surviving the zombies!",
+    "vi": "Trồng ít nhất ba cây Hướng Dương để tăng cơ hội sống sót trước zombie!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_SUNFLOWER4",
+    "en": "Please plant at least three Sunflowers!",
+    "vi": "Hãy trồng ít nhất ba cây Hướng Dương!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_SUNFLOWER5",
+    "en": "Plant Sunflowers to improve your survival odds against zombie attacks!",
+    "vi": "Trồng Hướng Dương để tăng tỷ lệ sống sót trước các đợt zombie!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_CLICK_SEED_PACKET",
+    "en": "Click to pick up the seed packet!",
+    "vi": "Nhấn để lấy gói hạt giống!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ENOUGH_SUN",
+    "en": "Great! You've collected enough sun to plant one!",
+    "vi": "Tuyệt vời! Bạn đã đủ Mặt trời để trồng một cây rồi!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_CLICK_ON_GRASS",
+    "en": "Click on the grass to plant your seed!",
+    "vi": "Nhấn vào bãi cỏ để gieo hạt giống!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANTED_PEASHOOTER",
+    "en": "Nice job!",
+    "vi": "Làm tốt lắm!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ZOMBIE_ONSLAUGHT",
+    "en": "Don't let the zombies reach your house!",
+    "vi": "Đừng để zombie lại gần ngôi nhà của bạn!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_CLICK_SHOVEL",
+    "en": "Click to pick up the Shovel!",
+    "vi": "Nhấn để cầm Xẻng lên!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_CLICK_PLANT",
+    "en": "Click to remove a plant!",
+    "vi": "Nhấn để đào bỏ một cây!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_KEEP_DIGGING",
+    "en": "Keep digging until there are no plants left on your lawn!",
+    "vi": "Cứ tiếp tục đào cho đến khi bãi cỏ không còn cây nào!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SURVIVE_FLAGS",
+    "en": "Can you survive to {FLAGS}?",
+    "vi": "Bạn có thể trụ vững đến đợt {FLAGS} không?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SURVIVE_ENDLESS",
+    "en": "How many waves can you survive?",
+    "vi": "Bạn trụ được bao nhiêu đợt tấn công?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_FILL_IN_WALLNUTS",
+    "en": "Fill in all the outlined squares with Wall-nuts!",
+    "vi": "Lấp đầy các ô viền sẵn bằng Hạt Dẻ!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_FILL_IN_SPACES",
+    "en": "Fill in the outlined spaces!",
+    "vi": "Lấp đầy các ô được đánh dấu!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_FILL_IN_STARFRUIT",
+    "en": "Fill in the outlined spaces with Starfruits!",
+    "vi": "Lấp đầy các ô đánh dấu bằng Khế!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_BEGHOULED_DRAG_TO_MATCH_3",
+    "en": "Click and drag to match 3 identical plants",
+    "vi": "Nhấn và kéo để ghép 3 cây giống nhau"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_BEGHOULED_TWIST_TO_MATCH_3",
+    "en": "Click to rotate and match 3 identical plants",
+    "vi": "Nhấn để xoay và ghép 3 cây giống nhau"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_BEGHOULED_MATCH_3",
+    "en": "Make 150 matches to beat the level",
+    "vi": "Ghép đủ 150 lượt để qua màn"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_BEGHOULED_NO_MOVES",
+    "en": "No valid matches left!",
+    "vi": "Không còn nước ghép nào nữa!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_BEGHOULED_USE_CRATER_1",
+    "en": "Zombies ate one of your plants!",
+    "vi": "Lũ zombie đã ăn mất một cây của bạn!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_BEGHOULED_USE_CRATER_2",
+    "en": "Spend sun to fill craters on the lawn!",
+    "vi": "Dùng Mặt trời để lấp các hố bom trên sân!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_BEGHOULED_SAVE_SUN",
+    "en": "Save sun to upgrade your plants!",
+    "vi": "Tích trữ Mặt trời để nâng cấp cây của bạn!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SLOT_MACHINE_PULL",
+    "en": "Pull the lever for new seeds!",
+    "vi": "Kéo cần gạt để nhận hạt giống mới!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SLOT_MACHINE_SPIN_AGAIN",
+    "en": "Spin again!",
+    "vi": "Quay thêm lần nữa!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SLOT_MACHINE_COLLECT_SUN",
+    "en": "Collect {SCORE} sun to clear the level",
+    "vi": "Thu thập {SCORE} Mặt trời để qua màn"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SLOT_MACHINE_PULL_TOOLTIP",
+    "en": "Spend 25 sun to spin the Slot Machine",
+    "vi": "Tốn 25 Mặt trời để quay máy xèng"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SLOT_MACHINE_3_OF_A_KIND",
+    "en": "Three of a kind! 3 free plants!",
+    "vi": "Trúng 3 hình giống nhau! Tặng 3 cây miễn phí!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SLOT_MACHINE_2_OF_A_KIND",
+    "en": "Two of a kind! Free plant!",
+    "vi": "Trúng 2 hình giống nhau! Tặng cây miễn phí!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SLOT_MACHINE_2_SUNS",
+    "en": "Two of a kind! Bonus Sun!",
+    "vi": "Trúng 2 hình giống nhau! Thưởng Mặt trời!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SLOT_MACHINE_2_DIAMONDS",
+    "en": "Two of a kind! Diamonds!",
+    "vi": "Trúng 2 hình giống nhau! Thưởng Kim Cương!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SLOT_MACHINE_SUN_JACKPOT",
+    "en": "Sun Jackpot!",
+    "vi": "Nổ Hũ Mặt Trời!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SLOT_MACHINE_DIAMOND_JACKPOT",
+    "en": "Diamond Jackpot!",
+    "vi": "Nổ Hũ Kim Cương!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SLOT_MACHINE_SUN_TOOLTIP",
+    "en": "Sun",
+    "vi": "Mặt Trời"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SLOT_MACHINE_DIAMOND_TOOLTIP",
+    "en": "Diamond",
+    "vi": "Kim Cương"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_BUNGEES_INCOMING",
+    "en": "Bungee Zombies incoming!",
+    "vi": "Zombie Bungee đang đáp xuống!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_CLICKED_ON_SUN",
+    "en": "Keep collecting sun! You'll need it to grow more plants!",
+    "vi": "Tiếp tục nhặt Mặt trời! Bạn sẽ cần nó để trồng thêm cây!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_CLICKED_ON_COIN",
+    "en": "Save coins to buy cool items!",
+    "vi": "Để dành xu mua vật phẩm xịn nhé!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SEED_REFRESH",
+    "en": "Seeds need time to recharge before replanting",
+    "vi": "Hạt giống cần thời gian hồi chiêu trước khi trồng lại"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_CANT_AFFORD_PLANT",
+    "en": "You need more sun to do that!",
+    "vi": "Bạn cần thêm Mặt trời để làm điều đó!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_NEEDS_REPEATER",
+    "en": "Plant a Repeater first!",
+    "vi": "Hãy trồng Súng Đậu Đôi trước!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_NEEDS_MELONPULT",
+    "en": "Plant a Melon-pult first!",
+    "vi": "Hãy trồng Pháo Dưa Hấu trước!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_NEEDS_SUNFLOWER",
+    "en": "Plant a Sunflower first!",
+    "vi": "Hãy trồng Hoa Hướng Dương trước!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_NEEDS_SPIKEWEED",
+    "en": "Plant a Spikeweed first!",
+    "vi": "Hãy trồng Cỏ Gai trước!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_NEEDS_KERNELPULT",
+    "en": "Plant two Kernel-pults first!",
+    "vi": "Hãy trồng một cặp Pháo Bắp trước!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_NEEDS_MAGNETSHROOM",
+    "en": "Plant a Magnet-shroom first!",
+    "vi": "Hãy trồng Nấm Nam Châm trước!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_NEEDS_FUMESHROOM",
+    "en": "Plant a Fume-shroom first!",
+    "vi": "Hãy trồng Nấm Phun Khói trước!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PLANT_NEEDS_LILYPAD",
+    "en": "Plant a Lily Pad first!",
+    "vi": "Hãy trồng Lá Sen trước!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "PLAYERS_HOUSE",
+    "en": "{PLAYER}'s House",
+    "vi": "Nhà của {PLAYER}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "PLAYERS_BACKYARD",
+    "en": "{PLAYER}'s Backyard",
+    "vi": "Sân sau của {PLAYER}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "PLAYERS_ROOF",
+    "en": "{PLAYER}'s Roof",
+    "vi": "Mái nhà của {PLAYER}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PORTAL_RELOCATING",
+    "en": "Portals relocating...",
+    "vi": "Cổng dịch chuyển đang đổi vị trí..."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ZEN_SELL_HEADER",
+    "en": "Are you sure?",
+    "vi": "Bạn chắc chắn chứ?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ZEN_SELL_LINES",
+    "en": "Sell this plant to Qianting Weiweimi?",
+    "vi": "Bán cây này cho Qianting Weiweimi chứ?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "DIALOG_WARNING",
+    "en": "Warning",
+    "vi": "Cảnh Báo"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "DIALOG_ZEN_GARDEN_FULL",
+    "en": "Oh no! Your garden is too full!",
+    "vi": "Ôi không! Khu vườn của bạn chật kín rồi!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "DIALOG_BUTTON_OK",
+    "en": "OK",
+    "vi": "OK"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "DIALOG_BUTTON_CANCEL",
+    "en": "Cancel",
+    "vi": "Hủy"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "DIALOG_BUTTON_YES",
+    "en": "Yes",
+    "vi": "Có"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "DIALOG_BUTTON_NO",
+    "en": "No",
+    "vi": "Không"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "NEW_PLANT",
+    "en": "You got a new plant!",
+    "vi": "Bạn nhận được một cây mới!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "NEXT_LEVEL_BUTTON",
+    "en": "Next Level!",
+    "vi": "Màn Tiếp Theo!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CONTINUE_BUTTON",
+    "en": "Continue",
+    "vi": "Tiếp Tục"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "VIEW_ALMANAC_BUTTON",
+    "en": "View Almanac",
+    "vi": "Xem Sổ Tay"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "MAIN_MENU_BUTTON",
+    "en": "Main Menu",
+    "vi": "Menu Chính"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "AWARD_MAIN_MENU_BUTTON",
+    "en": "Main Menu",
+    "vi": "Menu Chính"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "REPICK_BUTTON",
+    "en": "Repick",
+    "vi": "Chọn Lại"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "GOT_SHOVEL",
+    "en": "You got a Shovel!",
+    "vi": "Bạn nhận được một cái Xẻng!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SHOVEL_DESCRIPTION",
+    "en": "Lets you dig up a plant to make room for another",
+    "vi": "Cho phép đào một cây lên để nhường chỗ cho cây khác"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "FOUND_NOTE",
+    "en": "You found a note:",
+    "vi": "Bạn nhặt được một mảnh giấy:"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SUBURBAN_ALMANAC",
+    "en": "Suburban Almanac",
+    "vi": "Sổ Tay Ngoại Ô"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "FOUND_SUBURBAN_ALMANAC",
+    "en": "You found the Suburban Almanac!",
+    "vi": "Bạn tìm thấy cuốn Sổ Tay Ngoại Ô!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SUBURBAN_ALMANAC_DESCRIPTION",
+    "en": "Keeps track of all the plants and zombies you've seen",
+    "vi": "Ghi chép lại toàn bộ cây và zombie bạn từng gặp"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "KEYS",
+    "en": "Crazy Dave's Car Keys",
+    "vi": "Chìa Khóa Xe Crazy Dave"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "FOUND_KEYS",
+    "en": "You found Crazy Dave's Car Keys!",
+    "vi": "Bạn tìm thấy Chìa Khóa Xe của Crazy Dave!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "KEYS_DESCRIPTION",
+    "en": "Now you can visit Crazy Dave's Shop!",
+    "vi": "Giờ bạn đã có thể ghé Cửa Hàng của Crazy Dave!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "VASE",
+    "en": "Mystery Vase",
+    "vi": "Bình Hoa Bí Ẩn"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "FOUND_VASE",
+    "en": "You found a Mystery Vase!",
+    "vi": "Bạn tìm thấy một Bình Hoa Bí Ẩn!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "VASE_DESCRIPTION",
+    "en": "Now you can play \"Vasebreaker\" mode!",
+    "vi": "Giờ bạn đã có thể chơi chế độ \"Đập Bình\"!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WATERING_CAN",
+    "en": "Watering Can",
+    "vi": "Bình Tưới Nước"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "FOUND_WATERING_CAN",
+    "en": "You found a Watering Can!",
+    "vi": "Bạn tìm thấy một Bình Tưới Nước!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WATERING_CAN_DESCRIPTION",
+    "en": "Now you can play \"Zen Garden\" mode!",
+    "vi": "Giờ bạn đã có thể chơi chế độ \"Vườn Thiền\"!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "TACO",
+    "en": "Taco",
+    "vi": "Bánh Taco"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "FOUND_TACO",
+    "en": "You found a Taco!",
+    "vi": "Bạn tìm thấy một chiếc Bánh Taco!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "TACO_DESCRIPTION",
+    "en": "What are you gonna do with this Taco?",
+    "vi": "Bạn định làm gì với chiếc Bánh Taco này đây?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WATERING_CAN_TOOLTIP",
+    "en": "Water plant",
+    "vi": "Tưới nước"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "FERTILIZER_TOOLTIP",
+    "en": "Fertilize plant",
+    "vi": "Bón phân"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "TREE_FERTILIZER_TOOLTIP",
+    "en": "Feed the Tree",
+    "vi": "Bón cho Cây Trí Tuệ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BUG_SPRAY_TOOLTIP",
+    "en": "Bug Spray",
+    "vi": "Thuốc trừ sâu"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "PHONOGRAPH_TOOLTIP",
+    "en": "Phonograph",
+    "vi": "Máy hát nhạc"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CHOCOLATE_TOOLTIP",
+    "en": "Chocolate",
+    "vi": "Sô-cô-la"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "GLOVE_TOOLTIP",
+    "en": "Move plant",
+    "vi": "Di chuyển cây"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "MONEY_SIGN_TOOLTIP",
+    "en": "Sell plant",
+    "vi": "Bán cây"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WHEELBARROW_TOOLTIP",
+    "en": "Carry plant",
+    "vi": "Chở cây"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "NEXT_GARDEN_TOOLTIP",
+    "en": "Visit next garden",
+    "vi": "Sang khu vườn kế"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SHOVEL_TOOLTIP",
+    "en": "Dig up plant",
+    "vi": "Đào bỏ cây"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BEGHOULED_REPEATER_UPGRADE_TOOLTIP",
+    "en": "Upgrade all Peashooters to Repeaters",
+    "vi": "Nâng cấp mọi Súng Đậu thành Đậu Đôi"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BEGHOULED_FUMESHROOM_UPGRADE_TOOLTIP",
+    "en": "Upgrade all Puff-shrooms to Fume-shrooms",
+    "vi": "Nâng cấp mọi Nấm Nhỏ thành Nấm Phun"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BEGHOULED_TALLNUT_UPGRADE_TOOLTIP",
+    "en": "Upgrade all Wall-nuts to Tall-nuts",
+    "vi": "Nâng cấp mọi Hạt Dẻ thành Hạt Dẻ Cao"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BEGHOULED_SHUFFLE_TOOLTIP",
+    "en": "Drag plants",
+    "vi": "Kéo xếp cây"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BEGHOULED_CRATER_TOOLTIP",
+    "en": "Fill craters",
+    "vi": "Lấp hố bom"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BEGHOULED_SEED_ALREADY_PURCHASED",
+    "en": "Already purchased",
+    "vi": "Đã mua rồi"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BEGHOULED_NO_CRATERS",
+    "en": "No craters to fill",
+    "vi": "Không có hố để lấp"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "FREE_PLANTING_CHEAT",
+    "en": "Cheat: Free Planting",
+    "vi": "Gian lận: Trồng miễn phí"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WAITING_FOR_SEED",
+    "en": "Reloading...",
+    "vi": "Đang nạp lại..."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "NOT_ENOUGH_SUN",
+    "en": "Not enough sun",
+    "vi": "Không đủ Mặt trời"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "REQUIRES_REPEATER",
+    "en": "Requires Repeater",
+    "vi": "Cần Súng Đậu Đôi"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "REQUIRES_MELONPULT",
+    "en": "Requires Melon-pult",
+    "vi": "Cần Pháo Dưa Hấu"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "REQUIRES_SUNFLOWER",
+    "en": "Requires Sunflower",
+    "vi": "Cần Hướng Dương"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "REQUIRES_SPIKEWEED",
+    "en": "Requires Spikeweed",
+    "vi": "Cần Cỏ Gai"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "REQUIRES_KERNELPULTS",
+    "en": "Requires twin Kernel-pults",
+    "vi": "Cần một cặp Pháo Bắp"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "REQUIRES_MAGNETSHROOM",
+    "en": "Requires Magnet-shroom",
+    "vi": "Cần Nấm Nam Châm"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "REQUIRES_FUMESHROOM",
+    "en": "Requires Fume-shroom",
+    "vi": "Cần Nấm Phun Khói"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "REQUIRES_LILY_PAD",
+    "en": "Requires Lily Pad",
+    "vi": "Cần Lá Sen"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WAITING_TO_REFRESH",
+    "en": "Recharging",
+    "vi": "Đang hồi chiêu"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CLICK_TO_VIEW",
+    "en": "Click to view stats in Almanac",
+    "vi": "Mở Sổ Tay để xem thông số"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "LETS_ROCK_BUTTON",
+    "en": "Let's Rock!",
+    "vi": "Chiến Thôi!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "VIEW_LAWN",
+    "en": "View Lawn",
+    "vi": "Xem Bãi Cỏ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ALMANAC_BUTTON",
+    "en": "Almanac",
+    "vi": "Sổ Tay"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SHOP_BUTTON",
+    "en": "Next Cards",
+    "vi": "Trang Thẻ Kế"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CLOSE_BUTTON",
+    "en": "Close",
+    "vi": "Đóng"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ALMANAC_INDEX",
+    "en": "Almanac Index",
+    "vi": "Mục Lục Sổ Tay"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "VIEW_PLANTS",
+    "en": "View Plants",
+    "vi": "Xem Cây Trồng"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "VIEW_ZOMBIES",
+    "en": "View Zombies",
+    "vi": "Xem Zombie"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BACK_TO_MENU",
+    "en": "Back to Menu",
+    "vi": "Về Menu"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ROLL_CREDITS",
+    "en": "Roll Credits",
+    "vi": "Xem Danh Sách"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "PAGE_X",
+    "en": "Page {PAGE}",
+    "vi": "Trang {PAGE}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "RESTART_BUTTON",
+    "en": "Restart",
+    "vi": "Chơi Lại"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "NEW_GAME_BUTTON",
+    "en": "New Game",
+    "vi": "Chơi Mới"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "LEAVE_BUTTON",
+    "en": "Leave",
+    "vi": "Rời Khỏi"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "QUIT_BUTTON",
+    "en": "Quit Game",
+    "vi": "Thoát Game"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "QUIT_MESSAGE",
+    "en": "Are you sure you want to quit the game?",
+    "vi": "Bạn có chắc muốn thoát khỏi trò chơi?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "QUIT_HEADER",
+    "en": "Quit",
+    "vi": "Thoát"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "AWW_YEAH_BUTTON",
+    "en": "Aww Yeah!",
+    "vi": "Chốt Luôn!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "NAH_BUTTON",
+    "en": "Nah!",
+    "vi": "Thôi Nhé!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "MORE_SEEDS_HEADER",
+    "en": "More Seeds?",
+    "vi": "Thêm Thẻ Cây?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "MORE_SEEDS_BODY",
+    "en": "Would you like to plant even more varieties of seeds?",
+    "vi": "Bạn có muốn mang theo nhiều loại thẻ cây hơn nữa không?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "STORE_NEXT_LEVEL_BUTTON",
+    "en": "Next Level",
+    "vi": "Màn Kế"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "STORE_MAIN_MENU_BUTTON",
+    "en": "Main Menu",
+    "vi": "Menu Chính"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "STORE_BACK_TO_GAME",
+    "en": "Back",
+    "vi": "Quay Lại"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "STORE_BACK_TO_ZEN",
+    "en": "Back",
+    "vi": "Quay Lại"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SEED_CHOOSER_UPGRADE_WARNING",
+    "en": "Are you sure you want to bring {UPGRADE_TO} without {UPGRADE_FROM}?",
+    "vi": "Bạn có chắc muốn mang {UPGRADE_TO} mà không có {UPGRADE_FROM} không?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SEED_CHOOSER_SEEING_STARS_WARNING",
+    "en": "Are you sure you want to play this level without Starfruit?",
+    "vi": "Bạn có chắc muốn chơi màn này mà không mang Khế không?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SEED_CHOOSER_LILY_WARNING",
+    "en": "Are you sure you want to play this level without Lily Pad?",
+    "vi": "Bạn có chắc muốn chơi màn này mà không mang Lá Sen không?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SEED_CHOOSER_ART_WALLNUT_WARNING",
+    "en": "Are you sure you want to play this level without Wall-nut?",
+    "vi": "Bạn có chắc muốn chơi màn này mà không mang Hạt Dẻ không?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SEED_CHOOSER_ART_2_WARNING",
+    "en": "Are you sure you want to play without Starfruit, Umbrella Leaf, and Wall-nut?",
+    "vi": "Bạn có chắc không mang Khế, Ô Bảo Vệ và Hạt Dẻ không?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SEED_CHOOSER_FLYER_WARNING",
+    "en": "You didn't pick any anti-Balloon plants. Continue anyway?",
+    "vi": "Bạn chưa chọn cây hạ Zombie Bóng Bay, vẫn tiếp tục chứ?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SEED_CHOOSER_SUN_WARNING",
+    "en": "You didn't pick any sun-producing plants. Continue anyway?",
+    "vi": "Bạn chưa chọn cây tạo Mặt trời, vẫn tiếp tục chứ?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SEED_CHOOSER_NIGHT_SUN_WARNING",
+    "en": "It's night-time! You'll need even more Sunflowers. Play without Sunflowers?",
+    "vi": "Đang là ban đêm, bạn càng cần nhiều Hướng Dương hơn. Chắc chắn không mang Hướng Dương chứ?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SEED_CHOOSER_PUFFSHROOM_WARNING",
+    "en": "This level is very hard without Puff-shroom. Continue without it?",
+    "vi": "Màn này sẽ rất khó nếu thiếu Nấm Nhỏ. Bạn chắc chắn không mang chứ?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SEED_CHOOSER_POOL_WARNING",
+    "en": "Are you sure you want to play without any aquatic plants?",
+    "vi": "Bạn chắc chắn muốn chơi màn này mà không mang cây thủy sinh nào?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SEED_CHOOSER_ROOF_WARNING",
+    "en": "Are you sure you want to play without Flower Pot?",
+    "vi": "Bạn chắc chắn muốn chơi màn này mà không mang Chậu Hoa?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ALMOST_THERE",
+    "en": "Almost there!",
+    "vi": "Sắp thắng rồi!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_BEGHOULED_ALMOST_THERE",
+    "en": "30 more matches to go!",
+    "vi": "Ghép thêm 30 cặp nữa thôi!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ZOMBIQUARIUM_SNORKEL_TOOLTIP",
+    "en": "Buy Snorkel Zombie",
+    "vi": "Mua Zombie Lặn"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ZOMBIQUARIUM_TROPHY_TOOLTIP",
+    "en": "Buy Trophy",
+    "vi": "Mua Cúp"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ZOMBIQUARIUM_CLICK_TO_FEED",
+    "en": "Click in the tank to feed the zombies",
+    "vi": "Nhấn vào bể cá để cho zombie ăn"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ZOMBIQUARIUM_COLLECT_SUN",
+    "en": "Collect {SCORE} sun to clear this level",
+    "vi": "Cần thu đủ {SCORE} Mặt trời để qua màn này"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ZOMBIQUARIUM_DEATH_MESSAGE",
+    "en": "All your pet zombies starved!",
+    "vi": "Toàn bộ thú cưng zombie của bạn đã chết sạch!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "I_ZOMBIE_DEATH_MESSAGE",
+    "en": "You ran out of zombies!",
+    "vi": "Bạn đã hết sạch zombie rồi!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ZOMBIQUARIUM_CLICK_TROPHY",
+    "en": "Click the Trophy to clear the level!",
+    "vi": "Nhấn vào chiếc Cúp để hoàn thành màn!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ZOMBIQUARIUM_BUY_SNORKEL",
+    "en": "Click to buy more Snorkel Zombies!",
+    "vi": "Nhấn để mua thêm Zombie Lặn!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "TRY_AGAIN",
+    "en": "Try Again",
+    "vi": "Thử Lại"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ONE_FLAG",
+    "en": "1 Wave",
+    "vi": "1 Đợt"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "COUNT_FLAGS",
+    "en": "{COUNT} Waves",
+    "vi": "{COUNT} Đợt"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_DEATH_MESSAGE",
+    "en": "You survived {FLAGS}, and now suffer a gruesome zombie demise!!!",
+    "vi": "Bạn đã sống sót qua {FLAGS}, giờ hãy đón nhận kết cục bi thảm dưới tay zombie đi!!!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ENDLESS_PUZZLE_DEATH_MESSAGE",
+    "en": "You cleared a streak of {STREAK} levels",
+    "vi": "Bạn đã vượt liên tiếp {STREAK} màn"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ENDLESS_STREAK",
+    "en": "Streak: {STREAK}",
+    "vi": "Chuỗi: {STREAK}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "LEVEL",
+    "en": "Level",
+    "vi": "Màn"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "GAME_OVER",
+    "en": "GAME OVER",
+    "vi": "TRÒ CHƠI KẾT THÚC"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "PICK_AREA",
+    "en": "Survival Mode",
+    "vi": "Chế Độ Sinh Tồn"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "PICK_CHALLENGE",
+    "en": "Adventure Mode",
+    "vi": "Chế Độ Phiêu Lưu"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ONE_MORE_CHALLENGE_TOOLTIP",
+    "en": "Complete more Mini-Games to unlock",
+    "vi": "Hoàn thành thêm Mini-Game để mở khóa"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ONE_MORE_CHALLENGE_TOOLTIP",
+    "en": "Complete 1 more Mini-Game to unlock",
+    "vi": "Hoàn thành thêm 1 Mini-Game để mở khóa"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ONE_MORE_SCARY_POTTER_TOOLTIP",
+    "en": "Win 1 more Vasebreaker trophy to unlock",
+    "vi": "Hoàn thành thêm 1 màn Đập Bình để mở khóa"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ONE_MORE_IZOMBIE_TOOLTIP",
+    "en": "Win 1 more I, Zombie trophy to unlock",
+    "vi": "Hoàn thành thêm 1 màn Tôi Là Zombie để mở khóa"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ONE_MORE_SURVIVAL_TOOLTIP",
+    "en": "Win 1 more Survival trophy to unlock",
+    "vi": "Hoàn thành thêm 1 màn Sinh Tồn để mở khóa"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "10_SURVIVAL_TOOLTIP",
+    "en": "Earn 10 Survival trophies to unlock",
+    "vi": "Giành 10 cúp Sinh Tồn để mở khóa"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "FINISH_ADVENTURE_TOOLTIP",
+    "en": "Complete Adventure Mode to unlock",
+    "vi": "Hoàn thành Chế Độ Phiêu Lưu để mở khóa"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_DAY_NORMAL",
+    "en": "Survival: Day",
+    "vi": "Sinh Tồn: Ban Ngày"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_NIGHT_NORMAL",
+    "en": "Survival: Night",
+    "vi": "Sinh Tồn: Ban Đêm"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_POOL_NORMAL",
+    "en": "Survival: Pool",
+    "vi": "Sinh Tồn: Hồ Bơi"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_FOG_NORMAL",
+    "en": "Survival: Fog",
+    "vi": "Sinh Tồn: Sương Mù"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_ROOF_NORMAL",
+    "en": "Survival: Roof",
+    "vi": "Sinh Tồn: Mái Nhà"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_DAY_HARD",
+    "en": "Survival: Day (Hard)",
+    "vi": "Sinh Tồn: Ban Ngày (Khó)"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_NIGHT_HARD",
+    "en": "Survival: Night (Hard)",
+    "vi": "Sinh Tồn: Ban Đêm (Khó)"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_POOL_HARD",
+    "en": "Survival: Pool (Hard)",
+    "vi": "Sinh Tồn: Hồ Bơi (Khó)"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_FOG_HARD",
+    "en": "Survival: Fog (Hard)",
+    "vi": "Sinh Tồn: Sương Mù (Khó)"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_ROOF_HARD",
+    "en": "Survival: Roof (Hard)",
+    "vi": "Sinh Tồn: Mái Nhà (Khó)"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_DAY_ENDLESS",
+    "en": "Survival: Day (Endless)",
+    "vi": "Sinh Tồn: Ban Ngày (Vô Tận)"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_NIGHT_ENDLESS",
+    "en": "Survival: Night (Endless)",
+    "vi": "Sinh Tồn: Ban Đêm (Vô Tận)"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_POOL_ENDLESS",
+    "en": "Survival: Pool (Endless)",
+    "vi": "Sinh Tồn: Hồ Bơi (Vô Tận)"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_FOG_ENDLESS",
+    "en": "Survival: Fog (Endless)",
+    "vi": "Sinh Tồn: Sương Mù (Vô Tận)"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_ROOF_ENDLESS",
+    "en": "Survival: Roof (Endless)",
+    "vi": "Sinh Tồn: Mái Nhà (Vô Tận)"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WAR_AND_PEAS",
+    "en": "Zombotany",
+    "vi": "Zombie Thực Vật"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SEEING_STARS",
+    "en": "Seeing Stars",
+    "vi": "Ngắm Sao"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CAN_YOU_DIG_IT",
+    "en": "Can You Dig It?",
+    "vi": "Đào Được Không?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SCARY_POTTER_1",
+    "en": "Vasebreaker",
+    "vi": "Phá Bình"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SCARY_POTTER_2",
+    "en": "To the Left",
+    "vi": "Giữ Lại Tất Cả"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SCARY_POTTER_3",
+    "en": "Third Vase",
+    "vi": "Chiếc Bình Thứ 3"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SCARY_POTTER_4",
+    "en": "Chain Reaction",
+    "vi": "Phản Ứng Dây Chuyền"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SCARY_POTTER_5",
+    "en": "M is for Metal",
+    "vi": "M Là Kim Loại"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SCARY_POTTER_6",
+    "en": "Scary Potter",
+    "vi": "Thợ Gốm Nhút Nhát"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SCARY_POTTER_7",
+    "en": "Hocus Crocus",
+    "vi": "Ảo Thuật Tung Hứng"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SCARY_POTTER_8",
+    "en": "Another Chain Reaction",
+    "vi": "Lại Dây Chuyền Nữa"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SCARY_POTTER_9",
+    "en": "Ace of Vase",
+    "vi": "Bậc Thầy Đập Bình"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SCARY_POTTER_10",
+    "en": "Vasebreaker Facebreaker",
+    "vi": "Đập Bình Đập Mặt"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SCARY_POTTER_ENDLESS",
+    "en": "Endless Trial",
+    "vi": "Thử Thách Vô Tận"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SCARY_POTTER",
+    "en": "Challenge Mode",
+    "vi": "Chế Độ Thử Thách"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "PORTAL_COMBAT",
+    "en": "Portal Combat",
+    "vi": "Bảo Vệ Cổng Không Gian"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BEGHOULED",
+    "en": "Beghouled",
+    "vi": "Ghép Ngọc Thực Vật"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BEGHOULED_TWIST",
+    "en": "Beghouled Twist",
+    "vi": "Xoay Ngọc Thực Vật"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WALL_NUT_BOWLING",
+    "en": "Wall-nut Bowling",
+    "vi": "Bowling Hạt Dẻ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "GRAVE_DANGER",
+    "en": "Grave Danger",
+    "vi": "Hiểm Họa Nghĩa Địa"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "I_ZOMBIE",
+    "en": "I, Zombie",
+    "vi": "Tôi Là Zombie"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WHACK_A_ZOMBIE",
+    "en": "Whack a Zombie",
+    "vi": "Đập Zombie"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SLOT_MACHINE",
+    "en": "Slot Machine",
+    "vi": "Máy Xèng"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ZOMBIQUARIUM",
+    "en": "Zombiquarium",
+    "vi": "Thủy Cung Zombie"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "LITTLE_TROUBLE",
+    "en": "Big Trouble Little Zombie",
+    "vi": "Zombie Tí Hon Rắc Rối Lớn"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BOBSLED_BONANZA",
+    "en": "Bobsled Bonanza",
+    "vi": "Đại Tiệc Xe Trượt Tuyết"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ITS_RAINING_SEEDS ",
+    "en": "Hybrid Seed Rain (By Qianting Weiweimi)",
+    "vi": "Cơn Mưa Hạt Giống Lai (Qianting Weiweimi)"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "INVISIGHOUL",
+    "en": "Invisi-ghoul",
+    "vi": "Kẻ Ăn Não Tàng Hình"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "DARK_STORMY_NIGHT",
+    "en": "Dark Stormy Night",
+    "vi": "Đêm Bão Đen Tối"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "AIR_RAID",
+    "en": "Air Raid",
+    "vi": "Không Kích"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "COLUMN_AS_YOU_SEE_EM",
+    "en": "Column Like You See 'Em",
+    "vi": "Trồng Cả Cột Một Lần"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BUNGEE_BLITZ",
+    "en": "Bungee Blitz",
+    "vi": "Bão Đột Kích Bungee"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "POGO_PARTY",
+    "en": "Pogo Party",
+    "vi": "Tiệc Nhảy Lò Xo"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "FINAL_BOSS",
+    "en": "Dr. Zomboss's Revenge",
+    "vi": "Tiến Sĩ Zomboss Phục Thù"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "LAST_STAND",
+    "en": "Last Stand",
+    "vi": "Phòng Tuyến Cuối Cùng"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ART_CHALLENGE_WALL_NUT",
+    "en": "Art Challenge Wall-nut",
+    "vi": "Nghệ Thuật Hạt Dẻ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SUNNY_DAY",
+    "en": "Sunny Day",
+    "vi": "Ngày Nắng Đẹp"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "UNSODDED",
+    "en": "Unsodded",
+    "vi": "Đất Trống Không Cỏ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BIG_TIME",
+    "en": "Big Time",
+    "vi": "Thời Khắc Khổng Lồ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ART_CHALLENGE_SUNFLOWER",
+    "en": "Art Challenge Sunflower",
+    "vi": "Nghệ Thuật Hướng Dương"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ZOMBIES_ON_SPEED",
+    "en": "Zombie Nimble Zombie Quick",
+    "vi": "Zombie Siêu Tốc"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ICE_LEVEL",
+    "en": "Ice Level",
+    "vi": "Màn Băng Giá"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ZEN_GARDEN",
+    "en": "Zen Garden",
+    "vi": "Vườn Thiền"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "HIGH_GRAVITY",
+    "en": "High Gravity",
+    "vi": "Trọng Lực Bất Thường"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WAR_AND_PEAS_2",
+    "en": "Zombotany 2",
+    "vi": "Zombie Thực Vật 2"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "I_ZOMBIE_TOO",
+    "en": "I, Zombie Too",
+    "vi": "Tôi Cũng Là Zombie"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WALL_NUT_BOWLING_EXTREME",
+    "en": "Wall-nut Bowling 2",
+    "vi": "Bowling Hạt Dẻ 2"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BEAT_GAME_MESSAGE1",
+    "en": "You earned the Gold Sunflower Trophy!",
+    "vi": "Bạn đã nhận được Cúp Hướng Dương Vàng!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BEAT_GAME_MESSAGE2",
+    "en": "Whoa! You collected every item! Now it's\ntime to face the Endless Trials! And\ndon't forget to visit your Zen Garden\nonce in a while to water your plants!",
+    "vi": "Tuyệt vời! Bạn đã sưu tầm đủ mọi vật\nphẩm! Giờ là lúc chinh phục Thử Thách Vô\nTận! Đừng quên ghé Vườn Thiền tưới cây\nthường xuyên nhé!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "GOLD_SUNFLOWER_TROPHY",
+    "en": "Gold Sunflower Trophy",
+    "vi": "Cúp Hướng Dương Vàng"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SILVER_SUNFLOWER_TROPHY",
+    "en": "Silver Sunflower Trophy",
+    "vi": "Cúp Hướng Dương Bạc"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WIN_MESSAGE1",
+    "en": "You defeated the Zombie King!",
+    "vi": "Bạn đã đánh bại Vua Zombie!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WIN_MESSAGE2",
+    "en": "Congratulations! You held the ultimate\nline of defense against the zombie\nonslaught! Your lawn is safe... for now!",
+    "vi": "Chúc mừng! Bạn đã giữ vững phòng tuyến\nkiên cố nhất trước đại quân zombie! Bãi\ncỏ đã an toàn... nhưng chỉ tạm thời\nthôi!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "GOT_TROPHY",
+    "en": "You got a Trophy!",
+    "vi": "Bạn nhận được một chiếc Cúp!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "TROPHY",
+    "en": "Trophy",
+    "vi": "Cúp Chiến Thắng"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "NOW_YOU_CAN_PLAY",
+    "en": "Now you can play: {MODE}!",
+    "vi": "Giờ bạn đã mở khóa: {MODE}!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CHALLENGE_UNLOCKED",
+    "en": "You unlocked a new level!",
+    "vi": "Bạn đã mở khóa một màn chơi mới!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "GET_MORE_TROPHIES",
+    "en": "Keep earning more Trophies!",
+    "vi": "Tiếp tục thu thập thêm nhiều Cúp nhé!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SUN",
+    "en": "Sun",
+    "vi": "Mặt Trời"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "MATCHES",
+    "en": "Matches",
+    "vi": "Cặp Đạt"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "MODE_LOCKED",
+    "en": "Locked!",
+    "vi": "Chưa Mở Khóa!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SURVIVAL_LOCKED_MESSAGE",
+    "en": "Play more Adventure levels to unlock Survival Mode.",
+    "vi": "Chơi thêm Phiêu Lưu để mở khóa Sinh Tồn."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "MINIGAME_LOCKED_MESSAGE",
+    "en": "Play more Adventure levels to unlock Mini-Games.",
+    "vi": "Chơi thêm Phiêu Lưu để mở khóa Mini-Game."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "PUZZLE_LOCKED_MESSAGE",
+    "en": "Play more Adventure levels to unlock Puzzle Mode.",
+    "vi": "Chơi thêm Phiêu Lưu để mở khóa Giải Đố."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CLICK_TO_START",
+    "en": "Click to Start",
+    "vi": "Nhấn để Bắt Đầu"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "LOADING",
+    "en": "Loading...",
+    "vi": "Đang tải..."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CREDITS",
+    "en": "Updates",
+    "vi": "Cập Nhật"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BACK_TO_GAME",
+    "en": "Back to Game",
+    "vi": "Quay Lại Game"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "RESTART_LEVEL",
+    "en": "Restart",
+    "vi": "Chơi Lại"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ZEN_GARDEN_PICK_UP_WATER",
+    "en": "Click to pick up the Watering Can!",
+    "vi": "Nhấn để cầm Bình Tưới Nước!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ZEN_GARDEN_WATER_PLANT",
+    "en": "Click to water your sprout!",
+    "vi": "Nhấn để tưới mầm cây mới!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ZEN_GARDEN_KEEP_WATERING",
+    "en": "Keep watering your plants so they don't get thirsty!",
+    "vi": "Tiếp tục tưới nước cho cây, đừng để chúng khát nhé!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ZEN_GARDEN_VISIT_STORE",
+    "en": "Your plants need fertilizer to grow. Visit the Shop to buy some!",
+    "vi": "Cây của bạn cần phân bón để lớn, hãy vào Shop mua nhé!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ZEN_GARDEN_FERTILIZE",
+    "en": "Fertilize your plants and watch them flourish!",
+    "vi": "Bón phân cho cây và ngắm chúng phát triển tươi tốt!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ZEN_GARDEN_NEED_MORE_FERTILIZER",
+    "en": "You need to fertilize all your plants! Buy more plants here too!",
+    "vi": "Bạn cần bón phân cho tất cả cây! Hãy mua thêm cây ở đây nhé!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_ZEN_GARDEN_CONTINUE_ADVENTURE",
+    "en": "That's all you can do for now! Come back when your plants need more care!",
+    "vi": "Hiện tại chỉ chăm được tới đây thôi! Nhớ quay lại khi cây cần chăm sóc thêm nhé!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CHOOSE_SEED_TO_COPY",
+    "en": "Choose a seed to copy",
+    "vi": "Chọn một thẻ cây để sao chép"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "NOT_ALLOWED_ON_THIS_LEVEL",
+    "en": "Not allowed on this level",
+    "vi": "Không được phép dùng ở màn này"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "FULL_VERSION_ONLY",
+    "en": "Full Version Only",
+    "vi": "Chỉ Có Ở Bản Đầy Đủ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "GET_FULL_VERSION_BODY",
+    "en": "Collect all items to unlock the deadliest plants!",
+    "vi": "Thu thập đủ toàn bộ vật phẩm để sử dụng những cây mạnh nhất!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "GET_FULL_VERSION_TITLE",
+    "en": "All Items Collected!",
+    "vi": "Đã Sưu Tầm Đủ Vật Phẩm!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BUY_PVZ_TITLE",
+    "en": "Go Collect All Items!",
+    "vi": "Hãy Đi Thu Thập Đủ Vật Phẩm Nhé!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BUY_PVZ_BODY",
+    "en": "Would you like to buy the Full Version?",
+    "vi": "Bạn có muốn mua phiên bản đầy đủ không?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "GET_FULL_VERSION_YES_BUTTON",
+    "en": "Buy Full Version",
+    "vi": "Mua Bản Đầy Đủ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "GET_FULL_VERSION_NO_BUTTON",
+    "en": "Maybe Later",
+    "vi": "Để Sau Nhé"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "FULL_VERSION_TO_BUY",
+    "en": "This item unlocks only after collecting every trophy item!",
+    "vi": "Mục này chỉ mở sau khi thu thập đủ toàn bộ vật phẩm!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CRAZY_DAVE_WANTS",
+    "en": "Card Locked!",
+    "vi": "Thẻ Đã Bị Khóa!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "NOCTURNAL_WARNING",
+    "en": "Nocturnal — sleeps during the day",
+    "vi": "Hoạt động ban đêm — sẽ ngủ vào ban ngày"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "NOT_RECOMMENDED_FOR_LEVEL",
+    "en": "Not recommended for this level",
+    "vi": "Không khuyến nghị cho màn này"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CHOOSE_YOUR_PLANTS",
+    "en": "Choose Your Cards",
+    "vi": "Chọn Bộ Thẻ Của Bạn"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_USE_SHOVEL_ON_POTS",
+    "en": "Recommended: use Shovel on Flower Pots",
+    "vi": "Gợi ý: nên dùng Xẻng lên Chậu Hoa"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_DESTROY_POTS_TO_FINISH_LEVEL",
+    "en": "Clear all zombies and vases to finish the level!",
+    "vi": "Tiêu diệt hết zombie và đập sạch bình để qua màn!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SUBURBAN_ALMANAC_INDEX",
+    "en": "Almanac - Index",
+    "vi": "Sổ Tay - Mục Lục"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SUBURBAN_ALMANAC_PLANTS",
+    "en": "Almanac - Plants",
+    "vi": "Sổ Tay - Cây Trồng"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SUBURBAN_ALMANAC_ZOMBIES",
+    "en": "Almanac - Zombies",
+    "vi": "Sổ Tay - Zombie"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "STORE_PAGE",
+    "en": "Page {PAGE} of {NUM_PAGES}",
+    "vi": "Trang {PAGE} / {NUM_PAGES}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "STORE_UPGRADE_SLOTS",
+    "en": "{SLOTS} Slots",
+    "vi": "{SLOTS} Ô Thẻ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_I_ZOMBIE_EAT_ALL_BRAINS",
+    "en": "Eat all the Brains to pass this level!",
+    "vi": "Ăn sạch toàn bộ Não để vượt qua màn này!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_I_ZOMBIE_PLANTS_NOT_REAL",
+    "en": "Don't panic, those plants aren't real plants!",
+    "vi": "Đừng hoảng, mấy cây đó chỉ là bù nhìn thôi!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SQUIRRELS",
+    "en": "Squirrels",
+    "vi": "Sóc"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SQUIRRELS_ONE_LEFT",
+    "en": "{COUNT} squirrel left!",
+    "vi": "Còn {COUNT} chú sóc nữa!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SQUIRRELS_LEFT",
+    "en": "{COUNT} squirrels left!",
+    "vi": "Còn {COUNT} chú sóc nữa!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_SQUIRREL_ZOMBIE",
+    "en": "Oh no! Find all the squirrels before the zombies reach your house!",
+    "vi": "Ôi không! Tìm hết sóc trước khi zombie vào nhà bạn!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BRAINS",
+    "en": "Brains",
+    "vi": "Ăn Não"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "COST",
+    "en": "Cost",
+    "vi": "Chi phí"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WAIT_TIME",
+    "en": "Recharge",
+    "vi": "Hồi chiêu"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WAIT_TIME_SHORT",
+    "en": "Fast",
+    "vi": "Nhanh"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WAIT_TIME_LONG",
+    "en": "Slow",
+    "vi": "Trung bình"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "WAIT_TIME_VERY_LONG",
+    "en": "Very Slow",
+    "vi": "Rất chậm"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_PEASHOOTER_DIED",
+    "en": "One of your Peashooters died! Plant them farther left!",
+    "vi": "Một Súng Đậu của bạn đã hy sinh! Hãy trồng chúng lùi sang trái hơn!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_FOUND_PLANT",
+    "en": "You found a new plant for your Zen Garden!",
+    "vi": "Bạn vừa nhặt được một cây mới cho Vườn Thiền!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_FOUND_CHOCOLATE",
+    "en": "You found some Chocolate! Feed it to Stinky to speed him up!",
+    "vi": "Bạn tìm thấy Sô-cô-la! Cho ốc sên ăn để tăng tốc nhặt xu nhé!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_STINKY_SLEEPING",
+    "en": "Stinky fell asleep! Click to wake him up!",
+    "vi": "Ốc sên ngủ gật rồi! Nhấn để đánh thức nó dậy!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "START_ONSLAUGHT",
+    "en": "Start Onslaught",
+    "vi": "Bắt Đầu Tấn Công"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CONTINUE_ONSLAUGHT",
+    "en": "Continue Onslaught",
+    "vi": "Tiếp Tục Tấn Công"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "LAST_STAND_DEATH_MESSAGE",
+    "en": "You lasted only {FLAGS}!!",
+    "vi": "Bạn chỉ trụ nổi {FLAGS} thôi sao!!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SUCCESSFULLY_DEFENDED",
+    "en": "Successfully Defended! {FLAGS}",
+    "vi": "Phòng Thủ Thành Công! {FLAGS}"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "FLAGS_COMPLETED",
+    "en": "{FLAGS} Completed",
+    "vi": "{FLAGS} Hoàn Thành"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "I_ZOMBIE_1",
+    "en": "I, Zombie!",
+    "vi": "Tôi Là Zombie!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "I_ZOMBIE_2",
+    "en": "I, Zombie Too!",
+    "vi": "Tôi Cũng Là Zombie!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "I_ZOMBIE_3",
+    "en": "Can You Dig It?",
+    "vi": "Đào Được Chứ?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "I_ZOMBIE_4",
+    "en": "Totally Nuts",
+    "vi": "Toàn Hạt Dẻ Điên"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "I_ZOMBIE_5",
+    "en": "Dead Zeppelin",
+    "vi": "Khinh Khí Cầu Tử Thần"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "I_ZOMBIE_6",
+    "en": "Me Smash!",
+    "vi": "Ta Đập Nát!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "I_ZOMBIE_7",
+    "en": "ZomBoogie",
+    "vi": "Vũ Điệu Zombie"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "I_ZOMBIE_8",
+    "en": "Three Hit Wonder",
+    "vi": "Kỳ Tích Ba Đòn"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "I_ZOMBIE_9",
+    "en": "All Your Brainz R Belong To Us",
+    "vi": "Mọi Bộ Não Đều Thuộc Về Ta"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "I_ZOMBIE_ENDLESS",
+    "en": "I, Zombie Endless",
+    "vi": "Tôi Là Zombie Vô Tận"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "UNLOCKED_I_ZOMBIE_LEVEL",
+    "en": "You unlocked a new I, Zombie level!",
+    "vi": "Bạn đã mở khóa màn Tôi Là Zombie mới!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "UNLOCKED_VASEBREAKER_LEVEL",
+    "en": "You unlocked a new Vasebreaker level!",
+    "vi": "Bạn đã mở khóa màn Đập Bình mới!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "EARN_MORE_TROPHIES_FOR_ENDLESS_SURVIVAL",
+    "en": "Earn more Survival trophies to unlock Survival Endless",
+    "vi": "Kiếm thêm Cúp Sinh Tồn để mở khóa Sinh Tồn Vô Tận"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "YOU_UNLOCKED_A_SURVIVAL",
+    "en": "You unlocked a new Survival Mode!",
+    "vi": "Bạn đã mở khóa chế độ Sinh Tồn mới!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "YOU_UNLOCKED_ENDLESS_SURVIVAL",
+    "en": "You unlocked Survival Endless!",
+    "vi": "Bạn đã mở khóa Sinh Tồn Vô Tận!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "NOT_ENCOUNTERED_YET",
+    "en": "(Not encountered yet)",
+    "vi": "(Chưa chạm trán)"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CLICK_TO_CONTINUE",
+    "en": "Click to Continue",
+    "vi": "Nhấn để Tiếp Tục"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SOLD_OUT",
+    "en": "Sold Out",
+    "vi": "Đã Bán Hết"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "COMING_SOON",
+    "en": "Coming Soon",
+    "vi": "Sắp Ra Mắt"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ZEN_ONLY_AQUATIC_PLANTS",
+    "en": "You can only put aquatic plants here — it's underwater!",
+    "vi": "Ở đây chỉ nuôi được cây thủy sinh, dưới nước mà!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "RESTART_LEVEL_HEADER",
+    "en": "Restart Level?",
+    "vi": "Chơi Lại Màn Này?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "RESTART_PUZZLE_HEADER",
+    "en": "Restart Puzzle?",
+    "vi": "Chơi Lại Màn Giải Đố?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "RESTART_CHALLENGE_HEADER",
+    "en": "Restart Challenge?",
+    "vi": "Chơi Lại Thử Thách?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "RESTART_SURVIVAL_HEADER",
+    "en": "Restart Survival?",
+    "vi": "Chơi Lại Sinh Tồn?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "RESTART_LEVEL_BODY",
+    "en": "Are you sure you want to restart this level?",
+    "vi": "Bạn có muốn chơi lại màn này từ đầu không?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "RESTART_PUZZLE_BODY",
+    "en": "Are you sure you want to try this puzzle again?",
+    "vi": "Bạn có muốn thử lại màn giải đố này không?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "RESTART_CHALLENGE_BODY",
+    "en": "Are you sure you want to try this challenge again?",
+    "vi": "Bạn có muốn thử lại màn thử thách này không?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "RESTART_SURVIVAL_BODY",
+    "en": "Are you sure you want to restart this Survival level?",
+    "vi": "Bạn có muốn chơi lại màn Sinh Tồn này từ đầu không?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "SILVER_SUNFLOWER_TOOLTIP",
+    "en": "Earn every trophy in Adventure, Challenges, and More Modes to win the Gold Sunflower Trophy!",
+    "vi": "Sưu tầm đủ mọi cúp ở Phiêu Lưu, Thử Thách và Chế Độ Khác để giành Cúp Hướng Dương Vàng!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "GOLD_SUNFLOWER_TOOLTIP",
+    "en": "You earned the Gold Sunflower Trophy!\nKeep up the great defense in future versions!",
+    "vi": "Bạn đã giành được Cúp Hướng Dương Vàng!\nHãy tiếp tục giữ vững thành tích ở các bản cập nhật sau!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "GOLD_SUNFLOWER_TOOLTIP_PLURAL",
+    "en": "You earned the Gold Sunflower Trophy!\nKeep up the great defense in future versions!",
+    "vi": "Bạn đã giành được Cúp Hướng Dương Vàng!\nHãy tiếp tục giữ vững thành tích ở các bản cập nhật sau!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "UNLOCKED_MINIGAMES",
+    "en": "Mini-Games unlocked! Access them from the Main Menu!",
+    "vi": "Đã mở khóa Mini-Game! Vào chơi từ Menu Chính!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "UNLOCKED_PUZZLE_MODE",
+    "en": "Puzzle Mode unlocked! Access it from the Main Menu!",
+    "vi": "Đã mở khóa Giải Đố! Vào chơi từ Menu Chính!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "UNLOCKED_SURVIVAL_MODE",
+    "en": "Survival Mode unlocked! Access it from the Main Menu!",
+    "vi": "Đã mở khóa Sinh Tồn! Vào chơi từ Menu Chính!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CREDITS_GAMENAME",
+    "en": "Plants vs. Zombies",
+    "vi": "Plants vs. Zombies"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CREDITS_NAMES1",
+    "en": "{CREDITS1}GEORGE FAN\nTOD SEMPLE\nRICH WERNER\nLAURA SHIGIHARA\nENRIQUE CORTS\nMATT HOLMBERG\nSTEPHEN NOTLEY",
+    "vi": "{CREDITS1}GEORGE FAN\nTOD SEMPLE\nRICH WERNER\nLAURA SHIGIHARA\nENRIQUE CORTS\nMATT HOLMBERG\nSTEPHEN NOTLEY"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CREDITS_ROLES1",
+    "en": "{CREDITS1}GAME DESIGN\nPROGRAMMING\nART & AUDIO\nBACKGROUND ART\nUI ART\nWRITING & DESIGN\n\n [CREDITS_NAMES2]\n{CREDITS2}SUKHBIR SIDHU\nMIKE RACIOPPI\nSHAWN CONARD, ED MILLER, ADAM MACDONNELL\nBRIAN FIETE, CHRIS HARGROVE, DAVID PARTON\nDAVID P. WYCLIFF\nJASON KAPALKA, JOHN VECHEY, DAVE HAAS,\nDAVE ROBERTS, ED BROWN, LINDSEY KURZ,\nJEFF GATES, MYSTICSAGE, DAVE ROHRL,\nPOPCAP BETA TESTERS",
+    "vi": "{CREDITS1}THIẾT KẾ GAME\nLẬP TRÌNH\nĐỒ HỌA & ÂM THANH\nHỌA SĨ BỐI CẢNH\nTHIẾT KẾ GIAO DIỆN\nKỊCH BẢN & THIẾT KẾ\n\n [CREDITS_NAMES2]\n{CREDITS2}SUKHBIR SIDHU\nMIKE RACIOPPI\nSHAWN CONARD, ED MILLER, ADAM MACDONNELL\nBRIAN FIETE, CHRIS HARGROVE, DAVID PARTON\nDAVID P. WYCLIFF\nJASON KAPALKA, JOHN VECHEY, DAVE HAAS,\nDAVE ROBERTS, ED BROWN, LINDSEY KURZ,\nJEFF GATES, MYSTICSAGE, DAVE ROHRL,\nĐỘI NGŨ THỬ NGHIỆM POPCAP"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CREDITS_ROLES2",
+    "en": "{CREDITS2}STUDIO DIRECTOR\nQA LEAD\nQA TESTING\nPOPCAP FRAMEWORK\nMARMOT\nSALESMAN\nSPECIAL THANKS",
+    "vi": "{CREDITS2}GIÁM ĐỐC STUDIO\nTRƯỞNG NHÓM QA\nKIỂM THỬ GAME\nPOPCAP FRAMEWORK\nMARMOT\nNHÂN VIÊN BÁN HÀNG\nLỜI CẢM ƠN ĐẶC BIỆT"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CREDITS_THANKS",
+    "en": "Thanks for playing!",
+    "vi": "Cảm ơn bạn đã tham gia trò chơi!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CREDITS_REPLAY_BUTTON",
+    "en": "Replay",
+    "vi": "Phát Lại"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CREDITS_MAIN_MENU_BUTTON",
+    "en": "Main Menu",
+    "vi": "Menu Chính"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "VISIT_TREE_HEADER",
+    "en": "Visit Tree of Wisdom?",
+    "vi": "Thăm Cây Trí Tuệ?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "VISIT_TREE_BODY",
+    "en": "Would you like to visit the Tree of Wisdom now?",
+    "vi": "Bạn có muốn ghé thăm Cây Trí Tuệ ngay bây giờ không?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CREDITS_PAUSE_HEADER",
+    "en": "Credits Paused",
+    "vi": "Tạm Dừng Danh Sách"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CREDITS_PAUSE_BODY",
+    "en": "Click to return to the credits.\n\nYou can also view the credits later from the Options menu.",
+    "vi": "Nhấn để tiếp tục xem danh sách.\n\nBạn cũng có thể xem lại từ mục Tùy Chọn sau này."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CREDITS_RESUME_BUTTON",
+    "en": "Resume Credits",
+    "vi": "Tiếp Tục Xem"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "GET_FULL_VERSION_BUTTON",
+    "en": "Buy Full Version",
+    "vi": "Mua Bản Đầy Đủ"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "UPSELL_PAUSE_HEADER",
+    "en": "Paused",
+    "vi": "Tạm Dừng"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "UPSELL_PAUSE_BODY",
+    "en": "Click Back to resume the game.",
+    "vi": "Nhấn Quay Lại để tiếp tục chơi."
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "UPSELL_RESUME_BUTTON",
+    "en": "Back",
+    "vi": "Quay Lại"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "INTRO_PRESENTS",
+    "en": "PopCap Games Presents",
+    "vi": "PopCap Games Trân Trọng Giới Thiệu"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "CANT_USE_CODE",
+    "en": "Your Tree of Wisdom isn't tall enough!",
+    "vi": "Cây Trí Tuệ của bạn chưa đủ cao!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVENTURE_COMPLETE_HEADER",
+    "en": "Adventure Complete!",
+    "vi": "Hoàn Thành Phiêu Lưu!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVENTURE_COMPLETE_BODY",
+    "en": "New Mini-Games, Puzzle Mode, and\nSurvival Mode are now unlocked! Crazy\nDave's shop also has new items — go\ncheck it out!",
+    "vi": "Các chế độ Mini-Game, Giải Đố và Sinh\nTồn mới đã được mở khóa! Cửa hàng của\nCrazy Dave cũng có thêm món mới, mau qua\nxem nhé!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "ADVICE_NEED_WHEELBARROW",
+    "en": "To carry plants between gardens, buy a Wheelbarrow from the shop first!",
+    "vi": "Để chuyển cây giữa các khu vườn, cần mua Xe Cút Kít trong cửa hàng trước!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "AVAILABLE_IN_FULL_VERSION",
+    "en": "This plant is only usable in the Full Version!",
+    "vi": "Cây này chỉ sử dụng được trong Bản Đầy Đủ!"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "REPLAY_LEVEL_HEADER",
+    "en": "Replay Level?",
+    "vi": "Chơi Lại Màn Này?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "REPLAY_LEVEL_BODY",
+    "en": "Replay Level 3-4?",
+    "vi": "Chơi lại màn 3-4 chứ?"
+  },
+  {
+    "file": "LawnStrings.txt",
+    "key": "BACK_LEVEL_PICK",
+    "en": "Back to Level Select",
+    "vi": "Về Trang Chọn Màn"
+  }
+]

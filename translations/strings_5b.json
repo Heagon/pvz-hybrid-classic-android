@@ -1,0 +1,3170 @@
+[
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP1",
+    "en": "Plants vs. Zombies Turbo Edition!",
+    "vi": "Plants vs. Zombies Phiên Bản Siêu Tốc!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP2",
+    "en": "Watch out for zombies stepping out of portals!",
+    "vi": "Coi chừng zombie bước ra từ cổng dịch chuyển!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP3",
+    "en": "Plant one, get a full column free!",
+    "vi": "Trồng một cây tặng cả một cột!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP4",
+    "en": "Pint-sized and adorable too!",
+    "vi": "Nhỏ nhắn nhưng cũng dễ thương lắm!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP5",
+    "en": "Watch out! Gravity anomaly detected!",
+    "vi": "Cảnh giác! Trọng lực đang bất thường!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP6",
+    "en": "Why'd it go pitch-dark? Can you even see them?",
+    "vi": "Sao tối thui rồi? Bạn có nhìn thấy chúng không?"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP7",
+    "en": "Red Alert, comrade!",
+    "vi": "Báo động đỏ rồi anh bạn ơi!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP8",
+    "en": "Can't hold down the coffin lids anymore!!!",
+    "vi": "Nắp quan tài không đè nổi nữa rồi!!!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP9",
+    "en": "Invisible brain-eaters!",
+    "vi": "Kẻ ăn não tàng hình!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP10",
+    "en": "It's end-of-the-month crunch time!",
+    "vi": "Cuối tháng cháy túi rồi!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP11",
+    "en": "Inflation just hit, bro!",
+    "vi": "Lạm phát tăng phi mã rồi người anh em!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP12",
+    "en": "Keep an eye on every plant you lose!",
+    "vi": "Chú ý những cái cây bạn đánh mất!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP13",
+    "en": "Use WASD keys to steer the zombies!",
+    "vi": "Dùng phím WASD để điều khiển zombie di chuyển!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP14",
+    "en": "Hold back the zombie tide and produce enough sun!",
+    "vi": "Đẩy lùi đợt tấn công của zombie và tạo đủ Mặt trời!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP15",
+    "en": "This stage wards off evil spirits!",
+    "vi": "Màn này trừ tà cực mạnh!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP16",
+    "en": "Drop Phantom Hypno-shroom's price down to -5000",
+    "vi": "Giảm giá Nấm Thôi Miên Bóng Ma xuống còn -5000"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP17",
+    "en": "40% chance to drop a Bungee when planting\n10% chance to spawn Hypnotist when planting\n30% chance to spawn a Jammer Van on seed recharge\n50% chance to spawn Sunflower Zombie per 100 Sun produced\n50% chance to spawn a Skeleton Zombie when a plant vanishes",
+    "vi": "Trồng cây có 40% tỷ lệ rơi Zombie Bungee\nTrồng cây có 10% tỷ lệ rơi Thôi Miên Sư\nHết hồi chiêu thẻ có 30% tỷ lệ ra Xe Gây Nhiễu\nMỗi 100 Mặt trời tạo ra có 50% tỷ lệ ra Zombie Hướng Dương\nKhi cây biến mất có 50% tỷ lệ ra một Zombie Bộ Xương"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP18",
+    "en": "Destroy all the stars and defend your house!",
+    "vi": "Tiêu diệt toàn bộ ngôi sao và bảo vệ ngôi nhà!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP19",
+    "en": "Shark Zombie: costs 1000, produces 350 Sun per cycle;\nmust devour Snorkel Zombies to stay fed.\n\nEvery 4 Snorkel Zombies on field merge into a Kelp Snorkel Zombie\n(produces 100 Sun, eats 2 brains per cycle).\n\nEvery 4 Kelp Snorkels merge into a Siren Zombie\n(produces 400 Sun, eats 5 brains per cycle).",
+    "vi": "Zombie Cá Mập: giá 1000, mỗi lần tạo 350 Mặt trời,\ncần ăn Zombie Lặn để no bụng.\n\nCứ 4 Zombie Lặn trên sân tự hợp thành Zombie Lặn Rong Biển\n(tạo 100 Mặt trời, mỗi lần ăn 2 não).\n\nCứ 4 Zombie Lặn Rong Biển hợp thành Zombie Hải Yêu\n(tạo 400 Mặt trời, mỗi lần ăn 5 não)."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP20",
+    "en": "When a column on the lawn is filled with identical plants,\na Pepper Relifer spawns atop them,\nplants to the right shift left into gaps, and you gain 5 pts.\n\nReach 200 points to win the match.\n\nA red line marks Column 8 (play zone inside).\nYou may only plant to the right of existing plants.",
+    "vi": "Nếu một cột trên sân toàn cây giống hệt nhau,\nhệ thống đặt Ớt Tái Tạo lên trên,\ncác cây bên phải dồn sang trái lấp chỗ và nhận 5 điểm.\n\nTích đủ 200 điểm sẽ giành chiến thắng.\n\nCột 8 có vạch đỏ đánh dấu vùng chơi.\nChỉ được trồng cây ở bên phải ô đã có cây."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP21",
+    "en": "Spring: 2x Plant speed\n\nSummer: +50% Plant damage\n\nAutumn: +50% Plant HP\n\nWinter: -30% Seed cooldown",
+    "vi": "Mùa Xuân: Tốc độ cây x2\n\nMùa Hạ: Công của cây tăng 50%\n\nMùa Thu: Máu của cây tăng 50%\n\nMùa Đông: Hồi chiêu thẻ giảm 30%"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP22",
+    "en": "All Rainbow Cards are FREE!",
+    "vi": "Toàn bộ Thẻ Cầu Vồng đều MIỄN PHÍ!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP23",
+    "en": "Buy One Get One Free!",
+    "vi": "Mua Một Tặng Một!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP24",
+    "en": "All Mushrooms on this stage:\n+100% Sun speed\n+100% Attack speed\n+100% HP\n\nAll zombies summon their Shadow upon death.",
+    "vi": "Toàn bộ Nấm ở màn này:\nTốc độ sản xuất tăng 100%\nTốc độ đánh tăng 100%\nMáu tăng 100%\n\nMọi zombie khi chết sẽ triệu hồi Bóng của mình."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP25",
+    "en": "All card cooldowns are locked at 30s on this stage.",
+    "vi": "Thời gian hồi chiêu mọi thẻ bài màn này đều là 30 giây."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP26",
+    "en": "Maximum Sun storage cap is reduced on this stage!",
+    "vi": "Giới hạn Mặt trời tối đa ở màn này bị giảm xuống!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP27",
+    "en": "Plants can only survive for up to 30 seconds!",
+    "vi": "Cây trồng chỉ sống tối đa được 30 giây!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP28",
+    "en": "1. Zombies with >=3000 HP leave a Revival Mage pit on death;\nothers leave a Skeleton Zombie pit.\n2. Revival Mages and Skeleton Zombies turn into Zombie Ghosts on death.\n3. Zombie Ghosts turn into Tombstones on death.\n4. Vanishing Tombstones drop 25 Brain-sun (-25 Sun).",
+    "vi": "1. Zombie có máu >=3000 khi chết để lại hố Pháp Sư Hồi Sinh;\ncác con khác để lại hố Zombie Bộ Xương.\n2. Pháp Sư Hồi Sinh và Bộ Xương khi chết biến thành Bóng Ma Zombie.\n3. Bóng Ma Zombie khi chết biến thành Bia Mộ.\n4. Bia Mộ biến mất rơi 25 Não-sáng (người chơi mất 25 Mặt trời)."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP29",
+    "en": "1. Plants transform into a random plant after 30s on the field.\n2. Zombies transform into a random zombie after 15s.\n3. Falling sky Sun randomizes type (Brain, Mini, Normal, Big, Chili, Coin).",
+    "vi": "1. Cây trên sân sau 30 giây tự biến thành cây ngẫu nhiên khác.\n2. Zombie trên sân sau 15 giây tự biến thành zombie khác.\n3. Mặt trời rơi từ trên xuống ra ngẫu nhiên (Não, Nhỏ, Thường, Lớn, Ớt, Xu)."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP30",
+    "en": "Digger Zombies have an 80% chance to emerge randomly in Columns 4-9,\nleaving a crater tile wherever they surface early.",
+    "vi": "Zombie Thợ Mỏ có 80% tỷ lệ trồi lên sớm ngẫu nhiên ở cột 4~9,\nđể lại một hố đất tại ô trồi lên sớm."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP31",
+    "en": "Everything here is one-of-a-kind!",
+    "vi": "Mọi thứ đều là độc nhất vô nhị!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP32",
+    "en": "Every plant & zombie spawns with 10s invincibility (glowing).\nFirst purchase of every seed packet is FREE.\nEach zombie regains its armor the first time it drops it.",
+    "vi": "Mỗi cây và zombie ra sân được bất tử 10 giây (phát sáng).\nLần mua đầu tiên của mỗi thẻ bài đều miễn phí.\nMỗi zombie rơi giáp lần đầu sẽ được nhận lại giáp đó."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP33",
+    "en": "Every 30s a random rule triggers:\n1. All plant fire rate -> 2s\n2. All plant HP -> 2000\n3. All card cost -> 175\n4. All cooldowns -> 20s\n5. All zombie HP -> 1000\n6. All projectile dmg -> 100\n7. Suppress vanish effects\n8. All plant & zombie HP -> 4000\n9. 2x speed for all\n10. 0.5x speed for all",
+    "vi": "Mỗi 30 giây ngẫu nhiên xảy ra 1 hiệu ứng:\n1. Tốc độ đánh cây -> 2s\n2. Máu cây -> 2000\n3. Giá thẻ -> 175\n4. Hồi chiêu -> 20s\n5. Máu zombie -> 1000\n6. Sát thương đạn -> 100\n7. Vô hiệu hiệu ứng biến mất\n8. Máu tất cả -> 4000\n9. Tốc độ tất cả x2\n10. Tốc độ tất cả giảm nửa"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP34",
+    "en": "Each zombie flees after 10-20s on screen.\nDon't let them escape or you lose 1 Life!\nYou start with 5 Lives — lose them all and it's Game Over.",
+    "vi": "Mỗi zombie sẽ bỏ chạy sau 10~20 giây xuất hiện.\nĐừng để zombie tẩu thoát nếu không sẽ mất 1 tim!\nBắt đầu với 5 tim — mất hết tim sẽ thua cuộc."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP35",
+    "en": "1. 10 Big Suns (50 ea) fall from the sky; all units burn for 50/s (except Hypno Pea).\n2. Plant Hypno-shroom Shooter to shoot down the suns (-1 per vanish).\n3. Triggering Ice-shroom cuts Hypno-shroom Shooter CD by 30s.\n4. Reaching 8000 Sun = Game Over.\n5. Only 1 Sun left in the sky = Victory!",
+    "vi": "1. Trời rơi 10 Mặt Trời Lớn (50 điểm); tất cả chịu 50/s sát thương lửa (trừ Súng Đậu Thôi Miên).\n2. Trồng Súng Đậu Thôi Miên bắn rụng mặt trời trên trời!\n3. Mỗi lần kích hoạt Nấm Băng giảm 30s hồi chiêu Súng Đậu Thôi Miên.\n4. Đạt 8000 Mặt trời = Thua.\n5. Trên trời chỉ còn 1 Mặt Trời = Thắng!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP36",
+    "en": "Defeated enemy zombies respawn as hypnotized mini-versions\n(50% size, 50% HP).",
+    "vi": "Zombie địch bị hạ sẽ biến thành zombie tí hon phe ta\n(50% kích thước, 50% máu)."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP37",
+    "en": "All plants fire 3x faster!",
+    "vi": "Tốc độ tấn công của mọi cây tăng gấp 3 lần!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP38",
+    "en": "Whenever you buy a card, all non-Diamond cards increase by +25 cost.",
+    "vi": "Sau mỗi lần mua thẻ, giá mọi thẻ không phải Thẻ Kim Cương tăng thêm 25."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP39",
+    "en": "Projectile speed reduced to 1/10;\nFume/Gloom-shroom attack speed reduced to 1/5;\nInstant-kills turn temporarily invincible at 1/5 speed.",
+    "vi": "Tốc độ bay của mọi viên đạn giảm còn 1/10;\nNấm Phun và Nấm Ảm Đạm đánh chậm còn 1/5;\nCây nổ tức thì tạm bất tử và hoạt động ở tốc độ 1/5."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP40",
+    "en": "All plants start with only 20% initial HP!",
+    "vi": "Toàn bộ cây trồng màn này khởi đầu chỉ còn 20% máu!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP41",
+    "en": "All zombies move and chew at 2x speed!",
+    "vi": "Toàn bộ zombie chạy nhanh x2 và gặm cây đau x2!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP42",
+    "en": "One vase opens automatically every 15s — and every vase holds a zombie!",
+    "vi": "Mỗi 15 giây tự động mở một bình hoa, và bên trong chỉ toàn zombie!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP43",
+    "en": "Zombies emerge randomly from Columns 5-9; Jack-in-the-Box fuses are halved.",
+    "vi": "Zombie trồi ngẫu nhiên từ cột 5-9; thời gian nổ Hộp Nhạc giảm một nửa."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP44",
+    "en": "Wall-nuts become bowling balls!\nDrops 15 Sun on 1st hit, 25 on 2nd, 50 on 3rd, and 100 on 4th+ hits!",
+    "vi": "Hạt Dẻ hóa thành bóng Bowling!\nVa trúng zombie đầu tiên rơi 15 Mặt trời,\ncon thứ 2 rơi 25, con thứ 3 rơi 50, nhiều hơn rơi 100 Mặt trời!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP45",
+    "en": "Zombies emerge randomly across Columns 5-9.",
+    "vi": "Zombie trồi ngẫu nhiên từ cột 5-9."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP46",
+    "en": "[Gimmick 1: Portals]\n[Gimmick 2: Zombies on Speed]\n[Gimmick 3: Little Trouble]\n[Gimmick 4: Deep Freeze]\n[Gimmick 5: Shadows]\n[Gimmick 6: Garlic House]",
+    "vi": "[Cơ chế 1: Cổng Dịch Chuyển]\n[Cơ chế 2: Zombie Siêu Tốc]\n[Cơ chế 3: Zombie Tí Hon]\n[Cơ chế 4: Đóng Băng Toàn Diện]\n[Cơ chế 5: Bóng Ma]\n[Cơ chế 6: Ngập Mùi Tỏi]"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP47",
+    "en": "Pogo Zombies ignore plants while hopping; Pole Vaulters leap 4 tiles; Football Zombies run at 2x speed.",
+    "vi": "Zombie Lò Xo nhảy bỏ qua mọi cây; Nhảy Sào nhảy qua 4 ô; Bầu Dục chạy nhanh gấp đôi."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP48",
+    "en": "Zombies turn into Shadows when defeated.",
+    "vi": "Zombie sau khi chết biến thành Bóng Ma."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP49",
+    "en": "First death of a plant or zombie transforms it into a random new one.",
+    "vi": "Khi cây hoặc zombie chết lần đầu sẽ biến ngẫu nhiên thành loại mới."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP50",
+    "en": "All zombies regenerate 20% HP every 10 seconds.",
+    "vi": "Toàn bộ zombie hồi 20% máu mỗi 10 giây."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP51",
+    "en": "Dancing Zombies summon random zombies; Diggers emerge leftward; Jack-in-the-Box blasts 5x5; Imitater spawns 2 zombies.",
+    "vi": "Vũ Vương gọi zombie ngẫu nhiên; Thợ Mỏ trồi hướng trái; Hộp Nhạc nổ 5x5; Giả Mạo hóa thành 2 zombie."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP52",
+    "en": "Wave 9 of every flag clears all units on the field and grants 2000 Sun.",
+    "vi": "Đợt 9 mỗi cờ sẽ dọn sạch cây và zombie trên sân, đồng thời tặng 2000 Mặt trời."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP53",
+    "en": "All zombies switch to a random lane every 10 seconds.",
+    "vi": "Toàn bộ zombie ngẫu nhiên đổi hàng mỗi 10 giây."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP54",
+    "en": "Every zombie revives immediately once upon death.",
+    "vi": "Mỗi zombie sau khi chết sẽ hồi sinh ngay lập tức một lần."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP55",
+    "en": "Zombies attack from BOTH sides of the lawn!",
+    "vi": "Zombie sẽ tấn công từ cả hai phía!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP56",
+    "en": "Collecting Sun triggers indiscriminate explosions!\nMini: 100 (1 tile)\nSmall: 300 (1 tile)\nNormal: 500 (1 tile)\nBig: 800 (3x3)",
+    "vi": "Nhặt Mặt trời sẽ gây nổ không phân biệt địch ta!\nMini: 100 (1 ô)\nNhỏ: 300 (1 ô)\nThường: 500 (1 ô)\nLớn: 800 (vùng 3x3)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP57",
+    "en": "The plant on your cursor randomly morphs!\nSun cost is charged upon planting!",
+    "vi": "Cây bạn đang cầm trên tay sẽ biến đổi ngẫu nhiên!\nTrừ Mặt trời tương ứng sau khi trồng!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP58",
+    "en": "Wild Thunderstorm!\nLightning strikes periodically for 1800 indiscriminate dmg in 3x3!\n\nMagnet-hybrid plants act as Lightning Rods: attracting bolts within 5x5 to shield nearby plants while taking 900 dmg themselves!",
+    "vi": "Đêm giông bão điên cuồng!\nĐịnh kỳ sét đánh gây 1800 sát thương vùng 3x3 không phân biệt địch ta!\n\nCây lai Nấm Nam Châm đóng vai trò \"cột thu lôi\": hút sét trong vùng 5x5 để bảo vệ đồng đội nhưng bản thân chịu 900 sát thương, nhớ bổ sung nhé!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP59",
+    "en": "1. Fog creeps 2 columns left every 30s.\n2. Can't plant inside fog; zombies in fog take -50% damage; only Blover clears fog!\n3. Spawns 2 Fog Machine Zombies in cols 8-9 every 30s.",
+    "vi": "1. Sương mù lan sang trái 2 cột mỗi 30s.\n2. Không thể trồng trong sương; zombie trong sương giảm 50% sát thương nhận; chỉ Cỏ Ba Lá mới thổi bay được sương!\n3. Mỗi 30s sinh 2 Zombie Máy Phun Sương ở cột 8-9."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP60",
+    "en": "Protect the zombies next to Hypno Plantern!",
+    "vi": "Hãy bảo vệ lũ zombie cạnh Đèn Ma Thuật!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP61",
+    "en": "Every 5th plant turns into an Undercover Spy!\nSpies steal 100 Sun every 10s, and sway at half normal speed.\nWatch closely and shovel them out!",
+    "vi": "Cứ trồng 5 cây sẽ có 1 cây biến thành Gián Điệp!\nGián điệp trộm 100 Mặt trời mỗi 10s và đung đưa chậm hơn cây thường gấp đôi.\nHãy quan sát kỹ và xẻng bỏ chúng kịp thời!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP62",
+    "en": "All plants fall asleep when planted — wake them with Coffee Beans! They sleep again if the bean wears off!",
+    "vi": "Mọi cây sau khi trồng đều ngủ, cần Hạt Cà Phê đánh thức!\nMất Hạt Cà Phê cây sẽ ngủ trở lại!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP63",
+    "en": "Slippery ice floor!\nPlanted seeds slide in a random direction until hitting an edge or another plant!\nZombies also slide randomly on entry and walk faster!",
+    "vi": "Sàn băng trơn trượt!\nCây trồng xong sẽ trượt theo hướng bất kỳ tới khi đụng mép hoặc cây khác!\nZombie ra sân cũng trượt một đoạn và bước nhanh hơn!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP64",
+    "en": "Lily Pads are an endangered species! Keep them alive!",
+    "vi": "Lá Sen là loài quý hiếm cần bảo tồn! Đừng để chúng chết!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP65",
+    "en": "Plants on conveyor tracks shift 1 tile clockwise every 5 seconds!",
+    "vi": "Cây trồng trên đường ray sẽ dịch chuyển thuận chiều kim đồng hồ 1 ô mỗi 5 giây!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP66",
+    "en": "Protect the Jack-o'-Lantern! Plants can only grow around it!",
+    "vi": "Bảo vệ Đèn Bí Ngô! Chỉ có thể trồng cây ở vùng xung quanh nó!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP67",
+    "en": "Place Rakes on Flag Zombie rows: hitting Flag Zombie drops a Gold Card; hitting others drops a random card.",
+    "vi": "Đặt Cào vào hàng Zombie Cầm Cờ dễ ra: trúng Cầm Cờ rơi Thẻ Vàng, trúng zombie khác rơi thẻ ngẫu nhiên."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP68",
+    "en": "All Cattail plants aim where your cursor points!",
+    "vi": "Toàn bộ cây họ Đuôi Mèo sẽ bắn theo con trỏ chuột!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP69",
+    "en": "Protect the Pop Idol Singers in back — don't let them fall!",
+    "vi": "Bảo vệ các Ca Sĩ Thần Tượng phía sau! Đừng để họ hy sinh!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP70",
+    "en": "Required to plant:\nTriple Kernel-pult x10\nWorkaholic-pult x10\nMelon Wall-nut x10\n\n(Press TAB to toggle tip)",
+    "vi": "Yêu cầu trồng:\nPháo Bắp Ba Nòng x10\nPháo Cày Cuốc x10\nDưa Hấu Hạt Dẻ x10\n\n(Nhấn TAB để xem lại gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP71",
+    "en": "Required: Plant 50 Sea-shroom family plants total\n(Sea Nut, Sea Pea, Sea Soldier, Big Sea-shroom, Ice Shroom Shooter)\n\n(Press TAB to toggle tip)",
+    "vi": "Yêu cầu trồng tổng cộng 50 cây họ Nấm Biển:\n(Hạt Dẻ Biển, Đậu Biển, Nấm Lính Biển, Nấm Biển Lớn, Đậu Nấm Băng)\n\n(Nhấn TAB để xem lại gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP72",
+    "en": "Required to plant:\nIce Chomper x10\nGarlic Chomper x10\nBlover Chomper x10\n\n(Press TAB to toggle tip)",
+    "vi": "Yêu cầu trồng:\nĂn Thịt Băng x10\nĂn Thịt Tỏi x10\nĂn Thịt Ba Lá x10\n\n(Nhấn TAB để xem lại gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP73",
+    "en": "Stage Quest:\nFire 1,000 total Icicle & Snow Pea shots",
+    "vi": "Nhiệm vụ màn:\nBắn tổng cộng 1000 phát đạn Băng Chùy và Đậu Băng"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP74",
+    "en": "Hibernation! All plants sleep (except Ice plants, Coffee Beans, and Alarm Clocks).",
+    "vi": "Ngủ đông! Tất cả cây đều ngủ (trừ cây Băng, Hạt Cà Phê và Đồng Hồ Báo Thức)."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP75",
+    "en": "Spend at least 20,000 Sun to clear the level.",
+    "vi": "Chi tiêu ít nhất 20.000 Mặt trời để qua màn."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP76",
+    "en": "Stage Quest:\nCreate 10 craters on the lawn.",
+    "vi": "Nhiệm vụ màn:\nTạo ra 10 hố bom."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP77",
+    "en": "Stage Mechanics:\nEvery 30s card costs randomize (0-1000);\nZombie HP spawns randomly (270-5000).",
+    "vi": "Cơ chế màn:\nMỗi 30s giá thẻ bài ngẫu nhiên thay đổi (0~1000);\nMáu zombie xuất hiện ngẫu nhiên (270~5000)."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP78",
+    "en": "Stage Quest:\nDefeat 50 zombies using Chomper Corn Crab.",
+    "vi": "Nhiệm vụ màn:\nDùng Cua Bắp Ăn Thịt hạ 50 zombie."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP79",
+    "en": "Required to plant:\nChili Sun-shroom x10\nGarlic Threepeater x10\nPumpkin Cannon x10\n\n(Press TAB for tip)",
+    "vi": "Yêu cầu trồng:\nNấm Mặt Trời Ớt x10\nĐậu Ba Nòng Tỏi x10\nPháo Bí Ngô x10\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP80",
+    "en": "Required to plant:\nSpike Melon-pult x10\nSpike Umbrella x10\nSpike Chomper x10\n\n(Press TAB for tip)",
+    "vi": "Yêu cầu trồng:\nDưa Hấu Cỏ Gai x10\nÔ Cỏ Gai x10\nĂn Thịt Cỏ Gai x10\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP81",
+    "en": "Stage Quest: Hypnotize 100 zombies.",
+    "vi": "Nhiệm vụ màn: Thôi miên 100 zombie."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP82",
+    "en": "Gimmick: Hypnotizing a zombie grants 50 Sun.\nQuest: Protect the Hypno Spikeweeds.",
+    "vi": "Cơ chế: Thôi miên 1 zombie nhận 50 Mặt trời.\nNhiệm vụ: Bảo vệ Cỏ Gai Thôi Miên."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP83",
+    "en": "Quest: Produce >=12,000 Sun\nPlant: Potato Threepeater x10, Star Threepeater x10, Garlic Threepeater x10\n\n(Press TAB for tip)",
+    "vi": "Nhiệm vụ: Tạo >=12.000 Mặt trời\nTrồng: Ba Nòng Khoai Tây x10, Ba Nòng Khế x10, Ba Nòng Tỏi x10\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP84",
+    "en": "Quest: Trigger 100 Potato Mine blasts.\nLimit: Spend <=8,000 Sun.",
+    "vi": "Nhiệm vụ: Kích nổ Mìn Khoai Tây 100 lần.\nGiới hạn: Tiêu không quá 8.000 Mặt trời."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP85",
+    "en": "Gimmicks:\nPotato Threepeater costs 0.\nFlag 1 clears all plants.\nFlag 2 restores lawnmowers and adds +100 to all card costs.\nFlag 3 sets card costs to 0, resets CD, and summons Edgar II!",
+    "vi": "Cơ chế:\nGiá Ba Nòng Khoai Tây = 0.\nCờ 1 xóa hết cây.\nCờ 2 khôi phục xe cắt cỏ rồi tăng giá mọi thẻ +100.\nCờ 3 đặt giá thẻ = 0, xóa hồi chiêu và gọi Edgar Đệ Nhị!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP86",
+    "en": "Stage Quest: Trigger 80 Potato Mine explosions.",
+    "vi": "Nhiệm vụ màn: Kích nổ Mìn Khoai Tây 80 lần."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP87",
+    "en": "Gimmick:\nEvery 15s, 5 tombstones spawn in Cols 3-9.\nEvery 30s, zombies rise from every tombstone!",
+    "vi": "Cơ chế:\nMỗi 15s ở cột 3~9 hiện ngẫu nhiên 5 bia mộ.\nMỗi 30s mọi bia mộ đều trồi lên zombie!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP88",
+    "en": "Gimmick: Every dead plant and zombie leaves behind a crater pit.",
+    "vi": "Cơ chế: Mọi cây và zombie khi chết đều để lại hố đất."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP89",
+    "en": "Quest: Produce >=10,000 Sun; sacrifice 5 plants using Taboo Coffee Bean.\n\n(Press TAB for tip)",
+    "vi": "Nhiệm vụ: Tạo ít nhất 10.000 Mặt trời;\ndùng Hạt Cà Phê Cấm kỵ tiêu diệt 5 cây.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP90",
+    "en": "Gimmick: Max 15 plants on field at once (excluding Taboo plants).\n\n(Press TAB for tip)",
+    "vi": "Cơ chế: Trên sân tối đa chỉ được có 15 cây cùng lúc (trừ cây Cấm kỵ).\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP91",
+    "en": "Quest: Don't step on the red line!\nDestroy 50 Flower Pots (shovel, eaten, or natural death).\n\n(Press TAB for tip)",
+    "vi": "Nhiệm vụ: Đừng dẫm lên vạch đỏ!\nTiêu hủy 50 Chậu Hoa (đào, bị ăn, tự mất đều tính).\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP92",
+    "en": "Gimmick: Every fired projectile duplicates an extra shot!",
+    "vi": "Cơ chế: Mỗi phát đạn bắn ra sẽ nhân bản thêm một viên nữa!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP93",
+    "en": "Gimmick: Protect the Sea Wall-nut!\nMove it with WASD to block leaping zombies — each block grants a random aquatic card!",
+    "vi": "Cơ chế: Bảo vệ Hạt Dẻ Biển!\nDùng WASD di chuyển chắn zombie nhảy — mỗi lần chặn được 1 con nhận 1 thẻ thủy sinh ngẫu nhiên!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP94",
+    "en": "Map Gimmick: Every 15-20s plants & zombies slide 1 tile randomly (except floating plants); Flower Pots disabled.",
+    "vi": "Cơ chế bản đồ: Mỗi 15~20s cây và zombie trượt ngẫu nhiên 1 ô (trừ cây bay); cấm trồng Chậu Hoa."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP95",
+    "en": "Required to plant: Sun Sunflower x5, Wall-nut Sunflower x5, Cat Sunflower x5.\n\n(Press TAB for tip)",
+    "vi": "Yêu cầu trồng: Hướng Dương Mặt Trời x5, Hướng Dương Hạt Dẻ x5, Hướng Dương Mèo x5.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP96",
+    "en": "Required to plant: Blover Sunflower x20.\n\n(Press TAB for tip)",
+    "vi": "Yêu cầu trồng: Hướng Dương Ba Lá x20.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP97",
+    "en": "Gimmick: Zombies spawn randomly in Cols 7-9.\nPlant: Blover Sunflower x10, Blover Fume x10, Blover Chomper x10.\n\n(Press TAB for tip)",
+    "vi": "Cơ chế: Zombie ra ngẫu nhiên từ cột 7-9.\nTrồng: Hướng Dương Ba Lá x10, Nấm Phun Ba Lá x10, Ăn Thịt Ba Lá x10.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP98",
+    "en": "Required to plant: Pumpkin Cannon x5, Pumpkin-pult x5, Jack-o'-Lantern x5.\n\n(Press TAB for tip)",
+    "vi": "Yêu cầu trồng: Pháo Bí Ngô x5, Pháo Phóng Bí Ngô x5, Đèn Bí Ngô x5.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP99",
+    "en": "Quest: Fire 3,000 Melon shots.\nMap Buff: Melon plants -50% CD, +100% projectile damage.\n\n(Press TAB for tip)",
+    "vi": "Nhiệm vụ: Bắn 3000 quả dưa hấu.\nĐịa hình: Cây Dưa giảm 50% hồi chiêu, sát thương đạn +100%.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP100",
+    "en": "Gimmick: Wall-nut Sunflower's sprouts mature into Melon Sheds!\nMap Buff: Melon -50% CD, +100% projectile dmg.\n\n(Press TAB for tip)",
+    "vi": "Cơ chế: Mầm của Hướng Dương Hạt Dẻ lớn lên thành Giàn Dưa Hấu!\nĐịa hình: Cây Dưa -50% hồi chiêu, đạn +100% sát thương.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP101",
+    "en": "Quest: Use Hypno Gift Box 25 times total to clear.",
+    "vi": "Nhiệm vụ màn: Dùng Hộp Thưởng Thôi Miên 25 lần để qua màn."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP102",
+    "en": "Plant: Gold Magnet Shooter x3, Diamond Seed x3, Cornucopia x3.\nMap Debuff: All cooldowns +50%.\n\n(Press TAB for tip)",
+    "vi": "Trồng: Xạ Thủ Hút Vàng x3, Hạt Kim Cương x3, Tụ Bảo Bồn x3.\nĐịa hình: Hồi chiêu mọi thẻ tăng 50%.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP103",
+    "en": "Plant: Bug Spray Fume x5, Snail Chomper x5, Cart Pot x5.\nMap Debuff: All cooldowns +50%.\n\n(Press TAB for tip)",
+    "vi": "Trồng: Nấm Phun Diệt Sâu x5, Ăn Thịt Ốc Sên x5, Chậu Xe Vườn x5.\nĐịa hình: Hồi chiêu mọi thẻ tăng 50%.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP104",
+    "en": "Plant: Golden Sunflower x5, Lucky Cat x5, Diamond Nut x5.\nMap Debuff: All cooldowns +25%.\n\n(Press TAB for tip)",
+    "vi": "Trồng: Hướng Dương Vàng Ròng x5, Mèo Chiêu Tài x5, Hạt Dẻ Kim Cương x5.\nĐịa hình: Hồi chiêu mọi thẻ tăng 25%.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP105",
+    "en": "Plant: Coffee Cat x5, Sun Bean x5, Cactus Blover x5.\nMap Traits: Zombies warp to Cols 8-10; +50% flying zombie speed; +50% Blover/Coffee attack speed.\n\n(Press TAB for tip)",
+    "vi": "Trồng: Mèo Cà Phê x5, Đậu Mặt Trời x5, Cỏ Ba Lá Xương Rồng x5.\nĐịa hình: Zombie dịch chuyển tới cột 8~10; quái bay +50% tốc; cây Ba Lá/Cà Phê +50% tốc đánh.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP106",
+    "en": "Map Trait: All plants & zombies are permanently chilled (except Fire/Ice units).\n\n(Press TAB for tip)",
+    "vi": "Đặc tính bản đồ: Mọi cây và zombie vĩnh viễn bị làm chậm (trừ hệ Hỏa và Băng).\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP107",
+    "en": "Quest: Plant 50 aquatic plants (Water Pots excluded).\n\n(Press TAB for tip)",
+    "vi": "Nhiệm vụ: Trồng 50 cây thủy sinh (không tính Chậu Nước).\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP108",
+    "en": "Quest: Spend <=2,000 Sun (aquatic plants & Water Pots don't count).\n\n(Press TAB for tip)",
+    "vi": "Nhiệm vụ: Chi tối đa 2000 Mặt trời (cây thủy sinh và Chậu Nước miễn tính).\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP109",
+    "en": "Plant: Star Threepeater x10, Star Stump x10, Torch Umbrella x10.\n\n(Press TAB for tip)",
+    "vi": "Trồng: Ba Nòng Khế x10, Gốc Cây Khế x10, Ô Đuốc x10.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP110",
+    "en": "Plant: Wild Gatling Pea x5, Pea Fountain x5, Sun Torchwood x5; produce 20,000 Sun.\n\n(Press TAB for tip)",
+    "vi": "Trồng: Súng Máy Cuồng Dã x5, Đài Phun Đậu x5, Đuốc Mặt Trời x5; tạo 20.000 Mặt trời.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP111",
+    "en": "Gimmick: Ghost Zombie HP raised to 3,000 (+3,000 HP to possessed host).\n\n(Press TAB for tip)",
+    "vi": "Cơ chế: Máu Zombie Bóng Ma thành 3000 (cộng 3000 máu cho xác bị nhập).\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP112",
+    "en": "Gimmick: All zombies gain +50% movement speed.\n\n(Press TAB for tip)",
+    "vi": "Cơ chế: Tốc độ mọi zombie tăng 50%.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP113",
+    "en": "Gimmick: All zombies gain +50% speed and +50% HP.\n\n(Press TAB for tip)",
+    "vi": "Cơ chế: Mọi zombie tăng 50% tốc độ và 50% máu.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP114",
+    "en": "Quest: Plant 10 Squash Shells.\nZombies emerge in Cols 5-9; Pumpkins -50% CD & +100% HP.\n\n(Press TAB for tip)",
+    "vi": "Nhiệm vụ: Trồng 10 Vỏ Bí Đao.\nZombie trồi ở cột 5~9; họ Bí Ngô -50% hồi chiêu và +100% máu.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP115",
+    "en": "Map Traits: Zombies warp to Cols 8-10; +50% flyer speed; +50% attack speed for Blover, Coffee Bean, and Starfruit plants.\n\n(Press TAB for tip)",
+    "vi": "Địa hình: Zombie dịch chuyển tới cột 8~10; quái bay +50% tốc; cây Ba Lá, Cà Phê và [Khế Ngôi Sao] +50% tốc đánh.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP116",
+    "en": "Map Traits: Pumpkin-type plants -50% cooldown and +100% HP.\n\n(Press TAB for tip)",
+    "vi": "Địa hình: Cây họ Bí Ngô giảm 50% hồi chiêu và tăng 100% máu.\n\n(Nhấn TAB để xem gợi ý)"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP117",
+    "en": "Quest: Plant 5 each of Sun Sunflower, Sun Bomb, Ice Sun-shroom.\nGimmick: +25 Sun per zombie kill.",
+    "vi": "Nhiệm vụ: Trồng Hướng Dương Mặt Trời, Bom Mặt Trời, Nấm Mặt Trời Băng mỗi loại 5 cây.\nCơ chế: Hạ 1 zombie nhận 25 Mặt trời."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP118",
+    "en": "Quest: Spend at least 20,000 Sun.",
+    "vi": "Nhiệm vụ: Chi tiêu ít nhất 20.000 Mặt trời."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP119",
+    "en": "Gimmick: Max 20 plants allowed on the lawn at once.",
+    "vi": "Cơ chế: Trên sân tối đa chỉ được tồn tại 20 cây cùng lúc."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP120",
+    "en": "Gimmick: All plants spawn blackened with 2x attack speed, but perish after 50s.",
+    "vi": "Cơ chế: Mọi cây ra sân bị hắc hóa, tốc đánh x2 nhưng chết sau 50 giây."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP121",
+    "en": "Quest: Plant 5 Doom Sunflowers.",
+    "vi": "Nhiệm vụ màn: Trồng 5 Hướng Dương Hủy Diệt."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP122",
+    "en": "Gimmick: Doom Suns rain down from the sky.",
+    "vi": "Cơ chế: Trời rơi Mặt Trời Hủy Diệt."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP123",
+    "en": "Quest: Plant 3 each of Promo Wall-nut, Promo Flower Pot, Promo Bean.",
+    "vi": "Nhiệm vụ: Trồng Óc Chó Khuyến Mãi, Chậu Hoa Khuyến Mãi, Đậu Khuyến Mãi mỗi loại 3 cây."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP124",
+    "en": "Quest: Drop Promo Burger's cost all the way to 0.",
+    "vi": "Nhiệm vụ: Giảm giá Bánh Burger Khuyến Mãi về 0."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP125",
+    "en": "Gimmick: All plant costs locked at 0 (except Diamond cards).",
+    "vi": "Cơ chế: Giá toàn bộ cây khóa ở mức 0 (trừ Thẻ Kim Cương)."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP126",
+    "en": "Quest: Plant 10 Wild Gatling Puff-shrooms.",
+    "vi": "Nhiệm vụ: Trồng 10 Nấm Nhỏ Súng Máy Cuồng Dã."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP127",
+    "en": "Quest: Plant 6 Bubble Stumps.",
+    "vi": "Nhiệm vụ: Trồng 6 Gốc Cây Bong Bóng."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP128",
+    "en": "Watch out for the zombies crawling out of tombstones!",
+    "vi": "Chú ý chủng loại zombie trồi lên từ bia mộ!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP129",
+    "en": "Wall-nut HP and speed doubled!",
+    "vi": "Máu và tốc độ của Hạt Dẻ tăng gấp đôi!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP130",
+    "en": "Plants costing <= 0 Sun are banned!",
+    "vi": "Cấm trồng các cây có giá Mặt trời <= 0!"
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP131",
+    "en": "Gimmick: Max 500 Sun cap.\nQuest: Plant 10 Torchwood Plus.",
+    "vi": "Cơ chế: Giới hạn Mặt trời 500.\nNhiệm vụ: Trồng 10 Gốc Đuốc Cường Hóa."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP132",
+    "en": "Gimmick: Red Alert.\nQuest: Plant 10 Flamethrower Stumps.",
+    "vi": "Cơ chế: Báo động đỏ.\nNhiệm vụ: Trồng 10 Gốc Cây Phun Lửa."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP133",
+    "en": "Gimmick: Falling Sun becomes Chili Sun.\nQuest: Plant 5 \"Fire\" Torchwoods.",
+    "vi": "Cơ chế: Mặt trời rơi biến thành Mặt Trời Ớt.\nNhiệm vụ: Trồng 5 Gốc Đuốc \"Lửa\"."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP134",
+    "en": "Gimmick: Big Trouble Little Zombie.\nQuest: Plant 5 Foxtails.",
+    "vi": "Cơ chế: Zombie Tí Hon.\nNhiệm vụ: Trồng 5 Cỏ Đuôi Chó."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP135",
+    "en": "Gimmick: Zombies on Speed.\nQuest: Plant 5 Cattail Foxes.",
+    "vi": "Cơ chế: Zombie Siêu Tốc.\nNhiệm vụ: Trồng 5 Cỏ Đuôi Cáo."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP136",
+    "en": "Gimmick: Kill 500 zombies to win.\nQuest: Plant 3 \"Immortal\" Cacti.",
+    "vi": "Cơ chế: Hạ 500 zombie để thắng.\nNhiệm vụ: Trồng 3 Xương Rồng \"Tiên Nhân\"."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP137",
+    "en": "Gimmick: Snow Suns fall from sky.\nQuest: Plant 3 \"Immortal\" Cacti.",
+    "vi": "Cơ chế: Trời rơi Mặt Trời Băng Giá.\nNhiệm vụ: Trồng 3 Xương Rồng \"Tiên Nhân\"."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP138",
+    "en": "Gimmick: Full-screen fog at all times.\nQuest: Plant 3 \"Immortal\" Cacti.",
+    "vi": "Cơ chế: Luôn có sương mù toàn màn hình.\nNhiệm vụ: Trồng 3 Xương Rồng \"Tiên Nhân\"."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP139",
+    "en": "Gimmick: Seed slots capped at 10.\nQuest: Plant 4 Pineapple Tanks.",
+    "vi": "Cơ chế: Giới hạn 10 ô thẻ.\nNhiệm vụ: Trồng 4 Chiến Xa Thơm."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP140",
+    "en": "Gimmick: White Cards banned.\nQuest: Plant 4 Pineapple Tanks.",
+    "vi": "Cơ chế: Cấm mang Thẻ Trắng.\nNhiệm vụ: Trồng 4 Chiến Xa Thơm."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP141",
+    "en": "Quest: Plant 4 Pineapple Tanks.",
+    "vi": "Nhiệm vụ: Trồng 4 Chiến Xa Thơm."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP142",
+    "en": "Gimmick: Portals.\nQuest: Plant 3 Laser Cannons.",
+    "vi": "Cơ chế: Cổng Dịch Chuyển.\nNhiệm vụ: Trồng 3 Pháo Laze."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP143",
+    "en": "Quest: Plant 3 Laser Cannon Gears.",
+    "vi": "Nhiệm vụ: Trồng 3 Trang Bị Pháo Laze."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP144",
+    "en": "Gimmick: 100 Brain-sun rains from sky.\nQuest: Plant 3 Laser Cannon Gears.",
+    "vi": "Cơ chế: Trời rơi 100 Não-sáng.\nNhiệm vụ: Trồng 3 Trang Bị Pháo Laze."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP145",
+    "en": "Gimmick: 3 Chili Suns fall.\nQuest: Plant 2 Pea Ice-makers.",
+    "vi": "Cơ chế: Trời rơi 3 Mặt Trời Ớt.\nNhiệm vụ: Trồng 2 Máy Làm Băng Đậu."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP146",
+    "en": "Gimmick: Zombies on Speed.\nQuest: Plant 2 Pea Ice-makers.",
+    "vi": "Cơ chế: Zombie Siêu Tốc.\nNhiệm vụ: Trồng 2 Máy Làm Băng Đậu."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP147",
+    "en": "Gimmicks: Portals + Seed Rain.\nQuest: Plant 2 Pea Ice-makers.",
+    "vi": "Cơ chế: Cổng Dịch Chuyển + Mưa Hạt Giống.\nNhiệm vụ: Trồng 2 Máy Làm Băng Đậu."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP148",
+    "en": "Gimmick: Zombies emerge randomly in Cols 5-9 water; Flag 2 spawns 2x Edgar II.",
+    "vi": "Cơ chế: Zombie trồi ngẫu nhiên từ mặt nước cột 5-9; Cờ 2 ra 2 Edgar Đệ Nhị."
+  },
+  {
+    "file": "NewLevelStrings.txt",
+    "key": "LEVEL_TIP149",
+    "en": "Gimmick: Portals; Flag 2 spawns 2x Dr. Dave.",
+    "vi": "Cơ chế: Cổng Dịch Chuyển; Cờ 2 ra 2 Tiến Sĩ Dave."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_10",
+    "en": "Tree of Wisdom gifts you 10 bags of Fertilizer",
+    "vi": "Cây Trí Tuệ tặng bạn 10 bao Phân Bón"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_20",
+    "en": "Tree of Wisdom gifts you 20 Chocolates",
+    "vi": "Cây Trí Tuệ tặng bạn 20 thanh Sô-cô-la"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_30",
+    "en": "Tree of Wisdom gifts you Sprinkler Pool Cleaner",
+    "vi": "Cây Trí Tuệ tặng bạn Xe Dọn Hồ Vòi Phun"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_50",
+    "en": "Tree of Wisdom gifts you Fertilizer Mower",
+    "vi": "Cây Trí Tuệ tặng bạn Xe Đẩy Phân Bón"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_100",
+    "en": "Tree of Wisdom gifts you Card Shovel",
+    "vi": "Cây Trí Tuệ tặng bạn Xẻng Thẻ Bài"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_150",
+    "en": "Tree of Wisdom gifts you Golden Sprinkler Pool Cleaner",
+    "vi": "Cây Trí Tuệ tặng bạn Xe Dọn Hồ Vòi Phun Vàng"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_200",
+    "en": "Tree of Wisdom gifts you Musical Roof Cleaner",
+    "vi": "Cây Trí Tuệ tặng bạn Xe Dọn Mái Âm Nhạc"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_300",
+    "en": "Tree of Wisdom gifts [Rainbow Card] Glove Bean",
+    "vi": "Cây Trí Tuệ tặng [Thẻ Cầu Vồng] Đậu Găng Tay"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_400",
+    "en": "Tree of Wisdom unlocks new scene [Cozy Garden]",
+    "vi": "Cây Trí Tuệ mở khóa cảnh mới [Khu Vườn Ấm Áp]"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_500",
+    "en": "Tree of Wisdom gifts [Rainbow Card] Cornucopia",
+    "vi": "Cây Trí Tuệ tặng [Thẻ Cầu Vồng] Tụ Bảo Bồn"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_600",
+    "en": "Tree of Wisdom unlocks new scene [Hypno Shroom Garden]",
+    "vi": "Cây Trí Tuệ mở khóa cảnh mới [Vườn Nấm Thôi Miên]"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_700",
+    "en": "Tree of Wisdom gifts [Rainbow Card] Kettle-pult",
+    "vi": "Cây Trí Tuệ tặng [Thẻ Cầu Vồng] Pháo Ấm Nước"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_800",
+    "en": "Tree of Wisdom unlocks new scene [Arena Garden]",
+    "vi": "Cây Trí Tuệ mở khóa cảnh mới [Vườn Đấu Trường]"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_900",
+    "en": "Tree unlocks Glove hotkey: press \"GGG\" to swap plants (10 Gold)",
+    "vi": "Mở khóa phím tắt Găng Tay: nhấn \"GGG\" để dùng, tốn 10 Xu Vàng"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_1000",
+    "en": "Tree of Wisdom gifts you Wisdom Shovel",
+    "vi": "Cây Trí Tuệ tặng bạn Xẻng Trí Tuệ"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_1100",
+    "en": "Tree of Wisdom gifts you 100 bags of Fertilizer",
+    "vi": "Cây Trí Tuệ tặng bạn 100 bao Phân Bón"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_1200",
+    "en": "Tree of Wisdom gifts you 200 Chocolates",
+    "vi": "Cây Trí Tuệ tặng bạn 200 thanh Sô-cô-la"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_1300",
+    "en": "Tree of Wisdom gifts you 300 Bug Sprays",
+    "vi": "Cây Trí Tuệ tặng bạn 300 bình Xịt Sâu"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_1500",
+    "en": "Tree gifts Gold-Medal Snail [Fertilizes + Waters + Picks Coins]",
+    "vi": "Cây Trí Tuệ tặng Ốc Sên Huy Chương Vàng [Tự Bón + Tưới + Nhặt Xu]"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_REWARD_2025",
+    "en": "Tree gifts 2025 Phonograph [Keeps ALL plants happy with music]",
+    "vi": "Cây Trí Tuệ tặng Máy Hát 2025 [Đáp ứng nhạc cho toàn bộ cây]"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_1",
+    "en": "Thank you for nurturing me! Keep\nfeeding me Tree Food and I'll reward\nyou with wisdom and treasures!",
+    "vi": "Cảm ơn bạn đã chăm bón cho ta! Cứ\ncho ta ăn phân bón, ta sẽ trao lại\nthông tin quý giá và bảo vật!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_2",
+    "en": "When your Wall-nuts are damaged,\nplant the same Wall-nut directly on\ntop — that's \"Wall-nut First Aid.\"",
+    "vi": "Khi Hạt Dẻ bị thương, bạn có thể\ntrồng đè đúng loại đó lên trên — gọi\nlà \"Sơ Cứu Hạt Dẻ\"."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_3",
+    "en": "To swap out a Flower Pot beneath a\nplant, simply plant the new Flower\nPot directly over it.",
+    "vi": "Muốn thay Chậu Hoa bên dưới cây, chỉ\nviệc trồng Chậu Hoa mới đè thẳng lên\nlà xong."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_4",
+    "en": "Just as Lily Shell is a Pumpkin,\nFlower-Pot Lily is still a Lily Pad\n— so pot swapping won't trigger on\nit.",
+    "vi": "Như Vỏ Sen vốn là Bí Ngô, Lá Sen\nChậu Hoa bản chất vẫn là Lá Sen —\nnên không dùng chiêu đổi chậu được\nđâu."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_5",
+    "en": "Gardener Zombie's cart is magical —\nit sometimes reverts explosive\nplants back into cards. Bug? No,\nfeature!",
+    "vi": "Xe của Zombie Làm Vườn thần kỳ lắm,\nthỉnh thoảng nó biến luôn cây nổ\nthành thẻ bài. Lỗi à? Tính năng đấy!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_6",
+    "en": "Notice zombies occasionally drop\nArtbooks? Check the left and bottom\nof Chapter 1 to browse your\ncollection.",
+    "vi": "Để ý zombie hay làm rơi Sách Ảnh\nkhông? Chúng được lưu ở cạnh trái và\ndưới trong Chương 1 đấy nhé."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_7",
+    "en": "Stinky the Snail tries to water\nplants in the garden, though his\neyesight seems poor... or he's still\nadjusting.",
+    "vi": "Ốc Sên trong vườn biết giúp bạn tưới\ncây đấy, nhưng mắt cậu ta hơi kém...\nhay là chưa quen việc nhỉ."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_8",
+    "en": "Some Mushroom Hybrids still snooze\nduring the day, likely too much\nfungal DNA. Check the Almanac for\nsleepyheads!",
+    "vi": "Một số Cây Lai họ Nấm vẫn ngủ gật\nban ngày do gen nấm hơi nhiều. Mở Sổ\nTay xem ai là sâu lười nhé."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_9",
+    "en": "Hey, I'm 10 meters tall! Take these\n10 bags of Fertilizer as a small\ntoken of my gratitude!",
+    "vi": "Này, ta cao 10 mét rồi đấy! Nhận 10\nbao Phân Bón này làm chút quà cảm ơn\nnhé!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_10",
+    "en": "Rumor says the Achievements pit digs\nstraight to the far side of Earth.\nNeed to jump back up fast? Press\nEsc!",
+    "vi": "Đồn rằng hố sâu trang Thành Tựu\nthông tận nửa kia Trái Đất. Muốn lên\nđỉnh ngay lập tức? Thử bấm Esc xem."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_11",
+    "en": "Keep your eyes peeled next to the\nseed chooser — that little \"Info\"\nbook lets you check plant traits\nanytime.",
+    "vi": "Mở to mắt nhìn bên cạnh màn hình\nchọn thẻ nhé — quyển \"Mô Tả\" nhỏ\ngiúp xem đặc điểm cây mọi lúc đấy."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_12",
+    "en": "Word has it pressing \"6\" mid-level\nopens the Shop. Wait... what's a\n\"6\"? Got any clue?",
+    "vi": "Nghe đồn trong màn bấm phím \"6\" nhảy\nthẳng tới Cửa Hàng. Cơ mà \"6\" là cái\ngì thế? Bạn biết không?"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_13",
+    "en": "Tycoon Zombie throws endless coins,\nyet money-type plants laugh it off —\nespecially Piggy Bank Wall-nut.",
+    "vi": "Zombie Tài Phiệt ném xu vô tận,\nnhưng cây hệ tiền bạc chẳng ngán đâu\n— nhất là Hạt Dẻ Heo Đất."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_14",
+    "en": "Tall Ice-nut Zombie's head boasts\n8000 HP — super tough! Just don't\nlet him know it's only a mask over a\nfragile body.",
+    "vi": "Đầu Zombie Óc Chó Cao Băng có tới\n8000 máu, cực trâu! Nhưng hắn giấu\nnhẹm việc đó chỉ là mũ trùm, thân\nthật yếu xìu."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_15",
+    "en": "Freeze and Chill effects are \"cool,\"\njust not on your plants... luckily\nIce and Fire plants stay immune!",
+    "vi": "Hiệu ứng đóng băng làm chậm rất\n\"ngầu\", nhưng rơi lên cây thì hết\nvui... may mà cây hệ Băng và Hỏa\nmiễn nhiễm!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_16",
+    "en": "Apple Alarm freezes time, yet works\nlike a normal alarm clock too — wake\nup sleepy plants... and certain\nzombies?",
+    "vi": "Táo Báo Thức đóng băng thời gian\nnhưng vẫn giữ chức năng báo thức —\nđánh thức cây đang ngủ... và vài\nzombie?"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_17",
+    "en": "Frost Giant's icebergs aren't\ninvincible. Heavy firepower — or a\nsingle bomb — shatters them cleanly.",
+    "vi": "Cầu băng của Khổng Lồ Băng Giá không\ncứng lắm đâu. Đủ hỏa lực hoặc một\nquả bom là đập vỡ tan ngay."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_18",
+    "en": "Torch Pepper's flames shield nearby\nplants from frost. Might work great\nat next Saturday's marshmallow roast\ntoo!",
+    "vi": "Ngọn lửa Ớt Đuốc bảo vệ cây xung\nquanh khỏi băng giá. Dùng để nướng\nkẹo dẻo thứ Bảy tuần sau cũng ổn\nphết!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_19",
+    "en": "Whoa, 20 meters tall! Have some\nChocolates — let's celebrate with\nsweets!",
+    "vi": "Ồ, ta cao 20 mét rồi! Cầm lấy đống\nSô-cô-la này, cùng ăn đồ ngọt ăn\nmừng nào!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_20",
+    "en": "Dancing Zombie is tough, until he\ntries floating over defenses on\nballoons and gets popped by Blover —\nno shortcuts!",
+    "vi": "Zombie Vũ Vương rất khỏe, nhưng hễ\nđịnh bay bóng vượt rào liền bị Cỏ Ba\nLá hay bom xử gọn — đời làm gì có\nđường tắt."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_21",
+    "en": "Blast-Door Zombie's shield has\nunthinkable blast armor. Yet even\nperfection has flaws — it can't\nblock bubbles.",
+    "vi": "Khiên của Zombie Cửa Chống Nổ chống\nbom cực khủng. Nhưng vạn vật đều có\nsơ hở: cánh cửa ấy không cản nổi\nbong bóng."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_22",
+    "en": "Edgar II's fireballs look\nunstoppable, yet don't panic — most\nhealthy Wall-nuts can tank one\ncleanly!",
+    "vi": "Cầu lửa của Edgar Đệ Nhị trông bất\nkhả xâm phạm, nhưng đừng lo! Đa số\nHạt Dẻ khỏe mạnh đều đỡ được một\nphát đấy."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_23",
+    "en": "Rumor says a deep secret hides on\nthat underground Zombie Worm. Fancy\ncatching one and reporting back?",
+    "vi": "Nghe bảo con Sâu Zombie dưới lòng\nđất cất giữ bí mật gì đó. Thử bắt\nmột con xem có phát hiện gì mới rồi\nkể ta nghe."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_24",
+    "en": "Cactus Marigold's breeze isn't as\nfierce as Blover, yet still clears\nfog effortlessly — fog weighs far\nless than zombies!",
+    "vi": "Gió của Cỏ Ba Lá Xương Rồng không\nmạnh bằng Cỏ Ba Lá thường, nhưng vẫn\nthổi bay sương mù dễ ợt. Sương nhẹ\nhơn zombie mà!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_25",
+    "en": "Crater-nut claims he wears a 4D\nfragment atop his head that turns\ninto a black hole if he slips... do\nyou buy that?",
+    "vi": "Hạt Dẻ Hố Đen khoe trên đầu có mảnh\nkhông gian bốn chiều, lỡ trượt chân\nlà hóa thành hố đen... bạn có tin\nkhông?"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_26",
+    "en": "Defeating a Boss Zombie may drop a\nhuge Diamond Cluster — worth a\nwhopping 100 Diamonds!",
+    "vi": "Khi đánh bại một Trùm Zombie có thể\nrơi Tinh Thể Kim Cương cực lớn, đáng\ngiá hẳn 100 Kim Cương đấy!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_27",
+    "en": "Stormfruit seems forged from two\nplants outside this world, born from\nancient bursts of wild imagination.",
+    "vi": "Quả Sấm Sét dường như lai từ hai\nloài cây ngoài thế giới này, ra đời\ntừ những ý tưởng kỳ lạ xa xưa."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_28",
+    "en": "Ice Melon Fume-shroom feels down\nlately — people keep thinking Melon\nFume replaced him! How does he prove\nhe's still here?",
+    "vi": "Nấm Phun Dưa Băng tâm sự đang rất\nbuồn: tới giờ vẫn có người tưởng Nấm\nPhun Dưa Hấu thay thế cậu ta rồi..."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_29",
+    "en": "Whoa, 30 meters already! Please\naccept this Sprinkler Pool Cleaner\nas my thanks!",
+    "vi": "Chà, ta cao 30 mét rồi! Chiếc Xe Dọn\nHồ Vòi Phun này là quà cảm ơn của\nta, mong nó giúp ích cho bạn!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_30",
+    "en": "Magnetic Field Zombie pulls bullets\nusing the glowing core on his back —\nno helmet needed!",
+    "vi": "Nguồn từ lực của Zombie Từ Trường\nthực ra là lõi phát sáng sau lưng,\nthảo nào mất mũ vẫn hút được đạn."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_31",
+    "en": "Hypno Pea and Psychedelic-pult look\nlike twins, yet they're just distant\ncousins... oh, and former roommates.",
+    "vi": "Đậu Thôi Miên và Pháo Ảo Ảnh trông\nnhư chị em sinh đôi nhưng chỉ là họ\nhàng xa... à, xưa họ từng ở chung\nphòng trọ."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_32",
+    "en": "Card Imitater and original Imitater\naren't the same plant! Where's OG\nImitater? Right where he always was.",
+    "vi": "Cây Giả Mạo Thẻ Bài và Cây Giả Mạo\ngốc không phải một cây nhé. Còn Giả\nMạo gốc ở đâu? Vẫn chỗ cũ thôi."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_33",
+    "en": "Hear the news? Phoenix Threepeater\nhails from another universe — Burger\nShooter traveled there once and saw\nwonders.",
+    "vi": "Nghe tin gì chưa? Ba Nòng Phượng\nHoàng đến từ thế giới khác, Súng\nBánh Burger từng du lịch sang đó\nchơi rồi."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_34",
+    "en": "Is some hit song trending lately?\nCard Imitater blasts headphones on\nrepeat — all I catch is \"wood cabin\nbuy-buy-buy\"...",
+    "vi": "Dạo này có bài hát nào hot lắm à?\nCây Giả Mạo Thẻ Bài suốt ngày đeo\ntai nghe tua lại mỗi câu gì mà \"nhà\ngỗ mua mua mua\"..."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_35",
+    "en": "Hybrid lore goes back far longer\nthan Dave's lab — certain plants\npredated Pea Sunflower itself. A\ndeep secret indeed.",
+    "vi": "Tương truyền lịch sử Cây Lai còn cổ\nxưa hơn cả thí nghiệm của Dave, vài\ncây ra đời trước cả Đậu Hoa Hướng\nDương nữa..."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_36",
+    "en": "Prism Sunflower confided that as a\nsprout she mistook glass for diamond\n— thinking she was Diamond Sunflower\nall along!",
+    "vi": "Hướng Dương Lăng Kính kể hồi nhỏ\nkhông phân biệt nổi thủy tinh với\nkim cương... nên cứ tưởng mình là\nHướng Dương Kim Cương!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_37",
+    "en": "Legend says this world reshaped\nitself after the Heroes arrived...\nmaybe you know the truth better than\nI?",
+    "vi": "Đồn rằng thế giới này từng biến đổi\nlong trời lở đất sau khi các Anh\nHùng giáng lâm... chắc bạn rành hơn\nta nhỉ?"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_38",
+    "en": "Neko Star Gatling stopped by\nrecently, asking why half the\nGatlings around here insist on\nwearing capes...",
+    "vi": "Súng Máy Mèo Sao bữa trước qua tám\nchuyện, tò mò hỏi sao mấy anh Súng\nMáy ở đây khoái mặc áo choàng thế..."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_39",
+    "en": "Those blue frostfire orbs used to\nglow deeper blue — maybe Ice-Torch\nStump added trace minerals to the\nmix.",
+    "vi": "Mấy quả cầu băng hỏa xanh đó hồi xưa\nmàu đậm hơn chút. Chắc tại Gốc Đuốc\nBăng bổ sung thêm nguyên tố vi lượng\nrồi."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40",
+    "en": "Spot anything familiar on Balloon\nCart Zombie's bumper? He loved\nJack-in-the-Box's clown motif and\nordered a jumbo replica.",
+    "vi": "Nhìn đầu xe Khinh Khí Cầu có quen\nmắt không? Hắn mê tượng chú hề hộp\nnhạc nên đặt riêng bản phóng đại\nđấy."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_41",
+    "en": "Tall Ice-nut became an overnight\nlegend during a randomizer battle —\neveryone who saw that clip crowned\nhim \"God of War.\"",
+    "vi": "Nghe nói Óc Chó Cao Băng thành danh\nsau một trận chiến ngẫu nhiên, ai\nxem xong video đó đều gọi cậu ta là\n\"Chiến Thần\"."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_42",
+    "en": "Asking what Bouncy Fume-shroom means\nby \"Someday...\"? Trust me, you\nreally don't want to know.",
+    "vi": "Bạn hỏi câu \"Một ngày nào đó...\" của\nNấm Phun Nẩy Tưng là ý gì á?... Tin\nta đi, bạn không muốn biết đâu."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_43",
+    "en": "Believe it or not, lazy-looking Cat\nBed hits cardio daily to slim down —\nhe used to be way chonkier.",
+    "vi": "Biết gì không? Chiếc Ổ Mèo trông\nlười biếng thế mà ngày nào cũng tập\ngiảm cân đấy, hồi xưa cậu ta béo\ntròn hơn nhiều."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_44",
+    "en": "Recycle Tall-nut tries rearranging\nhis rooftop shovel crest daily, yet\nalways reverts back to cat-ear\nstyle.",
+    "vi": "Hạt Dẻ Cao Tái Chế ngày nào cũng thử\nxếp lại đám xẻng trên đầu, nhưng\nchốt lại vẫn thấy kiểu tai mèo là\nhợp nhất."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_45",
+    "en": "Ignore those plastic-surgery rumors\nabout Sunflower Princess — she\naccidentally booked flights to the\ntropics and got a tan!",
+    "vi": "Đồn Hướng Dương Công Chúa đi thẩm mỹ\ntoàn tin vịt thôi. Đợt đó cô nàng\nđặt nhầm vé máy bay đi xứ nắng nên\nđen da tí ấy mà."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_46",
+    "en": "Gold Melon, Gold Sunflower,\nEvolution Bean, and Golden Sunflower\nare distant cousins — all inspired\nby trophies!",
+    "vi": "Dưa Vàng, Hướng Dương Vàng, Đậu Tiến\nHóa và Hướng Dương Kim Sắc đều là họ\nhàng xa... nguyên mẫu đều là Cúp\nđấy."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_47",
+    "en": "Rumors say Cattail plants wield\n\"magic\" — no clue who started it,\nthough their homing aim truly feels\nenchanting.",
+    "vi": "Có tin đồn cây họ Đuôi Mèo biết dùng\n\"ma pháp\"... chẳng rõ nguồn đâu ra,\nnhưng khả năng bám đuổi của chúng\nđúng là ma thuật thật."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_48",
+    "en": "Between us: Burger Shooter complains\nhis bangs keep blocking his eyes,\nyet I've never once seen him get a\nhaircut!",
+    "vi": "Bí mật nhé: Súng Bánh Burger hay\nthan tóc mái dày quá che hết mắt, cơ\nmà ta chưa từng thấy cậu ta đi cắt\ntóc bao giờ!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_49",
+    "en": "50 meters tall! Need more utility\ngear? This Fertilizer Mower might\nhit the spot!",
+    "vi": "Chà, ta cao 50 mét rồi! Cần thêm đồ\nnghề phụ trợ không? Chiếc Xe Đẩy\nPhân Bón này chắc sẽ hợp ý bạn đấy!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_100",
+    "en": "My, 100 meters tall! Thank you for\nraising me — please accept this Card\nShovel!",
+    "vi": "Ái chà, ta cao 100 mét rồi! Cảm ơn\ncông nuôi dưỡng, xin hãy nhận lấy\nchiếc Xẻng Thẻ Bài này!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_150",
+    "en": "Aha, 150 meters! High time we gilded\nyour Sprinkler Pool Cleaner in gold!",
+    "vi": "À ha! 150 mét rồi! Đã đến lúc mạ\nvàng cho chiếc Xe Dọn Hồ Vòi Phun\ncủa bạn rồi!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_200",
+    "en": "Whoa, 200 meters high! This Musical\nRoof Cleaner is my gift to help\nguard your shingles!",
+    "vi": "Ồ, ta cao tới 200 mét luôn rồi!\nChiếc Xe Dọn Mái Âm Nhạc này là quà\ncảm ơn giúp bạn giữ mái nhà!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_300",
+    "en": "Thanks for growing me to 300 meters!\nGlove Bean joins your squad now —\nsure it'll prove handy!",
+    "vi": "Cảm ơn đã trồng ta tới 300 mét! Đậu\nGăng Tay từ nay theo bạn nhé, chắc\nchắn sẽ giúp ích lớn đấy!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_400",
+    "en": "Heavens, 400 meters! In return, this\nCozy Garden is officially open to\nyou!",
+    "vi": "Trời đất ơi, ta cao 400 mét rồi! Đáp\nlễ lại, Khu Vườn Ấm Áp từ nay sẽ mở\ncửa chào đón bạn!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_500",
+    "en": "Unbelievable — 500 meters! This\nCornucopia generates coins — I bet\nyou'll put it to good use!",
+    "vi": "Không thể tin nổi, ta đã chạm mốc\n500 mét! Chiếc Tụ Bảo Bồn này biết\nđẻ ra xu, chắc bạn sẽ cần lắm!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_600",
+    "en": "Fantastic, 600 meters! Here's the\nkey to the Hypno Shroom Garden —\nplenty more shelf space for fungi!",
+    "vi": "Tuyệt vời, 600 mét rồi! Đây là chìa\nkhóa Vườn Nấm Thôi Miên, giờ bạn có\nthêm chỗ nuôi nấm nhé!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_700",
+    "en": "Never dreamed I'd hit 700 meters! I\nbrought a new friend — hope\nKettle-pult serves you well!",
+    "vi": "Chưa từng mơ ta cao tới 700 mét! Ta\nmang tới cây mới đây, mong Pháo Ấm\nNước sẽ trở thành trợ thủ đắc lực!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_800",
+    "en": "Yo, 800 meters! This Arena Garden is\nmy treat — more space for your\npotted pals!",
+    "vi": "Ồ, 800 mét rồi! Vườn Đấu Trường là\nquà ta chuẩn bị cho bạn, tha hồ bày\nthêm chậu cảnh nhé!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_900",
+    "en": "Whoa, 900 meters! Triple-tap \"G\"\nmid-battle to spend 10 Gold for a\nGlove plant swap!",
+    "vi": "Quá đỉnh, 900 mét rồi! Trong màn\nnhấn liên tiếp 3 lần phím \"G\" để\ntiêu 10 Xu Vàng xài Găng Tay di\nchuyển cây!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_1000",
+    "en": "At last! The 1,000-meter milestone!\nLet this Wisdom Shovel express my\nheartfelt gratitude!",
+    "vi": "Cuối cùng cũng chạm cột mốc 1000\nmét! Hãy để Xẻng Trí Tuệ thay lời\ncảm ơn chân thành của ta!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_1100",
+    "en": "Ha, 1,100 meters tall! My treat\ntoday — pamper your garden with 100\nbags of Fertilizer!",
+    "vi": "Ha, giờ ta cao 1100 mét rồi! Tới\nlượt ta mời nhé! Dùng 100 bao Phân\nBón này tẩm bổ cho vườn cây đi!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_1200",
+    "en": "1,200 meters reached! 200 Chocolates\nbarely cover my thanks — better\ngifts coming soon!",
+    "vi": "Ta đã cao tới 1200 mét! 200 thanh\nSô-cô-la chưa đủ bày tỏ hết lòng\nbiết ơn, sau này sẽ có quà xịn hơn\nnữa!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_1300",
+    "en": "What a view from 1,300 meters up!\nHelp yourself to my stash of 300 Bug\nSprays!",
+    "vi": "Phong cảnh ở độ cao 1300 mét tuyệt\nthật đấy! 300 bình Xịt Sâu tồn kho\nnày cứ tự nhiên lấy dùng nhé!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_1500",
+    "en": "Incredible — 1,500 meters! This\nGold-Medal Snail is a master\ngardener who auto-fertilizes plants!",
+    "vi": "Không tưởng nổi — ta cao tận 1500\nmét! Chú Ốc Sên Huy Chương Vàng này\nlà chuyên gia chăm vườn giúp bón\nphân cho cây đấy!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_2025",
+    "en": "Woohoo! 2,025 meters — a historic\nheight! Crank up this 2025\nPhonograph and let the whole garden\njam!",
+    "vi": "Yahoo! 2025 mét — độ cao đáng nhớ!\nMở Máy Hát 2025 vang khắp khu vườn\ncho cả đám cây quẩy theo nhạc thôi!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_2026",
+    "en": "Thanks for tending me! I've shared\nall my wisdom, though you can keep\ngrowing me even higher!",
+    "vi": "Cảm ơn đã chăm sóc ta! Ta đã truyền\nhết trí tuệ cho bạn rồi, nhưng cứ\nnuôi ta cao thêm nữa nhé!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40000",
+    "en": "Thanks for the Tree Food! I'm fresh\nout of new wisdom for now, though\ngrow me taller for more gifts!",
+    "vi": "Cảm ơn bạn bón phân cho ta! Hiện ta\nhơi cạn lời khuyên mới, nhưng nuôi\nta cao nữa sẽ vẫn có thêm quà đấy!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40001",
+    "en": "When you live as long as I have, you\nsleep less and hallucinate far more\neasily.",
+    "vi": "Khi sống lâu cỡ ta, bạn sẽ ngủ ít đi\nvà dễ gặp ảo giác hơn nhiều."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40002",
+    "en": "Can't tell the forest from the\ntrees? Remember: a forest is a\ncollection of trees, never the\nreverse.",
+    "vi": "Không phân biệt nổi rừng với cây ư?\nCứ nhớ: rừng là tập hợp nhiều cái\ncây, ngược lại thì không."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40003",
+    "en": "History endlessly repeats itself,\nyet the little details always shift.",
+    "vi": "Lịch sử không ngừng lặp lại chính\nnó, chỉ là vài chi tiết luôn hơi\nkhác đi."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40004",
+    "en": "If past, present, and future coexist\nin one eternal cycle... isn't the\n\"present\" merely an exquisite\nillusion?",
+    "vi": "Nếu quá khứ, hiện tại và tương lai\ncùng tồn tại trong một vòng luân\nhồi... thì \"hiện tại\" chẳng qua chỉ\nlà ảo giác tinh xảo thôi sao?"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40005",
+    "en": "Courage is easy to muster; devotion\nis far rarer.",
+    "vi": "Dũng khí thì dễ có, sự cống hiến mới\nkhó tìm."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40006",
+    "en": "I carry some time-tested pearls of\nwisdom...",
+    "vi": "Ta có vài triết lý đã được thời gian\nkiểm chứng đây..."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40007",
+    "en": "Could I trouble you for a little Fertilizer?",
+    "vi": "Cho ta xin thêm chút Phân Bón nhé!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40008",
+    "en": "I truly, deeply appreciate all the\ncoins you spend on Tree Food for me!",
+    "vi": "Ta thật sự rất cảm kích số tiền bạn\nbỏ ra mua phân bón cho ta!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40009",
+    "en": "Hey, that cloud looks just like a\ngiant water droplet!",
+    "vi": "Đám mây kia trông y như một giọt\nnước khổng lồ ấy nhỉ!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40010",
+    "en": "Ever met my cousin Yggdrasil? Huge\nguy! Lives in Sweden with tons of\nfans.",
+    "vi": "Bạn gặp anh họ Cây Vũ Trụ của ta bao\ngiờ chưa? To lắm! Sống ở Thụy Điển\nvà đông fan cực kỳ."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40011",
+    "en": "Taking an online sociology course at\ncyber-college — genuinely learning\ntons!",
+    "vi": "Ta đang theo học môn Xã Hội Học tại\nđại học trực tuyến, học được khối\nkiến thức hay ho đấy."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40012",
+    "en": "After careful observation, I deduce\nEarth orbits the Sun — not the other\nway around as it looks.",
+    "vi": "Sau khi quan sát kỹ lưỡng, ta suy\nluận Trái Đất quay quanh Mặt Trời,\nchứ không phải Mặt Trời quay quanh\nTrái Đất như mắt thấy."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40013",
+    "en": "Mmm... sunshine tastes absolutely\ndelicious!",
+    "vi": "Ừm ừm... ánh nắng ngon tuyệt cú mèo!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40014",
+    "en": "Oh, excuse me... just released a\npuff of oxygen.",
+    "vi": "Ồ, xin lỗi nhé... ta vừa lỡ xả ra\nmột chút khí oxy."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40015",
+    "en": "Oh my — I sprouted fresh leaves!",
+    "vi": "Trời ơi, ta mọc lá mới rồi nè!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40016",
+    "en": "I feel like I'm about to burst!",
+    "vi": "Ta có cảm giác mình sắp bùng nổ rồi!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40017",
+    "en": "Right now I lack a bit of world-view\nknowledge!",
+    "vi": "Hiện tại ta hơi thiếu chút kiến thức\nvề thế giới quan!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40018",
+    "en": "Mmm, that sure was some tasty Tree\nFood!",
+    "vi": "Chà, vừa rồi đúng là một bữa phân\nbón ngon miệng!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40019",
+    "en": "Pretty sure I saw clouds like that\nonce before.",
+    "vi": "Hình như hồi xưa ta từng thấy đám\nmây kiểu này rồi."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40020",
+    "en": "I'll just sit right here growing\ntaller slowly.",
+    "vi": "Ta sẽ từ từ cao lớn lên ở đây."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40021",
+    "en": "Actively photosynthesizing & metabolizing!",
+    "vi": "Ta đang tích cực trao đổi chất đây!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40022",
+    "en": "I'll never understand how you\nanimals wander around nonstop all\nday...",
+    "vi": "Ta chả hiểu nổi sao loài động vật\ncác bạn suốt ngày chạy loăng quăng\nkhắp nơi thế..."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40023",
+    "en": "Time flows veeery slowly for me!",
+    "vi": "Thời gian trôi qua đối với ta chậm\nlắm luôn!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40024",
+    "en": "I suppose that makes me a perennial!",
+    "vi": "Chắc ta là cây sống lâu năm rồi nhỉ!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40025",
+    "en": "My xylem feels all tingly!",
+    "vi": "Mạch gỗ của ta tự dưng ngứa ngứa sao ấy!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40026",
+    "en": "Just standing beside me grants piles\nand piles of wisdom.",
+    "vi": "Chỉ cần đứng cạnh ta thôi là bạn đã\nnhận được vô khối trí tuệ rồi."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40027",
+    "en": "Heard rumors about \"winter.\"\nDefinitely not looking forward to\nit.",
+    "vi": "Ta từng nghe kể về \"mùa đông\". Nhưng\nta chẳng mong ngày đó tới chút nào."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40028",
+    "en": "Hey, 100 feet tall! Let's celebrate\n— type \"daisies\" so zombies drop\ntiny daisies on defeat!",
+    "vi": "Này, ta cao 100 feet rồi! Ăn mừng\nđi! Nhập \"daisies\" để zombie khi\nchết để lại một bông cúc nhỏ nhé."
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40029",
+    "en": "Aha, 500 feet! Time to groove — type\n\"dance\" so zombies boogie down!",
+    "vi": "À ha! Ta cao 500 feet rồi! Quẩy lên!\nNhập \"dance\" để đám zombie lắc lư\nnhảy nhót nào!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_40030",
+    "en": "Whoa, 1,000 feet tall! Type \"pinata\"\nwith me so zombies burst into candy\non defeat!",
+    "vi": "Ồ! Ta cao 1000 feet rồi! Cùng nhập\n\"pinata\" để zombie khi chết nổ tung\nra kẹo ăn mừng nhé!"
+  },
+  {
+    "file": "NewWisdomStrings.txt",
+    "key": "TREE_OF_WISDOM_HIEGHT",
+    "en": "{HEIGHT} ",
+    "vi": "{HEIGHT} "
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_SILVER_-2",
+    "en": "Left-click to browse the Market! Right-click for Shop Stages!",
+    "vi": "Chuột trái để vào Siêu Thị! Chuột phải để khiêu chiến Phó Bản!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_SILVER_-1",
+    "en": "Left-click to return to Inventory! Right-click to switch Shop!",
+    "vi": "Chuột trái về Túi Đồ! Chuột phải để chuyển Cửa Hàng!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_SILVER_00",
+    "en": "Welcome! Click me to peek inside my backpack~",
+    "vi": "Hoan nghênh! Nhấn vào tôi để xem túi đồ của tôi nhé~"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_SILVER_01",
+    "en": "A Rake — drop it on the zombies' path, then... hehehe...",
+    "vi": "Bàn Cào, đặt ngay đường zombie đi qua, rồi thì... hehehe..."
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_SILVER_02",
+    "en": "A whole Bucket of Butter — enough to coat the entire lawn! Extra jumbo!",
+    "vi": "Cả xô Bơ, đủ sức trét dính cả sân zombie! Siêu to khổng lồ!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_SILVER_03",
+    "en": "Reinforcement from Cherry Bomb Jr.! Totally worth every coin!",
+    "vi": "Chi viện từ Bom Anh Đào Nhí! Đắt xắt ra miếng đấy!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_SILVER_04",
+    "en": "Reinforcement from Cactus Blover! Whoosh~",
+    "vi": "Chi viện từ Cỏ Ba Lá Xương Rồng! Phù phù phù~"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_SILVER_05",
+    "en": "Reinforcement from Sun Bomb!",
+    "vi": "Chi viện từ Bom Mặt Trời!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_SILVER_06",
+    "en": "A shiny Silver Shovel? Wonder what it does?",
+    "vi": "Một chiếc Xẻng Bạc? Không biết có công dụng gì nhỉ?"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_SILVER_07",
+    "en": "It's a Slot Machine, minus the gambling!",
+    "vi": "Đây là Máy Xèng, nhưng không hỗ trợ cờ bạc đâu nhé!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_SILVER_08",
+    "en": "It's a Wall-nut — that doubles as a piggy bank!",
+    "vi": "Đây là một Hạt Dẻ, nhưng biết giữ tiền tiết kiệm!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_SILVER_09",
+    "en": "CALL THE ADMIN!!!!!",
+    "vi": "GỌI QUẢN TRỊ VIÊN NGAY!!!!!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_SILVER_10",
+    "en": "Adds 1 extra seed slot!",
+    "vi": "Tăng thêm 1 ô thẻ cây!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_SILVER_11",
+    "en": "A skull-themed Shovel?",
+    "vi": "Một chiếc Xẻng tạo hình đầu lâu?"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_GOLD_-2",
+    "en": "Left-click to browse the Market! Right-click for Shop Stages!",
+    "vi": "Chuột trái để vào Siêu Thị! Chuột phải để khiêu chiến Phó Bản!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_GOLD_-1",
+    "en": "Left-click to return to Inventory! Right-click to switch Shop!",
+    "vi": "Chuột trái về Túi Đồ! Chuột phải để chuyển Cửa Hàng!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_GOLD_00",
+    "en": "Use mid-level to gain +100 Sun!",
+    "vi": "Dùng trong màn để nhận ngay 100 Mặt trời!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_GOLD_01",
+    "en": "Use mid-level to gain +500 Sun!",
+    "vi": "Dùng trong màn để nhận ngay 500 Mặt trời!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_GOLD_02",
+    "en": "Use mid-level to gain +1,000 Sun!",
+    "vi": "Dùng trong màn để nhận ngay 1000 Mặt trời!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_GOLD_03",
+    "en": "Use mid-level to gain +2,000 Sun!",
+    "vi": "Dùng trong màn để nhận ngay 2000 Mặt trời!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_GOLD_04",
+    "en": "Reinforcement from Treasure Eater!",
+    "vi": "Chi viện từ Kẻ Nuốt Kho Báu!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_GOLD_05",
+    "en": "Gold Shovel: dig up plants to refund Sun!",
+    "vi": "Xẻng Vàng, đào cây lên để hoàn lại Mặt trời!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_GOLD_06",
+    "en": "Lucky Cat! Adorable AND mints Gold Coins!",
+    "vi": "Mèo Chiêu Tài! Vừa dễ thương lại vừa kiếm ra tiền!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_GOLD_07",
+    "en": "Gold Magnet Shooter! Sucks coins and blasts foes!",
+    "vi": "Xạ Thủ Hút Vàng! Vừa hút vừa bắn!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_GOLD_08",
+    "en": "Adds 1 extra seed slot!",
+    "vi": "Tăng thêm 1 ô thẻ cây!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_DIAMOND_-2",
+    "en": "Left-click to browse the Market! Right-click for Shop Stages!",
+    "vi": "Chuột trái để vào Siêu Thị! Chuột phải để khiêu chiến Phó Bản!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_DIAMOND_-1",
+    "en": "Left-click to return to Inventory! Right-click to switch Shop!",
+    "vi": "Chuột trái về Túi Đồ! Chuột phải để chuyển Cửa Hàng!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_DIAMOND_00",
+    "en": "Tall Ice-nut backup! Use to gain a Tall Ice-nut card!",
+    "vi": "Chi viện Óc Chó Cao Băng! Dùng để nhận 1 thẻ Óc Chó Cao Băng!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_DIAMOND_01",
+    "en": "Fortune Marigold backup! Use to gain a Fortune Marigold card!",
+    "vi": "Chi viện Thần Tài Vạn Thọ! Dùng để nhận 1 thẻ Thần Tài Vạn Thọ!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_DIAMOND_02",
+    "en": "Burger King backup! Use to gain a Burger King card!",
+    "vi": "Chi viện Bánh Burger! Dùng để nhận 1 thẻ Súng Bánh Burger!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_DIAMOND_03",
+    "en": "Cupid backup! Use to gain a Cupid Hypno-shroom Shooter card!",
+    "vi": "Chi viện Thần Tình Yêu! Dùng để nhận 1 thẻ Súng Thôi Miên Cupid!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_DIAMOND_04",
+    "en": "Slash those prices! Use to gain a Holo Card Projector card!",
+    "vi": "Giảm giá tụt dốc! Dùng để nhận 1 thẻ Máy Chiếu Thẻ 3D!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_DIAMOND_05",
+    "en": "Diamond Shovel: shovel plants to reclaim lots of Sun!",
+    "vi": "Xẻng Kim Cương, đào cây lên hoàn trả lượng lớn Mặt trời!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_DIAMOND_06",
+    "en": "Crystal Snail! Doesn't pick coins — he's already loaded!",
+    "vi": "Ốc Sên Pha Lê! Không thèm nhặt tiền vì quá giàu rồi!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_DIAMOND_07",
+    "en": "Diamond Seed! Diamonds that actually grow!",
+    "vi": "Hạt Kim Cương! Kim cương biết lớn đấy!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_DIAMOND_08",
+    "en": "Triggers Ice-shroom on launch, freezing every zombie!",
+    "vi": "Khi kích hoạt sẽ tạo hiệu ứng Nấm Băng đóng băng toàn sân!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "SHOP_DIAMOND_09",
+    "en": "Shoveling plants fires Snow Peas!",
+    "vi": "Đào bỏ cây sẽ bắn ra các viên Đậu Băng!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40000",
+    "en": "{NO_SOUND}Diamond Shovel — shovel plants to\nreclaim plenty of Sun!",
+    "vi": "{NO_SOUND}Xẻng Kim Cương, đào cây thu hồi\nrất nhiều Mặt trời!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40001",
+    "en": "{NO_SOUND}A whole Bucket of Butter — enough to\ncoat every zombie on screen!\nJumbo-sized!",
+    "vi": "{NO_SOUND}Một xô Bơ khổng lồ, đủ sức trét\nkhắp toàn bộ zombie trên sân!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40002",
+    "en": "{NO_SOUND}Cherry Jr. backup! Use mid-level to\ngain a Twin Cherry Bomb card.",
+    "vi": "{NO_SOUND}Chi viện Anh Đào Nhí! Dùng trong màn\nđể nhận thẻ Anh Đào Đôi."
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40003",
+    "en": "{NO_SOUND}Cactus Blover backup! Use mid-level\nto gain a Cactus Blover card.",
+    "vi": "{NO_SOUND}Chi viện Ba Lá Xương Rồng! Dùng\ntrong màn\nđể nhận thẻ Cỏ Ba Lá Xương Rồng."
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40004",
+    "en": "{NO_SOUND}Sun Bomb backup! Use mid-level to\ngain a Sun Bomb card.",
+    "vi": "{NO_SOUND}Chi viện Bom Mặt Trời! Dùng trong\nmàn\nđể nhận thẻ Bom Mặt Trời."
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40005",
+    "en": "{NO_SOUND}CALL THE ADMIN!!!!! Freezes every\nplant and zombie on screen!",
+    "vi": "{NO_SOUND}GỌI QUẢN TRỊ VIÊN!!!!!\nĐứng hình toàn bộ cây và zombie trên\nsân!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40006",
+    "en": "{NO_SOUND}Silver Shovel — shovel plants to\nreclaim a tiny trickle of Sun!",
+    "vi": "{NO_SOUND}Xẻng Bạc, đào cây thu hồi\nmột chút Mặt trời!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40007",
+    "en": "{NO_SOUND}100 Sun! Use mid-level for an\ninstant +100 Sun boost!",
+    "vi": "{NO_SOUND}100 Mặt Trời! Dùng trong màn,\nnhận ngay 100 Mặt trời!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40008",
+    "en": "{NO_SOUND}500 Sun! Use mid-level for an\ninstant +500 Sun boost!",
+    "vi": "{NO_SOUND}500 Mặt Trời! Dùng trong màn,\nnhận ngay 500 Mặt trời!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40009",
+    "en": "{NO_SOUND}1,000 Sun! Use mid-level for an\ninstant +1,000 Sun boost!",
+    "vi": "{NO_SOUND}1000 Mặt Trời! Dùng trong màn,\nnhận ngay 1000 Mặt trời!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40010",
+    "en": "{NO_SOUND}2,000 Sun! Use mid-level for an\ninstant +2,000 Sun boost!",
+    "vi": "{NO_SOUND}2000 Mặt Trời! Dùng trong màn,\nnhận ngay 2000 Mặt trời!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40011",
+    "en": "{NO_SOUND}Gold Shovel — shovel plants to\nreclaim a modest amount of Sun!",
+    "vi": "{NO_SOUND}Xẻng Vàng, đào cây thu hồi\nmột ít Mặt trời!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40012",
+    "en": "{NO_SOUND}Ice Shovel! Shoveling plants fires\nSnow Peas scaled by plant cost!",
+    "vi": "{NO_SOUND}Xẻng Băng! Đào bỏ cây sẽ bắn ra\nnhiều Đậu Băng tùy theo giá cây!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40013",
+    "en": "{NO_SOUND}Lucky Cat! Cutely rakes in Gold\nCoins!",
+    "vi": "{NO_SOUND}Mèo Chiêu Tài! Vừa dễ thương vừa\nkiếm tiền!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40014",
+    "en": "{NO_SOUND}Tall Ice-nut backup! Use mid-level\nto gain a Tall Ice-nut card.",
+    "vi": "{NO_SOUND}Chi viện Óc Chó Cao Băng! Dùng trong\nmàn\nđể nhận thẻ Óc Chó Cao Băng."
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40015",
+    "en": "{NO_SOUND}Fortune Marigold backup! Use\nmid-level for a Fortune Marigold\ncard.",
+    "vi": "{NO_SOUND}Chi viện Thần Tài Vạn Thọ! Dùng\ntrong màn\nđể nhận thẻ Thần Tài Vạn Thọ."
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40016",
+    "en": "{NO_SOUND}Burger Shooter backup! Use mid-level\nfor a Burger Shooter card.",
+    "vi": "{NO_SOUND}Chi viện Súng Bánh Burger! Dùng\ntrong màn\nđể nhận thẻ Súng Bánh Burger."
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40017",
+    "en": "{NO_SOUND}Hypno-shroom Shooter backup! Use\nmid-level for its seed packet.",
+    "vi": "{NO_SOUND}Chi viện Súng Thôi Miên! Dùng trong\nmàn\nđể nhận thẻ Súng Đậu Thôi Miên."
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40018",
+    "en": "{NO_SOUND}Holo Card backup! Use mid-level for\na Holo Projector card.",
+    "vi": "{NO_SOUND}Chi viện Thẻ 3D! Dùng trong màn\nđể nhận thẻ Máy Chiếu Thẻ 3D."
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40019",
+    "en": "{NO_SOUND}Ice Pool Cleaner! Triggers freeze\nwhen launched!",
+    "vi": "{NO_SOUND}Xe Dọn Hồ Băng Giá!\nKích hoạt sẽ gây hiệu ứng đóng băng!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40020",
+    "en": "{NO_SOUND}A genuine Slot Machine — strictly no\ngambling allowed!",
+    "vi": "{NO_SOUND}Đây là Máy Xèng,\nnhưng không hỗ trợ cờ bạc đâu nhé!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40021",
+    "en": "{NO_SOUND}A Wall-nut that safely stashes all\nyour spare change!",
+    "vi": "{NO_SOUND}Đây là Hạt Dẻ nhưng biết giữ tiền\ntiết kiệm!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40022",
+    "en": "{NO_SOUND}Gold Magnet Shooter! Vacuums coins\nand blasts enemies!",
+    "vi": "{NO_SOUND}Xạ Thủ Hút Vàng! Vừa hút vừa bắn!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40023",
+    "en": "{NO_SOUND}Crystal Snail! Ignores loose coins —\nhe's rolling in cash already!",
+    "vi": "{NO_SOUND}Ốc Sên Pha Lê! Không thèm nhặt xu\nvì giàu nứt đố đổ vách rồi!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40024",
+    "en": "{NO_SOUND}Diamond Seed! Grows straight into\nsparkling diamonds!",
+    "vi": "{NO_SOUND}Hạt Kim Cương! Lớn lên thành kim\ncương đấy!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40025",
+    "en": "{NO_SOUND}Extra Seed Slot! Lets you carry one\nmore plant!",
+    "vi": "{NO_SOUND}Ô thẻ bổ sung!\nGiúp bạn mang thêm một loại cây!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40026",
+    "en": "{NO_SOUND}A spooky skull-shaped Shovel?",
+    "vi": "{NO_SOUND}Một chiếc Xẻng tạo hình đầu lâu?"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40027",
+    "en": "{NO_SOUND}Treasure Eater backup! Use mid-level\nfor a Treasure Eater card.",
+    "vi": "{NO_SOUND}Chi viện Kẻ Nuốt Kho Báu! Dùng trong\nmàn\nđể nhận thẻ Kẻ Nuốt Kho Báu."
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40028",
+    "en": "{NO_SOUND}Extra Seed Slot! Carry one more\nplant into battle!",
+    "vi": "{NO_SOUND}Ô thẻ bổ sung!\nGiúp bạn mang thêm một loại cây!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40029",
+    "en": "{NO_SOUND}Tengteng's Blover backup! Use\nmid-level for Tengteng's Four-Leaf\nClover.",
+    "vi": "{NO_SOUND}Chi viện Cỏ Bốn Lá Tengteng! Dùng\ntrong màn\nđể nhận thẻ Cỏ Bốn Lá Tengteng."
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40030",
+    "en": "{NO_SOUND}Diamond Nut! Built to stand up to\nhigh-damage zombies!",
+    "vi": "{NO_SOUND}Hạt Dẻ Kim Cương! Khắc chế zombie\nsát thương cao!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40031",
+    "en": "{NO_SOUND}Lab Garden! Strictly for gardening —\nzero crazy experiments! Grants 32\nfresh pot spots!",
+    "vi": "{NO_SOUND}Vườn Phòng Thí Nghiệm! Chỉ trồng cây\nkhông thí nghiệm!\nCấp cho bạn 32 vị trí đặt chậu mới!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40032",
+    "en": "{NO_SOUND}Sky Garden! Incredible open-air\nviews and 32 extra pot spots!",
+    "vi": "{NO_SOUND}Vườn Trên Mây! Tầm nhìn cực thoáng\nđãng!\nCấp cho bạn 32 vị trí đặt chậu mới!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40033",
+    "en": "{NO_SOUND}Flower-Fruit Mountain Garden! Zero\nannoying monkeys guaranteed — 32 new\npot spots!",
+    "vi": "{NO_SOUND}Vườn Hoa Quả Sơn! Ở đây không có lũ\nkhỉ đáng ghét!\nCấp cho bạn 32 vị trí đặt chậu mới!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40034",
+    "en": "{NO_SOUND}Tree of Wisdom Fertilizer — bulk\npack of 10 bags at once!",
+    "vi": "{NO_SOUND}Phân bón Cây Trí Tuệ!\nMua một lần 10 bao luôn!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40035",
+    "en": "{NO_SOUND}Emperor Isle Garden! Perfect display\nspace for double-tile plants!",
+    "vi": "{NO_SOUND}Vườn Đảo Thủy Hoàng! Trưng bày các\ncây chiếm 2 ô của bạn!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40036",
+    "en": "{NO_SOUND}Mushroom Conservatory! A hybrid of\nMushroom Garden & Greenhouse giving\n24 extra spots!",
+    "vi": "{NO_SOUND}Vườn Hoa Nấm! Khu vườn lai giữa Vườn\nNấm và Nhà Kính,\ncấp thêm 24 ô trồng!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40037",
+    "en": "{NO_SOUND}Dreamcore Mushroom Garden — a\nsurreal blue fungal paradise with 21\nextra spots!",
+    "vi": "{NO_SOUND}Vườn Nấm Mộng Cảnh — thiên đường nấm\nxanh mộng mơ,\ncấp thêm 21 ô trồng!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40038",
+    "en": "{NO_SOUND}Ocean Aquarium — maybe secret\ntreasures lurk in the deep blue! 18\nextra spots!",
+    "vi": "{NO_SOUND}Thủy Cung Đại Dương — biết đâu có\nbáu vật ẩn giấu dưới biển sâu,\ncấp thêm 18 ô trồng!"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40039",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40040",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40041",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40042",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40043",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40044",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40045",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40046",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40047",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40048",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40049",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40050",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40051",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40052",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40053",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40054",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40055",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40056",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewShopStrings.txt",
+    "key": "CRAZY_DAVE_40057",
+    "en": "{NO_SOUND}",
+    "vi": "{NO_SOUND}"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "EXPERIMENTALLOG",
+    "en": "Experimental Log",
+    "vi": "Nhật Ký Thí Nghiệm"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "GET_EXPERIMENTALLOG",
+    "en": "You found an Experimental Log!",
+    "vi": "Bạn tìm thấy một tờ Nhật Ký Thí Nghiệm!"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "CHAPTER",
+    "en": "Artbook",
+    "vi": "Sách Ảnh"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "GET_CHAPTER",
+    "en": "You found a mysterious Artbook!",
+    "vi": "Bạn tìm thấy một cuốn Sách Ảnh bí ẩn!"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "CHAPTER_TOOLIP",
+    "en": "Records hidden secrets!",
+    "vi": "Ghi chép lại điều gì đó bí ẩn!"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL0",
+    "en": "Iron Shovel",
+    "vi": "Xẻng Sắt"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL0_TOOLTIP",
+    "en": "Digs up a plant from the lawn!",
+    "vi": "Đào bỏ một cây trên sân!"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL0_DESCRIPTION",
+    "en": "Removes a plant with no extra effect.\n{SHORTLINE}\nDave's humble starter shovel! With\nfancier shovels around now, maybe it can\ntake a break.\n{SHORTLINE}\nUnlock: Free.",
+    "vi": "Đào bỏ cây, không có hiệu ứng phụ.\n{SHORTLINE}\nChiếc xẻng nhỏ Dave tặng bạn! Giờ có\nnhiều xẻng xịn hơn rồi, chắc nó được\nnghỉ ngơi thôi.\n{SHORTLINE}\nCách nhận: Miễn phí."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL1",
+    "en": "Silver Shovel",
+    "vi": "Xẻng Bạc"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL1_TOOLTIP",
+    "en": "Digs up a plant and refunds a sliver of Sun!",
+    "vi": "Đào cây hoàn trả một phần nhỏ Mặt trời!"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL1_DESCRIPTION",
+    "en": "Removes a plant and refunds 10% of its\nSun cost.\n{SHORTLINE}\nBought with Silver Coins,\n{SHORTLINE}\ngleaming just like them.\n{SHORTLINE}\nUnlock: Shop.",
+    "vi": "Đào bỏ cây và hoàn lại 10% Mặt trời.\n{SHORTLINE}\nChiếc xẻng mua bằng Xu Bạc,\n{SHORTLINE}\nsáng bóng y như xu bạc vậy.\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL2",
+    "en": "Gold Shovel",
+    "vi": "Xẻng Vàng"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL2_TOOLTIP",
+    "en": "Digs up a plant and refunds a small amount of Sun!",
+    "vi": "Đào cây hoàn trả một ít Mặt trời!"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL2_DESCRIPTION",
+    "en": "Removes a plant and refunds 20% of its\nSun cost.\n{SHORTLINE}\nBought with Gold Coins.\n{SHORTLINE}\nLooks solid gold and surprisingly sturdy\n— probably just gold-plated though.\n{SHORTLINE}\nUnlock: Shop.",
+    "vi": "Đào bỏ cây và hoàn lại 20% Mặt trời.\n{SHORTLINE}\nChiếc xẻng mua bằng Xu Vàng\n{SHORTLINE}\nTrông như vàng ròng mà bền bất ngờ, chắc\nlà mạ vàng thôi.\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL3",
+    "en": "Diamond Shovel",
+    "vi": "Xẻng Kim Cương"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL3_TOOLTIP",
+    "en": "Digs up a plant and refunds generous Sun!",
+    "vi": "Đào cây hoàn trả lượng lớn Mặt trời!"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL3_DESCRIPTION",
+    "en": "Removes a plant and refunds 30% of its\nSun cost.\n{SHORTLINE}\nBought with Diamonds.\n{SHORTLINE}\nWith this sleek craftsmanship, it surely\nwasn't crafted from 1 diamond and 2\nsticks?\n{SHORTLINE}\nUnlock: Shop.",
+    "vi": "Đào bỏ cây và hoàn lại 30% Mặt trời.\n{SHORTLINE}\nChiếc xẻng mua bằng Kim Cương\n{SHORTLINE}\nNhìn chất liệu liền khối thế này chắc\nkhông phải ghép từ 1 viên kim cương với\n2 que gỗ đâu nhỉ?\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL4",
+    "en": "Star Shovel",
+    "vi": "Xẻng Ngôi Sao"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL4_TOOLTIP",
+    "en": "Fires Stars when digging up a plant!",
+    "vi": "Đào bỏ cây đồng thời bắn ra các Ngôi Sao!"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL4_DESCRIPTION",
+    "en": "Shoots Stars in 5 directions when\nremoving a plant.\n{SHORTLINE}\nHey, it's NOT a magic wand, okay?\n{SHORTLINE}\nUnlock: Star Exchange.",
+    "vi": "Khi đào bỏ cây sẽ bắn Ngôi Sao theo 5\nhướng.\n{SHORTLINE}\nĐây không phải đũa phép thuật đâu nha?\n{SHORTLINE}\nCách nhận: Đổi Sao."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL5",
+    "en": "Ice Shovel",
+    "vi": "Xẻng Băng Giá"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL5_TOOLTIP",
+    "en": "Fires Snow Peas forward when digging up a plant!",
+    "vi": "Đào bỏ cây sẽ bắn Đậu Băng về phía trước!"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL5_DESCRIPTION",
+    "en": "Fires Snow Peas forward when digging a\nplant; count scales with Sun cost.\n{SHORTLINE}\nSupposedly scavenged from an ice-cream\nstand making frost peas.\n{SHORTLINE}\nUnlock: Shop.",
+    "vi": "Đào bỏ cây sẽ bắn Đậu Băng về trước, số\nlượng đạn tùy theo giá Mặt trời của cây.\n{SHORTLINE}\nNghe bảo săn được từ sạp kem chuyên làm\nđậu băng giá.\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL6",
+    "en": "Chili Shovel",
+    "vi": "Xẻng Ớt Cay"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL6_TOOLTIP",
+    "en": "Scorches an entire lane when digging up a plant!",
+    "vi": "Đào bỏ cây sẽ phóng một dải lửa đốt cả hàng!"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL6_DESCRIPTION",
+    "en": "Unleashes a lane of fire when removing a\nplant; damage scales with Sun cost.\n{SHORTLINE}\nA fiery hot shovel — even keeps your\nhands toasty in winter.\n{SHORTLINE}\nUnlock: Star Exchange.",
+    "vi": "Đào bỏ cây sẽ giải phóng ngọn lửa dọc\nhàng, sát thương dựa trên giá cây.\n{SHORTLINE}\nChiếc xẻng nóng bỏng tay, mùa đông cầm\ncũng thấy ấm áp.\n{SHORTLINE}\nCách nhận: Đổi Sao."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL7",
+    "en": "Skull Shovel",
+    "vi": "Xẻng Đầu Lâu"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL7_TOOLTIP",
+    "en": "Triggers On-Death effects when digging up a plant!",
+    "vi": "Đào bỏ cây sẽ kích hoạt hiệu ứng Khi chết!"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL7_DESCRIPTION",
+    "en": "Triggers a plant's On-Death effect on\nshovel, or spawns a hypnotized Skeleton\nZombie matched to its cost.\n{SHORTLINE}\nSaid to hold forbidden necromancy —\nfine, it's just a movie prop from\nChomper's House of Horrors.\n{SHORTLINE}\nUnlock: Shop.",
+    "vi": "Đào cây sẽ kích hoạt hiệu ứng Khi chết,\nhoặc gọi Zombie Bộ Xương đồng minh tương\nxứng giá cây.\n{SHORTLINE}\nĐồn là bảo vật chứa tà thuật tử linh...\nthôi được rồi, chỉ là đạo cụ phim từ\ntiệm kinh dị của Ăn Thịt thôi.\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL8",
+    "en": "Whirlwind Shovel",
+    "vi": "Xẻng Lốc Xoáy"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL8_TOOLTIP",
+    "en": "Triggers On-Death and makes the next plant within 30s free!",
+    "vi": "Đào cây kích hoạt Khi chết và miễn phí lần trồng kế trong 30 giây."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL8_DESCRIPTION",
+    "en": "Triggers On-Death on shovel, and makes\nthe next placement of that plant free\nfor 30s.\n{SHORTLINE}\nI am the storm that is approaching!\n{SHORTLINE}\nUnlock: Star Exchange.",
+    "vi": "Đào cây sẽ kích hoạt hiệu ứng Khi chết\nvà giúp lần trồng tiếp theo của cây đó\ntrong 30 giây được miễn phí.\n{SHORTLINE}\nTa chính là cơn bão đang kéo tới!\n{SHORTLINE}\nCách nhận: Đổi Sao."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL9",
+    "en": "Pumpkin Shovel",
+    "vi": "Xẻng Bí Ngô"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL9_TOOLTIP",
+    "en": "Distributes 50% of the shoveled plant's HP to allies on its tile.",
+    "vi": "Đào cây sẽ chia đều 50% máu của nó cho các cây cùng ô."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL9_DESCRIPTION",
+    "en": "Splits 50% of the removed plant's HP\nevenly among remaining plants on that\ntile.\n{SHORTLINE}\nThe blade's hollow inside — pop a candle\nin and call it a jack-o'-lantern?\n{SHORTLINE}\nUnlock: Adventure.",
+    "vi": "Khi đào bỏ cây, chia đều 50% máu của nó\ncho các cây khác trong cùng ô.\n{SHORTLINE}\nLưỡi xẻng có vẻ rỗng ruột, nhét nến vào\nlàm đèn Halloween chắc ổn đấy?\n{SHORTLINE}\nCách nhận: Chế Độ Phiêu Lưu."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL10",
+    "en": "Gift Box Shovel",
+    "vi": "Xẻng Hộp Quà"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL10_TOOLTIP",
+    "en": "Shoveling a >=200 Sun plant spawns a Mystery Gift Box.",
+    "vi": "Đào bỏ cây giá >=200 sẽ tạo một Hộp Thưởng tại chỗ."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL10_DESCRIPTION",
+    "en": "Shovel a >=200 Sun plant to spawn a\nMystery Gift Box; shovel a >=100 Sun\nplant to spawn Spare Supplies.\n{SHORTLINE}\nTime to test your luck!\n{SHORTLINE}\nUnlock: Achievement.",
+    "vi": "Đào cây giá >=200 sẽ tạo Hộp Thưởng; đào\ncây giá >=100 sẽ tạo Tiếp Tế Dự Phòng\ntại chỗ.\n{SHORTLINE}\nĐến lúc thử vận may rồi!\n{SHORTLINE}\nCách nhận: Thành Tựu."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL11",
+    "en": "Hypno Shovel",
+    "vi": "Xẻng Thôi Miên"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL11_TOOLTIP",
+    "en": "Shoveling a >=100 Sun plant summons a charmed zombie matching its cost HP (no Boss).",
+    "vi": "Đào cây giá >=100 gọi ra zombie đồng minh máu bằng giá cây (trừ Trùm)."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL11_DESCRIPTION",
+    "en": "Shovel a >=100 Sun plant to summon a\nrandom hypnotized zombie whose HP equals\nthe plant's cost (excluding Bosses).\n{SHORTLINE}\nThis shovel carries a sweet yet\ndangerous aura...\n{SHORTLINE}\nUnlock: Achievement.",
+    "vi": "Đào cây giá >=100 để gọi ngẫu nhiên 1\nzombie phe ta có máu bằng giá cây đó\n(trừ Trùm).\n{SHORTLINE}\nChiếc xẻng này tỏa ra hương thơm ngọt\nngào mà nguy hiểm...\n{SHORTLINE}\nCách nhận: Thành Tựu."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL12",
+    "en": "Burger Shovel",
+    "vi": "Xẻng Bánh Burger"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL12_TOOLTIP",
+    "en": "Shoveling a plant fires random shots equal to 1/10 of its cost.",
+    "vi": "Đào cây bắn ra loạt đạn ngẫu nhiên bằng 1/10 giá cây."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL12_DESCRIPTION",
+    "en": "Digging up a plant fires random basic\nprojectiles equal to one-tenth of its\nSun cost.\n{SHORTLINE}\nAre you ready, kids? Aye-aye, Shovel!\n{SHORTLINE}\nUnlock: Achievement.",
+    "vi": "Đào bỏ cây sẽ bắn ra số viên đạn cơ bản\nngẫu nhiên bằng một phần mười giá cây.\n{SHORTLINE}\nSẵn sàng chưa các em nhỏ? Xẻng đã sẵn\nsàng rồi!\n{SHORTLINE}\nCách nhận: Thành Tựu."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL13",
+    "en": "Deluxe Shovel",
+    "vi": "Xẻng Cao Cấp"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL13_TOOLTIP",
+    "en": "Digs up plants and refunds even more Sun!",
+    "vi": "Đào cây hoàn trả nhiều Mặt trời hơn nữa!"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL13_DESCRIPTION",
+    "en": "Removes a plant and refunds 40% of its\nSun cost.\n{SHORTLINE}\nFull name: \"Supreme VIP Deluxe\nCollector's Shovel\" — though hardly\nanyone actually collects these.\n{SHORTLINE}\nUnlock: Achievement.",
+    "vi": "Đào bỏ cây và hoàn lại 40% Mặt trời.\n{SHORTLINE}\nTên đầy đủ là \"Xẻng Phiên Bản Giới Hạn\nVIP Thượng Hạng\", dù thực ra chẳng mấy\nai sưu tầm thứ này.\n{SHORTLINE}\nCách nhận: Thành Tựu."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL14",
+    "en": "Card Shovel",
+    "vi": "Xẻng Thẻ Bài"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL14_TOOLTIP",
+    "en": "Shovels a <=30s CD plant, paying 50% Sun cost to turn it back into a seed card.",
+    "vi": "Đào cây hồi chiêu <=30s, tốn 50% giá Mặt trời biến lại thành thẻ."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL14_DESCRIPTION",
+    "en": "Shovel a plant with <=30s cooldown,\nspending 25% of its Sun cost to convert\nit into a seed packet.\n{SHORTLINE}\nRumored to be forged from shards of\nfallen cards... Tree of Wisdom clarifies\nit's just scrap crafts from leftover\ncardboard.\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 100m.",
+    "vi": "Đào cây có hồi chiêu <=30s, tiêu tốn 25%\ngiá cây để biến nó lại thành thẻ.\n{SHORTLINE}\nĐồn làm từ mảnh thẻ vỡ ngoài chiến\ntrường... nhưng Cây Trí Tuệ đính chính\nchỉ là đồ thủ công từ bìa thừa.\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 100 mét."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL15",
+    "en": "Wisdom Shovel",
+    "vi": "Xẻng Trí Tuệ"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL15_TOOLTIP",
+    "en": "Triggers On-Death and grants Buy-One-Get-One on next placement!",
+    "vi": "Đào cây kích hoạt Khi chết và lần trồng kế mua 1 tặng 1."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "SHOVEL15_DESCRIPTION",
+    "en": "Triggers On-Death upon removal, and your\nnext placement of that plant spawns a\nbonus copy!\n{SHORTLINE}\nBorn from the Tree of Wisdom's ancient,\ntime-tested intellect...\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 1,000m.",
+    "vi": "Đào cây kích hoạt hiệu ứng Khi chết và\nlần trồng sau của cây đó được mua 1 tặng\n1!\n{SHORTLINE}\nKết tinh từ trí tuệ uyên thâm ngàn năm\ncủa Cây Trí Tuệ...\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 1000 mét."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER0",
+    "en": "Lawn Mower",
+    "vi": "Xe Cắt Cỏ"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER0_TOOLTIP",
+    "en": "Clears non-Boss zombies on the lawn; right-click to fire manually.",
+    "vi": "Dọn sạch zombie thường trên sân; chuột phải để kích hoạt thủ công."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER0_DESCRIPTION",
+    "en": "Clears non-Boss zombies in its lane;\nright-click to trigger manually.\n{SHORTLINE}\nYour trusty old backyard mower, slightly\nmodded for anti-zombie duty.\n{SHORTLINE}\nUnlock: Free.",
+    "vi": "Dọn sạch zombie không phải Trùm trên\nhàng; chuột phải để phóng chủ động.\n{SHORTLINE}\nMáy cắt cỏ gắn bó lâu năm trong sân nhà\nbạn, được độ nhẹ để dọn zombie.\n{SHORTLINE}\nCách nhận: Miễn phí."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER1",
+    "en": "Pool Cleaner",
+    "vi": "Xe Dọn Hồ Bơi"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER1_TOOLTIP",
+    "en": "Clears non-Boss zombies in pool lanes; right-click to launch.",
+    "vi": "Dọn sạch zombie thường dưới nước; chuột phải để kích hoạt."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER1_DESCRIPTION",
+    "en": "Clears non-Boss zombies in water lanes;\nright-click to trigger manually.\n{SHORTLINE}\nA fine gadget bought from Dave long ago\n— no more fishing regular mowers out of\nthe pool.\n{SHORTLINE}\nUnlock: Free.",
+    "vi": "Dọn sạch zombie không phải Trùm dưới làn\nnước; chuột phải để phóng chủ động.\n{SHORTLINE}\nMón đồ xịn mua từ Dave lâu lắm rồi, giờ\nkhỏi lo xe cắt cỏ rớt xuống hồ.\n{SHORTLINE}\nCách nhận: Miễn phí."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER2",
+    "en": "Roof Cleaner",
+    "vi": "Xe Dọn Mái Nhà"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER2_TOOLTIP",
+    "en": "Clears non-Boss zombies on the roof; right-click to launch.",
+    "vi": "Dọn sạch zombie thường trên mái nhà; chuột phải để kích hoạt."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER2_DESCRIPTION",
+    "en": "Clears non-Boss zombies on roof lanes;\nright-click to trigger manually.\n{SHORTLINE}\nAnother fancy contraption from Crazy\nDave's Twiddydinkies~\n{SHORTLINE}\nUnlock: Free.",
+    "vi": "Dọn sạch zombie không phải Trùm trên mái\nnhà; chuột phải để phóng chủ động.\n{SHORTLINE}\nMón đồ chơi cầu kỳ đến từ tiệm của Crazy\nDave~\n{SHORTLINE}\nCách nhận: Miễn phí."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER3",
+    "en": "Super Lawn Mower",
+    "vi": "Siêu Xe Cắt Cỏ"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER3_TOOLTIP",
+    "en": "Clears non-Boss zombies on the lawn; right-click to launch.",
+    "vi": "Dọn sạch zombie thường trên sân; chuột phải để kích hoạt."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER3_DESCRIPTION",
+    "en": "Clears non-Boss zombies in its lane;\nright-click to trigger manually.\n{SHORTLINE}\nBrand-new upgraded chassis! Sleek looks!\nIdentical function!\n{SHORTLINE}\nUnlock: Free.",
+    "vi": "Dọn sạch zombie không phải Trùm trên\nhàng; chuột phải để phóng chủ động.\n{SHORTLINE}\nBản nâng cấp mới toanh! Ngoại hình cực\nngầu! Công năng y hệt!\n{SHORTLINE}\nCách nhận: Miễn phí."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER4",
+    "en": "Starlight Mower",
+    "vi": "Xe Ánh Sao"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER4_TOOLTIP",
+    "en": "Replaces Lawn Mower: clears non-Bosses and fires Stars as it rolls.",
+    "vi": "Thay Xe Cắt Cỏ: dọn quái thường và rải Ngôi Sao dọc đường."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER4_DESCRIPTION",
+    "en": "Replaces Lawn Mower; clears non-Bosses\nwhile spraying Stars continuously\n(right-click to launch).\n{SHORTLINE}\nOriginally designed as a party prop for\nrolling out a \"Walk of Fame.\"\n{SHORTLINE}\nUnlock: Star Exchange.",
+    "vi": "Thay thế Xe Cắt Cỏ, dọn zombie thường và\nliên tục bắn Ngôi Sao; chuột phải phóng\nthủ công.\n{SHORTLINE}\nVốn là đạo cụ tạo hiệu ứng \"đại lộ danh\nvọng\" khuấy động tiệc tùng.\n{SHORTLINE}\nCách nhận: Đổi Sao."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER5",
+    "en": "Ice Pool Cleaner",
+    "vi": "Xe Dọn Hồ Băng Giá"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER5_TOOLTIP",
+    "en": "Replaces Pool Cleaner: clears non-Bosses and triggers full-screen Freeze.",
+    "vi": "Thay Xe Dọn Hồ: dọn quái thường và đóng băng toàn sân."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER5_DESCRIPTION",
+    "en": "Replaces Pool Cleaner; clears non-Boss\nzombies and triggers full-screen freeze\n(right-click to launch).\n{SHORTLINE}\nGreat for chilling a hot pool... even if\npools rarely need chilling?\n{SHORTLINE}\nUnlock: Shop.",
+    "vi": "Thay thế Xe Dọn Hồ, dọn zombie thường và\nkích hoạt đóng băng toàn màn; chuột phải\nphóng thủ công.\n{SHORTLINE}\nDùng để làm mát hồ bơi rất tiện... dù đa\nsố lúc hồ bơi chả cần hạ nhiệt?\n{SHORTLINE}\nCách nhận: Mua trong Cửa Hàng."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER6",
+    "en": "Diamond Mower",
+    "vi": "Xe Kim Cương"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER6_TOOLTIP",
+    "en": "Replaces Lawn Mower: clears non-Bosses and drops Diamonds.",
+    "vi": "Thay Xe Cắt Cỏ: dọn quái thường và rớt ra Kim Cương."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER6_DESCRIPTION",
+    "en": "Replaces Lawn Mower; clears non-Boss\nzombies while dropping Diamonds\n(right-click to launch).\n{SHORTLINE}\nThe billionaire of the mower world — #1\non the annual \"Mowerbes\" rich list.\n{SHORTLINE}\nUnlock: Achievement.",
+    "vi": "Thay thế Xe Cắt Cỏ, dọn zombie thường và\nrơi Kim Cương; chuột phải phóng thủ\ncông.\n{SHORTLINE}\nĐại gia khét tiếng giới xe đẩy, đứng đầu\nbảng xếp hạng giàu có thường niên.\n{SHORTLINE}\nCách nhận: Thành Tựu."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER7",
+    "en": "Chrono Mower",
+    "vi": "Xe Thời Gian"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER7_TOOLTIP",
+    "en": "Replaces Lawn Mower: clears non-Bosses and freezes time for zombies.",
+    "vi": "Thay Xe Cắt Cỏ: dọn quái thường và ngưng đọng thời gian zombie."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER7_DESCRIPTION",
+    "en": "Replaces Lawn Mower; clears non-Boss\nzombies and pauses all zombies briefly\n(right-click to launch).\n{SHORTLINE}\nZA WARUDO!\n{SHORTLINE}\nUnlock: Achievement.",
+    "vi": "Thay thế Xe Cắt Cỏ, dọn zombie thường và\ntạm ngưng đọng toàn bộ zombie; chuột\nphải phóng thủ công.\n{SHORTLINE}\nZA WARUDO!\n{SHORTLINE}\nCách nhận: Thành Tựu."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER8",
+    "en": "Sprinkler Pool Cleaner",
+    "vi": "Xe Dọn Hồ Vòi Phun"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER8_TOOLTIP",
+    "en": "Replaces Pool Cleaner: clears non-Bosses and trims 5s off passed plant CDs.",
+    "vi": "Thay Xe Dọn Hồ: dọn quái thường và giảm 5s hồi chiêu cây dọc đường."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER8_DESCRIPTION",
+    "en": "Replaces Pool Cleaner; clears non-Boss\nzombies and shaves 5s off cooldown for\nplants passed (right-click).\n{SHORTLINE}\nHey, why is this thing leaking\neverywhere?\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 30m.",
+    "vi": "Thay thế Xe Dọn Hồ, dọn zombie thường và\ngiảm 5s hồi chiêu cho cây dọc đường;\nchuột phải phóng thủ công.\n{SHORTLINE}\nƠ kìa, sao cái xe này rỉ nước tùm lum\nvậy?\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 30 mét."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER9",
+    "en": "Fertilizer Mower",
+    "vi": "Xe Đẩy Phân Bón"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER9_TOOLTIP",
+    "en": "Replaces Lawn Mower: clears non-Bosses and boosts passed plants' HP by +50%.",
+    "vi": "Thay Xe Cắt Cỏ: dọn quái thường và tăng 50% máu cây dọc đường."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER9_DESCRIPTION",
+    "en": "Replaces Lawn Mower; clears non-Bosses\nand grants +50% HP to plants along its\npath (right-click).\n{SHORTLINE}\nImported straight from San Diego —\nrumored to have saved struggling\nfarmlands?\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 50m.",
+    "vi": "Thay thế Xe Cắt Cỏ, dọn zombie thường và\ntăng 50% máu cho cây dọc đường; chuột\nphải phóng thủ công.\n{SHORTLINE}\nHàng nhập nguyên chiếc từ San Diego,\ntương truyền từng giải cứu nhiều vùng\nnông nghiệp kém phát triển?\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 50 mét."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER10",
+    "en": "Gold Sprinkler Cleaner",
+    "vi": "Xe Vòi Phun Vàng"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER10_TOOLTIP",
+    "en": "Replaces Pool Cleaner: trims 15s CD across 3 rows!",
+    "vi": "Thay Xe Dọn Hồ: giảm 15s hồi chiêu cho cây trong 3 hàng!"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER10_DESCRIPTION",
+    "en": "Replaces Pool Cleaner; clears non-Bosses\nand cuts 15s cooldown across 3 adjacent\nrows (right-click).\n{SHORTLINE}\nBuilt for automated garden watering...\nuntil Stinky the Snail stole its job.\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 150m.",
+    "vi": "Thay thế Xe Dọn Hồ, dọn zombie thường và\ngiảm 15s hồi chiêu cho cây 3 hàng; chuột\nphải phóng thủ công.\n{SHORTLINE}\nVốn chế để tự động tưới vườn... nhưng bị\nỐc Sên cướp mất chén cơm rồi.\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 150 mét."
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER11",
+    "en": "Musical Roof Cleaner",
+    "vi": "Xe Mái Nhà Âm Nhạc"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER11_TOOLTIP",
+    "en": "Replaces Roof Cleaner: doubles attack speed of passed plants for 30s!",
+    "vi": "Thay Xe Dọn Mái: tăng gấp đôi tốc đánh cây dọc đường trong 30 giây!"
+  },
+  {
+    "file": "NewPropStrings.txt",
+    "key": "LAWNMOWER11_DESCRIPTION",
+    "en": "Replaces Roof Cleaner; clears non-Bosses\nand doubles attack speed of passed\nplants for 30s (right-click).\n{SHORTLINE}\nThere's a zombie on your roof~\n{SHORTLINE}\nUnlock: Grow Tree of Wisdom to 200m.",
+    "vi": "Thay thế Xe Dọn Mái, dọn zombie thường\nvà nhân đôi tốc độ đánh cho cây dọc\nđường suốt 30s; chuột phải phóng.\n{SHORTLINE}\nThere's a zombie on your roof~\n{SHORTLINE}\nCách nhận: Cây Trí Tuệ cao 200 mét."
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_CAPTIONS",
+    "en": "Achievement Unlocked: %s!",
+    "vi": "Đã đạt thành tựu: %s!"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_1",
+    "en": "Journey's End",
+    "vi": "Tổng Kết Hành Trình"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_2",
+    "en": "Hybrid Virtuoso",
+    "vi": "Chuyên Gia Lai Tạo"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_3",
+    "en": "Sunflower Manual",
+    "vi": "Quỳ Hoa Bảo Điển"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_4",
+    "en": "Turn the Tide!",
+    "vi": "Lật Ngược Thế Cờ!"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_5",
+    "en": "Infinite Energy",
+    "vi": "Năng Lượng Vô Tận"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_6",
+    "en": "Lucky Day",
+    "vi": "Một Ngày May Mắn"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_7",
+    "en": "Golden Legend",
+    "vi": "Huyền Thoại Ánh Vàng"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_8",
+    "en": "Treasure Hunter",
+    "vi": "Thợ Săn Kho Báu"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_9",
+    "en": "Diamond Tycoon",
+    "vi": "Ông Trùm Kim Cương"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_10",
+    "en": "Big Spender",
+    "vi": "Vung Tiền Như Rác"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_11",
+    "en": "Zombie Slayer",
+    "vi": "Sát Thủ Zombie"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_12",
+    "en": "Crazy Thursday",
+    "vi": "Thứ Năm Điên Cuồng"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_13",
+    "en": "Energy Crisis",
+    "vi": "Khủng Hoảng Năng Lượng"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_14",
+    "en": "Flame Fiesta",
+    "vi": "Tiệc Lửa Rực Cháy"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_15",
+    "en": "Zero-Dollar Spree",
+    "vi": "Mua Sắm Không Đồng"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_16",
+    "en": "Grand Jackpot",
+    "vi": "Giải Đặc Biệt"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_17",
+    "en": "Absolute Zero",
+    "vi": "Độ Không Tuyệt Đối"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_18",
+    "en": "Thrifty Saver",
+    "vi": "Thói Quen Tiết Kiệm"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_19",
+    "en": "Indestructible",
+    "vi": "Bất Khả Xâm Phạm"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_20",
+    "en": "Matryoshka Stack",
+    "vi": "Búp Bê Tầng Lớp"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_21",
+    "en": "Time Machine",
+    "vi": "Cỗ Máy Thời Gian"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_22",
+    "en": "Match-3 Sweep",
+    "vi": "Quét Sạch Bóng Bẩy"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_23",
+    "en": "All Grown Up",
+    "vi": "Trưởng Thành Rồi"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_24",
+    "en": "Hungry Yet?",
+    "vi": "Đói Bụng Chưa?"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_25",
+    "en": "Nowhere to Run",
+    "vi": "Chạy Đâu Cho Thoát"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_26",
+    "en": "Vase Terminator",
+    "vi": "Kẻ Hủy Diệt Bình Hoa"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_27",
+    "en": "Brainstorm",
+    "vi": "Cơn Bão Não"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_28",
+    "en": "Seven-Star Strike",
+    "vi": "Thất Tinh Liên Châu"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_29",
+    "en": "Air Raid",
+    "vi": "Không Chiến"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_30",
+    "en": "Flawless Defense",
+    "vi": "Không Chỗ Chê"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_31",
+    "en": "Eco Recycler",
+    "vi": "Tái Chế Tận Dụng"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_32",
+    "en": "Quintuplets",
+    "vi": "Sinh Năm Cùng Lúc"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_33",
+    "en": "Freeloading Limit",
+    "vi": "Giới Hạn Dùng Chùa"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_34",
+    "en": "Push the Limit",
+    "vi": "Thách Thức Giới Hạn"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_35",
+    "en": "Shovel Enthusiast",
+    "vi": "Đam Mê Xẻng"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_36",
+    "en": "Growing Upwards",
+    "vi": "Vươn Cao Mỗi Ngày"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_37",
+    "en": "Master Gardener",
+    "vi": "Nghệ Nhân Làm Vườn"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_38",
+    "en": "Left-Right Harmony",
+    "vi": "Phối Hợp Hai Đầu"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_1_TOOLTIP",
+    "en": "Clear Adventure Mode Chapters 1-8.\n{SHORTLINE}\n{AQUATIC}Reward: Pumpkin Shovel",
+    "vi": "Hoàn thành Chế Độ Phiêu Lưu Chương 1-8.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xẻng Bí Ngô"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_2_TOOLTIP",
+    "en": "Collect 100 distinct plants.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x1,000",
+    "vi": "Sưu tầm 100 loại cây khác nhau.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x1000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_3_TOOLTIP",
+    "en": "Earn the Gold Sunflower Trophy.\n{SHORTLINE}\n{AQUATIC}Reward: Seed Card - Gold Sunflower",
+    "vi": "Nhận được Cúp Hướng Dương Vàng.\n{SHORTLINE}\n{AQUATIC}Thưởng: Thẻ Cây - Hướng Dương Vàng"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_4_TOOLTIP",
+    "en": "Hypnotize 20 zombies at once.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x200",
+    "vi": "Thôi miên cùng lúc 20 zombie.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x200"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_5_TOOLTIP",
+    "en": "Gain 1,000 Sun in a single cast of Sun Bomb or Ice Sun-shroom.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
+    "vi": "Dùng Bom Mặt Trời hoặc Nấm Mặt Trời Băng nhận 1000 Mặt trời một lần.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_6_TOOLTIP",
+    "en": "Clear any Challenge stage bringing ONLY Lucky Clover.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
+    "vi": "Vượt 1 màn Thử Thách chỉ mang theo Cỏ Bốn Lá May Mắn.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_7_TOOLTIP",
+    "en": "Clear any Challenge stage carrying 16 Gold Cards.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
+    "vi": "Vượt 1 màn Thử Thách khi mang đủ 16 Thẻ Vàng.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_8_TOOLTIP",
+    "en": "Obtain 100 total Gold Cards via Treasure Eater.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
+    "vi": "Dùng Kẻ Nuốt Kho Báu nhận tổng cộng 100 Thẻ Vàng.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_9_TOOLTIP",
+    "en": "Hold 10,000 Diamonds.\n{SHORTLINE}\n{AQUATIC}Reward: Diamond Mower",
+    "vi": "Sở hữu 10.000 Kim Cương.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xe Kim Cương"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_10_TOOLTIP",
+    "en": "Spend 100,000 total currency.\n{SHORTLINE}\n{AQUATIC}Reward: Deluxe Shovel",
+    "vi": "Tiêu tổng cộng 100.000 tiền tệ.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xẻng Cao Cấp"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_11_TOOLTIP",
+    "en": "Defeat 1,000,000 zombies total.\n{SHORTLINE}\n{AQUATIC}Reward: Hypno Shovel",
+    "vi": "Tiêu diệt tổng cộng 1.000.000 zombie.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xẻng Thôi Miên"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_12_TOOLTIP",
+    "en": "Spend 50 Diamonds on Burger Shooter on a Thursday.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x50",
+    "vi": "Vào thứ Năm dùng 50 Kim Cương mua Súng Bánh Burger.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x50"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_13_TOOLTIP",
+    "en": "Drop your Sun balance to -1,000 or lower.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
+    "vi": "Đạt lượng Mặt trời từ -1000 trở xuống.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_14_TOOLTIP",
+    "en": "Thaw 20 frozen plants at once.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x2,000",
+    "vi": "Rã đông cùng lúc 20 cây bị đóng băng.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x2000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_15_TOOLTIP",
+    "en": "Have 15 cards costing 0 Sun at once in any level.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x2,000",
+    "vi": "Trong một màn bất kỳ có cùng lúc 15 thẻ giá 0.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x2000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_16_TOOLTIP",
+    "en": "Win the Trophy jackpot from Gold Melon-pult.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x2,000",
+    "vi": "Dùng Pháo Dưa Vàng mở trúng Cúp Chiến Thắng.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x2000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_17_TOOLTIP",
+    "en": "Freeze 30 zombies simultaneously.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x2,000",
+    "vi": "Đóng băng cùng lúc 30 zombie.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x2000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_18_TOOLTIP",
+    "en": "Have a Piggy Bank Nut storing 100 coins.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x200",
+    "vi": "Sở hữu một Hạt Dẻ Heo Đất tích trữ đủ 100 đồng xu.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x200"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_19_TOOLTIP",
+    "en": "Have a single plant with 20,000 HP in any level.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x2,000",
+    "vi": "Trong màn bất kỳ có một cây đạt 20.000 máu.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x2000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_20_TOOLTIP",
+    "en": "Stack 10 plants on a single tile.\n{SHORTLINE}\n{AQUATIC}Reward: Gift Box Shovel",
+    "vi": "Trồng dồn 10 cây trong cùng một ô đất.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xẻng Hộp Quà"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_21_TOOLTIP",
+    "en": "Use Timer or Reverse Alarm 100 times total.\n{SHORTLINE}\n{AQUATIC}Reward: Chrono Mower",
+    "vi": "Dùng tổng cộng 100 lần Đồng Hồ Hẹn Giờ hoặc Ngược Giờ.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xe Thời Gian"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_22_TOOLTIP",
+    "en": "Clear zombie armor, tombstones, AND craters in one Pinata Candy cast.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x500",
+    "vi": "Dùng Kẹo Quét Sạch xóa cùng lúc giáp zombie, bia mộ và hố bom.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x500"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_23_TOOLTIP",
+    "en": "Mature 1,000 growing plants total.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
+    "vi": "Giúp tổng cộng 1000 cây trưởng thành.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_24_TOOLTIP",
+    "en": "Have 3,000 plants eaten by zombies total.\n{SHORTLINE}\n{AQUATIC}Reward: Burger Shovel",
+    "vi": "Bị zombie ăn mất tổng cộng 3000 cây.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xẻng Bánh Burger"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_25_TOOLTIP",
+    "en": "Plant a full column of Garlic Flowers.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x500",
+    "vi": "Trồng kín một cột Hoa Tỏi.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x500"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_26_TOOLTIP",
+    "en": "Reach Wave 30 in Vasebreaker Endless.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x1,000",
+    "vi": "Vượt qua đợt 30 Đập Bình Vô Tận.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x1000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_27_TOOLTIP",
+    "en": "Reach Wave 20 in I, Zombie Endless.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x1,000",
+    "vi": "Vượt qua đợt 20 Tôi Là Zombie Vô Tận.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x1000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_28_TOOLTIP",
+    "en": "Knock down 7 zombies with a single Bowling Wall-nut.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
+    "vi": "Húc ngã 7 zombie chỉ bằng một quả Bowling Hạt Dẻ.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_29_TOOLTIP",
+    "en": "Blow away 10 Balloon Zombies at once.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x2,000",
+    "vi": "Thổi bay cùng lúc 10 Zombie Bóng Bay.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x2000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_30_TOOLTIP",
+    "en": "Pack 4 plants onto each of any 40 lawn tiles!\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x500",
+    "vi": "Trồng kín mỗi ô 4 cây trên 40 ô bất kỳ!\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x500"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_31_TOOLTIP",
+    "en": "Relife 100 plants.\n{SHORTLINE}\n{AQUATIC}Reward: Gold Coins x1,000",
+    "vi": "Tái tạo 100 cây.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Vàng x1000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_32_TOOLTIP",
+    "en": "Draw 5 identical cards using Lucky Clover or Gold Sunflower.\n{SHORTLINE}\n{AQUATIC}Reward: Seed Card - Lucky Clover",
+    "vi": "Dùng Cỏ Bốn Lá May Mắn hoặc Hướng Dương Vàng mở ra 5 thẻ giống nhau.\n{SHORTLINE}\n{AQUATIC}Thưởng: Thẻ Cây - Cỏ Bốn Lá May Mắn"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_33_TOOLTIP",
+    "en": "Draw a card with base cost >=300 from Spare Supplies.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x3,000",
+    "vi": "Dùng Tiếp Tế Dự Phòng mở trúng thẻ có giá gốc từ 300 trở lên.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x3000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_34_TOOLTIP",
+    "en": "Defeat a zombie positioned in Column -1.\n{SHORTLINE}\n{AQUATIC}Reward: Silver Coins x1,000",
+    "vi": "Hạ một zombie đang đứng ở cột -1 trên bản đồ.\n{SHORTLINE}\n{AQUATIC}Thưởng: Xu Bạc x1000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_35_TOOLTIP",
+    "en": "Collect 10 Shovels.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x1,000",
+    "vi": "Sưu tầm 10 chiếc Xẻng.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x1000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_36_TOOLTIP",
+    "en": "Grow the Tree of Wisdom to 500m.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x1,000",
+    "vi": "Nuôi Cây Trí Tuệ cao tới 500 mét.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x1000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_37_TOOLTIP",
+    "en": "Raise 200 different plants in your Zen Garden total.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x1,000",
+    "vi": "Trồng tích lũy 200 giống cây khác nhau trong Khu Vườn.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x1000"
+  },
+  {
+    "file": "NewAcheesementsStrings.txt",
+    "key": "ACHEESEMENTS_38_TOOLTIP",
+    "en": "Clear every Pincer Double-Front stage.\n{SHORTLINE}\n{AQUATIC}Reward: Diamonds x1,000",
+    "vi": "Hoàn thành toàn bộ các màn Kẹp Hai Đầu.\n{SHORTLINE}\n{AQUATIC}Thưởng: Kim Cương x1000"
+  }
+]

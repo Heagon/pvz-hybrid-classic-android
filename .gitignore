@@ -1,0 +1,50 @@
+# --- Never commit binaries / game content / secrets ---
+# APKs (distribute via GitHub Releases, not git)
+*.apk
+*.idsig
+*.tzst
+
+# Signing keys / keystores (must never be published)
+*.keystore
+*.jks
+*.pem
+*.p12
+*.pk8
+debug.keystore
+
+# Original PC / launcher game binaries & PAK archives (belong to creators — not redistributed)
+*.exe
+*.dll
+*.pak
+*.7z
+*.zip
+game_orig/
+he_extracted/
+
+# Copyrighted fonts — bring your own or generate via local setup
+tools/*.ttf
+*.ttf
+*.otf
+*.ttc
+
+# Toolchain binaries (users download their own)
+*.jar
+platform-tools/
+
+# Build / work / staging artifacts
+work/
+output/
+build/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
