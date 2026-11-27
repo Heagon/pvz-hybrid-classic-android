@@ -52,9 +52,9 @@ Chi tiết bản phát hành & mã kiểm tra SHA-256: **[GitHub Release `v3.20.
 
 | Tên tệp APK | Kích thước chuẩn (Bytes) | SHA-256 |
 | :--- | :---: | :--- |
-| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `406,690,008` | `69631d079f94d7481ecdcf35bc45e3e5bd6b35bc6b80be1ac2614465c7417f5f` |
-| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `406,526,168` | `17cedd5b7f3d4e31de92baff658d6a9f3c79c7f1caac4d2c9cfa79ca2283096f` |
-| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,176` | `618e42b5864da5d490a6f124e7b7df81071e22cc5c6e2e8e536c521cd25627cd` |
+| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `406,690,009` | `90dc97ef7628b663910812e77f0312b3f8326ffcae663e5569feb481ef5b3baa` |
+| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `406,526,169` | `98b0aaef91e536b65986c03aaeb10d0cde52b0bc4da35720c135a1d318efc1c9` |
+| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,177` | `63f9556e36c57fa2d44641aa5579b67166bf240fe8fcecac63cb79eb306b2b72` |
 
 </details>
 
@@ -85,7 +85,7 @@ Chi tiết bản phát hành & mã kiểm tra SHA-256: **[GitHub Release `v3.20.
 
 Khác với *PvZ Fusion* (làm trên Unity), *PvZ Hybrid Classic* (*植物大战僵尸杂交版经典版*) được lập trình bằng C++ PopCap cho Windows với mã hóa chữ GBK. Dự án này xử lý triệt để mọi rào cản để biến game thành **1 tệp APK dùng ngay trên Android**:
 
-- **Không Cần Thiết Lập Giả Lập Rườm Rà:** Tích hợp sẵn Wine/Box64 bên trong gói riêng `com.pvzh.cls`, cài là chơi, không xung đột với các bản Winlator hay PvZ khác trên máy.
+- **Không Cần Thiết Lập Giả Lập &amp; Thoát Game Sạch Sẽ:** Tích hợp sẵn Wine/Box64 bên trong gói riêng `com.pvzh.cls`, cài là chơi, không xung đột với các bản Winlator hay PvZ khác; khi bấm Thoát trong game hoặc Exit ở menu Drawer sẽ đóng sạch tiến trình Wine/task Android thay vì tự khởi động lại.
 - **Khung Hình Widescreen `1080x600` Tràn Viền &amp; Cảm Ứng 1-Chạm:** Tự động cấu hình chuẩn rộng `1080x600` kéo đầy màn hình điện thoại (không viền đen, không mất nút góc phải), ẩn HUD mặc định (`HUDMode=0`), sửa ánh xạ X/Y độc lập trong `TouchpadView` và di chuyển con trỏ ngay khi chạm `ACTION_DOWN` (giữ click 60 ms) giúp chạm nút 1 lần ăn ngay.
 - **Tối Ưu Ổn Định `~29–34 FPS` &amp; Giảm Chuyển Cảnh Chậm (`VirGL` + Ghim Lõi Hiệu Năng Cao):** Mặc định dùng **`VirGL`** kết hợp **`WineD3D` GL (`csmt=0`, `OffscreenRenderingMode=fbo`, `strict_shader_math=0`, `VideoMemorySize=512`)**, `WINEESYNC=1`, tắt `mesa_glthread`, bật `Is3D=1` sắc nét, Box64 fast dynarec (`STRONGMEM=0`, `BIGBLOCK=3`, `CALLRET=1`, `FASTNAN=1`, `FASTROUND=1`, `NATIVEFLAGS=1`, `FORWARD=1024`), và tự dò lõi CPU mạnh theo từng máy (`detectBigCoreAffinity()`). Kết hợp 5 cụm tối ưu nhị phân trong `.newHE` (`patch_exe_perf.py`: tách nhịp render `30 FPS` mà vẫn giữ logic game `100 Hz`, loại bỏ vẽ thẻ ngoài khung hình ở màn Chọn Cây nâng từ `3,35 FPS` lên `9,8–11,7 FPS`, fast-path `Reanimation::MatrixFromTransform` khi góc = 0, tiết chế hạt nặng khi đông particle, rút ngắn chuyển cảnh `4–20x` kèm failsafe `SeedBank`) — đạt thực tế **`28,5–29,1 FPS`** ở Menu Chính, **`33,9–34,0 FPS`** ở Phiêu Lưu `1-1` và **`~20–27 FPS`** ở các màn Thử Thách đông quái trên chip Helio G99.
 - **Vá UTF-8 Tận Lõi Engine + 6 Font Unicode:** Chỉnh sửa `gdi42.dll` tại 4 điểm `MultiByteToWideChar` (`CP936` → `CP_UTF8`) và nhúng trọn vẹn bộ dấu tiếng Việt vào tất cả 6 font `.ttf` của game.

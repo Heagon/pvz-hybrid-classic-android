@@ -52,9 +52,9 @@ Full release notes & checksums: **[GitHub Release `v3.20.1`](https://github.com/
 
 | File | Exact Bytes | SHA-256 |
 | :--- | :---: | :--- |
-| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `406,526,168` | `17cedd5b7f3d4e31de92baff658d6a9f3c79c7f1caac4d2c9cfa79ca2283096f` |
-| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `406,690,008` | `69631d079f94d7481ecdcf35bc45e3e5bd6b35bc6b80be1ac2614465c7417f5f` |
-| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,176` | `618e42b5864da5d490a6f124e7b7df81071e22cc5c6e2e8e536c521cd25627cd` |
+| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `406,526,169` | `98b0aaef91e536b65986c03aaeb10d0cde52b0bc4da35720c135a1d318efc1c9` |
+| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `406,690,009` | `90dc97ef7628b663910812e77f0312b3f8326ffcae663e5569feb481ef5b3baa` |
+| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,177` | `63f9556e36c57fa2d44641aa5579b67166bf240fe8fcecac63cb79eb306b2b72` |
 
 </details>
 
@@ -85,7 +85,7 @@ Full release notes & checksums: **[GitHub Release `v3.20.1`](https://github.com/
 
 *Plants vs. Zombies: Hybrid Classic* (*植物大战僵尸杂交版经典版*) was built as a Windows PopCap C++ binary mod, so it normally requires manual Winlator setup on mobile and only renders GBK Chinese text. This suite packages everything into one standalone Android app:
 
-- **Zero Emulator Hassle:** Bundled standalone runtime (`com.pvzh.cls`) with no root, no manual container import, and no external Winlator installation required.
+- **Zero Emulator Hassle &amp; Clean Shutdown:** Bundled standalone runtime (`com.pvzh.cls`) with no root, no manual container import, and no external Winlator installation required; quitting in-game or from the drawer cleanly tears down Wine processes and closes the Android task without auto-restarting.
 - **Native `1080x600` Mobile Widescreen &amp; 1-Tap Touch:** Automatically launches in true `1080x600` widescreen stretched edge-to-edge on phone displays (0 sidebars, 0 clipped right-side menus), fixes axis-independent `TouchpadView` coordinates, and injects `ACTION_DOWN` cursor tracking + 60 ms hold with `HUDMode=0` clean fullscreen gameplay.
 - **Smooth ~30 FPS Engine &amp; Android Performance Tuning (`VirGL` + Dynamic Big-Core Affinity):** Defaults to **`VirGL`** + **`WineD3D` GL (`csmt=0`, `OffscreenRenderingMode=fbo`, `strict_shader_math=0`, `VideoMemorySize=512`)**, `WINEESYNC=1`, `mesa_glthread=false`, upright `Is3D=1` 3D Acceleration, Box64 fast dynarec (`STRONGMEM=0`, `BIGBLOCK=3`, `CALLRET=1`, `FASTNAN=1`, `FASTROUND=1`, `NATIVEFLAGS=1`, `FORWARD=1024`), and dynamic per-SoC big/performance-core scheduling (`detectBigCoreAffinity()`). Combined with 5 binary `.newHE` optimizations (`patch_exe_perf.py`: `30 FPS` render pacing decoupled from `100 Hz` game logic, off-screen `SeedChooser` card culling jumping from `3.35 FPS` to `9.8–11.7 FPS`, zero-angle `Reanimation::MatrixFromTransform` fast path, particle-spawn throttling under heavy load, and snappy `4–20x` faster camera/menu transitions with `SeedBank` safety), reaching **`28.5–29.1 FPS`** on menus and **`33.9–34.0 FPS`** in Adventure `1-1` (`~20–27 FPS` in heavy Challenge modes) on mid-range Helio G99 Android hardware.
 - **Engine-Level UTF-8 &amp; Font Upgrade:** Binary-patched `gdi42.dll` (`CP936` → `CP_UTF8`) across all 4 `MultiByteToWideChar` call sites and merged complete Latin + Vietnamese diacritics via `fontTools` into all 6 runtime `.ttf` fonts.

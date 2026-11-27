@@ -52,9 +52,9 @@
 
 | 文件名 | 精确字节数 | SHA-256 |
 | :--- | :---: | :--- |
-| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,176` | `618e42b5864da5d490a6f124e7b7df81071e22cc5c6e2e8e536c521cd25627cd` |
-| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `406,526,168` | `17cedd5b7f3d4e31de92baff658d6a9f3c79c7f1caac4d2c9cfa79ca2283096f` |
-| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `406,690,008` | `69631d079f94d7481ecdcf35bc45e3e5bd6b35bc6b80be1ac2614465c7417f5f` |
+| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,177` | `63f9556e36c57fa2d44641aa5579b67166bf240fe8fcecac63cb79eb306b2b72` |
+| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `406,526,169` | `98b0aaef91e536b65986c03aaeb10d0cde52b0bc4da35720c135a1d318efc1c9` |
+| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `406,690,009` | `90dc97ef7628b663910812e77f0312b3f8326ffcae663e5569feb481ef5b3baa` |
 
 </details>
 
@@ -83,7 +83,7 @@
 <a id="highlights"></a>
 ## ✨ 核心技术亮点
 
-- **真正零配置单包体验：** 独立封装运行容器于 `com.pvzh.cls` 内，免 Root、无需手动导入数据包或单独配置 Winlator，且不与其他软件冲突。
+- **真正零配置单包体验与彻底退出：** 独立封装运行容器于 `com.pvzh.cls` 内，免 Root、无需手动导入数据包或单独配置 Winlator，且不与其他软件冲突；在游戏内点击退出或在侧栏点击 Exit 时会彻底清理 Wine 进程并移除后台任务，不会自动重启。
 - **原生 `1080x600` 移动宽屏满屏与单点即响：** 默认启用原生 `1080x600` 宽屏并全面屏铺满手机屏幕（无黑边、不裁剪右侧菜单），默认隐藏悬浮 HUD (`HUDMode=0`)，修复 `TouchpadView` 独立 X/Y 触控缩放并在 `ACTION_DOWN` 时同步移动指针与 60 ms 点击保持，大幅提升首触响应速度。
 - **稳定 `~29–34 FPS` 帧率优化与转场加速 (`VirGL` + 动态性能核调度)：** 默认启用 **`VirGL`** + **`WineD3D` GL (`csmt=0`、`OffscreenRenderingMode=fbo`、`strict_shader_math=0`、`VideoMemorySize=512`)**、`WINEESYNC=1`、关闭 `mesa_glthread`、开启正向 `Is3D=1` 3D 加速与 Box64 快速 Dynarec，并在启动时通过 `detectBigCoreAffinity()` 动态绑定各机型高性能核。配合 `patch_exe_perf.py` 五处二进制优化（渲染解耦为 `30 FPS` 而保留 `100 Hz` 原速游戏逻辑、选卡面板屏外裁剪使静态选卡从 `3.35 FPS` 提至 `9.8–11.7 FPS`、零角度 `Reanimation::MatrixFromTransform` 快速通道、高密度粒子生成节流，以及 `4–20x` 过场与视角平移加速），在 Helio G99 机型实测主菜单 **`28.5–29.1 FPS`**、冒险 `1-1` **`33.9–34.0 FPS`**、高怪挑战关 **`~20–27 FPS`**。
 - **底层 UTF-8 与全字库融合：** 修改 `gdi42.dll` 4 处 `MultiByteToWideChar`（`CP936` → `CP_UTF8`），并将完整拉丁扩展及越南语声调字形注入全部 6 套 `.ttf` 字体。
