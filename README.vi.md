@@ -40,9 +40,9 @@ Chi tiết bản phát hành & mã kiểm tra SHA-256: **[GitHub Release `v3.20.
 
 | Phiên bản ngôn ngữ | Dung lượng | Tóm tắt nội dung | Tải trực tiếp |
 | :--- | :---: | :--- | :---: |
-| **`[VI]` Bản Việt Hóa** | `387.8 MiB` (`406.7 MB`) | Việt hóa hoàn chỉnh (3.309 chuỗi `properties` kèm 437 mô tả Sổ Tay tinh gọn vừa khung, 1.038 chuỗi EXE / 1.421 tham chiếu, 171 texture Việt hóa, tối ưu `VirGL` + `csmt=0`, 6 font Unicode + `PvZ2-VH Bold`) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Bản Việt Hóa"></a> |
-| **`[EN]` English** | `387.7 MiB` (`406.5 MB`) | Bản Tiếng Anh hoàn chỉnh (3.309 chuỗi `properties` kèm 437 mô tả Sổ Tay tinh gọn, 1.038 chuỗi EXE / 1.421 tham chiếu, 171 texture Tiếng Anh, tối ưu `VirGL` + `csmt=0`, cài đè từ `[VI]` giữ nguyên 100% save) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-English.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Tiếng Anh"></a> |
-| **`[CN]` 中文原版 (Trung Gốc)** | `389.4 MiB` (`408.4 MB`) | Bản gốc tiếng Trung v3.20.1 của tác giả **潜艇伟伟迷**, tích hợp sẵn cấu hình tối ưu hiệu năng `VirGL` + `csmt=0` và ký chung keystore để cài đè qua lại không mất tiến trình | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Trung Gốc"></a> |
+| **`[VI]` Bản Việt Hóa** | `387.8 MiB` (`406.7 MB`) | Việt hóa hoàn chỉnh (3.309 chuỗi `properties` kèm 437 mô tả Sổ Tay tinh gọn vừa khung, 1.038 chuỗi EXE / 1.421 tham chiếu, 171 texture Việt hóa, 6 font Unicode, **tối ưu hiệu năng `~29–34 FPS` + `VirGL` + tự dò lõi hiệu năng cao**) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Bản Việt Hóa"></a> |
+| **`[EN]` English** | `387.7 MiB` (`406.5 MB`) | Bản Tiếng Anh hoàn chỉnh (3.309 chuỗi `properties` kèm 437 mô tả Sổ Tay tinh gọn, 1.038 chuỗi EXE / 1.421 tham chiếu, 171 texture Tiếng Anh, **tối ưu hiệu năng `~29–34 FPS` + `VirGL`**, cài đè từ `[VI]` giữ nguyên 100% save) | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-English.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Tiếng Anh"></a> |
+| **`[CN]` 中文原版 (Trung Gốc)** | `389.4 MiB` (`408.4 MB`) | Bản gốc tiếng Trung v3.20.1 của tác giả **潜艇伟伟迷**, tích hợp sẵn **tối ưu hiệu năng nhị phân `~29–34 FPS` + `VirGL`** và ký chung keystore để cài đè qua lại không mất tiến trình | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk"><img src="assets/btn-dl-vi-stable.svg" height="30" alt="Tải APK Trung Gốc"></a> |
 
 <details>
 <summary><b>🔐 Kiểm Tra Tính Toàn Vẹn &amp; Mã SHA-256 Chính Thức</b></summary>
@@ -52,9 +52,9 @@ Chi tiết bản phát hành & mã kiểm tra SHA-256: **[GitHub Release `v3.20.
 
 | Tên tệp APK | Kích thước chuẩn (Bytes) | SHA-256 |
 | :--- | :---: | :--- |
-| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `406,685,913` | `f2c7539849fb558db3d87a74ccc491839411652fcf6510980e53d1b3fc1ec481` |
-| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `406,522,073` | `f2ba799bfb60ce7789eec93a1673a389039c60a655b0356eca31e7ad0d1ea84c` |
-| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,177` | `1087a781c7742c63c505e4e24bf9a5bceba2c046201a10b98f2b954fd338ec81` |
+| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `406,690,008` | `69631d079f94d7481ecdcf35bc45e3e5bd6b35bc6b80be1ac2614465c7417f5f` |
+| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `406,526,168` | `17cedd5b7f3d4e31de92baff658d6a9f3c79c7f1caac4d2c9cfa79ca2283096f` |
+| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,176` | `618e42b5864da5d490a6f124e7b7df81071e22cc5c6e2e8e536c521cd25627cd` |
 
 </details>
 
@@ -87,7 +87,7 @@ Khác với *PvZ Fusion* (làm trên Unity), *PvZ Hybrid Classic* (*植物大战
 
 - **Không Cần Thiết Lập Giả Lập Rườm Rà:** Tích hợp sẵn Wine/Box64 bên trong gói riêng `com.pvzh.cls`, cài là chơi, không xung đột với các bản Winlator hay PvZ khác trên máy.
 - **Khung Hình Widescreen `1080x600` Tràn Viền &amp; Cảm Ứng 1-Chạm:** Tự động cấu hình chuẩn rộng `1080x600` kéo đầy màn hình điện thoại (không viền đen, không mất nút góc phải), ẩn HUD mặc định (`HUDMode=0`), sửa ánh xạ X/Y độc lập trong `TouchpadView` và di chuyển con trỏ ngay khi chạm `ACTION_DOWN` (giữ click 60 ms) giúp chạm nút 1 lần ăn ngay.
-- **Tối Ưu Gấp Đôi FPS &amp; Giảm RAM (`VirGL` + `WineD3D csmt=0`):** Đặt mặc định trình điều khiển **`VirGL`** kết hợp **`WineD3D` GL (`csmt=0`, `OffscreenRenderingMode=fbo`, `strict_shader_math=0`, `VideoMemorySize=512`)**, `WINEESYNC=1`, tắt `mesa_glthread`, bật `Is3D=1` hiển thị xuôi chiều sắc nét cùng Box64 fast dynarec (`STRONGMEM=0`, `BIGBLOCK=3`, `CALLRET=1`, `FASTNAN=1`, `FASTROUND=1`, `NATIVEFLAGS=1`, `FORWARD=1024`) — nâng Menu Chính từ `8,5–12,2 FPS` lên **`20,4–20,8 FPS`**, giảm tải CPU xuống 63–67% và tiết kiệm ~200 MB RAM.
+- **Tối Ưu Ổn Định `~29–34 FPS` &amp; Giảm Chuyển Cảnh Chậm (`VirGL` + Ghim Lõi Hiệu Năng Cao):** Mặc định dùng **`VirGL`** kết hợp **`WineD3D` GL (`csmt=0`, `OffscreenRenderingMode=fbo`, `strict_shader_math=0`, `VideoMemorySize=512`)**, `WINEESYNC=1`, tắt `mesa_glthread`, bật `Is3D=1` sắc nét, Box64 fast dynarec (`STRONGMEM=0`, `BIGBLOCK=3`, `CALLRET=1`, `FASTNAN=1`, `FASTROUND=1`, `NATIVEFLAGS=1`, `FORWARD=1024`), và tự dò lõi CPU mạnh theo từng máy (`detectBigCoreAffinity()`). Kết hợp 5 cụm tối ưu nhị phân trong `.newHE` (`patch_exe_perf.py`: tách nhịp render `30 FPS` mà vẫn giữ logic game `100 Hz`, loại bỏ vẽ thẻ ngoài khung hình ở màn Chọn Cây nâng từ `3,35 FPS` lên `9,8–11,7 FPS`, fast-path `Reanimation::MatrixFromTransform` khi góc = 0, tiết chế hạt nặng khi đông particle, rút ngắn chuyển cảnh `4–20x` kèm failsafe `SeedBank`) — đạt thực tế **`28,5–29,1 FPS`** ở Menu Chính, **`33,9–34,0 FPS`** ở Phiêu Lưu `1-1` và **`~20–27 FPS`** ở các màn Thử Thách đông quái trên chip Helio G99.
 - **Vá UTF-8 Tận Lõi Engine + 6 Font Unicode:** Chỉnh sửa `gdi42.dll` tại 4 điểm `MultiByteToWideChar` (`CP936` → `CP_UTF8`) và nhúng trọn vẹn bộ dấu tiếng Việt vào tất cả 6 font `.ttf` của game.
 - **Bản Địa Hóa Toàn Diện &amp; Tinh Gọn Vừa Khung:**
   - **3.309/3.309** chuỗi trong 9 tệp `properties/*.txt` — đã tinh gọn toàn bộ **437 mô tả Cây Trồng, Zombie &amp; Tướng** hiển thị vừa khít khung Sổ Tay không cần cuộn, nút chọn thẻ gọn (`K.C`, `7 Màu`), và dòng thưởng Thành Tựu (`Quà:`) tách rõ khỏi bộ đếm (`Hiện tại:`).

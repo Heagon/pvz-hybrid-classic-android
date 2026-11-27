@@ -40,9 +40,9 @@
 
 | 语言版本 | 文件大小 | 版本说明 | 直接下载 |
 | :--- | :---: | :--- | :---: |
-| **`[CN]` 中文原版 (Raw)** | `389.4 MiB` (`408.4 MB`) | 完整保留 **潜艇伟伟迷** v3.20.1 原版游戏文件与字体，内置 `VirGL` + `csmt=0` 性能调优并采用统一签名支持与英/越版自由互切 | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk"><img src="assets/btn-dl-cn-stable.svg" height="30" alt="下载中文原版 APK"></a> |
-| **`[EN]` English (英文版)** | `387.7 MiB` (`406.5 MB`) | 完整英文本地化（3,309 条属性词条 + 437 条图鉴精简重排、1,038 条 EXE 独立词条 / 1,421 处引用、171 张英文重绘贴图、`VirGL` + `csmt=0` 提速与真机验证） | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-English.apk"><img src="assets/btn-dl-cn-stable.svg" height="30" alt="下载英文版 APK"></a> |
-| **`[VI]` Bản Việt Hóa (越化版)** | `387.8 MiB` (`406.7 MB`) | 完整越南语本地化（3,309 条属性词条 + 437 条图鉴精简重排、1,038 条 EXE 词条 / 1,421 处引用、171 张越化贴图、`VirGL` + `csmt=0` 提速、6 套声调 `.ttf` 字库） | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk"><img src="assets/btn-dl-cn-stable.svg" height="30" alt="下载越化版 APK"></a> |
+| **`[CN]` 中文原版 (Raw)** | `389.4 MiB` (`408.4 MB`) | 保留 **潜艇伟伟迷** v3.20.1 原版内容与字体，内置 **`~29–34 FPS` 二进制性能优化 + `VirGL` + 大核绑定**，统一签名可与英/越版无缝互切 | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk"><img src="assets/btn-dl-cn-stable.svg" height="30" alt="下载中文原版 APK"></a> |
+| **`[EN]` English (英文版)** | `387.7 MiB` (`406.5 MB`) | 完整英文本地化（3,309 条属性词条 + 437 条图鉴重排、1,038 条 EXE 独立词条 / 1,421 处引用、171 张重绘贴图、**`~29–34 FPS` 性能优化 + `VirGL`**） | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-English.apk"><img src="assets/btn-dl-cn-stable.svg" height="30" alt="下载英文版 APK"></a> |
+| **`[VI]` Bản Việt Hóa (越化版)** | `387.8 MiB` (`406.7 MB`) | 完整越南语本地化（3,309 条属性词条 + 437 条图鉴重排、1,038 条 EXE 词条 / 1,421 处引用、171 张越化贴图、6 套声调 `.ttf` 字库、**`~29–34 FPS` 性能优化 + `VirGL`**） | <a href="https://github.com/Heagon/pvz-hybrid-classic-android/releases/download/v3.20.1/PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk"><img src="assets/btn-dl-cn-stable.svg" height="30" alt="下载越化版 APK"></a> |
 
 <details>
 <summary><b>🔐 APK 校验信息与 SHA-256 哈希表</b></summary>
@@ -52,9 +52,9 @@
 
 | 文件名 | 精确字节数 | SHA-256 |
 | :--- | :---: | :--- |
-| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,177` | `1087a781c7742c63c505e4e24bf9a5bceba2c046201a10b98f2b954fd338ec81` |
-| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `406,522,073` | `f2ba799bfb60ce7789eec93a1673a389039c60a655b0356eca31e7ad0d1ea84c` |
-| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `406,685,913` | `f2c7539849fb558db3d87a74ccc491839411652fcf6510980e53d1b3fc1ec481` |
+| `PvZ-Hybrid-Classic-3.20.1-Chinese-Raw.apk` | `408,361,176` | `618e42b5864da5d490a6f124e7b7df81071e22cc5c6e2e8e536c521cd25627cd` |
+| `PvZ-Hybrid-Classic-3.20.1-English.apk` | `406,526,168` | `17cedd5b7f3d4e31de92baff658d6a9f3c79c7f1caac4d2c9cfa79ca2283096f` |
+| `PvZ-Hybrid-Classic-3.20.1-Vietnamese.apk` | `406,690,008` | `69631d079f94d7481ecdcf35bc45e3e5bd6b35bc6b80be1ac2614465c7417f5f` |
 
 </details>
 
@@ -85,7 +85,7 @@
 
 - **真正零配置单包体验：** 独立封装运行容器于 `com.pvzh.cls` 内，免 Root、无需手动导入数据包或单独配置 Winlator，且不与其他软件冲突。
 - **原生 `1080x600` 移动宽屏满屏与单点即响：** 默认启用原生 `1080x600` 宽屏并全面屏铺满手机屏幕（无黑边、不裁剪右侧菜单），默认隐藏悬浮 HUD (`HUDMode=0`)，修复 `TouchpadView` 独立 X/Y 触控缩放并在 `ACTION_DOWN` 时同步移动指针与 60 ms 点击保持，大幅提升首触响应速度。
-- **帧率翻倍与内存优化 (`VirGL` + `WineD3D csmt=0`)：** 默认采用 **`VirGL`** 配合 **`WineD3D` GL (`csmt=0`、`OffscreenRenderingMode=fbo`、`strict_shader_math=0`、`VideoMemorySize=512`)**、开启 `WINEESYNC=1`、关闭 `mesa_glthread`、开启正向 `Is3D=1` 3D 加速并启用 Box64 快速 Dynarec（`STRONGMEM=0`、`BIGBLOCK=3`、`CALLRET=1`、`FASTNAN=1`、`FASTROUND=1`、`NATIVEFLAGS=1`、`FORWARD=1024`），实测主菜单帧率从 `8.5–12.2 FPS` 翻倍至 **`20.4–20.8 FPS`**，CPU 占用降至 ~63–67%，同时节省约 200 MB 内存。
+- **稳定 `~29–34 FPS` 帧率优化与转场加速 (`VirGL` + 动态性能核调度)：** 默认启用 **`VirGL`** + **`WineD3D` GL (`csmt=0`、`OffscreenRenderingMode=fbo`、`strict_shader_math=0`、`VideoMemorySize=512`)**、`WINEESYNC=1`、关闭 `mesa_glthread`、开启正向 `Is3D=1` 3D 加速与 Box64 快速 Dynarec，并在启动时通过 `detectBigCoreAffinity()` 动态绑定各机型高性能核。配合 `patch_exe_perf.py` 五处二进制优化（渲染解耦为 `30 FPS` 而保留 `100 Hz` 原速游戏逻辑、选卡面板屏外裁剪使静态选卡从 `3.35 FPS` 提至 `9.8–11.7 FPS`、零角度 `Reanimation::MatrixFromTransform` 快速通道、高密度粒子生成节流，以及 `4–20x` 过场与视角平移加速），在 Helio G99 机型实测主菜单 **`28.5–29.1 FPS`**、冒险 `1-1` **`33.9–34.0 FPS`**、高怪挑战关 **`~20–27 FPS`**。
 - **底层 UTF-8 与全字库融合：** 修改 `gdi42.dll` 4 处 `MultiByteToWideChar`（`CP936` → `CP_UTF8`），并将完整拉丁扩展及越南语声调字形注入全部 6 套 `.ttf` 字体。
 - **双语深度本地化与版面精调：**
   - **3,309 / 3,309** 条 `properties/*.txt` 全覆盖，并将 **437 条植物、僵尸与英雄图鉴介绍精简重排**至卡片可视行数内（无需滚动、零裁切），同步优化选卡页签（`Gem`/`K.C`、`7-Clr`/`7 Màu`）与成就奖励间距（`Get:`/`Quà:` 与计数器完全分离）。

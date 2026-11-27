@@ -103,6 +103,8 @@ def sign_apk(unsigned_apk, final_apk_path):
 
 
 def prepare_clean_cn_folder():
+    from patch_exe_perf import patch_exe_perf
+
     src = os.path.join(WORK, "he_extracted")
     dst = os.path.join(WORK, "game_stage_cn")
     if os.path.exists(dst):
@@ -111,6 +113,8 @@ def prepare_clean_cn_folder():
 
     for fn in ["PlantsVsZombies.exe", "bass.dll", "gdi42.dll", "main.pak"]:
         shutil.copy2(os.path.join(src, fn), os.path.join(dst, fn))
+    exe_dst = os.path.join(dst, "PlantsVsZombies.exe")
+    patch_exe_perf(exe_dst, exe_dst)
 
     fonts_src = os.path.join(src, "fonts")
     for fn in os.listdir(fonts_src):
@@ -125,6 +129,7 @@ def prepare_clean_cn_folder():
 
 def prepare_localized_stage(lang: str):
     """Build clean localized Windows game stage for EN or VI with repacked PAK & UTF-8 hooks."""
+    from patch_exe_perf import patch_exe_perf
     from repack_pak import repack_pak_with_overrides
 
     src = os.path.join(WORK, "he_extracted")
@@ -138,7 +143,9 @@ def prepare_localized_stage(lang: str):
     bass_src = os.path.join(src, "bass.dll")
     assert os.path.isfile(exe_src), f"Missing patched exe: {exe_src}"
     assert os.path.isfile(gdi_src), f"Missing UTF-8 shim: {gdi_src}"
-    shutil.copy2(exe_src, os.path.join(dst, "PlantsVsZombies.exe"))
+    exe_dst = os.path.join(dst, "PlantsVsZombies.exe")
+    shutil.copy2(exe_src, exe_dst)
+    patch_exe_perf(exe_dst, exe_dst)
     shutil.copy2(gdi_src, os.path.join(dst, "gdi42.dll"))
     shutil.copy2(bass_src, os.path.join(dst, "bass.dll"))
 
