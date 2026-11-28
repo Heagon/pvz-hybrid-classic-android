@@ -21,6 +21,35 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT = os.path.join(ROOT, "output")
 BUILD_VERSION_FILE = os.path.join(ROOT, "build_version.json")
 BUILD_ID_RE = re.compile(r"^B\.\d+\.\d+$")
+OFFICIAL_CREDIT_URLS = (
+    "space.bilibili.com/",
+    "pvzhe.com",
+)
+NON_COMMERCIAL_CUES = (
+    "non-commercial",
+    "phi thương mại",
+    "非商业",
+    "非营利",
+)
+
+
+def validate_credits(notes_path: str) -> None:
+    text = open(notes_path, "r", encoding="utf-8").read()
+    low = text.lower()
+    missing = []
+    if "CREDITS.md" not in text:
+        missing.append("direct link to CREDITS.md")
+    if not any(u in text for u in OFFICIAL_CREDIT_URLS):
+        missing.append("official upstream creator URL (space.bilibili.com / pvzhe.com)")
+    if not (("electronic arts" in low or "ea" in low) and "popcap" in low):
+        missing.append("Electronic Arts Inc. (EA) / PopCap Games trademark notice")
+    if not any(cue in low for cue in NON_COMMERCIAL_CUES):
+        missing.append("non-commercial / free fan-project disclaimer")
+    if missing:
+        raise SystemExit(
+            f"REFUSED: Release notes '{notes_path}' failed mandatory credits/copyright check!\n"
+            f"Missing: {', '.join(missing)}"
+        )
 
 
 def sha256_file(path: str) -> str:
@@ -53,6 +82,8 @@ def main():
 
     if not os.path.isfile(args.notes):
         raise SystemExit(f"Missing release notes file: {args.notes}")
+
+    validate_credits(args.notes)
 
     # HARD IMMUTABILITY CHECK: refuse to overwrite an existing GitHub Release!
     chk = subprocess.run(
