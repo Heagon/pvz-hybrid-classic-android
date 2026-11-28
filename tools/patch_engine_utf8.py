@@ -16,7 +16,7 @@ from fontTools.ttLib import TTFont
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 HE_DIR = os.path.join(ROOT, "work", "he_extracted")
 FONTS_OUT = os.path.join(ROOT, "work", "unicode_fonts")
-LIB_REGULAR = os.environ.get("LIBERATION_REGULAR", os.path.join(ROOT, "tools", "LiberationSans-Regular.ttf"))
+LIB_REGULAR = os.environ.get("LIBERATION_REGULAR_TTF", os.path.join(ROOT, "tools", "LiberationSans.ttf"))
 LIB_BOLD_CACHE = os.path.join(ROOT, "tools", "LiberationSans-Bold.ttf")
 
 # Exact 4 MultiByteToWideChar(936, ...) pushes in gdi42.dll DrawString & StringWidth
@@ -150,6 +150,67 @@ def build_all_unicode_fonts() -> str:
     return FONTS_OUT
 
 
+def patch_gdi42_atlas_hook(dll_path: str):
+    """Redirect gdi42.dll DrawString/StringWidth & glyph draw to PlantsVsZombies.exe fast cache + Glyph Atlas."""
+    buf = bytearray(open(dll_path, "rb").read())
+    # 1. 7-byte absolute jump trampoline in int3 padding at VA 0x10001ea8 (raw 0x12a8) -> 0x00b52000 (fallback draw)
+    tramp_raw = 0x12A8
+    tramp_target = b"\xb8\x00\x20\xb5\x00\xff\xe0"  # mov eax, 0x00b52000; jmp eax
+    if bytes(buf[tramp_raw : tramp_raw + 7]) != tramp_target:
+        assert bytes(buf[tramp_raw : tramp_raw + 8]) == b"\xcc" * 8, (
+            f"Unexpected padding at gdi42+0x12a8: {buf[tramp_raw:tramp_raw+8].hex()}"
+        )
+        buf[tramp_raw : tramp_raw + 7] = tramp_target
+    # 2. Patch DrawString glyph call at VA 0x10002e45 (raw 0x2245): call 0x10001e80 -> call 0x10001ea8
+    call_raw = 0x2245
+    call_new = b"\xe8\x5e\xf0\xff\xff"  # rel32 = 0x10001ea8 - 0x10002e4a = -0xFA2
+    if bytes(buf[call_raw : call_raw + 5]) != call_new:
+        assert bytes(buf[call_raw : call_raw + 5]) == b"\xe8\x36\xf0\xff\xff", (
+            f"Unexpected call at gdi42+0x2245: {buf[call_raw:call_raw+5].hex()}"
+        )
+        buf[call_raw : call_raw + 5] = call_new
+
+    # 3. Relocation-safe 12-byte DrawString trampoline at VA 0x10001f40 (raw 0x1340, 16x int3) -> 0x00b52078
+    #    call $+5; mov eax, 0x00b52078; jmp eax  (pushes runtime VA of gdi_base+0x1f45)
+    ds_tramp_raw = 0x1340
+    ds_tramp = b"\xe8\x00\x00\x00\x00\xb8\x78\x20\xb5\x00\xff\xe0"
+    if bytes(buf[ds_tramp_raw : ds_tramp_raw + 12]) != ds_tramp:
+        assert bytes(buf[ds_tramp_raw : ds_tramp_raw + 16]) == b"\xcc" * 16 or (
+            buf[ds_tramp_raw : ds_tramp_raw + 6] == b"\xe8\x00\x00\x00\x00\xb8"
+        ), f"Unexpected padding at gdi42+0x1340: {buf[ds_tramp_raw:ds_tramp_raw+16].hex()}"
+        buf[ds_tramp_raw : ds_tramp_raw + 12] = ds_tramp
+    #    Hook DrawString prologue @ VA 0x10002d20 (raw 0x2120): 55 8b ec 83 ec 0c -> jmp rel32 0x10001f40; nop
+    ds_hook_raw = 0x2120
+    ds_hook = b"\xe9" + struct.pack("<i", 0x10001F40 - 0x10002D25) + b"\x90"
+    if bytes(buf[ds_hook_raw : ds_hook_raw + 6]) != ds_hook:
+        assert bytes(buf[ds_hook_raw : ds_hook_raw + 6]) == bytes.fromhex("558bec83ec0c"), (
+            f"Unexpected DrawString prologue at gdi42+0x2120: {buf[ds_hook_raw:ds_hook_raw+6].hex()}"
+        )
+        buf[ds_hook_raw : ds_hook_raw + 6] = ds_hook
+
+    # 4. Relocation-safe 12-byte StringWidth trampoline at VA 0x10003771 (raw 0x2b71, 15x int3) -> 0x00b52080
+    #    call $+5; mov eax, 0x00b52080; jmp eax  (pushes runtime VA of gdi_base+0x3776)
+    sw_tramp_raw = 0x2B71
+    sw_tramp = b"\xe8\x00\x00\x00\x00\xb8\x80\x20\xb5\x00\xff\xe0"
+    if bytes(buf[sw_tramp_raw : sw_tramp_raw + 12]) != sw_tramp:
+        assert bytes(buf[sw_tramp_raw : sw_tramp_raw + 15]) == b"\xcc" * 15 or (
+            buf[sw_tramp_raw : sw_tramp_raw + 6] == b"\xe8\x00\x00\x00\x00\xb8"
+        ), f"Unexpected padding at gdi42+0x2b71: {buf[sw_tramp_raw:sw_tramp_raw+15].hex()}"
+        buf[sw_tramp_raw : sw_tramp_raw + 12] = sw_tramp
+    #    Hook StringWidth prologue @ VA 0x10002e90 (raw 0x2290): 55 8b ec 83 ec 0c -> jmp rel32 0x10003771; nop
+    sw_hook_raw = 0x2290
+    sw_hook = b"\xe9" + struct.pack("<i", 0x10003771 - 0x10002E95) + b"\x90"
+    if bytes(buf[sw_hook_raw : sw_hook_raw + 6]) != sw_hook:
+        assert bytes(buf[sw_hook_raw : sw_hook_raw + 6]) == bytes.fromhex("558bec83ec0c"), (
+            f"Unexpected StringWidth prologue at gdi42+0x2290: {buf[sw_hook_raw:sw_hook_raw+6].hex()}"
+        )
+        buf[sw_hook_raw : sw_hook_raw + 6] = sw_hook
+
+    with open(dll_path, "wb") as f:
+        f.write(buf)
+    print(f"Patched gdi42.dll O(1) DrawString/StringWidth + Glyph Atlas hooks -> {dll_path}")
+
+
 def patch_gdi42_utf8(out_dll_path: str):
     src_dll = os.path.join(HE_DIR, "gdi42.dll")
     buf = bytearray(open(src_dll, "rb").read())
@@ -164,6 +225,7 @@ def patch_gdi42_utf8(out_dll_path: str):
     with open(out_dll_path, "wb") as f:
         f.write(buf)
     print(f"Patched gdi42.dll (4 MultiByteToWideChar CP936 -> CP_UTF8 65001) -> {out_dll_path}")
+    patch_gdi42_atlas_hook(out_dll_path)
 
 
 if __name__ == "__main__":
